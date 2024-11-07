@@ -1,0 +1,111 @@
+------------------------------------------------------------------------
+---------------------Initialize the Dataset Object----------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+--------------------Initialize Error Corrector Models-------------------
+------------------------------------------------------------------------
+The error corrector models are initialized.
+------------------------------------------------------------------------
+--------------Iterative Tuple Sampling, Labeling, and Learning----------
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 9114.
+1646502 pairs of (a data error, a potential correction) are featurized.
+0% (1 / 202) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 676.
+Process ForkPoolWorker-13:
+Process ForkPoolWorker-12:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/queues.py", line 376, in put
+    with self._wlock:
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/queues.py", line 365, in get
+    res = self._reader.recv_bytes()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/hhb/桌面/MDCBaseline/CleanerRunScript/run_raha_baran/repair_with_raha.py", line 713, in <module>
+    correction_dictionary = app.run(app1.d)
+  File "/home/hhb/桌面/MDCBaseline/CleanerRunScript/run_raha_baran/repair_with_raha.py", line 635, in run
+    self.generate_features(d)
+  File "/home/hhb/桌面/MDCBaseline/CleanerRunScript/run_raha_baran/repair_with_raha.py", line 525, in generate_features
+    feature_generation_results = pool.map(self._feature_generator_process, process_args_list)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 765, in get
+    self.wait(timeout)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 762, in wait
+    self._event.wait(timeout)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/threading.py", line 312, in wait
+    waiter.acquire()
+KeyboardInterrupt
+Process ForkPoolWorker-14:
+Process ForkPoolWorker-15:
+Traceback (most recent call last):
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/queues.py", line 365, in get
+    res = self._reader.recv_bytes()
+Traceback (most recent call last):
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/queues.py", line 364, in get
+    with self._rlock:
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+Exception ignored in: <module 'threading' from '/home/hhb/anaconda3/envs/baran/lib/python3.9/threading.py'>
+Traceback (most recent call last):
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/threading.py", line 1477, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/util.py", line 300, in _run_finalizers
+    finalizer()
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/util.py", line 224, in __call__
+    res = self._callback(*self._args, **self._kwargs)
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/pool.py", line 700, in _terminate_pool
+    outqueue.put(None)                  # sentinel
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/queues.py", line 376, in put
+    with self._wlock:
+  File "/home/hhb/anaconda3/envs/baran/lib/python3.9/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt

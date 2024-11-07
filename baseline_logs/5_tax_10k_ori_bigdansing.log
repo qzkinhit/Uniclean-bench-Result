@@ -1,0 +1,13 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/5_tax/clean_index_10k.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/5_tax/dirty_index_10k.csv
+Running bigdansing with dirty file: Data/5_tax/dirty_index_10k.csv
+Start Blocking
+  0%|                                                               | 0/8 [00:00<?, ?it/s] 25%|█████████████▊                                         | 2/8 [00:00<00:00,  7.74it/s]Time exceeded: 5_tax_ori Data/5_tax/dirty_index_10k.csv
+Traceback (most recent call last):
+  File "CleanerRunScript/run_bigdansing/run_bigdansing_base.py", line 152, in <module>
+    main()
+  File "CleanerRunScript/run_bigdansing/run_bigdansing_base.py", line 90, in main
+    with open("./aggre_results/timeout_log.txt", "a") as out_file:
+FileNotFoundError: [Errno 2] No such file or directory: './aggre_results/timeout_log.txt'

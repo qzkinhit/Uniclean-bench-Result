@@ -1,0 +1,44 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/dirty_index.csv
+Running holistic with dirty file: Data/2_flights/dirty_index.csv
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:07<00:36,  7.29s/it] 33%|███▎      | 2/6 [00:13<00:26,  6.53s/it] 50%|█████     | 3/6 [00:19<00:19,  6.59s/it] 67%|██████▋   | 4/6 [00:24<00:11,  5.90s/it] 83%|████████▎ | 5/6 [00:30<00:05,  5.88s/it]100%|██████████| 6/6 [00:37<00:00,  6.28s/it]100%|██████████| 6/6 [00:37<00:00,  6.28s/it]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|██████████▊                                           | 1/5 [03:16<13:07, 196.85s/it] 40%|█████████████████████▌                                | 2/5 [06:32<09:48, 196.02s/it] 60%|████████████████████████████████▍                     | 3/5 [09:47<06:31, 195.64s/it] 80%|███████████████████████████████████████████▏          | 4/5 [13:02<03:15, 195.46s/it]100%|██████████████████████████████████████████████████████| 5/5 [16:20<00:00, 196.21s/it]100%|██████████████████████████████████████████████████████| 5/5 [16:20<00:00, 196.04s/it]
+Finish Detectings
+Finish Repairing
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|██████████▊                                           | 1/5 [03:22<13:30, 202.57s/it] 40%|█████████████████████▌                                | 2/5 [06:42<10:03, 201.14s/it] 60%|████████████████████████████████▍                     | 3/5 [10:09<06:47, 203.68s/it] 80%|███████████████████████████████████████████▏          | 4/5 [13:26<03:21, 201.00s/it]100%|██████████████████████████████████████████████████████| 5/5 [16:42<00:00, 199.26s/it]100%|██████████████████████████████████████████████████████| 5/5 [16:42<00:00, 200.50s/it]
+===============================================
+Results saved to results/holistic/Repaired_res/2_flights_or/repaired_2_flights_ori.csv
+holistic finished in 5508.8418571949005 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/Repaired_res/2_flights_or/repaired_2_flights_ori.csv
+差异文件已保存到:
+results/holistic/Repaired_res/2_flights_or/2_flights_ori_clean_vs_dirty.csv
+results/holistic/Repaired_res/2_flights_or/2_flights_ori_dirty_vs_cleaned.csv
+results/holistic/Repaired_res/2_flights_or/2_flights_ori_clean_vs_cleaned.csv
+修复准确率: 0.3578931109051591, 修复召回率: 0.4709349593495935, F1值: 0.40670528343346474
+========================================
+EDR 结果已保存到: results/holistic/Repaired_res/2_flights_or/2_flights_ori_edr_evaluation.txt
+错误减少率 (EDR): -0.11910569105691057
+========================================
+混合距离结果已保存到: results/holistic/Repaired_res/2_flights_or/2_flights_ori_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.19442451953785617
+========================================
+R-EDR 结果已保存到: results/holistic/Repaired_res/2_flights_or/2_flights_ori_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.06355042016806722
+========================================
+测试结果:
+Accuracy: 0.3578931109051591
+Recall: 0.4709349593495935
+F1 Score: 0.40670528343346474
+EDR: -0.11910569105691057
+Hybrid Distance: 0.19442451953785617
+R-EDR: -0.06355042016806722
+time(s): 5508.8418571949005
+speed: 231.8536135183039 seconds/100num
+测评结束，详细测评日志见：results/holistic/Repaired_res/2_flights_or
