@@ -376,7 +376,7 @@ def main():
     results_path = os.path.join(stra_path, f"{args.task_name}_total_evaluation.txt")
     with open(results_path, 'w', encoding='utf-8') as f:
         sys.stdout = f
-        print("Evaluation Results:")
+        print(f"{args.task_name} Evaluation Results:")
         for metric, value in results.items():
             print(f"{metric}: {value}")
         print(f"Total Time: {elapsed_time} seconds")
@@ -387,7 +387,7 @@ def main():
     print("Results saved to:", results_path)
     for metric, value in results.items():
         print(f"{metric}: {value}")
-    print(f"Elapsed Time: {elapsed_time} seconds")
+    print(f"evaluation Time: {elapsed_time} seconds")
     if speed:
         print(f"Cleaning Speed: {speed} seconds/100 records")
 
