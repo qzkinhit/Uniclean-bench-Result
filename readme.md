@@ -15,20 +15,20 @@ The repository includes:
 - `RealWorldDataSet/`: Contains real-world datasets in their native (uncleaned) form.
 - `Uniclean_cleaned_data/`: Datasets that have been cleaned by Uniclean.
 - `Uniclean_logs/`: Logs generated during the Uniclean cleaning process, detailing operations and results for each dataset.
-- `baseline_logs/`: Logs documenting the performance of baseline systems on the same datasets, enabling a direct comparison with Uniclean’s results.
-- `evaluateResult.py`: A script that computes performance metrics for data cleaning, such as accuracy, recall, F1 score, and error reduction rate, allowing comprehensive evaluation of data cleaning effectiveness.
+- `baseline_cleaning_systems_logs/`: Logs documenting the performance of baseline systems on the same datasets, enabling a direct comparison with Uniclean’s results.
+- `evaluate_result.py`: A script that computes performance metrics for data cleaning, such as accuracy, recall, F1 score, and error reduction rate, allowing comprehensive evaluation of data cleaning effectiveness.
 
 ## Dataset Information
 
 The following table summarizes the datasets used in this repository, including their error types and dimensions:
 
-| Dataset | Error Type | Shape | Link |
-|---------|------------|-------|------|
-| Hospital | T, VAD | 1,000 × 20 | [RealWorldDataSet/1_hospital](./RealWorldDataSet/1_hospital) |
-| Flights  | MV, FI, VAD | 2,376 × 7 | [RealWorldDataSet/2_flights](./RealWorldDataSet/2_flights) |
-| Beers    | MV, FI, VAD | 2,410 × 111 | [RealWorldDataSet/3_beers](./RealWorldDataSet/3_beers) |
-| Rayyan   | MV, T, FI, VAD | 1,000 × 11 | [RealWorldDataSet/4_rayyan](./RealWorldDataSet/4_rayyan) |
-| Tax      | T, FI, VAD | 200,000 × 15 | [RealWorldDataSet/5_tax](./RealWorldDataSet/5_tax50k) |
+| Dataset | Error Type | Shape        | Link |
+|---------|------------|--------------|------|
+| Hospital | T, VAD | 1,000 × 20   | [RealWorldDataSet/1_hospital](./RealWorldDataSet/1_hospital) |
+| Flights  | MV, FI, VAD | 2,376 × 7    | [RealWorldDataSet/2_flights](./RealWorldDataSet/2_flights) |
+| Beers    | MV, FI, VAD | 2,410 × 111  | [RealWorldDataSet/3_beers](./RealWorldDataSet/3_beers) |
+| Rayyan   | MV, T, FI, VAD | 1,000 × 11   | [RealWorldDataSet/4_rayyan](./RealWorldDataSet/4_rayyan) |
+| Tax      | T, FI, VAD | 500,000 × 15 | [RealWorldDataSet/5_tax](./RealWorldDataSet/5_tax50k) |
 
 **Error Type Abbreviations:**
 - **T**: Typographical errors
