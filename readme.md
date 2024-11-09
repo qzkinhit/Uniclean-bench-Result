@@ -1,7 +1,7 @@
 # UnicleanResult: A Benchmark Repository for Data Cleaning Performance
 
 ## Overview
-**UnicleanResult** is a repository dedicated to showcasing the performance of Uniclean, a state-of-the-art data cleaning system. In addition to presenting Uniclean's results, this repository establishes a benchmark for data cleaning, enabling researchers to evaluate and compare the performance of their own cleaning systems on various real-world datasets. This benchmark allows for direct comparisons between Uniclean’s performance, other baseline cleaning systems, and new approaches, providing a standardized framework for assessing data cleaning effectiveness across diverse datasets.
+**UnicleanResult** is a repository dedicated to showcasing the performance of Uniclean, a state-of-the-art data cleaning system. While we cannot open source the system code due to commercial confidentiality, this repository provides comprehensive performance metrics and detailed cleaning results, establishing a benchmark for data cleaning. This enables researchers to evaluate and compare the performance of their own cleaning systems on various real-world datasets. The benchmark allows for direct comparisons between Uniclean’s performance, other baseline cleaning systems, and new approaches, offering a standardized framework for assessing data cleaning effectiveness across diverse datasets.
 
 The repository includes:
 - **Real-world native datasets** used by Uniclean for testing.
