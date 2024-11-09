@@ -1,10 +1,10 @@
-差异文件已保存到:
+Difference files saved to:
 ./Uniclean_logs/3_beers/3_beers_clean_vs_dirty.csv
 ./Uniclean_logs/3_beers/3_beers_dirty_vs_cleaned.csv
 ./Uniclean_logs/3_beers/3_beers_clean_vs_cleaned.csv
-EDR 结果已保存到: ./Uniclean_logs/3_beers/3_beers_edr_evaluation.txt
+EDR result saved to: ./Uniclean_logs/3_beers/3_beers_edr_evaluation.txt
 Hybrid distance results saved to: ./Uniclean_logs/3_beers/3_beers_hybrid_distance_evaluation.txt
-R-EDR 结果已保存到: ./Uniclean_logs/3_beers/3_beers_record_based_edr_evaluation.txt
+R-EDR result saved to: ./Uniclean_logs/3_beers/3_beers_record_based_edr_evaluation.txt
 Results saved to: ./Uniclean_logs/3_beers/3_beers_total_evaluation.txt
 accuracy: 0.8393177737881508
 recall: 0.8353186420488385

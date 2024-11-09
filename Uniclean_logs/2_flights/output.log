@@ -1,10 +1,10 @@
-差异文件已保存到:
+Difference files saved to:
 ./Uniclean_logs/2_flights/2_flights_clean_vs_dirty.csv
 ./Uniclean_logs/2_flights/2_flights_dirty_vs_cleaned.csv
 ./Uniclean_logs/2_flights/2_flights_clean_vs_cleaned.csv
-EDR 结果已保存到: ./Uniclean_logs/2_flights/2_flights_edr_evaluation.txt
+EDR result saved to: ./Uniclean_logs/2_flights/2_flights_edr_evaluation.txt
 Hybrid distance results saved to: ./Uniclean_logs/2_flights/2_flights_hybrid_distance_evaluation.txt
-R-EDR 结果已保存到: ./Uniclean_logs/2_flights/2_flights_record_based_edr_evaluation.txt
+R-EDR result saved to: ./Uniclean_logs/2_flights/2_flights_record_based_edr_evaluation.txt
 Results saved to: ./Uniclean_logs/2_flights/2_flights_total_evaluation.txt
 accuracy: 0.6731266149870802
 recall: 0.6353658536585366

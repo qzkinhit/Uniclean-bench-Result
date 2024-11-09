@@ -46,6 +46,6 @@ Attribute: author_list
 Distance (Dirty to Clean): 91
 Distance (Repaired to Clean): 937
 ========================================
-总的脏数据到干净数据距离: 995
-总的修复后数据到干净数据距离: 1846
-错误减少率 (EDR): -0.8552763819095477
+Total Distance (Dirty to Clean): 995
+Total Distance (Repaired to Clean): 1846
+Error Drop Rate (EDR): -0.8552763819095477

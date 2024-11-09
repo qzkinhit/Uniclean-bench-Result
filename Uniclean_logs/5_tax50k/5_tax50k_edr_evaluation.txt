@@ -62,6 +62,6 @@ Attribute: childexemp
 Distance (Dirty to Clean): 0
 Distance (Repaired to Clean): 162
 ========================================
-总的脏数据到干净数据距离: 1306
-总的修复后数据到干净数据距离: 1346
-错误减少率 (EDR): -0.030627871362940276
+Total Distance (Dirty to Clean): 1306
+Total Distance (Repaired to Clean): 1346
+Error Drop Rate (EDR): -0.030627871362940276

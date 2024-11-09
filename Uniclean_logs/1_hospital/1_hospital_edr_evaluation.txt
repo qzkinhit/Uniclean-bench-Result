@@ -78,6 +78,6 @@ Attribute: Stateavg
 Distance (Dirty to Clean): 27
 Distance (Repaired to Clean): 21
 ========================================
-总的脏数据到干净数据距离: 509
-总的修复后数据到干净数据距离: 110
-错误减少率 (EDR): 0.7838899803536346
+Total Distance (Dirty to Clean): 509
+Total Distance (Repaired to Clean): 110
+Error Drop Rate (EDR): 0.7838899803536346
