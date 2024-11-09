@@ -263,7 +263,7 @@ def get_hybrid_distance(clean, cleaned, attributes, output_path, task_name, inde
     cleaned = cleaned.set_index(index_attribute, drop=False)
 
     # 重定向输出到文件
-    with open(out_path, 'w', encoding='utf-8') as f:
+    with open(out_path, 'w') as f:
         sys.stdout = f  # 将 sys.stdout 重定向到文件
 
         total_mse = 0
@@ -334,24 +334,74 @@ def get_hybrid_distance(clean, cleaned, attributes, output_path, task_name, inde
     return hybrid_distance
 
 def get_record_based_edr(clean, dirty, cleaned, output_path, task_name, index_attribute='index'):
-    """Calculate Record-based Error Drop Rate (R-EDR)."""
+    """
+    计算基于条目的错误减少率 (R-EDR)，并将每条记录的距离和最终的 R-EDR 输出到文件中。
+
+    :param clean: 干净数据 DataFrame
+    :param dirty: 脏数据 DataFrame
+    :param cleaned: 清洗后数据 DataFrame
+    :param output_path: 保存结果的目录路径
+    :param task_name: 任务名称，用于命名输出文件
+    :param index_attribute: 指定作为索引的属性
+    :return: 基于条目的错误减少率 (R-EDR)
+    """
+
+    # 创建输出目录
     os.makedirs(output_path, exist_ok=True)
+
+    # 定义输出文件路径
     out_path = os.path.join(output_path, f"{task_name}_record_based_edr_evaluation.txt")
 
-    clean, dirty, cleaned = clean.set_index(index_attribute, drop=False), dirty.set_index(index_attribute, drop=False), cleaned.set_index(index_attribute, drop=False)
-    total_distance_dirty_to_clean = total_distance_repaired_to_clean = 0
+    # 备份原始的标准输出
+    original_stdout = sys.stdout
 
-    for idx in clean.index:
-        clean_row, dirty_row, cleaned_row = clean.loc[idx].apply(normalize_value), dirty.loc[idx].apply(normalize_value), cleaned.loc[idx].apply(normalize_value)
-        total_distance_dirty_to_clean += record_based_distance_func(dirty_row, clean_row)
-        total_distance_repaired_to_clean += record_based_distance_func(cleaned_row, clean_row)
+    # 将指定的属性设置为索引
+    clean = clean.set_index(index_attribute, drop=False)
+    dirty = dirty.set_index(index_attribute, drop=False)
+    cleaned = cleaned.set_index(index_attribute, drop=False)
 
-    r_edr = (total_distance_dirty_to_clean - total_distance_repaired_to_clean) / total_distance_dirty_to_clean if total_distance_dirty_to_clean != 0 else 0
+    total_distance_dirty_to_clean = 0
+    total_distance_repaired_to_clean = 0
 
-    with open(out_path, 'w', encoding='utf-8') as f:
-        sys.stdout = f
-        print(f"Record-based Error Drop Rate (R-EDR): {r_edr}")
-    sys.stdout = sys.__stdout__
+    # 重定向输出到文件
+    with open(out_path, 'w') as f:
+        sys.stdout = f  # 将 sys.stdout 重定向到文件
+
+        # 逐行比较脏数据、清洗后的数据与干净数据
+        for idx in clean.index:
+            clean_row = clean.loc[idx].apply(normalize_value)
+            dirty_row = dirty.loc[idx].apply(normalize_value)
+            cleaned_row = cleaned.loc[idx].apply(normalize_value)
+
+            # 计算脏数据和干净数据之间的距离
+            distance_dirty_to_clean = record_based_distance_func(dirty_row, clean_row)
+            # 计算修复后数据和干净数据之间的距离
+            distance_repaired_to_clean = record_based_distance_func(cleaned_row, clean_row)
+
+            total_distance_dirty_to_clean += distance_dirty_to_clean
+            total_distance_repaired_to_clean += distance_repaired_to_clean
+
+            # 打印每条记录的距离值
+            print(f"Record {idx}")
+            print(f"Distance (Dirty to Clean): {distance_dirty_to_clean}")
+            print(f"Distance (Repaired to Clean): {distance_repaired_to_clean}")
+            print("=" * 40)
+
+        # 计算基于条目的错误减少率 (R-EDR)
+        if total_distance_dirty_to_clean == 0:
+            r_edr = 0
+        else:
+            r_edr = (total_distance_dirty_to_clean - total_distance_repaired_to_clean) / total_distance_dirty_to_clean
+
+        # 打印最终的 R-EDR 结果
+        print(f"总的脏数据到干净数据距离: {total_distance_dirty_to_clean}")
+        print(f"总的修复后数据到干净数据距离: {total_distance_repaired_to_clean}")
+        print(f"基于条目的错误减少率 (R-EDR): {r_edr}")
+
+    # 恢复标准输出
+    sys.stdout = original_stdout
+
+    print(f"R-EDR 结果已保存到: {out_path}")
 
     return r_edr
 
