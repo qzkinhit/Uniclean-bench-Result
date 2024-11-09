@@ -36,69 +36,70 @@ def calF1(precision, recall):
 # Metrics Calculation Functions
 def calculate_accuracy_and_recall(clean, dirty, cleaned, attributes, output_path, task_name, index_attribute='index'):
     """
-    计算指定属性集合下的修复准确率和召回率，并将结果输出到文件中，同时生成差异 CSV 文件。
+    Calculates the repair accuracy and recall for a specified set of attributes and outputs results to a file,
+    while generating difference CSV files.
 
-    :param clean: 干净数据 DataFrame
-    :param dirty: 脏数据 DataFrame
-    :param cleaned: 清洗后数据 DataFrame
-    :param attributes: 指定属性集合
-    :param output_path: 保存结果的目录路径
-    :param task_name: 任务名称，用于命名输出文件
-    :param index_attribute: 指定作为索引的属性
-    :return: 修复准确率和召回率
+    :param clean: Clean DataFrame
+    :param dirty: Dirty DataFrame
+    :param cleaned: Cleaned DataFrame
+    :param attributes: Set of specified attributes
+    :param output_path: Directory path to save the results
+    :param task_name: Task name, used for naming the output file
+    :param index_attribute: Attribute to set as the index
+    :return: Repair accuracy and recall
     """
 
     os.makedirs(output_path, exist_ok=True)
 
-    # 定义输出文件路径
+    # Define output file paths
     out_path = os.path.join(output_path, f"{task_name}_evaluation.txt")
 
-    # 差异 CSV 文件路径
+    # Paths for CSV files recording differences
     clean_dirty_diff_path = os.path.join(output_path, f"{task_name}_clean_vs_dirty.csv")
     dirty_cleaned_diff_path = os.path.join(output_path, f"{task_name}_dirty_vs_cleaned.csv")
     clean_cleaned_diff_path = os.path.join(output_path, f"{task_name}_clean_vs_cleaned.csv")
 
-    # 备份原始的标准输出
+    # Backup original standard output
     original_stdout = sys.stdout
 
-    # 将指定的属性设置为索引
-    clean = clean.set_index(index_attribute,drop=False)
+    # Set the specified attribute as the index
+    clean = clean.set_index(index_attribute, drop=False)
     dirty = dirty.set_index(index_attribute, drop=False)
     cleaned = cleaned.set_index(index_attribute, drop=False)
 
-    # 重定向输出到文件
+    # Redirect output to file
     with open(out_path, 'w', encoding='utf-8') as f:
-        sys.stdout = f  # 将 sys.stdout 重定向到文件
+        sys.stdout = f  # Redirect sys.stdout to file
 
         total_true_positives = 0
         total_false_positives = 0
         total_true_negatives = 0
 
-        # 创建差异 DataFrame 来保存不同的数据项
+        # Create DataFrames to save different data items
         clean_dirty_diff = pd.DataFrame(columns=['Attribute', 'Index', 'Clean Value', 'Dirty Value'])
         dirty_cleaned_diff = pd.DataFrame(columns=['Attribute', 'Index', 'Dirty Value', 'Cleaned Value'])
         clean_cleaned_diff = pd.DataFrame(columns=['Attribute', 'Index', 'Clean Value', 'Cleaned Value'])
 
         for attribute in attributes:
-            # 确保所有属性的数据类型为字符串并进行规范化
+            # Ensure all attribute data types are strings and normalized
             clean_values = clean[attribute].apply(normalize_value)
             dirty_values = dirty[attribute].apply(normalize_value)
             cleaned_values = cleaned[attribute].apply(normalize_value)
 
-            # 对齐索引
+            # Align indices
             common_indices = clean_values.index.intersection(cleaned_values.index).intersection(dirty_values.index)
             clean_values = clean_values.loc[common_indices]
             dirty_values = dirty_values.loc[common_indices]
             cleaned_values = cleaned_values.loc[common_indices]
 
-            # 正确修复的数据
+            # Correctly repaired data
             true_positives = ((cleaned_values == clean_values) & (dirty_values != cleaned_values)).sum()
-            # 修错的数据
+            # Incorrectly repaired data
             false_positives = ((cleaned_values != clean_values) & (dirty_values != cleaned_values)).sum()
-            # 所有应该需要修复的数据
+            # All data that should be repaired
             true_negatives = (dirty_values != clean_values).sum()
 
-            # 记录干净数据和脏数据之间的差异
+            # Record differences between clean and dirty data
             mismatched_indices = dirty_values[dirty_values != clean_values].index
             clean_dirty_diff = pd.concat([clean_dirty_diff, pd.DataFrame({
                 'Attribute': attribute,
@@ -107,7 +108,7 @@ def calculate_accuracy_and_recall(clean, dirty, cleaned, attributes, output_path
                 'Dirty Value': dirty_values.loc[mismatched_indices]
             })])
 
-            # 记录脏数据和清洗后数据之间的差异
+            # Record differences between dirty and cleaned data
             cleaned_indices = cleaned_values[cleaned_values != dirty_values].index
             dirty_cleaned_diff = pd.concat([dirty_cleaned_diff, pd.DataFrame({
                 'Attribute': attribute,
@@ -116,7 +117,7 @@ def calculate_accuracy_and_recall(clean, dirty, cleaned, attributes, output_path
                 'Cleaned Value': cleaned_values.loc[cleaned_indices]
             })])
 
-            # 记录干净数据和清洗后数据之间的差异
+            # Record differences between clean and cleaned data
             clean_cleaned_indices = cleaned_values[cleaned_values != clean_values].index
             clean_cleaned_diff = pd.concat([clean_cleaned_diff, pd.DataFrame({
                 'Attribute': attribute,
@@ -128,108 +129,108 @@ def calculate_accuracy_and_recall(clean, dirty, cleaned, attributes, output_path
             total_true_positives += true_positives
             total_false_positives += false_positives
             total_true_negatives += true_negatives
-            print("Attribute:", attribute, "修复正确的数据:", true_positives, "修复错误的数据:", false_positives,
-                  "应该修复的数据:", true_negatives)
+            print("Attribute:", attribute, "Correctly repaired data:", true_positives, "Incorrectly repaired data:", false_positives,
+                  "Data that should be repaired:", true_negatives)
             print("=" * 40)
 
-        # 总体修复的准确率
+        # Overall repair accuracy
         accuracy = total_true_positives / (total_true_positives + total_false_positives)
-        # 总体修复的召回率
+        # Overall repair recall
         recall = total_true_positives / total_true_negatives
 
-        # 输出最终的准确率和召回率
-        print(f"修复准确率: {accuracy}")
-        print(f"修复召回率: {recall}")
+        # Output final accuracy and recall
+        print(f"Repair Accuracy: {accuracy}")
+        print(f"Repair Recall: {recall}")
 
-    # 恢复标准输出
+    # Restore standard output
     sys.stdout = original_stdout
 
-    # 保存差异数据到 CSV 文件
+    # Save differences to CSV files
     clean_dirty_diff.to_csv(clean_dirty_diff_path, index=False)
     dirty_cleaned_diff.to_csv(dirty_cleaned_diff_path, index=False)
     clean_cleaned_diff.to_csv(clean_cleaned_diff_path, index=False)
 
-    print(f"差异文件已保存到:\n{clean_dirty_diff_path}\n{dirty_cleaned_diff_path}\n{clean_cleaned_diff_path}")
+    print(f"Difference files saved to:\n{clean_dirty_diff_path}\n{dirty_cleaned_diff_path}\n{clean_cleaned_diff_path}")
 
     return accuracy, recall
 
 def get_edr(clean, dirty, cleaned, attributes, output_path, task_name, index_attribute='index', distance_func=default_distance_func):
     """
-    计算指定属性集合下的错误减少率 (EDR)，并将结果输出到文件中。
+    Calculates the Error Drop Rate (EDR) for a specified set of attributes and outputs the results to a file.
 
-    :param clean: 干净数据 DataFrame
-    :param dirty: 脏数据 DataFrame
-    :param cleaned: 清洗后数据 DataFrame
-    :param attributes: 指定属性集合
-    :param output_path: 保存结果的目录路径
-    :param task_name: 任务名称，用于命名输出文件
-    :param index_attribute: 指定作为索引的属性
-    :param distance_func: 距离计算函数，默认为比较两个值是否相等，不同为1，相同为0
-    :return: 错误减少率 (EDR)
+    :param clean: Clean DataFrame
+    :param dirty: Dirty DataFrame
+    :param cleaned: Cleaned DataFrame
+    :param attributes: Set of specified attributes
+    :param output_path: Directory path to save the results
+    :param task_name: Task name, used for naming the output file
+    :param index_attribute: Attribute to set as the index
+    :param distance_func: Distance calculation function, default compares two values (1 for different, 0 for the same)
+    :return: Error Drop Rate (EDR)
     """
 
-    # 创建输出目录
+    # Create output directory
     os.makedirs(output_path, exist_ok=True)
 
-    # 定义输出文件路径
+    # Define output file path
     out_path = os.path.join(output_path, f"{task_name}_edr_evaluation.txt")
 
-    # 备份原始的标准输出
+    # Backup original standard output
     original_stdout = sys.stdout
 
-    # 将指定的属性设置为索引
+    # Set the specified attribute as the index
     clean = clean.set_index(index_attribute, drop=False)
     dirty = dirty.set_index(index_attribute, drop=False)
     cleaned = cleaned.set_index(index_attribute, drop=False)
 
-    # 重定向输出到文件
+    # Redirect output to file
     with open(out_path, 'w') as f:
-        sys.stdout = f  # 将 sys.stdout 重定向到文件
+        sys.stdout = f  # Redirect sys.stdout to file
 
         total_distance_dirty_to_clean = 0
         total_distance_repaired_to_clean = 0
 
         for attribute in attributes:
-            # 确保所有属性的数据类型为字符串并进行规范化
+            # Ensure all attribute data types are strings and normalized
             clean_values = clean[attribute].apply(normalize_value)
             dirty_values = dirty[attribute].apply(normalize_value)
             cleaned_values = cleaned[attribute].apply(normalize_value)
 
-            # 对齐索引
+            # Align indices
             common_indices = clean_values.index.intersection(cleaned_values.index).intersection(dirty_values.index)
             clean_values = clean_values.loc[common_indices]
             dirty_values = dirty_values.loc[common_indices]
             cleaned_values = cleaned_values.loc[common_indices]
 
-            # 计算脏数据和干净数据之间的距离
+            # Calculate distance between dirty and clean data
             distance_dirty_to_clean = distance_func(dirty_values, clean_values)
-            # 计算修复后数据和干净数据之间的距离
+            # Calculate distance between repaired and clean data
             distance_repaired_to_clean = distance_func(cleaned_values, clean_values)
 
             total_distance_dirty_to_clean += distance_dirty_to_clean
             total_distance_repaired_to_clean += distance_repaired_to_clean
 
-            # 打印每个属性的距离值
+            # Print distance values for each attribute
             print(f"Attribute: {attribute}")
             print(f"Distance (Dirty to Clean): {distance_dirty_to_clean}")
             print(f"Distance (Repaired to Clean): {distance_repaired_to_clean}")
             print("=" * 40)
 
-        # 计算错误减少率 (EDR)
+        # Calculate Error Drop Rate (EDR)
         if total_distance_dirty_to_clean == 0:
             edr = 0
         else:
             edr = (total_distance_dirty_to_clean - total_distance_repaired_to_clean) / total_distance_dirty_to_clean
 
-        # 打印最终的 EDR 结果
-        print(f"总的脏数据到干净数据距离: {total_distance_dirty_to_clean}")
-        print(f"总的修复后数据到干净数据距离: {total_distance_repaired_to_clean}")
-        print(f"错误减少率 (EDR): {edr}")
+        # Print final EDR result
+        print(f"Total Distance (Dirty to Clean): {total_distance_dirty_to_clean}")
+        print(f"Total Distance (Repaired to Clean): {total_distance_repaired_to_clean}")
+        print(f"Error Drop Rate (EDR): {edr}")
 
-    # 恢复标准输出
+    # Restore standard output
     sys.stdout = original_stdout
 
-    print(f"EDR 结果已保存到: {out_path}")
+    print(f"EDR result saved to: {out_path}")
 
     return edr
 
@@ -332,27 +333,27 @@ def get_hybrid_distance(clean, cleaned, attributes, output_path, task_name, inde
 
 def get_record_based_edr(clean, dirty, cleaned, output_path, task_name, index_attribute='index'):
     """
-    计算基于条目的错误减少率 (R-EDR)，并将每条记录的距离和最终的 R-EDR 输出到文件中。
+    Calculates the record-based Error Drop Rate (R-EDR) and outputs each record's distance and the final R-EDR to a file.
 
-    :param clean: 干净数据 DataFrame
-    :param dirty: 脏数据 DataFrame
-    :param cleaned: 清洗后数据 DataFrame
-    :param output_path: 保存结果的目录路径
-    :param task_name: 任务名称，用于命名输出文件
-    :param index_attribute: 指定作为索引的属性
-    :return: 基于条目的错误减少率 (R-EDR)
+    :param clean: Clean DataFrame
+    :param dirty: Dirty DataFrame
+    :param cleaned: Cleaned DataFrame
+    :param output_path: Directory path to save the results
+    :param task_name: Task name, used for naming the output file
+    :param index_attribute: Attribute to set as the index
+    :return: Record-based Error Drop Rate (R-EDR)
     """
 
-    # 创建输出目录
+    # Create output directory
     os.makedirs(output_path, exist_ok=True)
 
-    # 定义输出文件路径
+    # Define output file path
     out_path = os.path.join(output_path, f"{task_name}_record_based_edr_evaluation.txt")
 
-    # 备份原始的标准输出
+    # Backup original standard output
     original_stdout = sys.stdout
 
-    # 将指定的属性设置为索引
+    # Set the specified attribute as the index
     clean = clean.set_index(index_attribute, drop=False)
     dirty = dirty.set_index(index_attribute, drop=False)
     cleaned = cleaned.set_index(index_attribute, drop=False)
@@ -360,45 +361,45 @@ def get_record_based_edr(clean, dirty, cleaned, output_path, task_name, index_at
     total_distance_dirty_to_clean = 0
     total_distance_repaired_to_clean = 0
 
-    # 重定向输出到文件
+    # Redirect output to file
     with open(out_path, 'w') as f:
-        sys.stdout = f  # 将 sys.stdout 重定向到文件
+        sys.stdout = f  # Redirect sys.stdout to file
 
-        # 逐行比较脏数据、清洗后的数据与干净数据
+        # Compare each row of dirty, cleaned, and clean data
         for idx in clean.index:
             clean_row = clean.loc[idx].apply(normalize_value)
             dirty_row = dirty.loc[idx].apply(normalize_value)
             cleaned_row = cleaned.loc[idx].apply(normalize_value)
 
-            # 计算脏数据和干净数据之间的距离
+            # Calculate distance between dirty and clean data
             distance_dirty_to_clean = record_based_distance_func(dirty_row, clean_row)
-            # 计算修复后数据和干净数据之间的距离
+            # Calculate distance between repaired and clean data
             distance_repaired_to_clean = record_based_distance_func(cleaned_row, clean_row)
 
             total_distance_dirty_to_clean += distance_dirty_to_clean
             total_distance_repaired_to_clean += distance_repaired_to_clean
 
-            # 打印每条记录的距离值
+            # Print distance values for each record
             print(f"Record {idx}")
             print(f"Distance (Dirty to Clean): {distance_dirty_to_clean}")
             print(f"Distance (Repaired to Clean): {distance_repaired_to_clean}")
             print("=" * 40)
 
-        # 计算基于条目的错误减少率 (R-EDR)
+        # Calculate record-based Error Drop Rate (R-EDR)
         if total_distance_dirty_to_clean == 0:
             r_edr = 0
         else:
             r_edr = (total_distance_dirty_to_clean - total_distance_repaired_to_clean) / total_distance_dirty_to_clean
 
-        # 打印最终的 R-EDR 结果
-        print(f"总的脏数据到干净数据距离: {total_distance_dirty_to_clean}")
-        print(f"总的修复后数据到干净数据距离: {total_distance_repaired_to_clean}")
-        print(f"基于条目的错误减少率 (R-EDR): {r_edr}")
+        # Print final R-EDR result
+        print(f"Total Distance (Dirty to Clean): {total_distance_dirty_to_clean}")
+        print(f"Total Distance (Repaired to Clean): {total_distance_repaired_to_clean}")
+        print(f"Record-based Error Drop Rate (R-EDR): {r_edr}")
 
-    # 恢复标准输出
+    # Restore standard output
     sys.stdout = original_stdout
 
-    print(f"R-EDR 结果已保存到: {out_path}")
+    print(f"R-EDR result saved to: {out_path}")
 
     return r_edr
 
