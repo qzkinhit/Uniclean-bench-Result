@@ -470,7 +470,8 @@ def main():
         mse_attributes=args.mse_attributes
     )
 
-    elapsed_time = args.elapsed_time or (time.time() - start_time)
+    elapsed_time = args.elapsed_time
+    evaluation_time = time.time() - start_time
     speed = 100 * float(elapsed_time) / clean_data.shape[0] if args.elapsed_time else None
 
     results_path = os.path.join(stra_path, f"{args.task_name}_total_evaluation.txt")
@@ -487,9 +488,10 @@ def main():
     print("Results saved to:", results_path)
     for metric, value in results.items():
         print(f"{metric}: {value}")
-    print(f"evaluation Time: {elapsed_time} seconds")
     if speed:
         print(f"Cleaning Speed: {speed} seconds/100 records")
+    print("===============================================================")
+    print(f"evaluation Time: {evaluation_time} seconds")
 
 if __name__ == "__main__":
     main()

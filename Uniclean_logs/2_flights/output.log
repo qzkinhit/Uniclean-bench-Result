@@ -12,5 +12,6 @@ f1_score: 0.6537013801257003
 edr: 0.517479674796748
 hybrid_distance: 0.09532805349802362
 r_edr: 0.11292016806722689
-evaluation Time: 84.591757375 seconds
 Cleaning Speed: 3.560259148779461 seconds/100 records
+===============================================================
+evaluation Time: 1.141495943069458 seconds
