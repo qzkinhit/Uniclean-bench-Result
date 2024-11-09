@@ -4,24 +4,9 @@
 # ./run.sh
 
 # Define datasets, their specific mse_attributes, and pre-calculated elapsed times
-declare -A mse_attributes
-declare -A elapsed_times
-
-mse_attributes=(
-    ["1_hospital"]="Score"
-    ["2_flights"]=""
-    ["3_beers"]="abv ibu"
-    ["4_rayyan"]=""
-    ["5_tax"]="rate"
-)
-
-elapsed_times=(
-    ["1_hospital"]="108.115330875"
-    ["2_flights"]="84.591757375"
-    ["3_beers"]="31.24922154099"
-    ["4_rayyan"]="52.377824583"
-    ["5_tax"]="12589.6389"
-)
+datasets=("1_hospital" "2_flights" "3_beers" "4_rayyan" "5_tax50k")
+mse_attributes=("Score" "" "abv ibu" "" "rate")
+elapsed_times=("108.115330875" "84.591757375" "31.24922154099" "52.377824583" "12589.6389")
 
 # Define base paths
 dirty_base_path="./RealWorldDataSet"
@@ -29,11 +14,12 @@ clean_base_path="./RealWorldDataSet"
 cleaned_base_path="./Uniclean_cleaned_data"
 output_base_path="./Uniclean_logs"
 
-# Define datasets to process
-datasets=("1_hospital" "2_flights" "3_beers" "4_rayyan" "5_tax")
-
 # Loop through each dataset and execute the main Python script
-for dataset in "${datasets[@]}"; do
+for i in "${!datasets[@]}"; do
+    dataset="${datasets[$i]}"
+    mse_attr="${mse_attributes[$i]}"
+    elapsed_time="${elapsed_times[$i]}"
+
     echo "Processing dataset: $dataset"
 
     # Define paths for the current dataset
@@ -41,34 +27,33 @@ for dataset in "${datasets[@]}"; do
     clean_path="${clean_base_path}/${dataset}/clean_index.csv"
     cleaned_path="${cleaned_base_path}/${dataset}_cleaned_by_uniclean.csv"
     output_path="${output_base_path}/${dataset}"
+    log_path="${output_path}/output.log"
+    # Create the output directory if it doesn't exist
+    mkdir -p "$output_path"
 
     # Define task-specific settings
     task_name="${dataset}"
 
-    # Get mse_attributes and elapsed time for the current dataset
-    mse_attr="${mse_attributes[$dataset]}"
-    elapsed_time="${elapsed_times[$dataset]}"
-
     # Construct command with mse_attributes and elapsed_time if they exist
     if [ -n "$mse_attr" ]; then
-        python3 main.py \
+        python3 evaluate_result.py \
             --dirty_path "$dirty_path" \
             --clean_path "$clean_path" \
             --cleaned_path "$cleaned_path" \
-            --output_path "$output_path" \
+            --output_path "$output_base_path" \
             --task_name "$task_name" \
             --index_attribute "index" \
             --mse_attributes $mse_attr \
-            --elapsed_time "$elapsed_time" > "${output_path}/output.log"
+            --elapsed_time "$elapsed_time" > "${log_path}"
     else
-        python3 main.py \
+        python3 evaluate_result.py \
             --dirty_path "$dirty_path" \
             --clean_path "$clean_path" \
             --cleaned_path "$cleaned_path" \
-            --output_path "$output_path" \
+            --output_path "$output_base_path" \
             --task_name "$task_name" \
             --index_attribute "index" \
-            --elapsed_time "$elapsed_time" > "${output_path}/output.log"
+            --elapsed_time "$elapsed_time" > "${log_path}"
     fi
 
     # Check if the command was successful
