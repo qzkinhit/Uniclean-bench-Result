@@ -235,101 +235,98 @@ def get_edr(clean, dirty, cleaned, attributes, output_path, task_name, index_att
 
 def get_hybrid_distance(clean, cleaned, attributes, output_path, task_name, index_attribute='index', mse_attributes=[], w1=0.5, w2=0.5):
     """
-    计算混合距离指标，包括MSE和Jaccard距离，并将结果输出到文件中。
+    Calculates a hybrid distance metric, including MSE and Jaccard distance, and saves the results to a file.
 
-    :param clean: 干净数据 DataFrame
-    :param cleaned: 清洗后数据 DataFrame
-    :param attributes: 指定属性集合
-    :param output_path: 保存结果的目录路径
-    :param task_name: 任务名称，用于命名输出文件
-    :param index_attribute: 指定作为索引的属性
-    :param w1: MSE的权重
-    :param w2: Jaccard距离的权重
-    :param mse_attributes: 需要进行MSE计算的属性集合
-    :return: 加权混合距离
+    :param clean: Clean data DataFrame
+    :param cleaned: Cleaned data DataFrame
+    :param attributes: List of specified attributes
+    :param output_path: Path to save results
+    :param task_name: Task name for result files
+    :param index_attribute: Attribute to use as index
+    :param mse_attributes: Attributes for MSE calculation
+    :param w1: Weight for MSE
+    :param w2: Weight for Jaccard distance
+    :return: Weighted hybrid distance
     """
 
-    # 创建输出目录
+    # Create output directory if it doesn't exist
     os.makedirs(output_path, exist_ok=True)
 
-    # 定义输出文件路径
+    # Define output file path
     out_path = os.path.join(output_path, f"{task_name}_hybrid_distance_evaluation.txt")
 
-    # 备份原始的标准输出
+    # Backup original stdout
     original_stdout = sys.stdout
 
-    # 将指定的属性设置为索引
+    # Set the specified attribute as index
     clean = clean.set_index(index_attribute, drop=False)
     cleaned = cleaned.set_index(index_attribute, drop=False)
 
-    # 重定向输出到文件
+    # Redirect output to the file
     with open(out_path, 'w') as f:
-        sys.stdout = f  # 将 sys.stdout 重定向到文件
+        sys.stdout = f  # Redirect sys.stdout to file
 
         total_mse = 0
         total_jaccard = 0
         attribute_count = 0
 
         for attribute in attributes:
-            # 确保数据类型一致并规范化
-            clean_values = clean[attribute].apply(normalize_value)
-            cleaned_values = cleaned[attribute].apply(normalize_value)
+            # Ensure consistent data types and normalize values
+            clean_values = clean[attribute].apply(normalize_value).replace('empty', np.nan).dropna()
+            cleaned_values = cleaned[attribute].apply(normalize_value).replace('empty', np.nan).dropna()
 
-            # 跳过空值 'empty'
-            clean_values = clean_values.replace('empty', np.nan)
-            cleaned_values = cleaned_values.replace('empty', np.nan)
-
-            # 如果该属性在MSE计算列表中
-            if attribute in mse_attributes:
-                # 计算MSE
+            # Only calculate MSE if there are valid numeric values
+            if attribute in mse_attributes and not clean_values.empty and not cleaned_values.empty:
                 try:
-                    mse = mean_squared_error(clean_values.dropna().astype(float), cleaned_values.dropna().astype(float))
+                    mse = mean_squared_error(clean_values.astype(float), cleaned_values.astype(float))
                 except ValueError:
-                    print(f"检查你指定的属性 {attribute} 是否为数值型！")
-                    mse = np.nan  # 如果值不是数值型，无法计算MSE，返回NaN
+                    print(f"Check if attribute {attribute} contains numeric data!")
+                    mse = np.nan
             else:
                 mse = np.nan
 
-            # 计算Jaccard距离，需确保类别型或二进制类型
-            try:
-                # 过滤空值后计算Jaccard距离
-                common_indices = clean_values.dropna().index.intersection(cleaned_values.dropna().index)
-                jaccard = 1 - jaccard_score(clean_values.loc[common_indices], cleaned_values.loc[common_indices], average='macro')
-            except ValueError:
-                print(f"无法计算Jaccard距离，因为 {attribute} 不是类别型数据")
-                jaccard = np.nan  # 如果值不能计算Jaccard，返回NaN
-
-            # 排除NaN值的影响
-            if not np.isnan(mse) and not np.isnan(jaccard):
-                total_mse += mse
-                total_jaccard += jaccard
-                attribute_count += 1
-            elif not np.isnan(mse) and np.isnan(jaccard):
-                total_mse += mse
-                attribute_count += 1
-            elif np.isnan(mse) and not np.isnan(jaccard):
-                total_jaccard += jaccard
-                attribute_count += 1
+            # Only calculate Jaccard if there are valid categorical values
+            if not clean_values.empty and not cleaned_values.empty:
+                try:
+                    # Filter common indices and calculate Jaccard distance
+                    common_indices = clean_values.index.intersection(cleaned_values.index)
+                    jaccard = 1 - jaccard_score(
+                        clean_values.loc[common_indices],
+                        cleaned_values.loc[common_indices],
+                        average='macro'
+                    )
+                except ValueError:
+                    print(f"Cannot calculate Jaccard distance, as {attribute} is not categorical.")
+                    jaccard = np.nan
             else:
-                print(f"无法计算距离，因为 {attribute} 的值无法处理")
+                jaccard = np.nan
+
+            # Accumulate non-NaN values
+            if not np.isnan(mse):
+                total_mse += mse
+            if not np.isnan(jaccard):
+                total_jaccard += jaccard
+
+            # Only count attributes if at least one distance is valid
+            if not np.isnan(mse) or not np.isnan(jaccard):
+                attribute_count += 1
 
             print(f"Attribute: {attribute}, MSE: {mse}, Jaccard: {jaccard}")
 
         if attribute_count == 0:
-            return None
+            hybrid_distance = None
+        else:
+            # Calculate weighted hybrid distance
+            avg_mse = total_mse / attribute_count if attribute_count > 0 else 0
+            avg_jaccard = total_jaccard / attribute_count if attribute_count > 0 else 0
+            hybrid_distance = w1 * avg_mse + w2 * avg_jaccard
 
-        # 计算加权混合距离
-        avg_mse = total_mse / attribute_count
-        avg_jaccard = total_jaccard / attribute_count
+            print(f"Weighted Hybrid Distance: {hybrid_distance}")
 
-        hybrid_distance = w1 * avg_mse + w2 * avg_jaccard
-
-        print(f"加权混合距离: {hybrid_distance}")
-
-    # 恢复标准输出
+    # Restore original stdout
     sys.stdout = original_stdout
 
-    print(f"混合距离结果已保存到: {out_path}")
+    print(f"Hybrid distance results saved to: {out_path}")
 
     return hybrid_distance
 

@@ -3,7 +3,7 @@
 ./Uniclean_logs/4_rayyan/4_rayyan_dirty_vs_cleaned.csv
 ./Uniclean_logs/4_rayyan/4_rayyan_clean_vs_cleaned.csv
 EDR 结果已保存到: ./Uniclean_logs/4_rayyan/4_rayyan_edr_evaluation.txt
-混合距离结果已保存到: ./Uniclean_logs/4_rayyan/4_rayyan_hybrid_distance_evaluation.txt
+Hybrid distance results saved to: ./Uniclean_logs/4_rayyan/4_rayyan_hybrid_distance_evaluation.txt
 R-EDR 结果已保存到: ./Uniclean_logs/4_rayyan/4_rayyan_record_based_edr_evaluation.txt
 Results saved to: ./Uniclean_logs/4_rayyan/4_rayyan_total_evaluation.txt
 accuracy: 0.003161222339304531
