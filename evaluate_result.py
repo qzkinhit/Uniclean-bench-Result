@@ -154,30 +154,82 @@ def calculate_accuracy_and_recall(clean, dirty, cleaned, attributes, output_path
     return accuracy, recall
 
 def get_edr(clean, dirty, cleaned, attributes, output_path, task_name, index_attribute='index', distance_func=default_distance_func):
-    """Calculate Error Drop Rate (EDR)."""
+    """
+    计算指定属性集合下的错误减少率 (EDR)，并将结果输出到文件中。
+
+    :param clean: 干净数据 DataFrame
+    :param dirty: 脏数据 DataFrame
+    :param cleaned: 清洗后数据 DataFrame
+    :param attributes: 指定属性集合
+    :param output_path: 保存结果的目录路径
+    :param task_name: 任务名称，用于命名输出文件
+    :param index_attribute: 指定作为索引的属性
+    :param distance_func: 距离计算函数，默认为比较两个值是否相等，不同为1，相同为0
+    :return: 错误减少率 (EDR)
+    """
+
+    # 创建输出目录
     os.makedirs(output_path, exist_ok=True)
+
+    # 定义输出文件路径
     out_path = os.path.join(output_path, f"{task_name}_edr_evaluation.txt")
 
-    clean, dirty, cleaned = clean.set_index(index_attribute, drop=False), dirty.set_index(index_attribute, drop=False), cleaned.set_index(index_attribute, drop=False)
-    total_distance_dirty_to_clean = total_distance_repaired_to_clean = 0
+    # 备份原始的标准输出
+    original_stdout = sys.stdout
 
-    for attribute in attributes:
-        clean_values = clean[attribute].apply(normalize_value)
-        dirty_values = dirty[attribute].apply(normalize_value)
-        cleaned_values = cleaned[attribute].apply(normalize_value)
+    # 将指定的属性设置为索引
+    clean = clean.set_index(index_attribute, drop=False)
+    dirty = dirty.set_index(index_attribute, drop=False)
+    cleaned = cleaned.set_index(index_attribute, drop=False)
 
-        common_indices = clean_values.index.intersection(cleaned_values.index).intersection(dirty_values.index)
-        clean_values, dirty_values, cleaned_values = clean_values.loc[common_indices], dirty_values.loc[common_indices], cleaned_values.loc[common_indices]
+    # 重定向输出到文件
+    with open(out_path, 'w') as f:
+        sys.stdout = f  # 将 sys.stdout 重定向到文件
 
-        total_distance_dirty_to_clean += distance_func(dirty_values, clean_values)
-        total_distance_repaired_to_clean += distance_func(cleaned_values, clean_values)
+        total_distance_dirty_to_clean = 0
+        total_distance_repaired_to_clean = 0
 
-    edr = (total_distance_dirty_to_clean - total_distance_repaired_to_clean) / total_distance_dirty_to_clean if total_distance_dirty_to_clean != 0 else 0
+        for attribute in attributes:
+            # 确保所有属性的数据类型为字符串并进行规范化
+            clean_values = clean[attribute].apply(normalize_value)
+            dirty_values = dirty[attribute].apply(normalize_value)
+            cleaned_values = cleaned[attribute].apply(normalize_value)
 
-    with open(out_path, 'w', encoding='utf-8') as f:
-        sys.stdout = f
-        print(f"Error Drop Rate (EDR): {edr}")
-    sys.stdout = sys.__stdout__
+            # 对齐索引
+            common_indices = clean_values.index.intersection(cleaned_values.index).intersection(dirty_values.index)
+            clean_values = clean_values.loc[common_indices]
+            dirty_values = dirty_values.loc[common_indices]
+            cleaned_values = cleaned_values.loc[common_indices]
+
+            # 计算脏数据和干净数据之间的距离
+            distance_dirty_to_clean = distance_func(dirty_values, clean_values)
+            # 计算修复后数据和干净数据之间的距离
+            distance_repaired_to_clean = distance_func(cleaned_values, clean_values)
+
+            total_distance_dirty_to_clean += distance_dirty_to_clean
+            total_distance_repaired_to_clean += distance_repaired_to_clean
+
+            # 打印每个属性的距离值
+            print(f"Attribute: {attribute}")
+            print(f"Distance (Dirty to Clean): {distance_dirty_to_clean}")
+            print(f"Distance (Repaired to Clean): {distance_repaired_to_clean}")
+            print("=" * 40)
+
+        # 计算错误减少率 (EDR)
+        if total_distance_dirty_to_clean == 0:
+            edr = 0
+        else:
+            edr = (total_distance_dirty_to_clean - total_distance_repaired_to_clean) / total_distance_dirty_to_clean
+
+        # 打印最终的 EDR 结果
+        print(f"总的脏数据到干净数据距离: {total_distance_dirty_to_clean}")
+        print(f"总的修复后数据到干净数据距离: {total_distance_repaired_to_clean}")
+        print(f"错误减少率 (EDR): {edr}")
+
+    # 恢复标准输出
+    sys.stdout = original_stdout
+
+    print(f"EDR 结果已保存到: {out_path}")
 
     return edr
 

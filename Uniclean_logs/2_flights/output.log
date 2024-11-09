@@ -2,6 +2,7 @@
 ./Uniclean_logs/2_flights/2_flights_clean_vs_dirty.csv
 ./Uniclean_logs/2_flights/2_flights_dirty_vs_cleaned.csv
 ./Uniclean_logs/2_flights/2_flights_clean_vs_cleaned.csv
+EDR 结果已保存到: ./Uniclean_logs/2_flights/2_flights_edr_evaluation.txt
 混合距离结果已保存到: ./Uniclean_logs/2_flights/2_flights_hybrid_distance_evaluation.txt
 Results saved to: ./Uniclean_logs/2_flights/2_flights_total_evaluation.txt
 accuracy: 0.6731266149870802
