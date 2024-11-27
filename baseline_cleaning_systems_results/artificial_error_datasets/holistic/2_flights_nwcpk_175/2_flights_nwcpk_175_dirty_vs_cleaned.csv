@@ -1,0 +1,1207 @@
+Attribute,Index,Dirty Value,Cleaned Value
+flight,4,aa-518-mia-jfk,0
+flight,9,aa-446-dfw-phl,0
+flight,18,aa-2525-dfw-mia,0
+flight,28,aa-1007-mia-phx,0
+flight,35,aa-1165-jfk-mia,0
+flight,41,aa-2268-phx-ord,0
+flight,49,aa-3809-phx-lax,0
+flight,53,aa-518-mia-jfk,0
+flight,58,co-58-den-iah,0
+flight,66,co-1090-bos-iah,0
+flight,75,aa-446-dfw-phl,0
+flight,76,co-1023-iah-den,0
+flight,81,aa-1664-mia-atl,0
+flight,83,ua-854-sfo-iah,0
+flight,87,ua-2945-phl-clt,0
+flight,92,aa-4330-cvg-ord,0
+flight,94,aa-1640-mia-mco,0
+flight,95,aa-4307-ord-dtw,0
+flight,99,co-1193-ewr-mco,0
+flight,102,aa-1007-mia-phx,0
+flight,106,aa-1221-mco-ord,0
+flight,115,aa-3823-lax-den,0
+flight,117,aa-1165-jfk-mia,0
+flight,118,aa-431-mia-sfo,0
+flight,125,ua-858-pvg-sfo,0
+flight,126,ua-2704-dtw-phx,0
+flight,133,aa-2268-phx-ord,0
+flight,147,co-45-ewr-mia,0
+flight,152,co-1586-iah-mco,0
+flight,171,aa-1886-bos-mia,0
+flight,175,aa-446-dfw-phl,0
+flight,183,ua-854-sfo-iah,0
+flight,186,ua-257-jfk-sfo,0
+flight,201,aa-1007-mia-phx,0
+flight,204,aa-1221-mco-ord,0
+flight,210,ua-37-ewr-mco,0
+flight,215,aa-1165-jfk-mia,0
+flight,220,ua-6273-yyc-sfo,0
+flight,227,ua-62-iah-ewr,0
+flight,231,aa-2268-phx-ord,0
+flight,233,aa-2957-dfw-cvg,0
+flight,236,aa-415-bos-ord,0
+flight,238,aa-3979-cvg-ord,0
+flight,240,aa-3786-iah-ord,0
+flight,244,ua-3099-phx-phl,0
+flight,245,aa-4198-ord-cle,0
+flight,256,aa-1640-mia-mco,0
+flight,265,co-1090-bos-iah,0
+flight,267,ua-3515-iad-msp,0
+flight,268,aa-484-dfw-mia,0
+flight,270,aa-446-dfw-phl,0
+flight,281,aa-4344-ord-dtw,0
+flight,282,ua-2945-phl-clt,0
+flight,290,co-1694-lax-iah,0
+flight,297,aa-1221-mco-ord,0
+flight,306,aa-1165-jfk-mia,0
+flight,326,ua-854-sfo-iah,0
+flight,334,co-45-ewr-mia,0
+flight,335,aa-3809-phx-lax,0
+flight,340,aa-518-mia-jfk,0
+flight,342,ua-3925-iad-orf,0
+flight,358,aa-1886-bos-mia,0
+flight,359,co-62-iah-ewr,0
+flight,362,aa-446-dfw-phl,0
+flight,370,ua-854-sfo-iah,0
+flight,379,aa-4330-cvg-ord,0
+flight,383,aa-3-jfk-lax,0
+flight,389,aa-1007-mia-phx,0
+flight,393,aa-1221-mco-ord,0
+flight,404,aa-1165-jfk-mia,0
+flight,406,ua-3373-iad-phl,0
+flight,407,aa-649-ord-sna,0
+flight,409,ua-6273-yyc-sfo,0
+flight,412,ua-858-pvg-sfo,0
+flight,413,ua-2704-dtw-phx,0
+flight,434,co-45-ewr-mia,0
+flight,454,aa-616-dfw-dtw,0
+flight,462,aa-446-dfw-phl,0
+flight,463,co-1023-iah-den,0
+flight,468,aa-1664-mia-atl,0
+flight,470,ua-854-sfo-iah,0
+flight,478,ua-248-phx-ord,0
+flight,479,aa-4330-cvg-ord,0
+flight,484,ua-843-lax-ord,0
+flight,488,aa-1007-mia-phx,0
+flight,489,ua-2906-phl-mco,0
+flight,497,ua-37-ewr-mco,0
+flight,502,aa-1165-jfk-mia,0
+flight,514,ua-62-iah-ewr,0
+flight,532,aa-4198-ord-cle,0
+flight,538,aa-3859-iah-ord,0
+flight,551,ua-2726-fll-phl,0
+flight,556,aa-484-dfw-mia,0
+flight,560,aa-446-dfw-phl,0
+flight,561,co-1023-iah-den,0
+flight,564,co-89-iah-ewr,0
+flight,589,aa-2525-dfw-mia,0
+flight,591,ua-938-den-ord,0
+flight,592,aa-1221-mco-ord,0
+flight,594,ua-2515-dfw-clt,0
+flight,595,aa-400-dfw-jfk,0
+flight,601,aa-2312-dfw-dtw,0
+flight,603,aa-1165-jfk-mia,0
+flight,604,aa-431-mia-sfo,0
+flight,614,aa-3804-phl-ord,0
+flight,619,ua-854-sfo-iah,0
+flight,624,co-50-cle-ewr,0
+flight,628,aa-3809-phx-lax,0
+flight,632,aa-518-mia-jfk,0
+flight,639,ua-5487-sfo-mry,0
+flight,648,aa-3468-cvg-mia,0
+flight,654,aa-446-dfw-phl,0
+flight,655,co-1023-iah-den,0
+flight,659,co-1088-cle-iah,0
+flight,662,ua-854-sfo-iah,0
+flight,664,aa-4344-ord-dtw,0
+flight,670,ua-248-phx-ord,0
+flight,673,aa-1640-mia-mco,0
+flight,674,aa-4307-ord-dtw,0
+flight,680,aa-1007-mia-phx,0
+flight,685,ua-2515-dfw-clt,0
+flight,688,aa-3756-ord-slc,0
+flight,694,aa-1165-jfk-mia,0
+flight,700,ua-828-sfo-ord,0
+flight,720,aa-271-mia-lax,0
+flight,726,co-45-ewr-mia,0
+flight,727,aa-3809-phx-lax,0
+flight,733,ua-397-jfk-sfo,0
+flight,734,ua-3925-iad-orf,0
+flight,744,aa-616-dfw-dtw,0
+flight,745,aa-446-dfw-phl,0
+flight,746,co-1023-iah-den,0
+flight,765,aa-1007-mia-phx,0
+flight,770,ua-664-ord-phl,0
+flight,774,aa-2312-dfw-dtw,0
+flight,775,aa-1165-jfk-mia,0
+flight,784,ua-233-lax-jfk,0
+flight,790,aa-404-mia-mco,0
+flight,794,aa-1165-jfk-mia,0
+flight,801,aa-446-dfw-phl,0
+flight,803,aa-484-dfw-mia,0
+flight,808,aa-204-lax-mco,0
+flight,814,aa-518-mia-jfk,0
+flight,825,ua-2726-fll-phl,0
+flight,831,aa-484-dfw-mia,0
+flight,833,co-62-iah-ewr,0
+flight,836,aa-446-dfw-phl,0
+flight,837,co-1023-iah-den,0
+flight,844,ua-854-sfo-iah,0
+flight,848,ua-2945-phl-clt,0
+flight,850,co-47-iah-lax,0
+flight,852,ua-248-phx-ord,0
+flight,855,aa-1640-mia-mco,0
+flight,857,co-1694-lax-iah,0
+flight,858,ua-843-lax-ord,0
+flight,862,aa-1007-mia-phx,0
+flight,863,ua-2906-phl-mco,0
+flight,868,aa-400-dfw-jfk,0
+flight,870,aa-3756-ord-slc,0
+flight,876,aa-1165-jfk-mia,0
+flight,885,ua-2704-dtw-phx,0
+flight,887,ua-2708-ewr-clt,0
+flight,896,aa-789-ord-den,0
+flight,897,aa-415-bos-ord,0
+flight,906,aa-4198-ord-cle,0
+flight,916,ua-414-lax-sfo,0
+flight,919,co-1090-bos-iah,0
+flight,922,aa-466-iah-mia,0
+flight,931,aa-4307-ord-dtw,0
+flight,940,aa-400-dfw-jfk,0
+flight,952,aa-3063-slc-lax,0
+flight,955,aa-2268-phx-ord,0
+flight,959,aa-2957-dfw-cvg,0
+flight,963,aa-1544-san-ord,0
+flight,984,aa-1434-dfw-mco,0
+flight,991,aa-518-mia-jfk,0
+flight,1001,aa-3756-ord-slc,0
+flight,1002,ua-2726-fll-phl,0
+flight,1007,aa-446-dfw-phl,0
+flight,1031,ua-2906-phl-mco,0
+flight,1036,aa-1522-sfo-ord,0
+flight,1040,aa-1165-jfk-mia,0
+flight,1041,aa-431-mia-sfo,0
+flight,1046,ua-6273-yyc-sfo,0
+flight,1047,ua-858-pvg-sfo,0
+flight,1052,aa-3804-phl-ord,0
+flight,1053,aa-1917-jfk-mco,0
+flight,1056,aa-4277-cvg-jfk,0
+flight,1058,aa-789-ord-den,0
+flight,1059,ua-854-sfo-iah,0
+flight,1074,ua-397-jfk-sfo,0
+flight,1081,aa-204-lax-mco,0
+flight,1086,co-1090-bos-iah,0
+flight,1088,ua-3515-iad-msp,0
+flight,1095,aa-446-dfw-phl,0
+flight,1106,ua-257-jfk-sfo,0
+flight,1108,co-63-ewr-iah,0
+flight,1110,aa-2050-ord-mia,0
+flight,1116,co-1694-lax-iah,0
+flight,1121,aa-1007-mia-phx,0
+flight,1124,aa-1221-mco-ord,0
+flight,1135,aa-1165-jfk-mia,0
+flight,1142,co-4888-iah-dal,0
+flight,1143,ua-858-pvg-sfo,0
+flight,1169,aa-59-jfk-sfo,0
+flight,1174,ua-3925-iad-orf,0
+flight,1186,aa-3756-ord-slc,0
+flight,1199,ua-664-ord-phl,0
+flight,1206,co-4888-iah-dal,0
+flight,1227,ua-397-jfk-sfo,0
+flight,1229,aa-1733-ord-phx,0
+flight,1239,co-1090-bos-iah,0
+flight,1243,aa-484-dfw-mia,0
+flight,1248,aa-446-dfw-phl,0
+flight,1249,co-1023-iah-den,0
+flight,1259,ua-257-jfk-sfo,0
+flight,1269,aa-3-jfk-lax,0
+flight,1271,ua-843-lax-ord,0
+flight,1272,co-1193-ewr-mco,0
+flight,1275,aa-1007-mia-phx,0
+flight,1284,aa-3756-ord-slc,0
+flight,1289,aa-2312-dfw-dtw,0
+flight,1290,aa-1165-jfk-mia,0
+flight,1297,co-4888-iah-dal,0
+flight,1300,aa-3063-slc-lax,0
+flight,1304,aa-3804-phl-ord,0
+flight,1315,aa-271-mia-lax,0
+flight,1323,aa-222-lax-bos,0
+flight,1328,ua-3925-iad-orf,0
+flight,1329,aa-1733-ord-phx,0
+flight,1331,ua-2830-mco-clt,0
+flight,1335,ua-414-lax-sfo,0
+flight,1339,co-1090-bos-iah,0
+flight,1344,aa-1886-bos-mia,0
+flight,1347,ua-2314-atl-phl,0
+flight,1349,co-1023-iah-den,0
+flight,1365,aa-4330-cvg-ord,0
+flight,1374,aa-1007-mia-phx,0
+flight,1382,aa-3756-ord-slc,0
+flight,1388,aa-1165-jfk-mia,0
+flight,1393,ua-828-sfo-ord,0
+flight,1401,aa-3804-phl-ord,0
+flight,1409,aa-85-jfk-sfo,0
+flight,1418,aa-404-mia-mco,0
+flight,1420,aa-3809-phx-lax,0
+flight,1421,aa-59-jfk-sfo,0
+flight,1422,aa-222-lax-bos,0
+flight,1429,co-1023-iah-den,0
+flight,1438,co-16-lax-ewr,0
+flight,1439,co-1090-bos-iah,0
+flight,1441,co-47-iah-lax,0
+flight,1448,co-1090-bos-iah,0
+flight,1451,co-89-iah-ewr,0
+flight,1454,aa-789-ord-den,0
+flight,1457,aa-3756-ord-slc,0
+flight,1458,co-1614-lax-iah,0
+flight,1464,aa-431-mia-sfo,0
+flight,1466,ua-3373-iad-phl,0
+flight,1468,ua-2314-atl-phl,0
+flight,1469,co-16-lax-ewr,0
+flight,1479,aa-3-jfk-lax,0
+flight,1503,co-1090-bos-iah,0
+flight,1509,co-62-iah-ewr,0
+flight,1524,ua-2945-phl-clt,0
+flight,1530,aa-1434-dfw-mco,0
+flight,1533,aa-3-jfk-lax,0
+flight,1539,aa-1007-mia-phx,0
+flight,1542,ua-938-den-ord,0
+flight,1551,ua-233-lax-jfk,0
+flight,1552,aa-3823-lax-den,0
+flight,1554,aa-1165-jfk-mia,0
+flight,1560,ua-828-sfo-ord,0
+flight,1569,aa-1917-jfk-mco,0
+flight,1573,ua-37-edi-ewr,0
+flight,1578,aa-3786-iah-ord,0
+flight,1580,co-50-cle-ewr,0
+flight,1588,aa-1733-ord-phx,0
+flight,1597,co-1090-bos-iah,0
+flight,1600,co-1023-iah-den,0
+flight,1605,ua-382-iad-lax,0
+flight,1606,aa-616-dfw-dtw,0
+flight,1607,aa-4344-ord-dtw,0
+flight,1608,ua-2945-phl-clt,0
+flight,1613,aa-1007-mia-phx,0
+flight,1621,aa-1165-jfk-mia,0
+flight,1628,aa-1917-jfk-mco,0
+flight,1634,aa-1544-san-ord,0
+flight,1637,aa-404-mia-mco,0
+flight,1646,aa-4307-ord-dtw,0
+flight,1648,ua-664-ord-phl,0
+flight,1654,aa-1733-ord-phx,0
+flight,1665,ua-3925-iad-orf,0
+flight,1666,aa-1733-ord-phx,0
+flight,1674,co-1023-iah-den,0
+flight,1676,ua-3050-phx-clt,0
+flight,1682,aa-3756-ord-slc,0
+flight,1699,aa-643-mia-ord,0
+flight,1700,aa-1007-mia-phx,0
+flight,1705,ua-37-ewr-mco,0
+flight,1707,aa-3823-lax-den,0
+flight,1709,aa-1165-jfk-mia,0
+flight,1719,aa-789-ord-den,0
+flight,1722,aa-222-lax-bos,0
+flight,1739,ua-843-lax-ord,0
+flight,1750,ua-2704-dtw-phx,0
+flight,1769,aa-204-lax-mco,0
+flight,1774,co-1090-bos-iah,0
+flight,1775,aa-616-dfw-dtw,0
+flight,1777,aa-3468-cvg-mia,0
+flight,1784,co-1023-iah-den,0
+flight,1809,aa-1007-mia-phx,0
+flight,1815,aa-400-dfw-jfk,0
+flight,1817,aa-3756-ord-slc,0
+flight,1819,aa-1522-sfo-ord,0
+flight,1822,aa-2312-dfw-dtw,0
+flight,1823,aa-1165-jfk-mia,0
+flight,1824,aa-431-mia-sfo,0
+flight,1835,ua-62-iah-ewr,0
+flight,1846,aa-3979-cvg-ord,0
+flight,1854,aa-404-mia-mco,0
+flight,1874,co-1090-bos-iah,0
+flight,1875,aa-3468-cvg-mia,0
+flight,1881,aa-446-dfw-phl,0
+flight,1882,co-1023-iah-den,0
+flight,1883,aa-466-iah-mia,0
+flight,1884,ua-3050-phx-clt,0
+flight,1892,aa-3756-ord-slc,0
+flight,1907,aa-3842-msp-ord,0
+flight,1909,aa-1007-mia-phx,0
+flight,1919,aa-1522-sfo-ord,0
+flight,1924,aa-1165-jfk-mia,0
+flight,1931,ua-2704-dtw-phx,0
+flight,1949,aa-3809-phx-lax,0
+flight,1954,ua-397-jfk-sfo,0
+flight,1955,ua-3925-iad-orf,0
+flight,1964,ua-2726-fll-phl,0
+flight,1966,co-1090-bos-iah,0
+flight,1970,aa-484-dfw-mia,0
+flight,1972,co-62-iah-ewr,0
+flight,1975,aa-446-dfw-phl,0
+flight,1976,co-1023-iah-den,0
+flight,1996,co-1694-lax-iah,0
+flight,2001,aa-1007-mia-phx,0
+flight,2004,aa-1221-mco-ord,0
+flight,2006,ua-2515-dfw-clt,0
+flight,2008,ua-664-ord-phl,0
+flight,2014,aa-2312-dfw-dtw,0
+flight,2015,aa-1165-jfk-mia,0
+flight,2020,ua-6273-yyc-sfo,0
+flight,2024,ua-2704-dtw-phx,0
+flight,2032,aa-4277-cvg-jfk,0
+flight,2039,aa-1544-san-ord,0
+flight,2040,aa-3786-iah-ord,0
+flight,2044,ua-3099-phx-phl,0
+flight,2045,aa-4198-ord-cle,0
+flight,2046,aa-404-mia-mco,0
+flight,2060,ua-5487-sfo-mry,0
+flight,2063,co-1614-lax-iah,0
+flight,2066,co-1090-bos-iah,0
+flight,2075,aa-446-dfw-phl,0
+flight,2076,co-1023-iah-den,0
+flight,2077,aa-466-iah-mia,0
+flight,2081,aa-1664-mia-atl,0
+flight,2090,aa-2050-ord-mia,0
+flight,2091,ua-248-phx-ord,0
+flight,2093,aa-1434-dfw-mco,0
+flight,2099,aa-3842-msp-ord,0
+flight,2101,aa-1007-mia-phx,0
+flight,2104,aa-1221-mco-ord,0
+flight,2109,aa-3756-ord-slc,0
+flight,2115,aa-1165-jfk-mia,0
+flight,2120,ua-6273-yyc-sfo,0
+flight,2133,aa-2957-dfw-cvg,0
+flight,2136,aa-415-bos-ord,0
+flight,2152,co-1023-iah-den,0
+flight,2159,ua-397-jfk-sfo,0
+flight,2166,aa-204-lax-mco,0
+flight,2169,ua-2726-fll-phl,0
+flight,2171,co-1090-bos-iah,0
+flight,2173,ua-3515-iad-msp,0
+flight,2176,aa-1886-bos-mia,0
+flight,2180,aa-446-dfw-phl,0
+flight,2181,co-1023-iah-den,0
+flight,2185,co-1088-cle-iah,0
+flight,2187,aa-1279-dfw-phx,0
+flight,2191,ua-257-jfk-sfo,0
+flight,2195,aa-2050-ord-mia,0
+flight,2200,aa-4307-ord-dtw,0
+flight,2206,aa-1007-mia-phx,0
+flight,2211,ua-2515-dfw-clt,0
+flight,2212,aa-400-dfw-jfk,0
+flight,2214,aa-3756-ord-slc,0
+flight,2220,aa-1165-jfk-mia,0
+flight,2224,co-1250-mia-iah,0
+flight,2232,ua-62-iah-ewr,0
+flight,2253,aa-3809-phx-lax,0
+flight,2258,co-1586-iah-mco,0
+flight,2264,aa-3468-cvg-mia,0
+flight,2268,co-1023-iah-den,0
+flight,2275,aa-404-mia-mco,0
+flight,2276,aa-3756-ord-slc,0
+flight,2278,ua-257-jfk-sfo,0
+flight,2284,aa-2050-ord-mia,0
+flight,2289,aa-3-jfk-lax,0
+flight,2293,aa-643-mia-ord,0
+flight,2294,aa-1007-mia-phx,0
+flight,2303,aa-1165-jfk-mia,0
+flight,2308,aa-3063-slc-lax,0
+flight,2320,aa-3809-phx-lax,0
+flight,2332,aa-484-dfw-mia,0
+flight,2333,aa-616-dfw-dtw,0
+flight,2342,aa-3756-ord-slc,0
+flight,2343,ua-2945-phl-clt,0
+flight,2351,aa-3842-msp-ord,0
+flight,2359,aa-2312-dfw-dtw,0
+flight,2360,aa-1165-jfk-mia,0
+flight,2372,ua-3099-phx-phl,0
+flight,2375,aa-3809-phx-lax,0
+sched_dep_time,117,6:59 am,06:59 afm
+sched_dep_time,126,empty,11:15 am
+sched_dep_time,147,empty,04:00 pm
+sched_dep_time,215,06:59 aem,06:59 afm
+sched_dep_time,231,empty,07:15 am
+sched_dep_time,240,04:00 jpm,04:00 pm
+sched_dep_time,340,0:40 am,06:40 am
+sched_dep_time,359,empty,02:30 pm
+sched_dep_time,362,empty,11:50 am
+sched_dep_time,389,04:f55 pm,0455 pm
+sched_dep_time,413,empty,11:15 am
+sched_dep_time,454,empty,09:05 am
+sched_dep_time,479,empty,03:35 pm
+sched_dep_time,502,065:9 am,06:59 afm
+sched_dep_time,514,empty,02:30 pm
+sched_dep_time,551,040:0 pm,04:00 pm
+sched_dep_time,592,empty,08:00 pm
+sched_dep_time,603,06:9 am,06:59 afm
+sched_dep_time,624,02:5 pm,02:55 pm
+sched_dep_time,670,empty,12:57 pm
+sched_dep_time,673,empty,06:30 pm
+sched_dep_time,726,empty,04:00 pm
+sched_dep_time,727,empty,06:00 am
+sched_dep_time,765,0:455 pm,0455 pm
+sched_dep_time,825,empty,04:00 pm
+sched_dep_time,833,empty,02:30 pm
+sched_dep_time,852,12:5 pm,12:57 pm
+sched_dep_time,855,063:0 pm,06:30 pm
+sched_dep_time,858,01:55 pdm,01:55 pm
+sched_dep_time,862,04:55p m,04:55 pm
+sched_dep_time,863,03:50n pm,03:50 pm
+sched_dep_time,870,1215 pm,12:15 pm
+sched_dep_time,885,11:15 ma,11:15 am
+sched_dep_time,887,0:55 pm,02:55 pm
+sched_dep_time,897,0835 am,08:35 am
+sched_dep_time,940,empty,10:40 am
+sched_dep_time,952,c08:20 pm,08:20 pm
+sched_dep_time,955,07:1 5am,07:15 am
+sched_dep_time,1046,empty,07:35 am
+sched_dep_time,1052,empty,02:35 pm
+sched_dep_time,1088,empty,08:15 am
+sched_dep_time,1108,05:25 spm,05:25 pm
+sched_dep_time,1116,07:15pm,07:15 pm
+sched_dep_time,1121,04:5 pm,0455 pm
+sched_dep_time,1174,08:41 axm,08:41 am
+sched_dep_time,1206,empty,05:30 pm
+sched_dep_time,1259,02:z30 pm,02:30 pm
+sched_dep_time,1315,11:3 am,11:35 am
+sched_dep_time,1328,empty,08:41 am
+sched_dep_time,1329,empty,07:45 pm
+sched_dep_time,1335,empty,06:00 am
+sched_dep_time,1347,empty,02:55 pm
+sched_dep_time,1365,03:35 mp,03:35 pm
+sched_dep_time,1374,04:55 mp,0455 pm
+sched_dep_time,1409,03:0 pm,03:05 pm
+sched_dep_time,1451,empty,06:00 am
+sched_dep_time,1454,empty,01:05 pm
+sched_dep_time,1464,empty,08:35 am
+sched_dep_time,1469,1025 am,10:25 am
+sched_dep_time,1479,1200 pm,12:00 pm
+sched_dep_time,1509,empty,02:30 pm
+sched_dep_time,1533,12:0 0pm,12:00 pm
+sched_dep_time,1542,04:1 6pm,04:16 pm
+sched_dep_time,1552,empty,09:00 pm
+sched_dep_time,1573,09g:05 am,09:05 am
+sched_dep_time,1606,090:5 am,09:05 am
+sched_dep_time,1676,empty,11:05 am
+sched_dep_time,1699,m07:10 am,07:10 am
+sched_dep_time,1769,empty,11:25 pm
+sched_dep_time,1775,0905 am,09:05 am
+sched_dep_time,1809,04:55v pm,0455 pm
+sched_dep_time,1846,073:0 am,07:30 am
+sched_dep_time,1883,0k6:00 am,06:00 am
+sched_dep_time,1919,empty,11:55 pm
+sched_dep_time,1931,empty,11:15 am
+sched_dep_time,1964,empty,04:00 pm
+sched_dep_time,2001,4:55 pm,0455 pm
+sched_dep_time,2039,empty,11:25 am
+sched_dep_time,2045,empty,10:40 am
+sched_dep_time,2046,empty,06:45 am
+sched_dep_time,2091,12:z57 pm,12:57 pm
+sched_dep_time,2093,071:5 am,07:15 am
+sched_dep_time,2133,0e7:55 am,07:55 am
+sched_dep_time,2159,08:00 aqm,08:00 am
+sched_dep_time,2176,104:5 am,10:45 am
+sched_dep_time,2185,empty,08:40 am
+sched_dep_time,2187,01:0 0pm,01:00 pm
+sched_dep_time,2224,02:5 pm,02:53 pm
+sched_dep_time,2232,empty,02:30 pm
+sched_dep_time,2294,0:455 pm,0455 pm
+sched_dep_time,2308,08y:20 pm,08:20 pm
+sched_dep_time,2359,0i8:25 pm,08:25 pm
+sched_dep_time,2372,empty,11:55 am
+act_dep_time,4,06:54 m,06:54 am
+act_dep_time,41,empty,07:22 am
+act_dep_time,53,empty,06:54 am
+act_dep_time,87,30:11 am,03:11 am
+act_dep_time,95,empty,06:55 pm
+act_dep_time,106,8:23 pm,08:23 pm
+act_dep_time,115,0h9:00 pm,09:00 pm
+act_dep_time,117,07:2 am,07:22am
+act_dep_time,125,0132 pm,01:32 pm
+act_dep_time,133,07:r22 am,07:22 am
+act_dep_time,204,8:23 pm,08:23 pm
+act_dep_time,215,07:22h am,07:22am
+act_dep_time,220,d07:27 am,07:27 am
+act_dep_time,231,07a:22 am,07:22 am
+act_dep_time,233,empty,08:04 am
+act_dep_time,268,04:29 pmm,04:29 pm
+act_dep_time,297,08:2 pm,08:23 pm
+act_dep_time,393,08:2 pm,08:23 pm
+act_dep_time,407,empty,01:30 pm
+act_dep_time,409,0:27 am,07:27 am
+act_dep_time,470,empty,07:49 am
+act_dep_time,502,70:22 am,07:22am
+act_dep_time,556,0429 pm,04:29 pm
+act_dep_time,560,empty,12:12 pm
+act_dep_time,564,empty,06:02 am
+act_dep_time,589,07:93 am,07:39 am
+act_dep_time,591,empty,04:15 pm
+act_dep_time,594,07:d05 am,07:05 am
+act_dep_time,595,1:101 am,11:01 am
+act_dep_time,603,0:22 am,07:22am
+act_dep_time,632,06:o54 am,06:54 am
+act_dep_time,664,2:13 pm,12:13 pm
+act_dep_time,674,empty,06:55 pm
+act_dep_time,694,07:22 m,07:22am
+act_dep_time,855,empty,06:30 pm
+act_dep_time,876,07:m22 am,07:22am
+act_dep_time,887,02:55o pm,02:55 pm
+act_dep_time,896,1:19 pm,01:19 pm
+act_dep_time,906,10:f54 am,10:54 am
+act_dep_time,916,empty,05:56 am
+act_dep_time,922,06:08o am,06:08 am
+act_dep_time,991,empty,06:54 am
+act_dep_time,1036,11:55 pm***,11:55 pm
+act_dep_time,1040,07:2 am,07:22am
+act_dep_time,1047,empty,01:32 pm
+act_dep_time,1053,empty,03:27 pm
+act_dep_time,1058,0:119 pm,01:19 pm
+act_dep_time,1059,07:49y am,07:49 am
+act_dep_time,1074,empty,08:29 am
+act_dep_time,1081,empty,11:25 pm
+act_dep_time,1110,1:05 am,11:05 am
+act_dep_time,1142,05:3 pm,05:30 pm
+act_dep_time,1169,07:3j9 am,07:39 am
+act_dep_time,1199,empty,01:31 pm
+act_dep_time,1227,empty,08:29 am
+act_dep_time,1271,02:1g0 pm,02:10 pm
+act_dep_time,1290,07:22 ma,07:22am
+act_dep_time,1297,empty,05:30 pm
+act_dep_time,1323,07:31 aom,07:31 am
+act_dep_time,1328,08:4 2am,08:42 am
+act_dep_time,1331,empty,03:27 pm
+act_dep_time,1374,05:08 mp,05:08 pm
+act_dep_time,1393,11:08 m,11:08 pm
+act_dep_time,1420,06:10am,06:10 am
+act_dep_time,1441,08:l25 pm,08:25 pm
+act_dep_time,1458,12:f41 am,12:41 am
+act_dep_time,1468,empty,02:55 pm
+act_dep_time,1479,12:1 1pm,12:11 pm
+act_dep_time,1530,07:21 m,07:21 am
+act_dep_time,1539,05:08pm,05:08 pm
+act_dep_time,1580,empty,03:31 pm
+act_dep_time,1607,12:3 pm,12:13 pm
+act_dep_time,1613,05:08u pm,05:08 pm
+act_dep_time,1634,empty,11:40 am
+act_dep_time,1700,05:80 pm,05:08 pm
+act_dep_time,1707,09:0 pm,09:00 pm
+act_dep_time,1722,empty,07:31 am
+act_dep_time,1777,7:25 am,07:25 am
+act_dep_time,1815,11:01 am***,11:01 am
+act_dep_time,1822,08:25pm,08:25 pm
+act_dep_time,1835,empty,02:48 pm
+act_dep_time,1854,06:57 gam,06:57 am
+act_dep_time,1875,empty,07:25 am
+act_dep_time,1970,04:2 pm,04:29 pm
+act_dep_time,2006,empty,07:05 am
+act_dep_time,2008,empty,01:31 pm
+act_dep_time,2032,12:10p m,12:10 pm
+act_dep_time,2040,empty,04:12 pm
+act_dep_time,2081,empty,10:18 am
+act_dep_time,2090,empty,11:05 am
+act_dep_time,2101,0:08 pm,05:08 pm
+act_dep_time,2104,08:2 pm,08:23 pm
+act_dep_time,2120,empty,07:27 am
+act_dep_time,2136,empty,08:56 am
+act_dep_time,2166,11:25 rpm,11:25 pm
+act_dep_time,2169,empty,04:00 pm
+act_dep_time,2200,06:5 pm,06:55 pm
+act_dep_time,2206,05:08 fpm,05:08 pm
+act_dep_time,2224,empty,03:01 pm
+act_dep_time,2264,70:25 am,07:25 am
+act_dep_time,2275,0:57 am,06:57 am
+act_dep_time,2276,empty,12:41 pm
+act_dep_time,2293,empty,07:30 am
+act_dep_time,2294,5:08 pm,05:08 pm
+act_dep_time,2332,04:29 pam,04:29 pm
+act_dep_time,2333,empty,10:10 am
+sched_arr_time,5,02:45 pm,02:4q5 pm
+sched_arr_time,9,03:50 pm,03:5t0 pm
+sched_arr_time,15,02:35 pm,0
+sched_arr_time,18,11:10 am,0
+sched_arr_time,35,10:34 am,0
+sched_arr_time,49,empty,06:40 am
+sched_arr_time,58,02:50 mp,02:50 pm
+sched_arr_time,66,01:16 pm,0
+sched_arr_time,73,11:35 am,0
+sched_arr_time,75,03:50 pm,03:5t0 pm
+sched_arr_time,76,01:17 pm,011:7 pm
+sched_arr_time,81,12:10 pm,0
+sched_arr_time,82,02:35 pm,0
+sched_arr_time,83,01:39 pm,0
+sched_arr_time,92,empty,04:00 pm
+sched_arr_time,94,0m7:25 pm,07:25 pm
+sched_arr_time,99,12:1t8 pm,12:18 pm
+sched_arr_time,111,02:45 pm,02:4q5 pm
+sched_arr_time,117,10:34 am,0
+sched_arr_time,118,11c:50 am,11:50 am
+sched_arr_time,124,06:40 pm,0
+sched_arr_time,125,empty,08:27 am
+sched_arr_time,152,empty,10:15 pm
+sched_arr_time,171,02:20 pm,0
+sched_arr_time,173,11:35 am,0
+sched_arr_time,175,03:50 pm,03:5t0 pm
+sched_arr_time,182,02:35 pm,0
+sched_arr_time,183,01:39 m,01:39 pm
+sched_arr_time,186,empty,06:15 pm
+sched_arr_time,209,02:45 pm,02:4q5 pm
+sched_arr_time,210,40:17 pm,04:17 pm
+sched_arr_time,215,10:34 am,0
+sched_arr_time,222,06:40 pm,0
+sched_arr_time,227,07:03 pm,0
+sched_arr_time,236,10:40 am,0
+sched_arr_time,238,08:o00 am,08:00 am
+sched_arr_time,244,06:17 pm,0
+sched_arr_time,245,empty,12:55 pm
+sched_arr_time,256,07:25 pm,0
+sched_arr_time,265,01:16 pm,0
+sched_arr_time,267,empty,10:06 am
+sched_arr_time,270,03:50 pm,03:5t0 pm
+sched_arr_time,278,02:35 pm,0
+sched_arr_time,281,02:00p m,02:00 pm
+sched_arr_time,282,empty,01:45 pm
+sched_arr_time,287,11:35 am,0
+sched_arr_time,290,2:21 am,12:21 am
+sched_arr_time,306,10:34 am,0
+sched_arr_time,326,01:39 vpm,01:39 pm
+sched_arr_time,334,07:05 mp,07:05 pm
+sched_arr_time,335,06:40 am,0
+sched_arr_time,342,empty,09:54 am
+sched_arr_time,358,02:20 pm,0
+sched_arr_time,360,11:35 am,0
+sched_arr_time,362,03:50 pm,03:5t0 pm
+sched_arr_time,369,02:35 pm,0
+sched_arr_time,370,01:39 m,01:39 pm
+sched_arr_time,379,4:00 pm,04:00 pm
+sched_arr_time,383,03:15 m,03:15 pm
+sched_arr_time,398,02:45 pm,02:4q5 pm
+sched_arr_time,404,10:34 am,0
+sched_arr_time,406,empty,09:24 am
+sched_arr_time,411,06:40 pm,0
+sched_arr_time,412,08:27 am,0
+sched_arr_time,434,07:05 pm,0
+sched_arr_time,460,11:35 am,0
+sched_arr_time,462,03:50 pm,03:5t0 pm
+sched_arr_time,463,01:17 xpm,011:7 pm
+sched_arr_time,468,12:10 pm,0
+sched_arr_time,469,02:35 pm,0
+sched_arr_time,470,01:39 mp,01:39 pm
+sched_arr_time,478,empty,05:15 pm
+sched_arr_time,484,empty,07:53 pm
+sched_arr_time,488,08:05 pm,0
+sched_arr_time,489,empty,06:23 pm
+sched_arr_time,496,02:45 pm,02:45p m
+sched_arr_time,497,04:17p m,04:17 pm
+sched_arr_time,509,06:40 pm,0
+sched_arr_time,514,07:03 pm,0
+sched_arr_time,532,empty,12:55 pm
+sched_arr_time,538,empty,09:40 am
+sched_arr_time,560,03:50 pm,03:5t0 pm
+sched_arr_time,561,01:q17 pm,011:7 pm
+sched_arr_time,569,02:35 pm,0
+sched_arr_time,571,02:45 pm,02:45p m
+sched_arr_time,580,11:35 am,0
+sched_arr_time,588,08:05 pm,0
+sched_arr_time,601,11:50 m,11:50 pm
+sched_arr_time,603,10:34 am,0
+sched_arr_time,604,11:50 am,0
+sched_arr_time,609,06:40 pm,0
+sched_arr_time,614,04:05 pm,0
+sched_arr_time,619,01:39 epm,01:39 pm
+sched_arr_time,628,empty,06:40 am
+sched_arr_time,639,11:19 m,11:19 am
+sched_arr_time,648,09:55 pam,09:55 am
+sched_arr_time,652,11:35 am,0
+sched_arr_time,654,03:50 pm,03:5t0 pm
+sched_arr_time,655,01:17p m,011:7 pm
+sched_arr_time,659,10:54am,10:54 am
+sched_arr_time,661,02:35 pm,0
+sched_arr_time,662,1:39 pm,01:39 pm
+sched_arr_time,673,07:25 pm,0
+sched_arr_time,680,08:05 pm,0
+sched_arr_time,685,10:31 am,0
+sched_arr_time,688,02:45 pm,02:4q5 pm
+sched_arr_time,700,05:11 am,0
+sched_arr_time,701,06:40 pm,0
+sched_arr_time,720,02:25 pm,0
+sched_arr_time,733,11:55 am,0
+sched_arr_time,734,09:54 am,0
+sched_arr_time,741,02:45 pm,02:4q5 pm
+sched_arr_time,744,empty,12:35 pm
+sched_arr_time,745,03:50 pm,03:5t0 pm
+sched_arr_time,746,d01:17 pm,011:7 pm
+sched_arr_time,751,02:35 pm,0
+sched_arr_time,765,08:05 pm,0
+sched_arr_time,770,04:31 pm,0
+sched_arr_time,774,11:50 pm,0
+sched_arr_time,775,10:34 am,0
+sched_arr_time,780,06:40 pm,0
+sched_arr_time,781,11:35 am,0
+sched_arr_time,784,1229 am,12:29 am
+sched_arr_time,790,07:45 am,0
+sched_arr_time,794,10:34 am,0
+sched_arr_time,799,02:35 pm,0
+sched_arr_time,801,03:50 pm,03:5t0 pm
+sched_arr_time,803,07:55 pm,0
+sched_arr_time,808,06:55 am,0
+sched_arr_time,814,09:2 5am,09:25 am
+sched_arr_time,831,empty,07:55 pm
+sched_arr_time,833,07:03 pm,0
+sched_arr_time,834,11:35 am,0
+sched_arr_time,836,03:50 pm,03:5t0 pm
+sched_arr_time,837,01:1g7 pm,011:7 pm
+sched_arr_time,843,02:35 pm,0
+sched_arr_time,844,01:39j pm,01:39 pm
+sched_arr_time,848,01:45 pm,0
+sched_arr_time,850,08:56 pm,0
+sched_arr_time,857,2:21 am,12:21 am
+sched_arr_time,862,08:05 pm,0
+sched_arr_time,868,empty,02:59 pm
+sched_arr_time,870,02:45 pm,02:4q5 pm
+sched_arr_time,876,10:34 am,0
+sched_arr_time,883,06:40 pm,0
+sched_arr_time,919,01b:16 pm,01:16 pm
+sched_arr_time,924,02:35 pm,0
+sched_arr_time,931,09:10 pm,0
+sched_arr_time,949,06:40 pm,0
+sched_arr_time,954,11:35 am,0
+sched_arr_time,959,11:05 am,0
+sched_arr_time,963,empty,05:25 pm
+sched_arr_time,984,empty,10:35 am
+sched_arr_time,1001,02:45 pm,02:4q5 pm
+sched_arr_time,1002,06:46 pm,0
+sched_arr_time,1007,03:50 pm,03:5t0 pm
+sched_arr_time,1016,02:35 pm,0
+sched_arr_time,1024,11:35 am,0
+sched_arr_time,1031,06:23 pm,0
+sched_arr_time,1040,10:34 am,0
+sched_arr_time,1041,empty,11:50 am
+sched_arr_time,1056,02:15 pm,0
+sched_arr_time,1059,01:39 pxm,01:39 pm
+sched_arr_time,1086,01:16 ipm,01:16 pm
+sched_arr_time,1093,11:35 am,0
+sched_arr_time,1102,02:35 pm,0
+sched_arr_time,1106,06:5 pm,06:15 pm
+sched_arr_time,1121,08:05 pm,0
+sched_arr_time,1124,09:45 pm,0
+sched_arr_time,1129,02:45 pm,02:4q5 pm
+sched_arr_time,1135,10:34 am,0
+sched_arr_time,1142,06:40 pm,0
+sched_arr_time,1143,08:27 am,0
+sched_arr_time,1227,11:55 am,0
+sched_arr_time,1229,empty,10:30 pm
+sched_arr_time,1239,01:1p6 pm,01:16 pm
+sched_arr_time,1243,07:55 pm,0
+sched_arr_time,1246,11:35 am,0
+sched_arr_time,1248,03:50 pm,03:5t0 pm
+sched_arr_time,1249,01:17pm,011:7 pm
+sched_arr_time,1255,02:35 pm,0
+sched_arr_time,1269,03:15 pm,0
+sched_arr_time,1272,12:18 pm,0
+sched_arr_time,1275,08:05 pm,0
+sched_arr_time,1284,02:45 pm,02:4q5 pm
+sched_arr_time,1289,11:50 pm,0
+sched_arr_time,1290,10:34 am,0
+sched_arr_time,1297,06:40 pm,0
+sched_arr_time,1300,09:20 pm,0
+sched_arr_time,1304,04:05 pm,0
+sched_arr_time,1329,10:30b pm,10:30 pm
+sched_arr_time,1339,1:16 pm,01:16 pm
+sched_arr_time,1344,empty,02:20 pm
+sched_arr_time,1346,11:35 am,0
+sched_arr_time,1348,03:50 pm,3:50 pm
+sched_arr_time,1349,t01:17 pm,011:7 pm
+sched_arr_time,1355,02:35 pm,0
+sched_arr_time,1374,08:05 pm,0
+sched_arr_time,1382,02:45 pm,02:4q5 pm
+sched_arr_time,1394,06:40 pm,0
+sched_arr_time,1401,04:5 pm,04:05 pm
+sched_arr_time,1418,07:45 am,0
+sched_arr_time,1421,1z0:45 am,10:45 am
+sched_arr_time,1422,empty,03:30 pm
+sched_arr_time,1423,03:50 pm,3:50 pm
+sched_arr_time,1429,empty,011:7 pm
+sched_arr_time,1438,06:44 pm,0
+sched_arr_time,1439,01:16pm,01:16 pm
+sched_arr_time,1442,06:40 pm,0
+sched_arr_time,1445,11:35 am,0
+sched_arr_time,1448,01:6 pm,01:16 pm
+sched_arr_time,1454,empty,02:35 pm
+sched_arr_time,1457,02:45 pm,02:4q5 pm
+sched_arr_time,1466,empty,09:24 am
+sched_arr_time,1481,03:50 pm,3:50 pm
+sched_arr_time,1503,01n:16 pm,01:16 pm
+sched_arr_time,1510,11:35 am,0
+sched_arr_time,1512,03:50 pm,3:50 pm
+sched_arr_time,1519,02:35 pm,0
+sched_arr_time,1524,01:45 pm,0
+sched_arr_time,1539,08:05 pm,0
+sched_arr_time,1548,02:45 pm,02:4q5 pm
+sched_arr_time,1551,12:2 am,12:29 am
+sched_arr_time,1560,05:11 am,0
+sched_arr_time,1561,06:40 pm,0
+sched_arr_time,1569,05:5f5 pm,05:55 pm
+sched_arr_time,1578,06:40 mp,06:40 pm
+sched_arr_time,1588,empty,10:30 pm
+sched_arr_time,1597,01:1v6 pm,01:16 pm
+sched_arr_time,1600,10:17 pm,011:7 pm
+sched_arr_time,1605,03:19 pm,0
+sched_arr_time,1608,01:45 pm,0
+sched_arr_time,1613,08:05 pm,0
+sched_arr_time,1621,10:34 am,0
+sched_arr_time,1628,empty,05:55 pm
+sched_arr_time,1637,07:45 am,0
+sched_arr_time,1646,0:10 pm,09:10 pm
+sched_arr_time,1648,04:31 pm,0
+sched_arr_time,1649,02:45 pm,02:4q5 pm
+sched_arr_time,1654,10c:30 pm,10:30 pm
+sched_arr_time,1665,09:54 am,0
+sched_arr_time,1666,10:30 pm,0
+sched_arr_time,1673,03:50 pm,3:50 pm
+sched_arr_time,1674,01:1s7 pm,011:7 pm
+sched_arr_time,1680,02:35 pm,0
+sched_arr_time,1682,02:45 pm,02:4q5 pm
+sched_arr_time,1700,08:05 pm,0
+sched_arr_time,1705,empty,04:17 pm
+sched_arr_time,1709,10:34 am,0
+sched_arr_time,1713,06:40 pm,0
+sched_arr_time,1719,0:35 pm,02:35 pm
+sched_arr_time,1739,07:53 pm,0
+sched_arr_time,1750,10:40 pm,01:40 pm
+sched_arr_time,1774,0c1:16 pm,01:16 pm
+sched_arr_time,1781,11:35 am,0
+sched_arr_time,1784,0:117 pm,011:7 pm
+sched_arr_time,1790,02:35 pm,0
+sched_arr_time,1809,08:05 pm,0
+sched_arr_time,1817,02:45 mp,02:45p m
+sched_arr_time,1819,50:50 am,05:50 am
+sched_arr_time,1823,10:34 am,0
+sched_arr_time,1824,11:50 am,0
+sched_arr_time,1830,06:40 pm,0
+sched_arr_time,1874,0:116 pm,01:16 pm
+sched_arr_time,1881,03:50 pm,03:5t0 pm
+sched_arr_time,1882,01:17 apm,011:7 pm
+sched_arr_time,1884,empty,04:57 pm
+sched_arr_time,1890,02:35 pm,0
+sched_arr_time,1892,02:45 pm,02:4q5 pm
+sched_arr_time,1901,11:35 am,0
+sched_arr_time,1907,07:03 am,07:30 am
+sched_arr_time,1909,08:05 pm,0
+sched_arr_time,1930,06:40 pm,0
+sched_arr_time,1949,06:40 am,0
+sched_arr_time,1954,11:55 am,0
+sched_arr_time,1955,empty,09:54 am
+sched_arr_time,1966,01:1r6 pm,01:16 pm
+sched_arr_time,1972,07:03 pm,0
+sched_arr_time,1973,11:35 am,0
+sched_arr_time,1975,03:50 pm,03:5t0 pm
+sched_arr_time,1976,01:7 pm,011:7 pm
+sched_arr_time,1982,02:35 pm,0
+sched_arr_time,1996,12:21 am,0
+sched_arr_time,2001,08:05 pm,0
+sched_arr_time,2004,09:45 pm,0
+sched_arr_time,2009,02:45 pm,02:4q5 pm
+sched_arr_time,2014,11:50 pm,0
+sched_arr_time,2015,10:34 am,0
+sched_arr_time,2020,09:43 agm,09:43 am
+sched_arr_time,2022,06:40 pm,0
+sched_arr_time,2024,empty,01:40 pm
+sched_arr_time,2044,empty,06:17 pm
+sched_arr_time,2060,11:19 am,0
+sched_arr_time,2063,05:35 am,0
+sched_arr_time,2066,01:16 qpm,01:16 pm
+sched_arr_time,2073,11:35 am,0
+sched_arr_time,2075,03:50 pm,03:5t0 pm
+sched_arr_time,2076,01i:17 pm,011:7 pm
+sched_arr_time,2077,09:20 m,09:20 am
+sched_arr_time,2082,02:35 pm,0
+sched_arr_time,2099,07:30 ma,07:30 am
+sched_arr_time,2101,08:05 pm,0
+sched_arr_time,2109,02:45 pm,02:4q5 pm
+sched_arr_time,2115,10:34 am,0
+sched_arr_time,2122,06:40 pm,0
+sched_arr_time,2152,01:17p m,011:7 pm
+sched_arr_time,2171,01:61 pm,01:16 pm
+sched_arr_time,2173,10:06 am,0
+sched_arr_time,2178,11:35 am,0
+sched_arr_time,2180,03:50 pm,03:5t0 pm
+sched_arr_time,2181,01:l17 pm,011:7 pm
+sched_arr_time,2187,02:35 pm,0
+sched_arr_time,2191,06:15 pim,06:15 pm
+sched_arr_time,2195,02:45 pm,0
+sched_arr_time,2206,08:05 pm,0
+sched_arr_time,2211,empty,10:31 am
+sched_arr_time,2212,empty,02:59 pm
+sched_arr_time,2214,02:45 pm,02:4q5 pm
+sched_arr_time,2220,10:34 am,0
+sched_arr_time,2227,06:40 pm,0
+sched_arr_time,2253,0:640 am,06:40 am
+sched_arr_time,2258,empty,10:15 pm
+sched_arr_time,2267,03:50 pm,3:50 pm
+sched_arr_time,2268,01:1 7pm,011:7 pm
+sched_arr_time,2274,02:35 pm,0
+sched_arr_time,2276,02:45 pm,02:4q5 pm
+sched_arr_time,2278,06:15 pm,0
+sched_arr_time,2284,empty,02:45 pm
+sched_arr_time,2289,03:15 pm,0
+sched_arr_time,2294,08:05 pm,0
+sched_arr_time,2303,10:34 am,0
+sched_arr_time,2307,06:40 pm,0
+sched_arr_time,2320,06:40 am,0
+sched_arr_time,2334,03:50 pm,3:50 pm
+sched_arr_time,2340,02:35 pm,0
+sched_arr_time,2342,02:45 pm,02:4q5 pm
+sched_arr_time,2343,empty,01:45 pm
+sched_arr_time,2351,07:30 am,0
+sched_arr_time,2375,06:40 am,0
+act_arr_time,5,02:50 pm,02:46 pm
+act_arr_time,9,04:09 pm,03:50 pm
+act_arr_time,15,03:30 pm,03:13 pm
+act_arr_time,18,11c:06 am,11:06 am
+act_arr_time,35,10:04 am,100:4 am
+act_arr_time,66,0:19 pm,01:19 pm
+act_arr_time,73,11:32 am,11:06 am
+act_arr_time,75,04:09 pm,03:50 pm
+act_arr_time,81,1:56 am,11:56 am
+act_arr_time,82,03:30 pm,03:13 pm
+act_arr_time,83,10:30 pm,01:30 pm
+act_arr_time,92,03:33 pm,06:40 pm
+act_arr_time,111,02:50 pm,02:46 pm
+act_arr_time,117,01:04 am,100:4 am
+act_arr_time,124,06:40 pm,06:15 pm
+act_arr_time,152,10:29 pm,06:40 pm
+act_arr_time,171,0:40 pm,01:40 pm
+act_arr_time,173,11:32 am,11:06 am
+act_arr_time,175,04:09 pm,03:50 pm
+act_arr_time,182,03:30 pm,03:13 pm
+act_arr_time,209,02:50 pm,02:46 pm
+act_arr_time,215,10:04am,100:4 am
+act_arr_time,222,06:40 pm,06:15 pm
+act_arr_time,227,0710 pm,07:10 pm
+act_arr_time,236,10:h16 am,10:16 am
+act_arr_time,238,0806 am,08:06 am
+act_arr_time,244,5:38 pm,05:38 pm
+act_arr_time,256,empty,07:25 pm
+act_arr_time,265,empty,01:19 pm
+act_arr_time,267,09:56 am,06:40 pm
+act_arr_time,270,04:09 pm,03:50 pm
+act_arr_time,278,03:30 pm,03:13 pm
+act_arr_time,282,empty,01:15 pm
+act_arr_time,287,11:32 am,11:06 am
+act_arr_time,306,10i:04 am,100:4 am
+act_arr_time,335,06:m19 am,06:19 am
+act_arr_time,358,01:40n pm,01:40 pm
+act_arr_time,360,11:32 am,11:06 am
+act_arr_time,362,04:09 pm,03:50 pm
+act_arr_time,369,03:30 pm,03:13 pm
+act_arr_time,398,02:50 pm,02:46 pm
+act_arr_time,404,10:04am,100:4 am
+act_arr_time,411,06:40 pm,06:15 pm
+act_arr_time,412,08:02am,08:02 am
+act_arr_time,434,empty,06:36 pm
+act_arr_time,460,11:32 am,11:06 am
+act_arr_time,462,04:09 pm,03:50 pm
+act_arr_time,468,empty,11:56 am
+act_arr_time,469,03:30 pm,03:13 pm
+act_arr_time,484,07:58 m,07:58 pm
+act_arr_time,488,07:55 tpm,07:55 pm
+act_arr_time,496,02:50 pm,02:46 pm
+act_arr_time,509,06:40 pm,06:15 pm
+act_arr_time,514,07:10 mp,07:10 pm
+act_arr_time,532,12:50 pm,06:40 pm
+act_arr_time,560,04:09 pm,03:50 pm
+act_arr_time,569,03:30 pm,03:13 pm
+act_arr_time,571,02:50 pm,02:46 pm
+act_arr_time,580,11:32 am,11:06 am
+act_arr_time,588,70:55 pm,07:55 pm
+act_arr_time,603,1:04 am,100:4 am
+act_arr_time,604,11:44 am***,11:44 am
+act_arr_time,609,06:40 pm,06:15 pm
+act_arr_time,614,empty,03:43 pm
+act_arr_time,628,06:19 am,06:40 pm
+act_arr_time,648,empty,09:45 am
+act_arr_time,652,11:32 am,11:06 am
+act_arr_time,654,04:09 pm,03:50 pm
+act_arr_time,661,03:30 pm,03:13 pm
+act_arr_time,673,07:52 pm,07:25 pm
+act_arr_time,680,0755 pm,07:55 pm
+act_arr_time,685,empty,10:47 am
+act_arr_time,688,02:50 pm,02:46 pm
+act_arr_time,700,empty,05:11 am
+act_arr_time,701,06:40 pm,06:15 pm
+act_arr_time,720,empty,02:27 pm
+act_arr_time,733,empty,11:58 am
+act_arr_time,734,09:3 am,09:43 am
+act_arr_time,741,02:50 pm,02:46 pm
+act_arr_time,744,01:27 pm,06:40 pm
+act_arr_time,745,04:09 pm,03:50 pm
+act_arr_time,751,03:30 pm,03:13 pm
+act_arr_time,765,07:5 pm,07:55 pm
+act_arr_time,770,empty,04:23 pm
+act_arr_time,774,1z1:50 pm,11:50 pm
+act_arr_time,775,10:04 adm,100:4 am
+act_arr_time,780,06:40 pm,06:15 pm
+act_arr_time,781,11:32 am,11:06 am
+act_arr_time,790,empty,07:40 am
+act_arr_time,794,01:04 am,100:4 am
+act_arr_time,799,03:30 pm,03:13 pm
+act_arr_time,801,04:09 pm,03:50 pm
+act_arr_time,803,empty,07:39 pm
+act_arr_time,808,06:55 lam,06:55 am
+act_arr_time,831,07:39 pm,06:40 pm
+act_arr_time,833,07o:10 pm,07:10 pm
+act_arr_time,834,11:32 am,11:06 am
+act_arr_time,836,04:09 pm,03:50 pm
+act_arr_time,843,03:30 pm,03:13 pm
+act_arr_time,848,10:15 pm,01:15 pm
+act_arr_time,850,empty,09:52 pm
+act_arr_time,862,0:55 pm,07:55 pm
+act_arr_time,870,02:50 pm,02:46 pm
+act_arr_time,876,01:04 am,100:4 am
+act_arr_time,883,06:40 pm,06:15 pm
+act_arr_time,924,03:30 pm,03:13 pm
+act_arr_time,931,8:53 pm,08:53 pm
+act_arr_time,949,06:40 pm,06:15 pm
+act_arr_time,954,11:32 am,11:06 am
+act_arr_time,959,11:0z1 am,11:01 am
+act_arr_time,1001,2:50 pm,02:50 pm
+act_arr_time,1002,empty,06:28 pm
+act_arr_time,1007,empty,04:09 pm
+act_arr_time,1016,03:30 pm,03:13 pm
+act_arr_time,1024,11:32 am,11:06 am
+act_arr_time,1031,06:3 pm,06:38 pm
+act_arr_time,1040,0:04 am,100:4 am
+act_arr_time,1056,empty,01:43 pm
+act_arr_time,1093,11:32 am,11:06 am
+act_arr_time,1102,03:30 pm,03:13 pm
+act_arr_time,1121,0755 pm,07:55 pm
+act_arr_time,1124,z09:53 pm,09:53 pm
+act_arr_time,1129,02:50 pm,02:46 pm
+act_arr_time,1135,10:04 aim,0:04 am
+act_arr_time,1142,06:40 pm,06:15 pm
+act_arr_time,1143,empty,08:02 am
+act_arr_time,1227,empty,11:58 am
+act_arr_time,1243,n07:39 pm,07:39 pm
+act_arr_time,1246,11:32 am,11:06 am
+act_arr_time,1248,04:09 pm,03:50 pm
+act_arr_time,1255,03:30 pm,03:13 pm
+act_arr_time,1269,0316 pm,03:16 pm
+act_arr_time,1272,empty,12:09 pm
+act_arr_time,1275,07:55 pm***,07:55 pm
+act_arr_time,1284,02:50 pm,02:46 pm
+act_arr_time,1289,empty,11:50 pm
+act_arr_time,1290,10:04am,100:4 am
+act_arr_time,1297,06:40 pm,06:15 pm
+act_arr_time,1300,09:20 mp,09:20 pm
+act_arr_time,1304,empty,03:43 pm
+act_arr_time,1346,11:32 am,11:06 am
+act_arr_time,1348,04:09 pm,03:50 pm
+act_arr_time,1355,03:30 pm,03:13 pm
+act_arr_time,1374,075:5 pm,07:55 pm
+act_arr_time,1382,02:50 pm,02:46 pm
+act_arr_time,1394,06:40 pm,06:15 pm
+act_arr_time,1418,empty,07:40 am
+act_arr_time,1423,04:09 pm,03:50 pm
+act_arr_time,1429,01:14 pm,06:40 pm
+act_arr_time,1438,empty,06:34 pm
+act_arr_time,1442,06:40 pm,06:15 pm
+act_arr_time,1445,11:32 am,11:06 am
+act_arr_time,1457,02:50 pm,02:46 pm
+act_arr_time,1481,04:09 pm,03:50 pm
+act_arr_time,1510,11:32 am,11:06 am
+act_arr_time,1512,04:09 pm,03:50 pm
+act_arr_time,1519,03:30 pm,03:13 pm
+act_arr_time,1524,01o:15 pm,01:15 pm
+act_arr_time,1539,0:755 pm,07:55 pm
+act_arr_time,1548,02:50 pm,02:46 pm
+act_arr_time,1554,1:04 am,100:4 am
+act_arr_time,1560,empty,05:11 am
+act_arr_time,1561,06:40 pm,06:15 pm
+act_arr_time,1569,empty,05:43 pm
+act_arr_time,1588,10:30 pm,06:40 pm
+act_arr_time,1605,empty,03:21 pm
+act_arr_time,1608,x01:15 pm,01:15 pm
+act_arr_time,1613,07:55p m,07:55 pm
+act_arr_time,1621,10:4 am,100:4 am
+act_arr_time,1637,0740 am,07:40 am
+act_arr_time,1648,empty,04:23 pm
+act_arr_time,1649,02:50 pm,02:46 pm
+act_arr_time,1665,0m9:43 am,09:43 am
+act_arr_time,1666,1:30 pm,10:30 pm
+act_arr_time,1673,04:09 pm,03:50 pm
+act_arr_time,1680,03:30 pm,03:13 pm
+act_arr_time,1682,02:50 pm,02:46 pm
+act_arr_time,1700,g07:55 pm,07:55 pm
+act_arr_time,1705,04:17 pm,06:40 pm
+act_arr_time,1709,s10:04 am,100:4 am
+act_arr_time,1713,06:40 pm,06:15 pm
+act_arr_time,1739,empty,07:58 pm
+act_arr_time,1781,11:32 am,11:06 am
+act_arr_time,1790,03:30 pm,03:13 pm
+act_arr_time,1809,07:55pm,07:55 pm
+act_arr_time,1817,02:5 pm,02:50 pm
+act_arr_time,1819,0:550 am,05:50 am
+act_arr_time,1823,0:04 am,01:04 am
+act_arr_time,1824,empty,11:44 am
+act_arr_time,1830,06:40 pm,06:15 pm
+act_arr_time,1881,04:09 pm,03:50 pm
+act_arr_time,1884,05:05 pm,06:40 pm
+act_arr_time,1890,03:30 pm,03:13 pm
+act_arr_time,1892,02:50 pm,02:46 pm
+act_arr_time,1901,11:32 am,11:06 am
+act_arr_time,1909,07:55 hpm,07:55 pm
+act_arr_time,1924,10:04 ma,100:4 am
+act_arr_time,1930,06:40 pm,06:15 pm
+act_arr_time,1949,empty,06:19 am
+act_arr_time,1954,empty,11:58 am
+act_arr_time,1955,09:43 am,06:40 pm
+act_arr_time,1972,7:10 pm,07:10 pm
+act_arr_time,1973,11:32 am,11:06 am
+act_arr_time,1975,04:09 pm,03:50 pm
+act_arr_time,1982,03:30 pm,03:13 pm
+act_arr_time,1996,12:2 am,12:21 am
+act_arr_time,2001,07:55 pgm,07:55 pm
+act_arr_time,2004,09:53 mp,09:53 pm
+act_arr_time,2009,02:50 pm,02:46 pm
+act_arr_time,2014,empty,11:50 pm
+act_arr_time,2015,10:0 4am,100:4 am
+act_arr_time,2022,06:40 pm,06:15 pm
+act_arr_time,2060,empty,11:21 am
+act_arr_time,2063,05:26 ma,05:26 am
+act_arr_time,2073,11:32 am,11:06 am
+act_arr_time,2075,04:09 pm,03:50 pm
+act_arr_time,2082,03:30s pm,03:13 pm
+act_arr_time,2101,07:5 pm,07:55 pm
+act_arr_time,2109,02:50 pm,02:46 pm
+act_arr_time,2115,10:0s4 am,100:4 am
+act_arr_time,2122,06:40 pm,06:15 pm
+act_arr_time,2173,empty,09:56 am
+act_arr_time,2178,11:32 am,11:06 am
+act_arr_time,2180,04:09 pm,03:50 pm
+act_arr_time,2187,03:30 pm,03:13 pm
+act_arr_time,2195,empty,02:46 pm
+act_arr_time,2206,0z7:55 pm,07:55 pm
+act_arr_time,2211,10:47 am,06:40 pm
+act_arr_time,2212,03:04 pm,06:40 pm
+act_arr_time,2214,02:50 pm,02:46 pm
+act_arr_time,2220,0:04 am,100:4 am
+act_arr_time,2227,06:40 pm,06:15 pm
+act_arr_time,2258,10:29 pm,06:40 pm
+act_arr_time,2267,04:09 pm,03:50 pm
+act_arr_time,2274,03:30 pm,03:13 pm
+act_arr_time,2276,02:50 pm,02:46 pm
+act_arr_time,2278,empty,05:42 pm
+act_arr_time,2284,0:246 pm,02:46 pm
+act_arr_time,2289,empty,03:16 pm
+act_arr_time,2294,07:55 mp,07:55 pm
+act_arr_time,2303,10c:04 am,100:4 am
+act_arr_time,2307,06:40 pm,06:15 pm
+act_arr_time,2320,06:1b9 am,06:19 am
+act_arr_time,2334,04:09 pm,03:50 pm
+act_arr_time,2340,03:30 pm,03:13 pm
+act_arr_time,2342,02:50 pm,02:46 pm
+act_arr_time,2343,01:15 pm,06:40 pm
+act_arr_time,2351,empty,07:51 am
+act_arr_time,2360,10:w04 am,100:4 am
+act_arr_time,2375,empty,06:19 am

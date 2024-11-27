@@ -1,0 +1,41 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+sched_dep_time,215,06:5 am,07:10 am,06:59 am
+sched_dep_time,440,empty,06:10 am,06:40 am
+sched_dep_time,633,empty,06:10 am,08:00 am
+sched_dep_time,704,08:2 pm,07:10 am,08:20 pm
+sched_dep_time,907,empty,06:10 am,06:45 am
+sched_dep_time,1040,06:5 am,07:10 am,06:59 am
+sched_dep_time,1121,04:5 pm,07:10 am,04:55 pm
+sched_dep_time,1194,empty,06:10 am,01:55 pm
+sched_dep_time,1280,empty,06:10 am,10:25 am
+sched_dep_time,1476,empty,06:10 am,07:10 am
+sched_dep_time,1525,empty,06:10 am,05:25 pm
+sched_dep_time,1866,empty,06:10 am,06:30 pm
+sched_dep_time,1904,empty,06:10 am,07:15 pm
+sched_dep_time,2033,empty,06:10 am,07:55 am
+sched_dep_time,2280,empty,06:10 am,05:25 pm
+act_dep_time,198,empty,06:10 am,09:14 am
+act_dep_time,350,empty,06:10 am,12:41 am
+act_dep_time,730,empty,06:10 am,07:16 am
+act_dep_time,917,empty,06:10 am,12:41 am
+act_dep_time,1121,05:8 pm,07:10 am,05:08 pm
+act_dep_time,1529,empty,06:10 am,03:36 pm
+act_dep_time,1580,empty,06:10 am,03:31 pm
+act_dep_time,1860,empty,06:10 am,07:14 pm
+act_dep_time,1909,05:08h pm,03:14 pm,05:08 pm
+act_dep_time,1955,empty,06:10 am,08:42 am
+act_dep_time,2152,empty,06:10 am,11:56 am
+act_dep_time,2267,empty,06:10 am,12:12 pm
+act_dep_time,2294,05:08f pm,03:14 pm,05:08 pm
+act_arr_time,209,empty,06:10 am,02:50 pm
+act_arr_time,701,empty,06:10 am,06:40 pm
+act_arr_time,871,empty,06:10 am,04:17 pm
+act_arr_time,938,empty,06:10 am,06:34 pm
+act_arr_time,1473,empty,06:10 am,10:16 am
+act_arr_time,1495,empty,06:10 am,03:31 pm
+act_arr_time,1627,empty,06:10 am,09:20 pm
+act_arr_time,1688,09:52 m,11:50 pm,09:52 pm
+act_arr_time,1741,empty,06:10 am,07:36 pm
+act_arr_time,1837,empty,06:10 am,03:43 pm
+act_arr_time,2075,empty,06:10 am,04:09 pm
+act_arr_time,2368,empty,06:10 am,03:13 pm

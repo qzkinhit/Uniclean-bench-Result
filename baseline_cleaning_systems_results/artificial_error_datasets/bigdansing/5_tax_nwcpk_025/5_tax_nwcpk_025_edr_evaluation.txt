@@ -1,0 +1,114 @@
+Attribute: tno
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: fname
+Distance (Dirty to Clean): 0
+<<<<<<< HEAD
+Distance (Repaired to Clean): 4
+=======
+Distance (Repaired to Clean): 10
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+========================================
+Attribute: lname
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: gender
+<<<<<<< HEAD
+Distance (Dirty to Clean): 12
+Distance (Repaired to Clean): 12
+========================================
+Attribute: areacode
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 13
+=======
+Distance (Dirty to Clean): 22
+Distance (Repaired to Clean): 21
+========================================
+Attribute: areacode
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 19
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+========================================
+Attribute: phone
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: city
+<<<<<<< HEAD
+Distance (Dirty to Clean): 11
+Distance (Repaired to Clean): 11
+========================================
+Attribute: state
+Distance (Dirty to Clean): 10
+Distance (Repaired to Clean): 9
+========================================
+Attribute: zip
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 46
+========================================
+Attribute: maritalstatus
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 3
+=======
+Distance (Dirty to Clean): 18
+Distance (Repaired to Clean): 18
+========================================
+Attribute: state
+Distance (Dirty to Clean): 14
+Distance (Repaired to Clean): 8
+========================================
+Attribute: zip
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 73
+========================================
+Attribute: maritalstatus
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 1
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+========================================
+Attribute: haschild
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 1
+========================================
+Attribute: salary
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: rate
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: singleexemp
+<<<<<<< HEAD
+Distance (Dirty to Clean): 11
+Distance (Repaired to Clean): 11
+========================================
+Attribute: marriedexemp
+Distance (Dirty to Clean): 4
+Distance (Repaired to Clean): 5
+========================================
+Attribute: childexemp
+Distance (Dirty to Clean): 10
+Distance (Repaired to Clean): 4
+========================================
+总的脏数据到干净数据距离: 58
+总的修复后数据到干净数据距离: 119
+错误减少率 (EDR): -1.0517241379310345
+=======
+Distance (Dirty to Clean): 16
+Distance (Repaired to Clean): 14
+========================================
+Attribute: marriedexemp
+Distance (Dirty to Clean): 36
+Distance (Repaired to Clean): 40
+========================================
+Attribute: childexemp
+Distance (Dirty to Clean): 14
+Distance (Repaired to Clean): 8
+========================================
+总的脏数据到干净数据距离: 120
+总的修复后数据到干净数据距离: 213
+错误减少率 (EDR): -0.775
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb

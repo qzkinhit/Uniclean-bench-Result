@@ -1,0 +1,22 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,305,callahan eye foundation hspital,callahan eye foundation hospital
+HospitalName,306,callahan eye fuondation hospital,callahan eye foundation hospital
+HospitalName,314,stringfellow meumorial hospital,stringfellow memorial hospital
+ZipCode,296,32533,35233
+PhoneNumber,3,2035258100,2053258100
+HospitalOwner,21,government - hospital district or auhtority,government - hospital district or authority
+EmergencyService,992,yse,yes
+Condition,41,surgical infection prevefntion,surgical infection prevention
+Condition,66,surgical infectin prevention,surgical infection prevention
+Condition,239,surgicla infection prevention,surgical infection prevention
+Condition,255,hart failure,heart failure
+Condition,820,syurgical infection prevention,surgical infection prevention
+MeasureName,39,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,40,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,60,pneumonia patents given the most appropriate initial antibiotic(s),pneumonia patients given the most appropriate initial antibiotic(s)
+MeasureName,567,heart attack patients given taspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,848,surgery patients whose preventive antibiotics were stopped at the right time (withni 24 hours after surgery),surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,956,heart attack patients gven aspirin at arrival,heart attack patients given aspirin at arrival
+Stateavg,597,al_mi-7a,al_ami-7a
+Stateavg,779,al_mi-2,al_ami-2
+Stateavg,804,al_mai-2,al_ami-2

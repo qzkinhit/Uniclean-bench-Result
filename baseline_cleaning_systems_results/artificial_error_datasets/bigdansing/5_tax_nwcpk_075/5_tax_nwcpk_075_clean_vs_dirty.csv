@@ -1,0 +1,606 @@
+Attribute,Index,Clean Value,Dirty Value
+<<<<<<< HEAD
+gender,1060,m,empty
+gender,1371,m,am
+=======
+gender,39,m,empty
+gender,1060,m,empty
+gender,1371,m,am
+gender,1607,f,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,1900,f,tf
+gender,1940,m,empty
+gender,1950,f,empty
+gender,2108,f,cf
+gender,2574,f,empty
+gender,2599,m,empty
+gender,3453,m,***
+gender,3659,m,rm
+gender,4114,f,empty
+gender,4208,m,empty
+gender,5084,f,empty
+gender,5563,m,***
+<<<<<<< HEAD
+gender,6276,f,empty
+gender,6805,f,empty
+gender,6825,m,nm
+=======
+gender,5767,m,qm
+gender,6276,f,empty
+gender,6805,f,empty
+gender,6825,m,nm
+gender,6857,f,empty
+gender,7060,m,empty
+gender,7236,m,sm
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,7335,m,empty
+gender,7343,f,empty
+gender,7845,f,empty
+gender,7966,m,empty
+gender,8972,m,empty
+<<<<<<< HEAD
+=======
+gender,9135,f,tf
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,9184,f,***
+gender,9307,f,***
+gender,9425,f,***
+gender,9593,m,dm
+<<<<<<< HEAD
+gender,9885,f,ef
+gender,9902,m,empty
+gender,10234,m,empty
+=======
+gender,9619,f,empty
+gender,9833,f,empty
+gender,9885,f,ef
+gender,9902,m,empty
+gender,10234,m,empty
+gender,10364,m,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,10499,f,xf
+gender,10917,f,empty
+gender,10989,f,gf
+gender,11047,m,empty
+gender,11119,m,empty
+gender,11207,f,empty
+gender,11294,f,***
+<<<<<<< HEAD
+gender,11755,f,empty
+gender,11794,f,ef
+gender,11876,m,empty
+gender,12349,m,empty
+gender,13321,f,empty
+gender,13542,f,empty
+gender,13566,f,cf
+gender,13723,m,empty
+gender,14240,f,empty
+gender,14552,f,***
+gender,15232,m,***
+=======
+gender,11688,f,empty
+gender,11755,f,empty
+gender,11794,f,ef
+gender,11876,m,empty
+gender,11885,f,qf
+gender,12349,m,empty
+gender,12529,m,empty
+gender,12627,f,wf
+gender,13321,f,empty
+gender,13495,f,pf
+gender,13542,f,empty
+gender,13566,f,cf
+gender,13723,m,empty
+gender,14004,m,empty
+gender,14048,m,empty
+gender,14102,m,empty
+gender,14240,f,empty
+gender,14287,f,empty
+gender,14315,m,empty
+gender,14552,f,***
+gender,14750,f,lf
+gender,15232,m,***
+gender,15280,f,***
+gender,15306,f,af
+gender,15385,f,***
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,15812,f,empty
+gender,16241,f,***
+gender,16452,f,gf
+gender,16747,m,empty
+gender,17005,f,ff
+<<<<<<< HEAD
+=======
+gender,17158,f,empty
+gender,17164,f,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,17367,m,empty
+gender,17496,m,empty
+gender,17802,f,empty
+gender,17825,f,empty
+gender,18316,f,wf
+<<<<<<< HEAD
+=======
+gender,18892,f,***
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,18948,m,empty
+gender,19245,f,***
+gender,19368,f,empty
+gender,19435,f,empty
+city,279,cumberland,cumberlamnd
+<<<<<<< HEAD
+city,2929,raymond,raymonbd
+city,3738,newbury,empty
+city,3905,rio grande,iro grande
+city,4091,east derry,empty
+=======
+city,1027,fabyan,empty
+city,2805,coventry,covenry
+city,2929,raymond,raymonbd
+city,3348,danbury,dnabury
+city,3367,hartford,empty
+city,3387,gaylordsville,gaylordsvixlle
+city,3738,newbury,empty
+city,3905,rio grande,iro grande
+city,4091,east derry,empty
+city,4273,belvidere center,empty
+city,4343,windsor locks,empty
+city,4766,danbury,danbuyr
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+city,4960,dover,dver
+city,5395,eastport,eastyport
+city,5571,ceiba,empty
+city,5756,dennysville,dennybsville
+city,5867,weare,weaer
+city,5963,westport,wetport
+<<<<<<< HEAD
+city,7033,penobscot,empty
+city,7700,patillas,patilas
+city,7744,winchendon springs,empty
+city,9038,dorado,doraod
+city,9554,suncook,empty
+=======
+city,6235,cuttingsville,cuttingsville***
+city,7033,penobscot,empty
+city,7700,patillas,patilas
+city,7744,winchendon springs,empty
+city,8178,hydeville,zhydeville
+city,9038,dorado,doraod
+city,9293,deal,dal
+city,9554,suncook,empty
+city,9561,hoboken,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+city,9820,guaynabo,uguaynabo
+city,10011,prudence island,empty
+city,10361,stinson lake,stinson laek
+city,10413,dixmont,daixmont
+<<<<<<< HEAD
+city,10468,eustis,eiustis
+city,10776,deerfield,deerfoield
+=======
+city,10435,killington,empty
+city,10468,eustis,eiustis
+city,10776,deerfield,deerfoield
+city,11159,hawthorne,hawthaorne
+city,11676,unionville,empty
+city,11848,demarest,demaredst
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+city,12347,concord,empty
+city,12407,dover,doer
+city,12701,north woodstock,empty
+city,12731,quechee,empty
+city,12814,devens,empty
+city,12820,fryeburg,fryebugr
+city,12841,coto laurel,cotuo laurel
+city,13021,deerfield,deerield
+city,13121,dorado,droado
+city,13158,center tuftonboro,center truftonboro
+city,13211,little compton,empty
+city,14881,marstons mills,empty
+city,14962,aguadilla,empty
+city,15331,bedford,empty
+city,15528,royalston,royalsotn
+city,16236,nashua,nahsua
+city,16253,dennysville,dennysvillte
+<<<<<<< HEAD
+city,16922,orocovis,rocovis
+city,18218,aguadilla,aguadila
+city,19202,forestdale,forsetdale
+city,19880,leeds,empty
+state,1305,me,em
+state,1517,ri,ir
+state,1736,nh,empty
+=======
+city,16780,danville,danvilel
+city,16814,danville,danvile
+city,16922,orocovis,rocovis
+city,17144,danbury,dabnury
+city,17961,danville,danvilel
+city,17989,montclair,empty
+city,18218,aguadilla,aguadila
+city,19202,forestdale,forsetdale
+city,19880,leeds,empty
+state,1155,ct,empty
+state,1305,me,em
+state,1426,vt,tv
+state,1517,ri,ir
+state,1736,nh,empty
+state,2646,ct,lct
+state,3271,ct,t
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+state,3587,ri,fri
+state,3659,ri,empty
+state,3753,nh,h
+state,3770,ri,mri
+state,3983,me,em
+state,4114,nh,cnh
+<<<<<<< HEAD
+=======
+state,4976,nj,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+state,5262,ma,empty
+state,5326,la,al
+state,5563,ri,i
+state,5867,nh,empty
+state,6020,me,kme
+<<<<<<< HEAD
+state,6921,me,qme
+state,7690,pr,empty
+state,10162,ri,empty
+state,10868,pr,jpr
+state,12533,ma,am
+state,12593,pr,empty
+state,13021,nh,empty
+state,14807,me,empty
+state,14890,ma,empty
+state,16418,pr,rp
+state,16494,me,empty
+state,16868,ri,i
+state,16910,nh,njh
+state,17193,me,mqe
+state,18252,ri,ir
+state,18696,pr,empty
+state,19028,pr,r
+state,19235,ma,empty
+state,19610,ma,am
+rate,518,6.9580293000000015,6.9580293
+rate,873,6.9580293000000015,6.9580293
+rate,1813,6.9580293000000015,6.9580293
+rate,1950,6.9580293000000015,6.9580293
+rate,4578,6.9580293000000015,6.9580293
+rate,5284,6.9580293000000015,6.9580293
+rate,5327,6.047202599999999,6.0472026
+rate,5756,6.9580293000000015,6.9580293
+rate,7453,6.9580293000000015,6.9580293
+rate,7813,4.497285400000001,4.4972854
+rate,8529,6.9580293000000015,6.9580293
+rate,10078,6.9580293000000015,6.9580293
+rate,10577,6.9580293000000015,6.9580293
+rate,10865,6.9580293000000015,6.9580293
+rate,12252,6.9580293000000015,6.9580293
+rate,14002,6.9580293000000015,6.9580293
+rate,15396,4.497285400000001,4.4972854
+rate,17289,6.9580293000000015,6.9580293
+rate,17757,6.9580293000000015,6.9580293
+rate,18596,6.9580293000000015,6.9580293
+rate,19756,6.9580293000000015,6.9580293
+singleexemp,2209,0,empty
+singleexemp,2599,0,empty
+=======
+state,6580,nj,empty
+state,6921,me,qme
+state,7690,pr,empty
+state,7931,ct,empty
+state,7991,vt,tv
+state,10162,ri,empty
+state,10868,pr,jpr
+state,11885,nj,nij
+state,12533,ma,am
+state,12593,pr,empty
+state,13021,nh,empty
+state,13251,nj,j
+state,13462,vt,t
+state,14320,ct,jct
+state,14807,me,empty
+state,14850,nj,empty
+state,14885,nj,empty
+state,14890,ma,empty
+state,15030,nj,empty
+state,15440,vt,empty
+state,15581,vt,empty
+state,16214,nj,fnj
+state,16418,pr,rp
+state,16494,me,empty
+state,16629,nj,nlj
+state,16868,ri,i
+state,16910,nh,njh
+state,17115,nj,nsj
+state,17193,me,mqe
+state,17492,vt,empty
+state,18252,ri,ir
+state,18696,pr,empty
+state,18846,nj,j
+state,18853,nj,nqj
+state,19028,pr,r
+state,19235,ma,empty
+state,19535,nj,jn
+state,19598,nj,nzj
+state,19610,ma,am
+state,19648,nj,jn
+state,19721,nj,jn
+rate,5327,6.0472025999999985,6.047202599999999
+singleexemp,2199,1000,100
+singleexemp,2209,0,empty
+singleexemp,2528,3300,300
+singleexemp,2599,0,empty
+singleexemp,2864,0,***
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+singleexemp,3128,0,empty
+singleexemp,3315,0,***
+singleexemp,3354,3575,empty
+singleexemp,3391,0,empty
+<<<<<<< HEAD
+singleexemp,4325,3300,e3300
+=======
+singleexemp,3603,12750,empty
+singleexemp,4325,3300,e3300
+singleexemp,5058,12750,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+singleexemp,5327,0,empty
+singleexemp,5332,0,***
+singleexemp,5587,0,empty
+singleexemp,5690,0,***
+singleexemp,5987,0,empty
+singleexemp,6019,0,j0
+singleexemp,6451,0,empty
+singleexemp,6455,0,e0
+singleexemp,6566,0,empty
+singleexemp,6921,2850,empty
+singleexemp,7085,0,empty
+<<<<<<< HEAD
+singleexemp,7966,0,***
+singleexemp,8130,0,empty
+singleexemp,8614,0,g0
+singleexemp,10066,3575,b3575
+singleexemp,10118,0,empty
+singleexemp,11222,2850,empty
+singleexemp,11866,0,***
+singleexemp,11876,3575,3i575
+singleexemp,13370,0,***
+singleexemp,13472,0,empty
+singleexemp,13825,3300,empty
+singleexemp,14416,2850,850
+singleexemp,15017,3575,empty
+singleexemp,16139,0,empty
+singleexemp,16513,0,empty
+singleexemp,16606,0,empty
+=======
+singleexemp,7418,1000,empty
+singleexemp,7426,12750,12570
+singleexemp,7548,3300,300
+singleexemp,7966,0,***
+singleexemp,8130,0,empty
+singleexemp,8614,0,g0
+singleexemp,9025,0,empty
+singleexemp,9591,0,m0
+singleexemp,10066,3575,b3575
+singleexemp,10118,0,empty
+singleexemp,10287,0,m0
+singleexemp,11222,2850,empty
+singleexemp,11866,0,***
+singleexemp,11876,3575,3i575
+singleexemp,12227,0,empty
+singleexemp,13370,0,***
+singleexemp,13472,0,empty
+singleexemp,13492,0,empty
+singleexemp,13710,1000,1n000
+singleexemp,13825,3300,empty
+singleexemp,14004,0,empty
+singleexemp,14416,2850,850
+singleexemp,15017,3575,empty
+singleexemp,15581,0,empty
+singleexemp,15805,0,s0
+singleexemp,16139,0,empty
+singleexemp,16513,0,empty
+singleexemp,16606,0,empty
+singleexemp,16622,0,empty
+singleexemp,17164,12750,1270
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+singleexemp,17352,0,empty
+singleexemp,17664,0,empty
+singleexemp,17818,0,empty
+singleexemp,17951,0,***
+singleexemp,18394,0,empty
+singleexemp,18772,0,***
+<<<<<<< HEAD
+marriedexemp,502,7150,7105
+marriedexemp,835,7150,y7150
+marriedexemp,1070,0,empty
+marriedexemp,4435,0,empty
+marriedexemp,4982,0,***
+=======
+singleexemp,18989,0,r0
+marriedexemp,135,24500,empty
+marriedexemp,502,7150,7105
+marriedexemp,835,7150,y7150
+marriedexemp,1070,0,empty
+marriedexemp,2427,0,empty
+marriedexemp,3746,0,empty
+marriedexemp,4435,0,empty
+marriedexemp,4952,0,***
+marriedexemp,4982,0,***
+marriedexemp,5621,0,***
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,5690,0,***
+marriedexemp,5738,0,empty
+marriedexemp,6280,6600,empty
+marriedexemp,6390,7150,710
+marriedexemp,6923,0,empty
+<<<<<<< HEAD
+=======
+marriedexemp,7324,0,x0
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,7425,0,empty
+marriedexemp,7503,0,***
+marriedexemp,7744,7150,empty
+marriedexemp,7966,0,empty
+marriedexemp,8404,0,***
+marriedexemp,8477,0,empty
+marriedexemp,8565,0,empty
+<<<<<<< HEAD
+=======
+marriedexemp,8609,2000,empty
+marriedexemp,8655,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,8814,0,z0
+marriedexemp,8866,0,empty
+marriedexemp,9902,0,empty
+marriedexemp,9930,0,empty
+marriedexemp,10318,0,empty
+marriedexemp,10728,0,***
+marriedexemp,11199,0,h0
+marriedexemp,11817,0,***
+<<<<<<< HEAD
+marriedexemp,12900,0,empty
+marriedexemp,12989,0,v0
+marriedexemp,13191,0,***
+marriedexemp,13321,0,empty
+marriedexemp,13697,0,a0
+marriedexemp,14265,0,empty
+marriedexemp,14851,0,g0
+marriedexemp,14862,0,d0
+marriedexemp,14891,0,empty
+=======
+marriedexemp,12004,2000,empty
+marriedexemp,12086,0,f0
+marriedexemp,12900,0,empty
+marriedexemp,12989,0,v0
+marriedexemp,13051,0,empty
+marriedexemp,13191,0,***
+marriedexemp,13321,0,empty
+marriedexemp,13697,0,a0
+marriedexemp,13957,24500,245n00
+marriedexemp,14001,0,i0
+marriedexemp,14265,0,empty
+marriedexemp,14657,0,empty
+marriedexemp,14851,0,g0
+marriedexemp,14862,0,d0
+marriedexemp,14891,0,empty
+marriedexemp,15046,0,g0
+marriedexemp,15113,0,empty
+marriedexemp,15352,0,empty
+marriedexemp,15530,6600,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,15571,0,empty
+marriedexemp,15593,0,***
+marriedexemp,15919,0,i0
+marriedexemp,16144,0,k0
+marriedexemp,16241,0,empty
+<<<<<<< HEAD
+=======
+marriedexemp,16375,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,16497,0,empty
+marriedexemp,16556,0,empty
+marriedexemp,16606,0,q0
+marriedexemp,16765,0,empty
+marriedexemp,17049,0,q0
+<<<<<<< HEAD
+=======
+marriedexemp,17101,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,17272,0,empty
+marriedexemp,17307,0,empty
+marriedexemp,17352,0,x0
+marriedexemp,17802,0,empty
+marriedexemp,17818,0,d0
+<<<<<<< HEAD
+=======
+marriedexemp,17911,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,17951,0,empty
+marriedexemp,17985,5700,5700***
+marriedexemp,18606,0,empty
+marriedexemp,18772,0,empty
+<<<<<<< HEAD
+=======
+marriedexemp,18924,2000,empty
+marriedexemp,19446,0,***
+marriedexemp,19794,2000,2q000
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+marriedexemp,19952,0,***
+childexemp,1064,0,empty
+childexemp,1071,0,empty
+childexemp,1770,0,***
+<<<<<<< HEAD
+=======
+childexemp,2200,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,2768,0,empty
+childexemp,3061,0,empty
+childexemp,4790,0,empty
+childexemp,4822,0,empty
+childexemp,5368,2850,empty
+childexemp,5376,0,***
+childexemp,5690,0,y0
+childexemp,7949,0,b0
+<<<<<<< HEAD
+=======
+childexemp,8216,3300,33c00
+childexemp,8658,0,empty
+childexemp,9261,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,9377,2850,empty
+childexemp,9490,0,z0
+childexemp,9531,0,w0
+childexemp,9607,2850,280
+<<<<<<< HEAD
+childexemp,10451,0,empty
+=======
+childexemp,9866,3300,empty
+childexemp,10088,1500,1500***
+childexemp,10451,0,empty
+childexemp,10529,1500,empty
+childexemp,11077,0,***
+childexemp,11090,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,11277,0,***
+childexemp,11345,2850,empty
+childexemp,11397,0,***
+childexemp,11978,0,empty
+childexemp,12028,0,empty
+childexemp,12063,1000,0
+childexemp,12651,2850,empty
+childexemp,12804,0,empty
+childexemp,13118,0,***
+childexemp,13150,0,empty
+childexemp,13332,0,p0
+<<<<<<< HEAD
+childexemp,14311,0,w0
+=======
+childexemp,14039,0,empty
+childexemp,14311,0,w0
+childexemp,15311,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,15485,0,k0
+childexemp,16606,0,***
+childexemp,16777,0,empty
+childexemp,17352,0,empty
+childexemp,17829,0,empty
+childexemp,17951,0,r0
+<<<<<<< HEAD
+=======
+childexemp,17998,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,18717,0,empty
+childexemp,18774,0,empty
+childexemp,18847,1000,empty
+childexemp,18978,0,empty
+childexemp,19256,0,empty
+childexemp,19368,3300,empty
+childexemp,19435,0,m0
+<<<<<<< HEAD
+=======
+childexemp,19535,0,empty
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,19864,1000,1000***

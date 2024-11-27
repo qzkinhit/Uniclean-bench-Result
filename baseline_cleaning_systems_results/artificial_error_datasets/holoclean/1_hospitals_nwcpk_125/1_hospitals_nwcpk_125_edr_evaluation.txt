@@ -1,0 +1,83 @@
+Attribute: index
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: ProviderNumber
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: HospitalName
+Distance (Dirty to Clean): 80
+Distance (Repaired to Clean): 69
+========================================
+Attribute: Address1
+Distance (Dirty to Clean): 26
+Distance (Repaired to Clean): 7
+========================================
+Attribute: Address2
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: Address3
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: City
+Distance (Dirty to Clean): 35
+Distance (Repaired to Clean): 15
+========================================
+Attribute: State
+Distance (Dirty to Clean): 32
+Distance (Repaired to Clean): 20
+========================================
+Attribute: ZipCode
+Distance (Dirty to Clean): 39
+Distance (Repaired to Clean): 16
+========================================
+Attribute: CountyName
+Distance (Dirty to Clean): 29
+Distance (Repaired to Clean): 1
+========================================
+Attribute: PhoneNumber
+Distance (Dirty to Clean): 23
+Distance (Repaired to Clean): 10
+========================================
+Attribute: HospitalType
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: HospitalOwner
+Distance (Dirty to Clean): 26
+Distance (Repaired to Clean): 13
+========================================
+Attribute: EmergencyService
+Distance (Dirty to Clean): 30
+Distance (Repaired to Clean): 0
+========================================
+Attribute: Condition
+Distance (Dirty to Clean): 21
+Distance (Repaired to Clean): 15
+========================================
+Attribute: MeasureCode
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: MeasureName
+Distance (Dirty to Clean): 43
+Distance (Repaired to Clean): 31
+========================================
+Attribute: Score
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: Sample
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: Stateavg
+Distance (Dirty to Clean): 38
+Distance (Repaired to Clean): 26
+========================================
+总的脏数据到干净数据距离: 422
+总的修复后数据到干净数据距离: 223
+错误减少率 (EDR): 0.471563981042654

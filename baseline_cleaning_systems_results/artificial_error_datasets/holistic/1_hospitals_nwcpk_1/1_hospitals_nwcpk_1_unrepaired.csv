@@ -1,0 +1,22 @@
+Attribute,Index,Dirty Value,Clean Value
+City,108,empty,opp
+State,121,empty,al
+State,305,la,al
+State,306,acl,al
+State,307,l,al
+State,308,l,al
+State,309,aal,al
+State,413,la,al
+ZipCode,4,empty,35233
+ZipCode,5,3523000,35233
+ZipCode,6,35323,35233
+ZipCode,7,32533,35233
+ZipCode,8,k35233,35233
+ZipCode,295,35233***,35233
+PhoneNumber,2,2y053258100,2053258100
+PhoneNumber,3,53258100,2053258100
+PhoneNumber,4,205325810,2053258100
+PhoneNumber,17,inf,2563864556
+PhoneNumber,451,9075b436300,9075436300
+HospitalOwner,304,empty,voluntary non-profit - private
+HospitalOwner,306,empty,voluntary non-profit - private

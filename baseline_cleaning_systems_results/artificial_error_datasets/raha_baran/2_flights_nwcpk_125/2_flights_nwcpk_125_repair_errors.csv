@@ -1,0 +1,13 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+sched_arr_time,561,c01:17 pm,01:16 pm,01:17 pm
+sched_arr_time,665,0:15 pm,07:03 pm,06:15 pm
+sched_arr_time,694,10:w34 am,10:04 am,10:34 am
+sched_arr_time,820,empty,05:25 pm,02:50 pm
+sched_arr_time,900,empty,02:50 pm,05:25 pm
+sched_arr_time,1201,empty,07:03 pm,06:15 pm
+sched_arr_time,1408,10:40am,11:50 am,10:40 am
+sched_arr_time,1642,1:35 am,10:35 am,11:35 am
+act_arr_time,287,1:32 am,11:06 am,11:32 am
+act_arr_time,496,0250 pm,02:46 pm,02:50 pm
+act_arr_time,1578,0615 pm,06:40 pm,06:15 pm
+act_arr_time,2245,y06:15 pm,06:40 pm,06:15 pm

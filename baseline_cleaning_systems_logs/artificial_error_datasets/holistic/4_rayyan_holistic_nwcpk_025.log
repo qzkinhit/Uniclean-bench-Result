@@ -1,0 +1,75 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/noise_with_correct_primary_key/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/noise_with_correct_primary_key/rayyan_0.25/dirty_rayyan_mix_0.25.csv
+Running holistic with dirty file: Data/4_rayyan/noise_with_correct_primary_key/rayyan_0.25/dirty_rayyan_mix_0.25.csv
+
+  0%|          | 0/9 [00:00<?, ?it/s]
+ 11%|█         | 1/9 [00:01<00:13,  1.71s/it]
+ 22%|██▏       | 2/9 [00:03<00:11,  1.66s/it]
+ 33%|███▎      | 3/9 [00:04<00:10,  1.69s/it]
+ 44%|████▍     | 4/9 [00:06<00:08,  1.74s/it]
+ 56%|█████▌    | 5/9 [00:08<00:06,  1.71s/it]
+ 67%|██████▋   | 6/9 [00:10<00:05,  1.72s/it]
+ 78%|███████▊  | 7/9 [00:12<00:03,  1.83s/it]
+ 89%|████████▉ | 8/9 [00:12<00:01,  1.41s/it]
+100%|██████████| 9/9 [00:16<00:00,  2.08s/it]
+
+  0%|                                                               | 0/8 [00:00<?, ?it/s]
+ 12%|██████▉                                                | 1/8 [01:13<08:31, 73.04s/it]
+ 25%|█████████████▊                                         | 2/8 [02:50<08:02, 80.41s/it]
+ 38%|████████████████████▋                                  | 3/8 [04:34<07:17, 87.42s/it]
+ 50%|███████████████████████████▌                           | 4/8 [06:14<06:04, 91.10s/it]
+ 62%|█████████████████████████████████▊                    | 5/8 [08:32<05:16, 105.36s/it]
+ 75%|█████████████████████████████████████████▎             | 6/8 [09:40<03:08, 94.20s/it]
+ 88%|████████████████████████████████████████████████▏      | 7/8 [10:49<01:26, 86.62s/it]
+100%|███████████████████████████████████████████████████████| 8/8 [12:01<00:00, 82.14s/it]
+
+  0%
+
+  0%|                                                               | 0/8 [00:00<?, ?it/s]
+ 12%|██████▉                                                | 1/8 [00:37<04:23, 37.61s/it]
+ 25%|█████████████▊                                         | 2/8 [01:32<04:16, 42.79s/it]
+ 38%|████████████████████▋                                  | 3/8 [02:26<03:50, 46.10s/it]
+ 50%|███████████████████████████▌                           | 4/8 [03:20<03:13, 48.44s/it]
+ 62%|██████████████████████████████████▍                    | 5/8 [04:31<02:45, 55.26s/it]
+ 75%|█████████████████████████████████████████▎             | 6/8 [05:09<01:40, 50.07s/it]
+ 88%|████████████████████████████████████████████████▏      | 7/8 [05:46<00:46, 46.29s/it]
+100%|███████████████████████████████████████████████████████| 8/8 [06:22<00:00, 43.12s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/repaired_4_rayyan_nwcpk_025.csv
+holistic finished in 41261.12467002869 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/repaired_4_rayyan_nwcpk_025.csv
+Traceback (most recent call last):
+  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 2656, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'index'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "CleanerRunScript/run_holistic/run_holistic_base.py", line 171, in <module>
+    main()
+  File "CleanerRunScript/run_holistic/run_holistic_base.py", line 137, in main
+    index_attribute=index_attribute, mse_attributes=mse_attributes)
+  File "/home/qzk/MDCBaseline/CleanerRunScript/run_holistic/../../util/getScore.py", line 31, in calculate_all_metrics
+    index_attribute=index_attribute, relax=relax)
+  File "/home/qzk/MDCBaseline/CleanerRunScript/run_holistic/../../util/getScore.py", line 140, in calculate_accuracy_and_recall
+    clean = clean.set_index(index_attribute, drop=False)
+  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/frame.py", line 4178, in set_index
+    level = frame[col]._values
+  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/frame.py", line 2927, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 2658, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'index'

@@ -1,0 +1,243 @@
+Attribute,Index,Clean Value,Dirty Value
+HospitalName,8,callahan eye foundation hospital,callahan eye foundation hospiatl
+HospitalName,13,helen keller memorial hospital,helen keller memoriatl hospital
+HospitalName,14,helen keller memorial hospital,helen keller memorial hospiatl
+HospitalName,15,helen keller memorial hospital,empty
+HospitalName,77,eliza coffee memorial hospital,callahan eye foundation hospital
+HospitalName,78,eliza coffee memorial hospital,callahan eye foundation hospital
+HospitalName,79,eliza coffee memorial hospital,callahan eye foundation hospital
+HospitalName,117,mizell memorial hospital,callahan eye foundation hospital
+HospitalName,118,mizell memorial hospital,callahan eye foundation hospital
+HospitalName,119,mizell memorial hospital,callahan eye foundation hospital
+HospitalName,164,hartselle medical center,hartselle medcial center
+HospitalName,193,marshall medical center north,callahan eye foundation hospital
+HospitalName,194,marshall medical center north,callahan eye foundation hospital
+HospitalName,195,st vincents east,callahan eye foundation hospital
+HospitalName,196,st vincents east,callahan eye foundation hospital
+HospitalName,197,st vincents east,callahan eye foundation hospital
+HospitalName,198,st vincents east,callahan eye foundation hospital
+HospitalName,199,st vincents east,callahan eye foundation hospital
+HospitalName,208,st vincents east,st vincents xeast
+HospitalName,217,st vincents east,callahan eye foundation hospital
+HospitalName,218,st vincents east,callahan eye foundation hospital
+HospitalName,219,st vincents east,callahan eye foundation hospital
+HospitalName,229,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,230,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,231,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,243,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,244,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,245,southwest alabama medical center,callahan eye foundation hospital
+HospitalName,319,stringfellow memorial hospital,stringfegllow memorial hospital
+HospitalName,411,prattville baptist hospital,empty
+HospitalName,429,coosa valley medical center,empty
+HospitalName,435,alaska regional hospital,empty
+HospitalName,455,helen keller memorial hospital,helen keller memorial hsopital
+HospitalName,456,helen keller memorial hospital,helen keller memoiral hospital
+HospitalName,457,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,458,helen keller memorial hospital,helen keller memorial hosjpital
+HospitalName,459,helen keller memorial hospital,helen keller memorial hosiptal
+HospitalName,483,dale medical center,ale medical center
+HospitalName,767,stringfellow memorial hospital,stringfellow memoial hospital
+HospitalName,874,marion regional medical center,marion regoinal medical center
+HospitalName,875,marion regional medical center,marion regional mediacl center
+HospitalName,910,riverview regional medical center,riverviewr egional medical center
+HospitalName,933,georgiana hospital,empty
+HospitalName,959,medical center enterprise,empty
+HospitalName,977,medical center enterprise,medicail center enterprise
+HospitalName,983,st vincents blount,empty
+Address1,55,2505 u s highway 431 north,2505 u s highway 431 norh
+Address1,59,2505 u s highway 431 north,empty
+Address1,214,50 medical park east drive,05 medical park east drive
+Address1,279,1000 first street north,1000 first street nkorth
+Address1,303,1720 university blvd,1720 university bvd
+Address1,304,1720 university blvd,1720 university lvd
+Address1,305,1720 university blvd,1720 university xblvd
+Address1,354,1201 7th street se,empty
+Address1,388,2451 fillingim street,empty
+Address1,403,124 s memorial dr,124 s memorival dr
+Address1,499,400 northwood dr,empty
+Address1,507,400 northwood dr,empty
+Address1,541,2105 east south boulevard,2105 east souh boulevard
+Address1,652,209 north main street,empty
+Address1,943,515 miranda st,515 misranda st
+Address1,980,400 n edwards street,400 n ewards street
+Address1,997,150 gilbreath drive,empty
+City,19,sheffield,empty
+City,33,dothan,dodthan
+City,146,hartselle,empty
+City,164,hartselle,empty
+City,262,thomasville,birmingham
+City,263,thomasville,birmingham
+City,264,thomasville,birmingham
+City,332,dothan,othan
+City,386,mobile,empty
+City,460,sheffield,shefield
+City,461,sheffield,sheffiedl
+City,462,sheffield,sheffeld
+City,620,opelika,empty
+City,649,wedowee,empty
+City,746,andalusia,empty
+City,781,huntsville,hunsville
+City,797,huntsville,uhntsville
+State,10,al,ajl
+State,11,al,ual
+State,12,al,cal
+State,46,al,empty
+State,149,al,empty
+State,183,al,empty
+State,255,al,la
+State,593,al,l
+State,684,al,l
+State,748,al,la
+State,754,al,empty
+State,808,al,la
+State,867,al,empty
+State,905,al,la
+State,917,al,l
+State,963,al,empty
+State,976,al,empty
+ZipCode,82,35631,empty
+ZipCode,114,36467,empty
+ZipCode,115,36467,3467
+ZipCode,189,35976,empty
+ZipCode,202,35235,empty
+ZipCode,304,35233,3533
+ZipCode,305,35233,35233***
+ZipCode,306,35233,3z5233
+ZipCode,317,36201,empty
+ZipCode,390,36617,empty
+ZipCode,443,99508,9950k8
+ZipCode,542,36106,3610f6
+ZipCode,641,36801,36810
+ZipCode,683,35233,empty
+ZipCode,787,35801,358t01
+CountyName,8,jefferson,empty
+CountyName,34,houston,houstno
+CountyName,86,lauderdale,laduerdale
+CountyName,277,shelby,sehlby
+CountyName,281,shelby,shebly
+CountyName,282,shelby,shebly
+CountyName,283,shelby,shelyb
+CountyName,365,marion,empty
+CountyName,369,marion,marino
+CountyName,641,lee,empty
+CountyName,672,jefferson,jefqferson
+CountyName,674,jefferson,empty
+CountyName,768,calhoun,alhoun
+CountyName,779,madison,empty
+CountyName,785,madison,empty
+CountyName,796,madison,madson
+CountyName,920,etowah,empty
+PhoneNumber,19,2563864556,2563864565
+PhoneNumber,56,2565938310,empty
+PhoneNumber,105,3344933541,empty
+PhoneNumber,216,2058383122,empty
+PhoneNumber,326,2562358900,empty
+PhoneNumber,337,3347935000,empty
+PhoneNumber,453,2563864556,2568364556
+PhoneNumber,454,2563864556,256386455s6
+PhoneNumber,624,3347493411,empty
+PhoneNumber,653,2563572111,25q63572111
+PhoneNumber,661,2563572111,empty
+PhoneNumber,727,2567372000,5267372000
+PhoneNumber,970,3343470584,3343470854
+HospitalOwner,18,government - hospital district or authority,governmnt - hospital district or authority
+HospitalOwner,33,government - hospital district or authority,government - hopital district or authority
+HospitalOwner,61,government - hospital district or authority,empty
+HospitalOwner,64,government - hospital district or authority,government - hospital district or autohrity
+HospitalOwner,164,proprietary,empty
+HospitalOwner,404,voluntary non-profit - private,empty
+HospitalOwner,412,voluntary non-profit - private,empty
+HospitalOwner,464,government - hospital district or authority,government - hospital distric tor authority
+HospitalOwner,465,government - hospital district or authority,government - hospital districtor authority
+HospitalOwner,466,government - hospital district or authority,government - hosiptal district or authority
+HospitalOwner,506,voluntary non-profit - private,empty
+HospitalOwner,509,voluntary non-profit - private,voluntray non-profit - private
+HospitalOwner,617,government - hospital district or authority,empty
+HospitalOwner,669,government - state,overnment - state
+HospitalOwner,688,government - state,empty
+HospitalOwner,841,voluntary non-profit - private,volnutary non-profit - private
+HospitalOwner,947,voluntary non-profit - private,voluntary on-profit - private
+HospitalOwner,969,proprietary,propriyetary
+EmergencyService,159,yes,empty
+EmergencyService,174,yes,es
+EmergencyService,292,yes,empty
+EmergencyService,350,yes,yecs
+EmergencyService,387,yes,empty
+EmergencyService,467,yes,yevs
+EmergencyService,468,yes,empty
+EmergencyService,489,yes,yeps
+EmergencyService,541,yes,es
+EmergencyService,588,yes,es
+EmergencyService,647,no,empty
+EmergencyService,678,yes,empty
+EmergencyService,679,yes,vyes
+EmergencyService,680,yes,yehs
+EmergencyService,797,yes,ynes
+EmergencyService,830,yes,empty
+Condition,88,surgical infection prevention,surgical infection uprevention
+Condition,222,heart attack,heart attck
+Condition,256,pneumonia,pneumonai
+Condition,488,surgical infection prevention,surgical inefection prevention
+Condition,495,heart attack,heart attak
+Condition,515,surgical infection prevention,surgcial infection prevention
+Condition,574,heart failure,eart failure
+Condition,630,pneumonia,vpneumonia
+Condition,631,pneumonia,neumonia
+Condition,688,surgical infection prevention,surgical infectino prevention
+Condition,770,surgical infection prevention,surgical infectionp revention
+Condition,798,surgical infection prevention,surgical infectio prevention
+Condition,823,surgical infection prevention,surgicall infection prevention
+Condition,848,surgical infection prevention,surgical infeciton prevention
+Condition,852,surgical infection prevention,surgical infection prevnetion
+Condition,873,surgical infection prevention,usrgical infection prevention
+Condition,898,surgical infection prevention,surgical infecton prevention
+Condition,926,surgical infection prevention,surgica infection prevention
+Condition,959,heart attack,heart atack
+MeasureName,6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair rmoval cream c not a razor)
+MeasureName,21,heart attack patients given aspirin at discharge,empty
+MeasureName,102,heart failure patients given discharge instructions,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,103,heart failure patients given an evaluation of left ventricular systolic (lvs) function,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,104,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,105,heart failure patients given smoking cessation advice/counseling,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,106,pneumonia patients assessed and given pneumococcal vaccination,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,107,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,108,pneumonia patients given smoking cessation advice/counseling,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,160,pneumonia patients given the most appropriate initial antibiotic(s),pneumoia patients given the most appropriate initial antibiotic(s)
+MeasureName,189,surgery patients who were given the  right kind  of antibiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infcetion
+MeasureName,207,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,empty
+MeasureName,245,heart attack patients given aspirin at arrival,heart attack patients given aspirin at arrial
+MeasureName,269,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,empty
+MeasureName,270,heart attack patients given aspirin at arrival,heart attack patiets given aspirin at arrival
+MeasureName,314,heart attack patients given aspirin at arrival,heart attackb patients given aspirin at arrival
+MeasureName,377,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),empty
+MeasureName,455,pneumonia patients given smoking cessation advice/counseling,pneumonia patients given smoking cessaton advice/counseling
+MeasureName,567,heart attack patients given aspirin at arrival,heart attack patients givn aspirin at arrival
+MeasureName,607,pneumonia patients given the most appropriate initial antibiotic(s),empty
+MeasureName,717,heart attack patients given aspirin at arrival,heart attack patients given aspirin atarrival
+MeasureName,803,heart attack patients given aspirin at arrival,heart attack patients given aspirini at arrival
+MeasureName,853,heart attack patients given aspirin at arrival,heart attac kpatients given aspirin at arrival
+MeasureName,926,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),surgery patients whose preventive antibiotics were stopped at the right time (within 24 horus after surgery)
+MeasureName,955,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,empty
+MeasureName,956,heart attack patients given aspirin at arrival,heart ttack patients given aspirin at arrival
+MeasureName,980,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,empty
+Stateavg,5,al_scip-inf-4,al_scip-nf-4
+Stateavg,36,al_pn-7,al_pn7-
+Stateavg,87,al_scip-card-2,pal_scip-card-2
+Stateavg,105,al_hf-4,empty
+Stateavg,112,al_scip-card-2,al_sicp-card-2
+Stateavg,137,al_scip-card-2,l_scip-card-2
+Stateavg,138,al_scip-inf-1,al_scip-itnf-1
+Stateavg,162,al_scip-card-2,al_scip-wcard-2
+Stateavg,187,al_scip-card-2,al_scip-qcard-2
+Stateavg,212,al_scip-card-2,a_scip-card-2
+Stateavg,237,al_scip-card-2,la_scip-card-2
+Stateavg,240,al_scip-inf-3,empty
+Stateavg,257,al_pn-3b,empty
+Stateavg,433,ak_hf-1,akhf-1
+Stateavg,532,al_pn-6,empty
+Stateavg,548,al_ami-8a,empty
+Stateavg,570,al_ami-4,empty
+Stateavg,783,al_ami-7a,al_mai-7a
+Stateavg,840,al_pn-3b,alb_pn-3b
+Stateavg,959,al_ami-4,empty

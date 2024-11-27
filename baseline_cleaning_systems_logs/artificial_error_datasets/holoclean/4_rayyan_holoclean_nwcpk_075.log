@@ -1,0 +1,875 @@
+15:07:16 - [DEBUG] - initiating session with parameters: {'db_user': 'datacleanuser', 'db_pwd': 'abcd1234', 'db_host': 'localhost', 'db_name': 'holo', 'threads': 1, 'timeout': 180000, 'seed': 45, 'learning_rate': 0.001, 'optimizer': 'adam', 'epochs': 10, 'weight_decay': 0.01, 'momentum': 0.0, 'batch_size': 1, 'weak_label_thresh': 0.99, 'domain_thresh_1': 0, 'domain_thresh_2': 0, 'max_domain': 10000, 'cor_strength': 0.6, 'nb_cor_strength': 0.8, 'feature_norm': False, 'weight_norm': False, 'estimator_epochs': 3, 'estimator_batch_size': 32, 'verbose': True, 'bias': False, 'print_fw': True, 'debug_mode': False}
+15:07:16 - [ INFO] - Loaded 1000 rows with 12000 cells
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [DEBUG] - Time to create index: 0.00 secs
+15:07:16 - [ INFO] - DONE Loading dirty_rayyan_mix_0.75_holoclean.csv
+15:07:16 - [DEBUG] - Time to load dataset: 0.18 secs
+15:07:16 - [DEBUG] - OPENED constraints file successfully
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.article_jvolumn,t2.article_jvolumn)&EQ(t1.article_pagination,t2.article_pagination)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.article_jvolumn,t2.article_jvolumn)&EQ(t1.article_pagination,t2.article_pagination)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_jvolumn,t2.article_jvolumn)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_pagination,t2.article_pagination)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&IQ(t1.journal_abbreviation,t2.journal_abbreviation)&EQ(t1.article_language,t2.article_language)&EQ(t1.article_jcreated_at,t2.article_jcreated_at)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&IQ(t1.journal_abbreviation,t2.journal_abbreviation)&EQ(t1.article_language,t2.article_language)&EQ(t1.article_jcreated_at,t2.article_jcreated_at)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_language,t2.article_language)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_jcreated_at,t2.article_jcreated_at)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&IQ(t1.article_language,t2.article_language)&EQ(t1.article_jcreated_at,t2.article_jcreated_at)&EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&IQ(t1.article_language,t2.article_language)&EQ(t1.article_jcreated_at,t2.article_jcreated_at)&EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_jcreated_at,t2.article_jcreated_at)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&IQ(t1.journal_issn,t2.journal_issn)&EQ(t1.article_jcreated_at,t2.article_jcreated_at)&EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&IQ(t1.journal_issn,t2.journal_issn)&EQ(t1.article_jcreated_at,t2.article_jcreated_at)&EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_jcreated_at,t2.article_jcreated_at)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&GT(t1.article_jvolumn,t2.article_jvolumn)&EQ(t1.article_language,t2.article_language)&EQ(t1.journal_issn,t2.journal_issn)&LTE(t1.article_jissue,t2.article_jissue)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&GT(t1.article_jvolumn,t2.article_jvolumn)&EQ(t1.article_language,t2.article_language)&EQ(t1.journal_issn,t2.journal_issn)&LTE(t1.article_jissue,t2.article_jissue)
+15:07:16 - [DEBUG] - DONE parsing predicate: GT(t1.article_jvolumn,t2.article_jvolumn)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.article_language,t2.article_language)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_issn,t2.journal_issn)
+15:07:16 - [DEBUG] - DONE parsing predicate: LTE(t1.article_jissue,t2.article_jissue)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&IQ(t1.journal_issn,t2.journal_issn)&EQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&IQ(t1.journal_issn,t2.journal_issn)&EQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.journal_abbreviation,t2.journal_abbreviation)&IQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.journal_abbreviation,t2.journal_abbreviation)&IQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE parsing predicate: IQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.journal_abbreviation,t2.journal_abbreviation)&IQ(t1.journal_issn,t2.journal_issn)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.journal_abbreviation,t2.journal_abbreviation)&IQ(t1.journal_issn,t2.journal_issn)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_abbreviation,t2.journal_abbreviation)
+15:07:16 - [DEBUG] - DONE parsing predicate: IQ(t1.journal_issn,t2.journal_issn)
+15:07:16 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.journal_issn,t2.journal_issn)&IQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.journal_issn,t2.journal_issn)&IQ(t1.journal_title,t2.journal_title)
+15:07:16 - [DEBUG] - DONE parsing predicate: EQ(t1.journal_issn,t2.journal_issn)
+15:07:16 - [DEBUG] - DONE parsing predicate: IQ(t1.journal_title,t2.journal_title)
+15:07:16 - [ INFO] - DONE Loading DCs from dc_rules_holoclean.txt
+15:07:16 - [DEBUG] - Time to load dirty data: 0.00 secs
+15:07:16 - [DEBUG] - DONE with Error Detector: NullDetector in 0.04 secs
+15:07:16 - [DEBUG] - Preparing to execute 9 queries.
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."article_jvolumn"=t2."article_jvolumn" AND t1."article_pagination"=t2."article_pagination") with id 0
+15:07:16 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."article_language"=t2."article_language" AND t1."article_jcreated_at"=t2."article_jcreated_at") with id 1
+15:07:16 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."article_jcreated_at"=t2."article_jcreated_at" AND t1."journal_abbreviation"=t2."journal_abbreviation") with id 2
+15:07:16 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."article_jcreated_at"=t2."article_jcreated_at" AND t1."journal_abbreviation"=t2."journal_abbreviation") with id 3
+15:07:16 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."article_jvolumn">t2."article_jvolumn" AND t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn" AND t1."article_jissue"<=t2."article_jissue") with id 4
+15:07:16 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."journal_title"=t2."journal_title") with id 5
+15:07:16 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."journal_abbreviation"=t2."journal_abbreviation" AND t1."journal_title"<>t2."journal_title") with id 6
+15:07:16 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."journal_abbreviation"=t2."journal_abbreviation" AND t1."journal_issn"<>t2."journal_issn") with id 7
+15:07:16 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+15:07:16 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "rayyan_nwcpk_075" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "rayyan_nwcpk_075" as t2 WHERE t1."journal_issn"=t2."journal_issn" AND t1."journal_title"<>t2."journal_title") with id 8
+15:07:16 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+15:07:16 - [DEBUG] - Time to execute 9 queries: 0.01 secs
+15:07:16 - [DEBUG] - DONE with Error Detector: ViolationDetector in 0.08 secs
+15:07:17 - [ INFO] - detected 6851 potentially erroneous cells
+15:07:17 - [DEBUG] - Time to create index: 0.00 secs
+15:07:17 - [ INFO] - DONE with error detection.
+15:07:17 - [DEBUG] - Time to detect errors: 0.64 secs
+15:07:21 - [DEBUG] - Time to execute query: 0.00 secs
+15:07:21 - [DEBUG] - computing frequency and co-occurrence statistics from raw data...
+15:07:21 - [DEBUG] - Collecting single/pair-wise statistics...
+15:07:23 - [DEBUG] - DONE computing statistics in 1.70s
+15:07:23 - [DEBUG] - preparing pruned co-occurring statistics...
+
+  0%|          | 0/11 [00:00<?, ?it/s]
+ 45%|████▌     | 5/11 [00:00<00:00, 17.20it/s]
+100%|██████████| 11/11 [00:00<00:00, 30.40it/s]
+15:07:23 - [DEBUG] - DONE with pruned co-occurring statistics in 0.37 secs
+15:07:23 - [DEBUG] - generating initial set of un-pruned domain values...
+
+  0%|          | 0/1000 [00:00<?, ?it/s]
+ 15%|█▌        | 153/1000 [00:00<00:00, 1483.27it/s]
+ 30%|███       | 300/1000 [00:00<00:00, 1478.79it/s]
+ 47%|████▋     | 473/1000 [00:00<00:00, 1542.52it/s]
+ 61%|██████    | 609/1000 [00:00<00:00, 1460.52it/s]
+ 76%|███████▌  | 762/1000 [00:00<00:00, 1480.42it/s]
+ 93%|█████████▎| 928/1000 [00:00<00:00, 1529.49it/s]
+100%|██████████| 1000/1000 [00:00<00:00, 1534.10it/s]
+15:07:24 - [DEBUG] - DONE generating initial set of domain values in 0.74
+15:07:24 - [DEBUG] - training posterior model for estimating domain value probabilities...
+15:07:24 - [DEBUG] - DONE training posterior model in 0.01s
+15:07:24 - [DEBUG] - predicting domain value probabilities from posterior model...
+15:07:24 - [DEBUG] - DONE predictions in 0.00 secs, re-constructing cell domain...
+15:07:24 - [DEBUG] - re-assembling final cell domain table...
+
+0it [00:00, ?it/s]
+
+  0%|          | 0/8996 [00:00<?, ?it/s][A
+135it [00:00, 1347.71it/s]
+
+  2%|▏         | 156/8996 [00:00<00:05, 1556.54it/s][A
+320it [00:00, 1465.63it/s]
+
+  4%|▎         | 331/8996 [00:00<00:05, 1606.79it/s][A
+484it [00:00, 1510.76it/s]
+
+  6%|▌         | 511/8996 [00:00<00:05, 1660.08it/s][A
+644it [00:00, 1533.83it/s]
+
+  7%|▋         | 666/8996 [00:00<00:05, 1624.26it/s][A
+799it [00:00, 1532.33it/s]
+
+  9%|▉         | 819/8996 [00:00<00:05, 1593.24it/s][A
+945it [00:00, 1509.50it/s]
+
+ 11%|█         | 962/8996 [00:00<00:05, 1539.90it/s][A
+1104it [00:00, 1531.74it/s]
+
+ 12%|█▏        | 1114/8996 [00:00<00:05, 1531.07it/s][A
+1251it [00:00, 1511.02it/s]
+
+ 14%|█▍        | 1267/8996 [00:00<00:05, 1522.69it/s][A
+1419it [00:00, 1554.59it/s]
+
+ 16%|█▌        | 1433/8996 [00:00<00:04, 1561.26it/s][A
+1570it [00:01, 1509.59it/s]
+
+ 18%|█▊        | 1585/8996 [00:01<00:04, 1548.33it/s][A
+1718it [00:01, 1464.99it/s]
+
+ 19%|█▉        | 1736/8996 [00:01<00:04, 1478.91it/s][A
+1863it [00:01, 1458.34it/s]
+
+ 21%|██        | 1884/8996 [00:01<00:04, 1478.53it/s][A
+2021it [00:01, 1489.45it/s]
+
+ 23%|██▎       | 2040/8996 [00:01<00:04, 1500.70it/s][A
+2175it [00:01, 1498.20it/s]
+
+ 24%|██▍       | 2190/8996 [00:01<00:04, 1491.97it/s][A
+2325it [00:01, 1492.33it/s]
+
+ 26%|██▌       | 2339/8996 [00:01<00:04, 1487.62it/s][A
+2489it [00:01, 1533.22it/s]
+
+ 28%|██▊       | 2515/8996 [00:01<00:04, 1556.88it/s][A
+2643it [00:01, 1531.77it/s]
+
+ 30%|██▉       | 2672/8996 [00:01<00:04, 1515.68it/s][A
+2815it [00:01, 1582.92it/s]
+
+ 32%|███▏      | 2853/8996 [00:01<00:03, 1592.85it/s][A
+2976it [00:01, 1577.54it/s]
+
+ 34%|███▎      | 3014/8996 [00:01<00:03, 1580.34it/s][A
+3154it [00:02, 1630.84it/s]
+
+ 35%|███▌      | 3185/8996 [00:02<00:03, 1612.46it/s][A
+3327it [00:02, 1654.98it/s]
+
+ 37%|███▋      | 3363/8996 [00:02<00:03, 1654.57it/s][A
+3494it [00:02, 1644.06it/s]
+
+ 39%|███▉      | 3530/8996 [00:02<00:03, 1633.65it/s][A
+3659it [00:02, 1632.95it/s]
+
+ 41%|████▏     | 3712/8996 [00:02<00:03, 1683.81it/s][A
+3843it [00:02, 1689.78it/s]
+
+ 43%|████▎     | 3886/8996 [00:02<00:03, 1700.26it/s][A
+4013it [00:02, 1684.63it/s]
+
+ 45%|████▌     | 4057/8996 [00:02<00:02, 1661.70it/s][A
+4182it [00:02, 1630.76it/s]
+
+ 47%|████▋     | 4224/8996 [00:02<00:02, 1611.79it/s][A
+4347it [00:02, 1636.15it/s]
+
+ 49%|████▉     | 4397/8996 [00:02<00:02, 1642.65it/s][A
+4523it [00:02, 1670.23it/s]
+
+ 51%|█████     | 4565/8996 [00:02<00:02, 1653.67it/s][A
+4693it [00:02, 1673.62it/s]
+
+ 53%|█████▎    | 4747/8996 [00:02<00:02, 1698.48it/s][A
+4876it [00:03, 1715.78it/s]
+
+ 55%|█████▍    | 4924/8996 [00:03<00:02, 1715.72it/s][A
+5049it [00:03, 1696.55it/s]
+
+ 57%|█████▋    | 5097/8996 [00:03<00:02, 1706.61it/s][A
+5220it [00:03, 1686.18it/s]
+
+ 59%|█████▊    | 5269/8996 [00:03<00:02, 1663.64it/s][A
+5389it [00:03, 1631.03it/s]
+
+ 60%|██████    | 5436/8996 [00:03<00:02, 1600.67it/s][A
+5566it [00:03, 1667.20it/s]
+
+ 62%|██████▏   | 5614/8996 [00:03<00:02, 1650.45it/s][A
+5734it [00:03, 1641.21it/s]
+
+ 64%|██████▍   | 5791/8996 [00:03<00:01, 1684.12it/s][A
+5919it [00:03, 1698.49it/s]
+
+ 66%|██████▋   | 5969/8996 [00:03<00:01, 1706.30it/s][A
+6090it [00:03, 1661.72it/s]
+
+ 68%|██████▊   | 6141/8996 [00:03<00:01, 1635.47it/s][A
+6257it [00:03, 1610.30it/s]
+
+ 70%|███████   | 6306/8996 [00:03<00:01, 1610.20it/s][A
+6419it [00:04, 1572.36it/s]
+
+ 72%|███████▏  | 6468/8996 [00:04<00:01, 1561.03it/s][A
+6578it [00:04, 1543.60it/s]
+
+ 74%|███████▎  | 6626/8996 [00:04<00:01, 1527.94it/s][A
+6734it [00:04, 1514.80it/s]
+
+ 75%|███████▌  | 6787/8996 [00:04<00:01, 1551.63it/s][A
+6933it [00:04, 1629.85it/s]
+
+ 78%|███████▊  | 6997/8996 [00:04<00:01, 1682.07it/s][A
+7119it [00:04, 1692.01it/s]
+
+ 80%|███████▉  | 7169/8996 [00:04<00:01, 1688.55it/s][A
+7295it [00:04, 1706.28it/s]
+
+ 82%|████████▏ | 7341/8996 [00:04<00:01, 1654.21it/s][A
+7468it [00:04, 1697.43it/s]
+
+ 84%|████████▎ | 7530/8996 [00:04<00:00, 1716.48it/s][A
+7640it [00:04, 1693.15it/s]
+
+ 86%|████████▌ | 7704/8996 [00:04<00:00, 1666.76it/s][A
+7811it [00:04, 1629.63it/s]
+
+ 88%|████████▊ | 7873/8996 [00:04<00:00, 1559.88it/s][A
+7976it [00:04, 1588.14it/s]
+
+ 89%|████████▉ | 8033/8996 [00:04<00:00, 1568.58it/s][A
+8136it [00:05, 1590.07it/s]
+
+ 91%|█████████ | 8202/8996 [00:05<00:00, 1600.34it/s][A
+8302it [00:05, 1609.34it/s]
+
+ 93%|█████████▎| 8398/8996 [00:05<00:00, 1693.45it/s][A
+8472it [00:05, 1630.40it/s]
+
+ 95%|█████████▌| 8570/8996 [00:05<00:00, 1569.14it/s][A
+8636it [00:05, 1599.72it/s]
+
+ 97%|█████████▋| 8731/8996 [00:05<00:00, 1573.69it/s][A
+8797it [00:05, 1566.57it/s]
+
+ 99%|█████████▉| 8891/8996 [00:05<00:00, 1580.77it/s][A
+8967it [00:05, 1597.71it/s]
+
+100%|██████████| 8996/8996 [00:05<00:00, 1613.47it/s][A
+8996it [00:05, 1605.29it/s]
+15:07:30 - [DEBUG] - DONE assembling cell domain table in 5.95s
+15:07:30 - [ INFO] - number of (additional) weak labels assigned from posterior model: 749
+15:07:30 - [DEBUG] - DONE generating domain and weak labels
+15:07:32 - [DEBUG] - Time to create index: 0.00 secs
+15:07:32 - [DEBUG] - Time to create index: 0.00 secs
+15:07:32 - [DEBUG] - Time to create index: 0.00 secs
+15:07:33 - [DEBUG] - Time to create table: 0.00 secs
+15:07:35 - [DEBUG] - Time to create index: 0.00 secs
+15:07:35 - [ INFO] - DONE with domain preparation.
+15:07:35 - [DEBUG] - Time to setup the domain: 18.10 secs
+15:07:35 - [DEBUG] - Time to execute query: 0.00 secs
+15:07:35 - [DEBUG] - Time to execute query: 0.00 secs
+15:07:35 - [DEBUG] - Time to execute query: 0.00 secs
+15:07:35 - [DEBUG] - Time to execute query: 0.00 secs
+15:07:35 - [DEBUG] - Time to execute query: 0.00 secs
+15:07:35 - [DEBUG] - featurizing training data...
+15:07:35 - [DEBUG] - Time to execute query: 0.02 secs
+
+  0%|          | 0/8996 [00:00<?, ?it/s]
+  1%|          | 52/8996 [00:00<00:17, 515.76it/s]
+  1%|          | 100/8996 [00:00<00:17, 504.35it/s]
+  1%|▏         | 126/8996 [00:00<00:22, 392.97it/s]
+  2%|▏         | 159/8996 [00:00<00:24, 365.28it/s]
+  2%|▏         | 217/8996 [00:00<00:21, 410.83it/s]
+  3%|▎         | 260/8996 [00:00<00:21, 410.84it/s]
+  3%|▎         | 314/8996 [00:00<00:19, 441.01it/s]
+  4%|▍         | 357/8996 [00:00<00:20, 422.42it/s]
+  4%|▍         | 399/8996 [00:00<00:20, 421.66it/s]
+  5%|▍         | 444/8996 [00:01<00:19, 427.80it/s]
+  6%|▌         | 511/8996 [00:01<00:17, 475.91it/s]
+  6%|▌         | 560/8996 [00:01<00:18, 453.82it/s]
+  7%|▋         | 607/8996 [00:01<00:19, 438.63it/s]
+  7%|▋         | 652/8996 [00:01<00:19, 430.38it/s]
+  8%|▊         | 702/8996 [00:01<00:18, 448.41it/s]
+  8%|▊         | 750/8996 [00:01<00:18, 457.10it/s]
+  9%|▉         | 797/8996 [00:01<00:19, 426.84it/s]
+  9%|▉         | 841/8996 [00:01<00:19, 414.27it/s]
+ 10%|▉         | 884/8996 [00:02<00:21, 378.70it/s]
+ 10%|█         | 932/8996 [00:02<00:19, 404.19it/s]
+ 11%|█         | 978/8996 [00:02<00:19, 419.20it/s]
+ 11%|█▏        | 1021/8996 [00:02<00:19, 414.66it/s]
+ 12%|█▏        | 1076/8996 [00:02<00:17, 447.68it/s]
+ 12%|█▏        | 1123/8996 [00:02<00:20, 393.12it/s]
+ 13%|█▎        | 1175/8996 [00:02<00:18, 423.76it/s]
+ 14%|█▍        | 1239/8996 [00:02<00:16, 467.62it/s]
+ 14%|█▍        | 1289/8996 [00:02<00:17, 440.41it/s]
+ 15%|█▍        | 1336/8996 [00:03<00:18, 407.42it/s]
+ 16%|█▌        | 1405/8996 [00:03<00:16, 464.03it/s]
+ 16%|█▌        | 1456/8996 [00:03<00:18, 415.30it/s]
+ 17%|█▋        | 1502/8996 [00:03<00:17, 426.00it/s]
+ 17%|█▋        | 1554/8996 [00:03<00:16, 446.40it/s]
+ 18%|█▊        | 1603/8996 [00:03<00:16, 457.02it/s]
+ 18%|█▊        | 1651/8996 [00:03<00:18, 404.69it/s]
+ 19%|█▉        | 1694/8996 [00:03<00:17, 409.96it/s]
+ 19%|█▉        | 1737/8996 [00:04<00:18, 400.26it/s]
+ 20%|█▉        | 1781/8996 [00:04<00:17, 409.53it/s]
+ 20%|██        | 1823/8996 [00:04<00:17, 406.57it/s]
+ 21%|██        | 1865/8996 [00:04<00:19, 371.70it/s]
+ 21%|██▏       | 1930/8996 [00:04<00:16, 426.11it/s]
+ 22%|██▏       | 1977/8996 [00:04<00:16, 418.67it/s]
+ 23%|██▎       | 2040/8996 [00:04<00:14, 465.33it/s]
+ 23%|██▎       | 2093/8996 [00:04<00:14, 480.19it/s]
+ 24%|██▍       | 2144/8996 [00:04<00:16, 404.60it/s]
+ 24%|██▍       | 2189/8996 [00:05<00:17, 388.44it/s]
+ 25%|██▍       | 2231/8996 [00:05<00:19, 354.16it/s]
+ 25%|██▌       | 2278/8996 [00:05<00:17, 382.36it/s]
+ 26%|██▌       | 2326/8996 [00:05<00:16, 407.14it/s]
+ 26%|██▋       | 2380/8996 [00:05<00:15, 436.48it/s]
+ 27%|██▋       | 2426/8996 [00:05<00:15, 425.68it/s]
+ 28%|██▊       | 2489/8996 [00:05<00:13, 466.24it/s]
+ 28%|██▊       | 2549/8996 [00:05<00:12, 499.46it/s]
+ 29%|██▉       | 2602/8996 [00:05<00:14, 446.96it/s]
+ 29%|██▉       | 2650/8996 [00:06<00:14, 443.98it/s]
+ 30%|██▉       | 2697/8996 [00:06<00:14, 441.67it/s]
+ 31%|███       | 2747/8996 [00:06<00:13, 457.39it/s]
+ 31%|███       | 2808/8996 [00:06<00:12, 493.39it/s]
+ 32%|███▏      | 2868/8996 [00:06<00:11, 517.43it/s]
+ 32%|███▏      | 2922/8996 [00:06<00:12, 484.84it/s]
+ 33%|███▎      | 2972/8996 [00:06<00:12, 474.60it/s]
+ 34%|███▎      | 3021/8996 [00:06<00:12, 468.75it/s]
+ 34%|███▍      | 3076/8996 [00:06<00:12, 490.20it/s]
+ 35%|███▍      | 3138/8996 [00:07<00:11, 514.43it/s]
+ 35%|███▌      | 3191/8996 [00:07<00:12, 478.87it/s]
+ 36%|███▌      | 3256/8996 [00:07<00:11, 518.23it/s]
+ 37%|███▋      | 3310/8996 [00:07<00:11, 499.93it/s]
+ 37%|███▋      | 3362/8996 [00:07<00:11, 474.26it/s]
+ 38%|███▊      | 3411/8996 [00:07<00:11, 466.07it/s]
+ 38%|███▊      | 3461/8996 [00:07<00:11, 474.83it/s]
+ 39%|███▉      | 3510/8996 [00:07<00:11, 463.92it/s]
+ 40%|███▉      | 3568/8996 [00:07<00:11, 493.28it/s]
+ 40%|████      | 3619/8996 [00:08<00:11, 451.79it/s]
+ 41%|████      | 3674/8996 [00:08<00:11, 475.97it/s]
+ 42%|████▏     | 3750/8996 [00:08<00:09, 528.55it/s]
+ 42%|████▏     | 3806/8996 [00:08<00:10, 510.05it/s]
+ 43%|████▎     | 3865/8996 [00:08<00:09, 530.68it/s]
+ 44%|████▎     | 3920/8996 [00:08<00:09, 525.56it/s]
+ 44%|████▍     | 3974/8996 [00:08<00:09, 502.85it/s]
+ 45%|████▍     | 4026/8996 [00:08<00:11, 431.45it/s]
+ 45%|████▌     | 4073/8996 [00:08<00:11, 441.03it/s]
+ 46%|████▌     | 4119/8996 [00:09<00:11, 420.51it/s]
+ 46%|████▋     | 4163/8996 [00:09<00:11, 418.62it/s]
+ 47%|████▋     | 4206/8996 [00:09<00:12, 394.09it/s]
+ 47%|████▋     | 4247/8996 [00:09<00:12, 391.95it/s]
+ 48%|████▊     | 4301/8996 [00:09<00:10, 426.84it/s]
+ 48%|████▊     | 4346/8996 [00:09<00:11, 419.48it/s]
+ 49%|████▉     | 4405/8996 [00:09<00:09, 459.23it/s]
+ 50%|████▉     | 4466/8996 [00:09<00:09, 494.37it/s]
+ 50%|█████     | 4518/8996 [00:09<00:09, 486.87it/s]
+ 51%|█████     | 4569/8996 [00:10<00:09, 478.13it/s]
+ 51%|█████▏    | 4618/8996 [00:10<00:09, 445.94it/s]
+ 52%|█████▏    | 4690/8996 [00:10<00:08, 502.47it/s]
+ 53%|█████▎    | 4748/8996 [00:10<00:08, 521.28it/s]
+ 53%|█████▎    | 4803/8996 [00:10<00:08, 512.41it/s]
+ 54%|█████▍    | 4866/8996 [00:10<00:07, 535.80it/s]
+ 55%|█████▍    | 4926/8996 [00:10<00:07, 552.27it/s]
+ 55%|█████▌    | 4983/8996 [00:10<00:07, 531.13it/s]
+ 56%|█████▌    | 5038/8996 [00:10<00:07, 506.39it/s]
+ 57%|█████▋    | 5090/8996 [00:11<00:07, 492.75it/s]
+ 57%|█████▋    | 5143/8996 [00:11<00:07, 495.87it/s]
+ 58%|█████▊    | 5194/8996 [00:11<00:07, 478.24it/s]
+ 58%|█████▊    | 5243/8996 [00:11<00:09, 410.17it/s]
+ 59%|█████▉    | 5296/8996 [00:11<00:08, 433.52it/s]
+ 59%|█████▉    | 5342/8996 [00:11<00:09, 389.62it/s]
+ 60%|█████▉    | 5386/8996 [00:11<00:09, 398.25it/s]
+ 60%|██████    | 5429/8996 [00:11<00:08, 407.02it/s]
+ 61%|██████    | 5480/8996 [00:12<00:08, 431.77it/s]
+ 61%|██████▏   | 5531/8996 [00:12<00:07, 445.49it/s]
+ 62%|██████▏   | 5578/8996 [00:12<00:07, 451.87it/s]
+ 63%|██████▎   | 5624/8996 [00:12<00:07, 448.14it/s]
+ 63%|██████▎   | 5687/8996 [00:12<00:06, 487.45it/s]
+ 64%|██████▍   | 5738/8996 [00:12<00:07, 429.31it/s]
+ 64%|██████▍   | 5799/8996 [00:12<00:06, 463.94it/s]
+ 65%|██████▌   | 5851/8996 [00:12<00:06, 478.24it/s]
+ 66%|██████▌   | 5901/8996 [00:12<00:07, 428.59it/s]
+ 66%|██████▌   | 5956/8996 [00:13<00:06, 458.71it/s]
+ 67%|██████▋   | 6004/8996 [00:13<00:07, 402.16it/s]
+ 67%|██████▋   | 6058/8996 [00:13<00:06, 434.84it/s]
+ 68%|██████▊   | 6109/8996 [00:13<00:06, 454.92it/s]
+ 68%|██████▊   | 6158/8996 [00:13<00:06, 463.74it/s]
+ 69%|██████▉   | 6206/8996 [00:13<00:06, 408.47it/s]
+ 70%|██████▉   | 6254/8996 [00:13<00:06, 424.63it/s]
+ 70%|███████   | 6299/8996 [00:13<00:06, 421.24it/s]
+ 71%|███████   | 6343/8996 [00:14<00:07, 364.49it/s]
+ 71%|███████   | 6386/8996 [00:14<00:06, 378.19it/s]
+ 71%|███████▏  | 6426/8996 [00:14<00:06, 382.01it/s]
+ 72%|███████▏  | 6466/8996 [00:14<00:07, 359.95it/s]
+ 72%|███████▏  | 6504/8996 [00:14<00:06, 363.26it/s]
+ 73%|███████▎  | 6556/8996 [00:14<00:06, 397.85it/s]
+ 73%|███████▎  | 6602/8996 [00:14<00:05, 412.02it/s]
+ 74%|███████▍  | 6645/8996 [00:14<00:06, 390.21it/s]
+ 74%|███████▍  | 6701/8996 [00:14<00:05, 428.36it/s]
+ 75%|███████▍  | 6746/8996 [00:15<00:06, 374.81it/s]
+ 76%|███████▌  | 6799/8996 [00:15<00:05, 408.12it/s]
+ 76%|███████▋  | 6872/8996 [00:15<00:04, 469.21it/s]
+ 77%|███████▋  | 6925/8996 [00:15<00:04, 472.17it/s]
+ 78%|███████▊  | 6996/8996 [00:15<00:03, 524.53it/s]
+ 78%|███████▊  | 7053/8996 [00:15<00:03, 529.17it/s]
+ 79%|███████▉  | 7109/8996 [00:15<00:04, 468.59it/s]
+ 80%|███████▉  | 7166/8996 [00:15<00:03, 494.81it/s]
+ 80%|████████  | 7221/8996 [00:15<00:03, 509.56it/s]
+ 81%|████████  | 7275/8996 [00:16<00:03, 495.13it/s]
+ 81%|████████▏ | 7327/8996 [00:16<00:03, 479.82it/s]
+ 82%|████████▏ | 7377/8996 [00:16<00:03, 460.66it/s]
+ 83%|████████▎ | 7428/8996 [00:16<00:03, 470.34it/s]
+ 83%|████████▎ | 7491/8996 [00:16<00:02, 507.70it/s]
+ 84%|████████▍ | 7544/8996 [00:16<00:02, 499.90it/s]
+ 84%|████████▍ | 7595/8996 [00:16<00:02, 492.84it/s]
+ 85%|████████▍ | 7645/8996 [00:16<00:03, 429.52it/s]
+ 85%|████████▌ | 7690/8996 [00:16<00:03, 431.78it/s]
+ 86%|████████▌ | 7741/8996 [00:17<00:02, 446.36it/s]
+ 87%|████████▋ | 7788/8996 [00:17<00:02, 449.07it/s]
+ 87%|████████▋ | 7834/8996 [00:17<00:02, 440.87it/s]
+ 88%|████████▊ | 7879/8996 [00:17<00:02, 378.55it/s]
+ 88%|████████▊ | 7939/8996 [00:17<00:02, 423.88it/s]
+ 89%|████████▉ | 7994/8996 [00:17<00:02, 445.24it/s]
+ 89%|████████▉ | 8041/8996 [00:17<00:02, 409.44it/s]
+ 90%|████████▉ | 8094/8996 [00:17<00:02, 435.77it/s]
+ 90%|█████████ | 8140/8996 [00:17<00:01, 439.76it/s]
+ 91%|█████████ | 8186/8996 [00:18<00:01, 411.86it/s]
+ 92%|█████████▏| 8236/8996 [00:18<00:01, 432.41it/s]
+ 92%|█████████▏| 8281/8996 [00:18<00:01, 418.19it/s]
+ 93%|█████████▎| 8341/8996 [00:18<00:01, 459.93it/s]
+ 94%|█████████▎| 8415/8996 [00:18<00:01, 517.37it/s]
+ 94%|█████████▍| 8471/8996 [00:18<00:01, 406.68it/s]
+ 95%|█████████▍| 8518/8996 [00:18<00:01, 412.16it/s]
+ 95%|█████████▌| 8564/8996 [00:18<00:01, 400.88it/s]
+ 96%|█████████▌| 8615/8996 [00:19<00:00, 427.51it/s]
+ 96%|█████████▋| 8661/8996 [00:19<00:00, 427.95it/s]
+ 97%|█████████▋| 8706/8996 [00:19<00:00, 407.62it/s]
+ 97%|█████████▋| 8749/8996 [00:19<00:00, 381.11it/s]
+ 98%|█████████▊| 8804/8996 [00:19<00:00, 414.13it/s]
+ 98%|█████████▊| 8855/8996 [00:19<00:00, 437.87it/s]
+ 99%|█████████▉| 8901/8996 [00:19<00:00, 405.49it/s]
+ 99%|█████████▉| 8947/8996 [00:19<00:00, 418.68it/s]
+100%|█████████▉| 8992/8996 [00:19<00:00, 423.12it/s]
+100%|██████████| 8996/8996 [00:19<00:00, 450.49it/s]
+15:07:57 - [DEBUG] - Time to execute query: 0.04 secs
+15:08:00 - [DEBUG] - Preparing to execute 21 queries.
+15:08:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_jvolumn'   AND  t1."article_pagination"=t2."article_pagination"   AND  t3.rv_val = t2."article_jvolumn" GROUP BY _vid_, val_id with id 0
+15:08:00 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+15:08:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_pagination'   AND  t1."article_jvolumn"=t2."article_jvolumn"   AND  t3.rv_val = t2."article_pagination" GROUP BY _vid_, val_id with id 1
+15:08:00 - [DEBUG] - Time to execute query with id 1: 0.01 secs
+15:08:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_language'   AND  t1."article_jcreated_at"=t2."article_jcreated_at"   AND  t3.rv_val = t2."article_language" GROUP BY _vid_, val_id with id 2
+15:08:00 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+15:08:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_jcreated_at'   AND  t1."article_language"=t2."article_language"   AND  t3.rv_val = t2."article_jcreated_at" GROUP BY _vid_, val_id with id 3
+15:08:00 - [DEBUG] - Time to execute query with id 3: 0.01 secs
+15:08:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_jcreated_at'   AND  t1."journal_abbreviation"=t2."journal_abbreviation"   AND  t3.rv_val = t2."article_jcreated_at" GROUP BY _vid_, val_id with id 4
+15:08:01 - [DEBUG] - Time to execute query with id 4: 0.01 secs
+15:08:01 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_abbreviation'   AND  t1."article_jcreated_at"=t2."article_jcreated_at"   AND  t3.rv_val = t2."journal_abbreviation" GROUP BY _vid_, val_id with id 5
+15:08:01 - [DEBUG] - Time to execute query with id 5: 0.01 secs
+15:08:01 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_jcreated_at'   AND  t1."journal_abbreviation"=t2."journal_abbreviation"   AND  t3.rv_val = t2."article_jcreated_at" GROUP BY _vid_, val_id with id 6
+15:08:01 - [DEBUG] - Time to execute query with id 6: 0.05 secs
+15:08:01 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_abbreviation'   AND  t1."article_jcreated_at"=t2."article_jcreated_at"   AND  t3.rv_val = t2."journal_abbreviation" GROUP BY _vid_, val_id with id 7
+15:08:01 - [DEBUG] - Time to execute query with id 7: 0.01 secs
+15:08:01 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_jvolumn'   AND  t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn" AND t1."article_jissue"<=t2."article_jissue"   AND  t3.rv_val > t2."article_jvolumn" GROUP BY _vid_, val_id with id 8
+15:08:02 - [DEBUG] - Time to execute query with id 8: 0.05 secs
+15:08:02 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t2._tid_ = t3._tid_   AND  t3.attribute = 'article_jvolumn'   AND  t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn" AND t1."article_jissue"<=t2."article_jissue"   AND  t3.rv_val < t1."article_jvolumn" GROUP BY _vid_, val_id with id 9
+15:08:02 - [DEBUG] - Time to execute query with id 9: 0.01 secs
+15:08:02 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_language'   AND  t1."article_jvolumn">t2."article_jvolumn" AND t1."journal_issn"=t2."journal_issn" AND t1."article_jissue"<=t2."article_jissue"   AND  t3.rv_val = t2."article_language" GROUP BY _vid_, val_id with id 10
+15:08:02 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+15:08:02 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_issn'   AND  t1."article_jvolumn">t2."article_jvolumn" AND t1."article_language"=t2."article_language" AND t1."article_jissue"<=t2."article_jissue"   AND  t3.rv_val = t2."journal_issn" GROUP BY _vid_, val_id with id 11
+15:08:03 - [DEBUG] - Time to execute query with id 11: 0.00 secs
+15:08:03 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'article_jissue'   AND  t1."article_jvolumn">t2."article_jvolumn" AND t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn"   AND  t3.rv_val <= t2."article_jissue" GROUP BY _vid_, val_id with id 12
+15:08:03 - [DEBUG] - Time to execute query with id 12: 0.00 secs
+15:08:03 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t2._tid_ = t3._tid_   AND  t3.attribute = 'article_jissue'   AND  t1."article_jvolumn">t2."article_jvolumn" AND t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn"   AND  t3.rv_val >= t1."article_jissue" GROUP BY _vid_, val_id with id 13
+15:08:03 - [DEBUG] - Time to execute query with id 13: 0.01 secs
+15:08:03 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_title'   AND  TRUE   AND  t3.rv_val = t2."journal_title" GROUP BY _vid_, val_id with id 14
+15:08:03 - [DEBUG] - Time to execute query with id 14: 0.02 secs
+15:08:03 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_abbreviation'   AND  t1."journal_title"<>t2."journal_title"   AND  t3.rv_val = t2."journal_abbreviation" GROUP BY _vid_, val_id with id 15
+15:08:04 - [DEBUG] - Time to execute query with id 15: 0.05 secs
+15:08:04 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_title'   AND  t1."journal_abbreviation"=t2."journal_abbreviation"   AND  t3.rv_val <> t2."journal_title" GROUP BY _vid_, val_id with id 16
+15:08:07 - [DEBUG] - Time to execute query with id 16: 0.02 secs
+15:08:07 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_abbreviation'   AND  t1."journal_issn"<>t2."journal_issn"   AND  t3.rv_val = t2."journal_abbreviation" GROUP BY _vid_, val_id with id 17
+15:08:07 - [DEBUG] - Time to execute query with id 17: 0.08 secs
+15:08:07 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_issn'   AND  t1."journal_abbreviation"=t2."journal_abbreviation"   AND  t3.rv_val <> t2."journal_issn" GROUP BY _vid_, val_id with id 18
+15:08:10 - [DEBUG] - Time to execute query with id 18: 0.01 secs
+15:08:10 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_issn'   AND  t1."journal_title"<>t2."journal_title"   AND  t3.rv_val = t2."journal_issn" GROUP BY _vid_, val_id with id 19
+15:08:10 - [DEBUG] - Time to execute query with id 19: 0.02 secs
+15:08:10 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'journal_title'   AND  t1."journal_issn"=t2."journal_issn"   AND  t3.rv_val <> t2."journal_title" GROUP BY _vid_, val_id with id 20
+15:08:11 - [DEBUG] - Time to execute query with id 20: 0.01 secs
+15:08:11 - [DEBUG] - Time to execute 21 queries: 0.39 secs
+15:08:16 - [DEBUG] - DONE featurization.
+15:08:16 - [DEBUG] - generating weak labels...
+15:08:16 - [DEBUG] - Time to execute query: 0.11 secs
+
+  0%|          | 0/2881 [00:00<?, ?it/s]
+100%|██████████| 2881/2881 [00:00<00:00, 49012.11it/s]
+15:08:16 - [DEBUG] - DONE generating weak labels.
+15:08:16 - [DEBUG] - generating mask...
+15:08:16 - [DEBUG] - Time to execute query: 0.01 secs
+
+  0%|          | 0/8996 [00:00<?, ?it/s]
+ 77%|███████▋  | 6886/8996 [00:00<00:00, 68857.27it/s]
+100%|██████████| 8996/8996 [00:00<00:00, 68679.98it/s]
+15:08:16 - [DEBUG] - DONE generating mask.
+15:08:16 - [ INFO] - DONE setting up featurized dataset.
+15:08:16 - [DEBUG] - Time to featurize data: 44.80 secs
+15:08:16 - [ INFO] - DONE setting up repair model.
+15:08:16 - [DEBUG] - Time to setup repair model: 44.80 secs
+15:08:16 - [ INFO] - training with 2881 training examples (cells)
+
+  0%|          | 0/10 [00:00<?, ?it/s]15:08:19 - [DEBUG] - Epoch 1, cost = 1.212444, acc = 75.15%
+
+ 10%|█         | 1/10 [00:02<00:20,  2.27s/it]15:08:21 - [DEBUG] - Epoch 2, cost = 0.862807, acc = 77.26%
+
+ 20%|██        | 2/10 [00:04<00:18,  2.30s/it]15:08:24 - [DEBUG] - Epoch 3, cost = 0.809567, acc = 77.37%
+
+ 30%|███       | 3/10 [00:07<00:16,  2.35s/it]15:08:26 - [DEBUG] - Epoch 4, cost = 0.792123, acc = 77.40%
+
+ 40%|████      | 4/10 [00:09<00:15,  2.50s/it]15:08:29 - [DEBUG] - Epoch 5, cost = 0.784238, acc = 77.44%
+
+ 50%|█████     | 5/10 [00:12<00:12,  2.48s/it]15:08:32 - [DEBUG] - Epoch 6, cost = 0.779912, acc = 77.51%
+
+ 60%|██████    | 6/10 [00:15<00:10,  2.54s/it]15:08:34 - [DEBUG] - Epoch 7, cost = 0.777311, acc = 77.51%
+
+ 70%|███████   | 7/10 [00:17<00:07,  2.56s/it]15:08:37 - [DEBUG] - Epoch 8, cost = 0.775691, acc = 77.51%
+
+ 80%|████████  | 8/10 [00:20<00:05,  2.56s/it]15:08:39 - [DEBUG] - Epoch 9, cost = 0.774654, acc = 77.51%
+
+ 90%|█████████ | 9/10 [00:22<00:02,  2.59s/it]15:08:42 - [DEBUG] - Epoch 10, cost = 0.773970, acc = 77.51%
+
+100%|██████████| 10/10 [00:25<00:00,  2.57s/it]
+15:08:42 - [ INFO] - DONE training repair model.
+15:08:42 - [DEBUG] - Time to fit repair model: 38.50 secs
+15:08:42 - [ INFO] - inferring on 6847 examples (cells)
+15:08:43 - [DEBUG] - Time to execute query: 0.36 secs
+15:08:45 - [DEBUG] - Time to create index: 0.00 secs
+15:08:46 - [DEBUG] - Time to create index: 0.00 secs
+15:08:46 - [ INFO] - DONE inferring repairs.
+15:08:46 - [DEBUG] - Time to infer correct cell values: 8.04 secs
+15:08:46 - [DEBUG] - Time to create table: 0.00 secs
+15:08:47 - [DEBUG] - Time to create index: 0.00 secs
+15:08:47 - [DEBUG] - Time to create index: 0.00 secs
+15:08:47 - [ INFO] - DONE collecting the inferred values.
+15:08:47 - [DEBUG] - Time to collect inferred values: 0.07 secs
+15:08:47 - [ INFO] - DONE generating repaired dataset
+15:08:47 - [DEBUG] - Time to store repaired dataset: 0.17 secs
+15:08:47 - [ INFO] - featurizer InitAttrFeaturizer,size 11,max 1.0000,min 1.0000,avg 1.0000,abs_avg 1.0000,weights:
+id 1.0
+article_title 1.0
+article_language 1.0
+journal_title 1.0
+journal_abbreviation 1.0
+journal_issn 1.0
+article_jvolumn 1.0
+article_jissue 1.0
+article_jcreated_at 1.0
+article_pagination 1.0
+author_list 1.0
+featurizer OccurAttrFeaturizer,size 121,max 2.2677,min -0.3337,avg 0.0811,abs_avg 0.1594,weights:
+id X id 0.0
+id X article_title 0.0
+id X article_language -0.0
+id X journal_title 0.0
+id X journal_abbreviation -0.0
+id X journal_issn -0.0
+id X article_jvolumn -0.0
+id X article_jissue -0.0
+id X article_jcreated_at -0.0
+id X article_pagination -0.0
+id X author_list -0.0
+article_title X id 2.268
+article_title X article_title 0.0
+article_title X article_language 0.019
+article_title X journal_title 0.6
+article_title X journal_abbreviation 0.222
+article_title X journal_issn 0.401
+article_title X article_jvolumn 0.123
+article_title X article_jissue 0.032
+article_title X article_jcreated_at 0.1
+article_title X article_pagination 0.931
+article_title X author_list 1.174
+article_language X id -0.33
+article_language X article_title -0.299
+article_language X article_language -0.0
+article_language X journal_title -0.247
+article_language X journal_abbreviation -0.148
+article_language X journal_issn -0.268
+article_language X article_jvolumn -0.168
+article_language X article_jissue -0.187
+article_language X article_jcreated_at -0.154
+article_language X article_pagination -0.297
+article_language X author_list -0.302
+journal_title X id 0.106
+journal_title X article_title 0.106
+journal_title X article_language 0.002
+journal_title X journal_title -0.0
+journal_title X journal_abbreviation 0.068
+journal_title X journal_issn 0.099
+journal_title X article_jvolumn 0.095
+journal_title X article_jissue 0.029
+journal_title X article_jcreated_at 0.106
+journal_title X article_pagination 0.106
+journal_title X author_list 0.106
+journal_abbreviation X id 0.03
+journal_abbreviation X article_title 0.03
+journal_abbreviation X article_language -0.0
+journal_abbreviation X journal_title 0.03
+journal_abbreviation X journal_abbreviation -0.0
+journal_abbreviation X journal_issn 0.03
+journal_abbreviation X article_jvolumn 0.03
+journal_abbreviation X article_jissue 0.03
+journal_abbreviation X article_jcreated_at 0.03
+journal_abbreviation X article_pagination 0.03
+journal_abbreviation X author_list 0.03
+journal_issn X id 0.623
+journal_issn X article_title 0.623
+journal_issn X article_language 0.006
+journal_issn X journal_title 0.595
+journal_issn X journal_abbreviation 0.632
+journal_issn X journal_issn -0.0
+journal_issn X article_jvolumn 0.089
+journal_issn X article_jissue 0.019
+journal_issn X article_jcreated_at 0.125
+journal_issn X article_pagination 0.544
+journal_issn X author_list 0.611
+article_jvolumn X id -0.077
+article_jvolumn X article_title 0.036
+article_jvolumn X article_language 0.012
+article_jvolumn X journal_title 0.094
+article_jvolumn X journal_abbreviation -0.255
+article_jvolumn X journal_issn 0.022
+article_jvolumn X article_jvolumn 0.0
+article_jvolumn X article_jissue 0.066
+article_jvolumn X article_jcreated_at 0.806
+article_jvolumn X article_pagination -0.015
+article_jvolumn X author_list -0.012
+article_jissue X id 0.329
+article_jissue X article_title 0.093
+article_jissue X article_language -0.328
+article_jissue X journal_title -0.156
+article_jissue X journal_abbreviation 0.264
+article_jissue X journal_issn 0.418
+article_jissue X article_jvolumn -0.067
+article_jissue X article_jissue 0.0
+article_jissue X article_jcreated_at 0.128
+article_jissue X article_pagination -0.334
+article_jissue X author_list -0.102
+article_jcreated_at X id -0.238
+article_jcreated_at X article_title -0.233
+article_jcreated_at X article_language -0.035
+article_jcreated_at X journal_title -0.013
+article_jcreated_at X journal_abbreviation 0.061
+article_jcreated_at X journal_issn -0.1
+article_jcreated_at X article_jvolumn 0.742
+article_jcreated_at X article_jissue -0.002
+article_jcreated_at X article_jcreated_at -0.0
+article_jcreated_at X article_pagination -0.135
+article_jcreated_at X author_list -0.233
+article_pagination X id 0.083
+article_pagination X article_title 0.083
+article_pagination X article_language 0.003
+article_pagination X journal_title 0.083
+article_pagination X journal_abbreviation 0.057
+article_pagination X journal_issn 0.074
+article_pagination X article_jvolumn 0.083
+article_pagination X article_jissue 0.021
+article_pagination X article_jcreated_at 0.083
+article_pagination X article_pagination -0.0
+article_pagination X author_list 0.083
+author_list X id -0.0
+author_list X article_title -0.0
+author_list X article_language 0.0
+author_list X journal_title -0.0
+author_list X journal_abbreviation -0.0
+author_list X journal_issn 0.0
+author_list X article_jvolumn -0.0
+author_list X article_jissue -0.0
+author_list X article_jcreated_at 0.0
+author_list X article_pagination 0.0
+author_list X author_list 0.0
+featurizer FreqFeaturizer,size 11,max 0.0000,min -0.8835,avg -0.1177,abs_avg 0.1177,weights:
+id 0.0
+article_title -0.0
+article_language -0.339
+journal_title -0.0
+journal_abbreviation -0.0
+journal_issn -0.001
+article_jvolumn -0.025
+article_jissue -0.884
+article_jcreated_at -0.046
+article_pagination 0.0
+author_list -0.0
+featurizer ConstraintFeaturizer,size 21,max 0.1910,min -0.6139,avg -0.1094,abs_avg 0.1286,weights:
+fixed pred: t1."article_pagination"=t2."article_pagination", violation pred: t1."article_jvolumn"=t2."article_jvolumn" 0.191
+fixed pred: t1."article_jvolumn"=t2."article_jvolumn", violation pred: t1."article_pagination"=t2."article_pagination" 0.0
+fixed pred: t1."article_jcreated_at"=t2."article_jcreated_at", violation pred: t1."article_language"=t2."article_language" -0.484
+fixed pred: t1."article_language"=t2."article_language", violation pred: t1."article_jcreated_at"=t2."article_jcreated_at" -0.614
+fixed pred: t1."journal_abbreviation"=t2."journal_abbreviation", violation pred: t1."article_jcreated_at"=t2."article_jcreated_at" -0.242
+fixed pred: t1."article_jcreated_at"=t2."article_jcreated_at", violation pred: t1."journal_abbreviation"=t2."journal_abbreviation" 0.0
+fixed pred: t1."journal_abbreviation"=t2."journal_abbreviation", violation pred: t1."article_jcreated_at"=t2."article_jcreated_at" -0.263
+fixed pred: t1."article_jcreated_at"=t2."article_jcreated_at", violation pred: t1."journal_abbreviation"=t2."journal_abbreviation" -0.0
+fixed pred: t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn" AND t1."article_jissue"<=t2."article_jissue", violation pred: t1."article_jvolumn">t2."article_jvolumn" -0.023
+fixed pred: t1."article_jvolumn">t2."article_jvolumn" AND t1."journal_issn"=t2."journal_issn" AND t1."article_jissue"<=t2."article_jissue", violation pred: t1."article_language"=t2."article_language" 0.01
+fixed pred: t1."article_jvolumn">t2."article_jvolumn" AND t1."article_language"=t2."article_language" AND t1."article_jissue"<=t2."article_jissue", violation pred: t1."journal_issn"=t2."journal_issn" -0.072
+fixed pred: t1."article_jvolumn">t2."article_jvolumn" AND t1."article_language"=t2."article_language" AND t1."journal_issn"=t2."journal_issn", violation pred: t1."article_jissue"<=t2."article_jissue" -0.028
+fixed pred: , violation pred: t1."journal_title"=t2."journal_title" -0.375
+fixed pred: t1."journal_title"<>t2."journal_title", violation pred: t1."journal_abbreviation"=t2."journal_abbreviation" -0.208
+fixed pred: t1."journal_abbreviation"=t2."journal_abbreviation", violation pred: t1."journal_title"<>t2."journal_title" -0.01
+fixed pred: t1."journal_issn"<>t2."journal_issn", violation pred: t1."journal_abbreviation"=t2."journal_abbreviation" -0.006
+fixed pred: t1."journal_abbreviation"=t2."journal_abbreviation", violation pred: t1."journal_issn"<>t2."journal_issn" -0.001
+fixed pred: t1."journal_title"<>t2."journal_title", violation pred: t1."journal_issn"=t2."journal_issn" -0.006
+fixed pred: t1."journal_issn"=t2."journal_issn", violation pred: t1."journal_title"<>t2."journal_title" -0.011
+
+15:08:47 - [DEBUG] - Time to store featurizer weights: 0.00 secs
+15:08:48 - [DEBUG] - Time to create index: 0.00 secs
+15:08:48 - [DEBUG] - Time to create index: 0.00 secs
+15:08:48 - [ INFO] - DONE Loading clean_index_holoclean.csv
+15:08:48 - [DEBUG] - Time to evaluate repairs: 0.52 secs
+15:08:48 - [DEBUG] - Time to execute query: 0.00 secs
+15:08:48 - [DEBUG] - Time to execute query: 0.00 secs
+15:08:48 - [DEBUG] - Preparing to execute 11 queries.
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'id'   AND t1."id" != t2._value_ with id 0
+15:08:48 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'article_title'   AND t1."article_title" != t2._value_ with id 1
+15:08:48 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'article_language'   AND t1."article_language" != t2._value_ with id 2
+15:08:48 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'journal_title'   AND t1."journal_title" != t2._value_ with id 3
+15:08:48 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'journal_abbreviation'   AND t1."journal_abbreviation" != t2._value_ with id 4
+15:08:48 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'journal_issn'   AND t1."journal_issn" != t2._value_ with id 5
+15:08:48 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'article_jvolumn'   AND t1."article_jvolumn" != t2._value_ with id 6
+15:08:48 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'article_jissue'   AND t1."article_jissue" != t2._value_ with id 7
+15:08:48 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'article_jcreated_at'   AND t1."article_jcreated_at" != t2._value_ with id 8
+15:08:48 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'article_pagination'   AND t1."article_pagination" != t2._value_ with id 9
+15:08:48 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'author_list'   AND t1."author_list" != t2._value_ with id 10
+15:08:48 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+15:08:48 - [DEBUG] - Time to execute 11 queries: 0.01 secs
+15:08:48 - [DEBUG] - Time to execute query: 0.00 secs
+15:08:48 - [DEBUG] - Preparing to execute 11 queries.
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'id'       AND t1."id" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 0
+15:08:48 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'article_title'       AND t1."article_title" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 1
+15:08:48 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'article_language'       AND t1."article_language" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 2
+15:08:48 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'journal_title'       AND t1."journal_title" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 3
+15:08:48 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'journal_abbreviation'       AND t1."journal_abbreviation" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 4
+15:08:48 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'journal_issn'       AND t1."journal_issn" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 5
+15:08:48 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'article_jvolumn'       AND t1."article_jvolumn" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 6
+15:08:48 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'article_jissue'       AND t1."article_jissue" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 7
+15:08:48 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'article_jcreated_at'       AND t1."article_jcreated_at" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 8
+15:08:48 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'article_pagination'       AND t1."article_pagination" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 9
+15:08:48 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+15:08:48 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "rayyan_nwcpk_075" as t1, "rayyan_nwcpk_075_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'author_list'       AND t1."author_list" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 10
+15:08:48 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+15:08:48 - [DEBUG] - Time to execute 11 queries: 0.01 secs
+15:08:50 - [DEBUG] - Time to execute query: 0.00 secs
+15:08:50 - [DEBUG] - weak label statistics:
+15:08:50 - [DEBUG] -     is_clean  cell_status  is_inferred  init = grdth init = inferred  \
+0   False     0            True         False         False            
+1   False     0            True         False         False            
+2   False     0            True         False         True             
+3   False     0            True         True          False            
+4   False     0            True         True          True             
+5   False     1            True         False         True             
+6   False     1            True         True          False            
+7   False     1            True         True          False            
+8   False     1            True         True          True             
+9   False     2            True         False         False            
+10  False     2            True         True          False            
+11  False     2            True         True          True             
+12  True      0            False        False         None             
+13  True      0            False        True          None             
+14  True      1            False        True          None             
+15  True      2            False        False         None             
+16  True      2            False        True          None             
+
+    w. label = init  w. label = grdth w. label = inferred infer = grdth  count  
+0   True             False             False               False         9      
+1   True             False             False               True          11     
+2   True             False             True                False         37     
+3   True             True              False               False         379    
+4   True             True              True                True          4147   
+5   False            False             False               False         1      
+6   False            False             False               False         56     
+7   False            False             True                False         81     
+8   False            False             False               True          269    
+9   True             False             False               False         1      
+10  True             True              False               False         14     
+11  True             True              True                True          248    
+12  True             False             None                None          11     
+13  True             True              None                None          1818   
+14  False            False             None                None          279    
+15  True             False             None                None          1      
+16  True             True              None                None          40     
+15:08:50 - [ INFO] - Precision = 0.02, Recall = 0.15, Repairing Recall = 0.19, F1 = 0.04, Repairing F1 = 0.04, Detected Errors = 59, Total Errors = 72, Correct Repairs = 11, Total Repairs = 2139, Total Repairs on correct cells (Grdth present) = 530, Total Repairs on incorrect cells (Grdth present) = 21
+15:08:50 - [DEBUG] - Time to generate report: 0.05 secs
+15:08:50 - [DEBUG] - Time to execute query: 0.01 secs
+15:08:51 - [ INFO] - 清洗后的数据已成功保存到 results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_repaired.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/clean_index_ori_empty.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/noise_with_correct_primary_key/dirty_mixed_0.75/dirty_rayyan_mix_0.75_ori_empty.csv
+Running Holoclean with modified dirty file: Data/4_rayyan/noise_with_correct_primary_key/dirty_mixed_0.75/dirty_rayyan_mix_0.75_holoclean.csv
+转换完成，结果已保存到 Data/4_rayyan/clean_index_holoclean.csv
+Results saved to results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_repaired.csv
+Holoclean finished in 94.81437921524048 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_repaired_ori_empty.csv
+差异文件已保存到:
+results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_clean_vs_dirty.csv
+results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_dirty_vs_cleaned.csv
+results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_unrepaired.csv
+修复准确率: 0.006535947712418301, 修复召回率: 0.1728395061728395, F1值: 0.012595591535938049
+========================================
+EDR 结果已保存到: results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_edr_evaluation.txt
+错误减少率 (EDR): -25.97530864197531
+========================================
+混合距离结果已保存到: results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.06195052243540011
+========================================
+R-EDR 结果已保存到: results/holoclean/nwcpk/4_rayyan_nwcpk_075/4_rayyan_nwcpk_075_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -11.921052631578947
+========================================
+测试结果:
+Accuracy: 0.006535947712418301
+Recall: 0.1728395061728395
+F1 Score: 0.012595591535938049
+EDR: -25.97530864197531
+Hybrid Distance: 0.06195052243540011
+R-EDR: -11.921052631578947
+Time: 94.81437921524048
+Speed: 9.481437921524048 seconds/100 records
+测评结束，详细测评日志见：results/holoclean/nwcpk/4_rayyan_nwcpk_075

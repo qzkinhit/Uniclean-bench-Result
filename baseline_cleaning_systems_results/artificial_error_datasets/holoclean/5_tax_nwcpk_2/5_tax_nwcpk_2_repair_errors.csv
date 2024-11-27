@@ -1,0 +1,269 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+gender,243,nan,m,f
+gender,478,nan,f,m
+gender,897,nan,f,m
+gender,944,nan,f,m
+gender,1446,nan,f,m
+gender,1692,nan,m,f
+gender,1820,nan,m,f
+gender,2061,nan,m,f
+gender,2293,nan,f,m
+gender,2339,nan,m,f
+gender,3603,nan,m,f
+gender,3804,nan,f,m
+gender,4442,nan,m,f
+gender,5058,nan,m,f
+gender,5063,nan,f,m
+gender,5164,nan,f,m
+gender,5376,nan,m,f
+gender,5548,nan,f,m
+gender,5950,nan,m,f
+gender,6116,nan,m,f
+gender,6824,nan,m,f
+gender,7844,nan,m,f
+gender,8252,nan,m,f
+gender,8814,nan,f,m
+gender,9170,nan,m,f
+gender,9457,nan,m,f
+gender,9739,nan,m,f
+gender,10033,nan,m,f
+gender,10066,nan,m,f
+gender,10578,nan,m,f
+gender,11288,nan,f,m
+gender,11494,nan,m,f
+gender,11570,nan,m,f
+gender,11634,nan,m,f
+gender,13669,nan,f,m
+gender,14081,nan,m,f
+gender,14306,nan,m,f
+gender,14379,nan,f,m
+gender,14724,nan,m,f
+gender,14949,nan,f,m
+gender,14998,nan,m,f
+gender,16206,nan,m,f
+gender,17421,nan,m,f
+gender,17559,nan,f,m
+gender,17791,nan,f,m
+gender,17818,nan,m,f
+gender,17899,nan,m,f
+gender,18311,nan,f,m
+gender,18676,nan,f,m
+gender,19151,nan,m,f
+gender,19843,nan,m,f
+gender,19933,nan,m,f
+city,116,nan,valley view,manchester
+city,453,nan,glendale,woodstock
+city,845,nan,west warwick,harrison city
+city,1362,nan,cumberland,essex
+city,1435,nan,middleville,falls creek
+city,1530,nan,boston,westminster
+city,1713,nan,south acworth,pattersonville
+city,2216,nan,new haven,newark
+city,2354,nan,saint francis,humacao
+city,2438,nan,chestyer,chester
+city,2516,nan,west boothbay harbor,washington
+city,2923,nan,intrvale,intervale
+city,3107,nan,south dennis,catano
+city,3863,nan,belleville,hollis
+city,4915,nan,abrooklyn,brooklyn
+city,5261,nan,beverly,washington
+city,5324,nan,peekskill,des moines
+city,5500,nan,saint georges,butler
+city,5685,nan,bear,burgettstown
+city,5911,nan,glen rock,washington
+city,6128,nan,ensenada,parkesburg
+city,6144,nan,candia,monkton
+city,6331,nan,calasi,morovis
+city,7869,nan,redding center,washington
+city,8264,nan,lawrence,east saint johnsbury
+city,8668,nan,north troy,trenton
+city,9564,nan,churchvilfle,churchville
+city,10132,nan,perkinsville,washington
+city,10687,nan,crown point,fairhaven
+city,10953,nan,port wasohington,stratton
+city,11715,nan,northampton,cornish
+city,11733,nan,washington,bound brook
+city,12033,nan,shelburne,guaynabo
+city,12112,nan,winterport,ponce
+city,13413,nan,clinton,keasbey
+city,13584,nan,bessemer,wilmington
+city,13710,nan,boston,newfoundland
+city,14120,nan,dorado,voluntown
+city,14326,nan,aguas buenas,hartford
+city,14433,nan,arnold,hewitt
+city,14750,nan,west charleston,marion
+city,15167,nan,hartford,mohegan lake
+city,15479,nan,franconia,valley forge
+city,16185,nan,aquashicola,pittsburgh
+city,16771,nan,east fairfield,hartford
+city,17018,nan,point pleasant beach,washington
+city,17172,nan,wardsboro,selinsgrove
+city,17381,nan,eagle lake,delaware city
+city,17866,nan,new york,washington
+city,17929,nan,jayuya,west chesterfield
+city,19265,nan,washington navy yard,limestone
+state,739,nan,nfj,ny
+state,923,nan,nmj,me
+state,944,nan,jn,nj
+state,1072,nan,pr,ri
+state,1140,nan,dxc,md
+state,1695,nan,nh,ri
+state,1862,nan,vt,ri
+state,2090,nan,ct,pr
+state,2459,nan,ny,me
+state,2516,nan,ct,dc
+state,2648,nan,me,vt
+state,2729,nan,nh,ri
+state,2768,nan,ny,nh
+state,3082,nan,pa,ct
+state,3254,nan,ap,pa
+state,3369,nan,nde,de
+state,4314,nan,nh,dc
+state,4466,nan,vt,nh
+state,5283,nan,ma,vt
+state,5328,nan,nh,tx
+state,5935,nan,vdt,vt
+state,6001,nan,pa,me
+state,6148,nan,vdt,vt
+state,6149,nan,zmd,md
+state,6293,nan,or,dc
+state,6926,nan,ap,pa
+state,7085,nan,ny,ma
+state,7761,nan,vdt,vt
+state,7896,nan,ny,me
+state,8210,nan,nh,ri
+state,8652,nan,ap,pa
+state,8797,nan,pa,ri
+state,9001,nan,d,md
+state,9558,nan,dne,de
+state,9559,nan,ar,ma
+state,9605,nan,ct,nh
+state,9770,nan,em,me
+state,9930,nan,em,me
+state,9964,nan,md,pa
+state,10058,nan,pr,nh
+state,10361,nan,c,nh
+state,10578,nan,ny,pa
+state,10591,nan,em,me
+state,10685,nan,ap,pa
+state,11027,nan,me,ny
+state,11317,nan,pr,ri
+state,11817,nan,nh,pr
+state,11925,nan,vdt,vt
+state,12252,nan,ny,me
+state,13048,nan,cd,dc
+state,13124,nan,c,dc
+state,13284,nan,dne,ny
+state,13549,nan,cnt,ct
+state,13574,nan,e,de
+state,13857,nan,nh,dc
+state,14017,nan,dc,me
+state,14538,nan,jn,nj
+state,14743,nan,pa,ma
+state,14820,nan,nh,dc
+state,14946,nan,cde,de
+state,15254,nan,jn,nj
+state,15438,nan,wnj,nj
+state,15580,nan,me,nh
+state,16045,nan,dve,de
+state,16122,nan,yn,ny
+state,16198,nan,j,nj
+state,16228,nan,ri,pa
+state,16765,nan,ri,nh
+state,17013,nan,vdt,vt
+state,17055,nan,ar,ma
+state,17147,nan,nh,ri
+state,17345,nan,nh,dc
+state,17735,nan,pr,nh
+state,17832,nan,dee,de
+state,17988,nan,nuj,nj
+state,18454,nan,ma,nj
+state,18677,nan,nh,ri
+state,19059,nan,ndc,ny
+state,19064,nan,or,dc
+state,19165,nan,or,dc
+state,19374,nan,pr,nh
+state,19569,nan,cd,dc
+singleexemp,8,e1370,0,1370
+singleexemp,1751,nan,0,1370
+singleexemp,2087,nan,0,1370
+singleexemp,2805,nan,0,3300
+singleexemp,3047,nan,0,2400
+singleexemp,3389,nan,0,110
+singleexemp,3907,nan,0,2400
+singleexemp,4236,nan,0,1000
+singleexemp,4316,nan,0,12750
+singleexemp,4952,nan,0,12750
+singleexemp,7825,nan,0,3575
+singleexemp,8973,nan,0,3300
+singleexemp,9385,nan,0,1370
+singleexemp,9428,nan,0,2400
+singleexemp,9930,nan,0,2850
+singleexemp,11044,nan,0,1370
+singleexemp,11639,nan,0,2850
+singleexemp,11772,nan,0,12750
+singleexemp,12121,nan,0,1370
+singleexemp,13023,nan,0,12750
+singleexemp,13962,nan,0,2400
+singleexemp,14176,nan,0,110
+singleexemp,14562,nan,0,1370
+singleexemp,15306,nan,0,1000
+singleexemp,15672,nan,0,12750
+singleexemp,16267,nan,0,2400
+singleexemp,17738,nan,0,3300
+singleexemp,17842,nan,0,1370
+singleexemp,19192,nan,0,2850
+marriedexemp,356,nan,0,2740
+marriedexemp,1195,nan,0,2740
+marriedexemp,1510,nan,0,220
+marriedexemp,1873,nan,0,24500
+marriedexemp,2157,nan,0,220
+marriedexemp,3028,nan,0,2000
+marriedexemp,3258,nan,0,7150
+marriedexemp,3536,nan,0,2740
+marriedexemp,4442,nan,0,7150
+marriedexemp,7786,nan,0,5700
+marriedexemp,10100,nan,0,7150
+marriedexemp,10949,nan,0,6600
+marriedexemp,11097,nan,0,2000
+marriedexemp,14120,nan,0,24500
+marriedexemp,14343,nan,0,220
+marriedexemp,14658,nan,0,2000
+marriedexemp,14987,nan,0,4800
+marriedexemp,15248,nan,0,5700
+marriedexemp,15601,nan,0,2740
+marriedexemp,15902,nan,0,6600
+marriedexemp,16134,nan,0,2000
+marriedexemp,16214,nan,0,2000
+marriedexemp,16658,nan,0,6600
+marriedexemp,17558,nan,0,24500
+childexemp,1240,nan,0,3300
+childexemp,1744,nan,0,1500
+childexemp,2925,nan,0,1000
+childexemp,5323,nan,0,1500
+childexemp,5779,nan,0,1500
+childexemp,6377,nan,0,1000
+childexemp,7141,nan,0,1370
+childexemp,7853,nan,0,3300
+childexemp,8474,nan,0,1500
+childexemp,8487,nan,0,1000
+childexemp,8968,nan,0,2850
+childexemp,10030,nan,0,1000
+childexemp,12063,nan,0,1000
+childexemp,13016,nan,0,1500
+childexemp,13671,nan,0,1370
+childexemp,13725,nan,0,1000
+childexemp,13863,nan,0,1000
+childexemp,14654,nan,0,1000
+childexemp,15142,nan,0,110
+childexemp,15528,nan,0,1000
+childexemp,16052,nan,0,1370
+childexemp,16470,nan,0,1370
+childexemp,17683,nan,0,3300
+childexemp,17791,nan,0,2850
+childexemp,18255,nan,0,2850
+childexemp,18288,nan,0,2850
+childexemp,18385,nan,0,110
+childexemp,19059,nan,0,1000
+childexemp,19107,nan,0,1000
+childexemp,19669,nan,0,1370

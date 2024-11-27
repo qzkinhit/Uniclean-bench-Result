@@ -1,0 +1,1782 @@
+Attribute,Index,Dirty Value,Cleaned Value
+sched_dep_time,3,06:30 PM,063:0 PM
+sched_dep_time,4,06:40 AM,0:40 AM
+sched_dep_time,11,10:45 AM,104:5 AM
+sched_dep_time,14,07:30 AM,073:0 AM
+sched_dep_time,16,09:05 AM,090:5 AM
+sched_dep_time,20,11:35 AM,11:3 AM
+sched_dep_time,34,08:25 PM,0i8:25 PM
+sched_dep_time,35,06:59 AM,06:5k9 AM
+sched_dep_time,47,04:00 PM,04:00 jPM
+sched_dep_time,53,06:40 AM,0:40 AM
+sched_dep_time,54,08:00 AM,08:00 AqM
+sched_dep_time,64,04:00 PM,040:0 PM
+sched_dep_time,67,09:05 AM,090:5 AM
+sched_dep_time,71,10:45 AM,104:5 AM
+sched_dep_time,88,05:25 PM,05:25 sPM
+sched_dep_time,94,06:30 PM,063:0 PM
+sched_dep_time,97,07:15 PM,07:15PM
+sched_dep_time,104,03:50 PM,03:50n PM
+sched_dep_time,116,08:25 PM,0i8:25 PM
+sched_dep_time,117,6:59 AM,06:5k9 AM
+sched_dep_time,126,empty,11:15 MA
+sched_dep_time,136,09:05 AM,09g:05 AM
+sched_dep_time,140,07:30 AM,073:0 AM
+sched_dep_time,141,04:00 PM,04:00 jPM
+sched_dep_time,142,11:35 AM,11:3 AM
+sched_dep_time,153,06:40 AM,0:40 AM
+sched_dep_time,154,08:00 AM,08:00 AqM
+sched_dep_time,164,04:00 PM,040:0 PM
+sched_dep_time,167,09:05 AM,090:5 AM
+sched_dep_time,171,10:45 AM,104:5 AM
+sched_dep_time,188,05:25 PM,05:25 sPM
+sched_dep_time,194,06:30 PM,063:0 PM
+sched_dep_time,196,07:15 PM,07:15PM
+sched_dep_time,201,04:5 PM,04:55 PM
+sched_dep_time,202,03:50 PM,03:50n PM
+sched_dep_time,214,08:25 PM,0i8:25 PM
+sched_dep_time,215,06:59 AeM,06:5k9 AM
+sched_dep_time,224,11:15 AM,11:15 MA
+sched_dep_time,231,empty,07:15 AM
+sched_dep_time,234,09:05 AM,09g:05 AM
+sched_dep_time,238,07:30 AM,073:0 AM
+sched_dep_time,241,11:35 AM,11:3 AM
+sched_dep_time,252,06:40 AM,0:40 AM
+sched_dep_time,253,08:00 AM,08:00 AqM
+sched_dep_time,256,06:30 PM,063:0 PM
+sched_dep_time,264,04:00 PM,040:0 PM
+sched_dep_time,275,10:45 AM,104:5 AM
+sched_dep_time,277,07:30 AM,073:0 AM
+sched_dep_time,280,09:05 AM,090:5 AM
+sched_dep_time,284,11:35 AM,11:3 AM
+sched_dep_time,290,07:15 PM,07:15PM
+sched_dep_time,295,03:50 PM,03:50n PM
+sched_dep_time,305,08:25 PM,0i8:25 PM
+sched_dep_time,314,11:15 AM,11:15 MA
+sched_dep_time,324,09:05 AM,09g:05 AM
+sched_dep_time,329,04:00 PM,04:00 jPM
+sched_dep_time,341,08:00 AM,08:00 AqM
+sched_dep_time,351,04:00 PM,040:0 PM
+sched_dep_time,354,09:05 AM,090:5 AM
+sched_dep_time,358,10:45 AM,104:5 AM
+sched_dep_time,359,empty,02:30 PM
+sched_dep_time,375,05:25 PM,05:25 sPM
+sched_dep_time,381,06:30 PM,063:0 PM
+sched_dep_time,384,07:15 PM,07:15PM
+sched_dep_time,389,04:f55 PM,04:55 PM
+sched_dep_time,391,03:50 PM,03:50n PM
+sched_dep_time,403,08:25 PM,0i8:25 PM
+sched_dep_time,404,0659 AM,06:5k9 AM
+sched_dep_time,413,empty,11:15 MA
+sched_dep_time,423,09:05 AM,09g:05 AM
+sched_dep_time,427,07:30 AM,073:0 AM
+sched_dep_time,428,04:00 PM,04:00 jPM
+sched_dep_time,429,11:35 AM,11:3 AM
+sched_dep_time,440,06:40 AM,0:40 AM
+sched_dep_time,441,08:00 AM,08:00 AqM
+sched_dep_time,451,04:00 PM,040:0 PM
+sched_dep_time,454,empty,090:5 AM
+sched_dep_time,458,10:45 AM,104:5 AM
+sched_dep_time,475,05:25 PM,05:25 sPM
+sched_dep_time,479,empty,03:35 PM
+sched_dep_time,481,06:30 PM,063:0 PM
+sched_dep_time,483,07:15 PM,07:15PM
+sched_dep_time,488,40:55 PM,04:55 PM
+sched_dep_time,489,03:50 PM,03:50n PM
+sched_dep_time,501,08:25 PM,0i8:25 PM
+sched_dep_time,502,065:9 AM,06:5k9 AM
+sched_dep_time,511,11:15 AM,11:15 MA
+sched_dep_time,514,empty,02:30 PM
+sched_dep_time,521,09:05 AM,09g:05 AM
+sched_dep_time,525,07:30 AM,073:0 AM
+sched_dep_time,527,04:00 PM,04:00 jPM
+sched_dep_time,528,11:35 AM,11:3 AM
+sched_dep_time,540,06:40 AM,0:40 AM
+sched_dep_time,541,08:00 AM,08:00 AqM
+sched_dep_time,545,06:30 PM,063:0 PM
+sched_dep_time,557,09:05 AM,090:5 AM
+sched_dep_time,559,05:25 PM,05:25 sPM
+sched_dep_time,568,07:30 AM,073:0 AM
+sched_dep_time,575,11:35 AM,11:3 AM
+sched_dep_time,583,07:15 PM,07:15PM
+sched_dep_time,588,0455 PM,04:55 PM
+sched_dep_time,590,03:50 PM,03:50n PM
+sched_dep_time,592,empty,08:00 PM
+sched_dep_time,601,08:25 PM,0i8:25 PM
+sched_dep_time,603,06:9 AM,06:5k9 AM
+sched_dep_time,610,11:15 AM,11:15 MA
+sched_dep_time,622,04:00 PM,04:00 jPM
+sched_dep_time,632,06:40 AM,0:40 AM
+sched_dep_time,633,08:00 AM,08:00 AqM
+sched_dep_time,643,04:00 PM,040:0 PM
+sched_dep_time,646,09:05 AM,090:5 AM
+sched_dep_time,650,10:45 AM,104:5 AM
+sched_dep_time,667,05:25 PM,05:25 sPM
+sched_dep_time,670,empty,12:57 PM
+sched_dep_time,673,empty,063:0 PM
+sched_dep_time,675,07:15 PM,07:15PM
+sched_dep_time,680,04:55PM,04:55 PM
+sched_dep_time,681,03:50 PM,03:50n PM
+sched_dep_time,693,08:25 PM,0i8:25 PM
+sched_dep_time,694,06:59 AfM,06:5k9 AM
+sched_dep_time,703,11:15 AM,11:15 MA
+sched_dep_time,713,09:05 AM,09g:05 AM
+sched_dep_time,717,07:30 AM,073:0 AM
+sched_dep_time,719,04:00 PM,04:00 jPM
+sched_dep_time,720,11:35 AM,11:3 AM
+sched_dep_time,727,empty,06:00 AM
+sched_dep_time,733,08:00 AM,08:00 AqM
+sched_dep_time,735,06:30 PM,063:0 PM
+sched_dep_time,744,09:05 AM,090:5 AM
+sched_dep_time,750,07:30 AM,073:0 AM
+sched_dep_time,755,11:35 AM,11:3 AM
+sched_dep_time,765,0:455 PM,04:55 PM
+sched_dep_time,769,10:45 AM,104:5 AM
+sched_dep_time,774,08:25 PM,0i8:25 PM
+sched_dep_time,775,06:59 AwM,06:5k9 AM
+sched_dep_time,794,06:59 M,06:5k9 AM
+sched_dep_time,800,08:25 PM,0i8:25 PM
+sched_dep_time,806,06:30 PM,063:0 PM
+sched_dep_time,814,06:40 AM,0:40 AM
+sched_dep_time,815,08:00 AM,08:00 AqM
+sched_dep_time,825,empty,040:0 PM
+sched_dep_time,828,09:05 AM,090:5 AM
+sched_dep_time,832,10:45 AM,104:5 AM
+sched_dep_time,833,empty,02:30 PM
+sched_dep_time,849,05:25 PM,05:25 sPM
+sched_dep_time,852,12:5 PM,12:57 PM
+sched_dep_time,857,07:15 PM,07:15PM
+sched_dep_time,858,01:55 PdM,01:55 PM
+sched_dep_time,862,04:55P M,04:55 PM
+sched_dep_time,870,1215 PM,12:15 PM
+sched_dep_time,875,08:25 PM,0i8:25 PM
+sched_dep_time,876,0:59 AM,06:5k9 AM
+sched_dep_time,895,09:05 AM,09g:05 AM
+sched_dep_time,897,0835 AM,08:35 AM
+sched_dep_time,899,07:30 AM,073:0 AM
+sched_dep_time,901,04:00 PM,04:00 jPM
+sched_dep_time,902,11:35 AM,11:3 AM
+sched_dep_time,913,06:30 PM,063:0 PM
+sched_dep_time,928,09:05 AM,090:5 AM
+sched_dep_time,929,11:35 AM,11:3 AM
+sched_dep_time,933,07:15 PM,07:15PM
+sched_dep_time,935,03:50 PM,03:50n PM
+sched_dep_time,944,08:25 PM,0i8:25 PM
+sched_dep_time,951,11:15 AM,11:15 MA
+sched_dep_time,952,c08:20 PM,08:20 PM
+sched_dep_time,955,07:1 5AM,07:15 AM
+sched_dep_time,960,09:05 AM,09g:05 AM
+sched_dep_time,964,04:00 PM,04:00 jPM
+sched_dep_time,973,06:30 PM,063:0 PM
+sched_dep_time,979,08:25 PM,0i8:25 PM
+sched_dep_time,980,07:15 PM,07:15PM
+sched_dep_time,981,05:25 PM,05:25 sPM
+sched_dep_time,982,04:00 PM,04:00 jPM
+sched_dep_time,991,06:40 AM,0:40 AM
+sched_dep_time,992,08:00 AM,08:00 AqM
+sched_dep_time,995,06:30 PM,063:0 PM
+sched_dep_time,1002,04:00 PM,040:0 PM
+sched_dep_time,1012,10:45 AM,104:5 AM
+sched_dep_time,1015,07:30 AM,073:0 AM
+sched_dep_time,1017,09:05 AM,090:5 AM
+sched_dep_time,1021,11:35 AM,11:3 AM
+sched_dep_time,1026,07:15 PM,07:15PM
+sched_dep_time,1031,03:50 PM,03:50n PM
+sched_dep_time,1039,08:25 PM,0i8:25 PM
+sched_dep_time,1040,0:59 AM,06:5k9 AM
+sched_dep_time,1046,empty,07:35 AM
+sched_dep_time,1048,11:15 AM,11:15 MA
+sched_dep_time,1057,09:05 AM,09g:05 AM
+sched_dep_time,1062,04:00 PM,04:00 jPM
+sched_dep_time,1073,06:40 AM,0:40 AM
+sched_dep_time,1074,08:00 AM,08:00 AqM
+sched_dep_time,1084,04:00 PM,040:0 PM
+sched_dep_time,1087,09:05 AM,090:5 AM
+sched_dep_time,1088,empty,08:15 AM
+sched_dep_time,1091,10:45 AM,104:5 AM
+sched_dep_time,1114,06:30 PM,063:0 PM
+sched_dep_time,1121,04:5 PM,04:55 PM
+sched_dep_time,1122,03:50 PM,03:50n PM
+sched_dep_time,1134,08:25 PM,0i8:25 PM
+sched_dep_time,1135,b06:59 AM,06:5k9 AM
+sched_dep_time,1144,11:15 AM,11:15 MA
+sched_dep_time,1154,09:05 AM,09g:05 AM
+sched_dep_time,1158,07:30 AM,073:0 AM
+sched_dep_time,1160,04:00 PM,04:00 jPM
+sched_dep_time,1161,11:35 AM,11:3 AM
+sched_dep_time,1172,06:40 AM,0:40 AM
+sched_dep_time,1174,08:41 AxM,08:41 AM
+sched_dep_time,1180,05:25 PM,05:25 sPM
+sched_dep_time,1183,10:45 AM,104:5 AM
+sched_dep_time,1193,07:15 PM,07:15PM
+sched_dep_time,1207,11:15 AM,11:15 MA
+sched_dep_time,1215,09:05 AM,09g:05 AM
+sched_dep_time,1219,06:30 PM,063:0 PM
+sched_dep_time,1221,04:00 PM,04:00 jPM
+sched_dep_time,1226,06:40 AM,0:40 AM
+sched_dep_time,1227,08:00 AM,08:00 AqM
+sched_dep_time,1237,04:00 PM,040:0 PM
+sched_dep_time,1240,09:05 AM,090:5 AM
+sched_dep_time,1244,10:45 AM,104:5 AM
+sched_dep_time,1259,02:z30 PM,02:30 PM
+sched_dep_time,1261,05:25 PM,05:25 sPM
+sched_dep_time,1267,06:30 PM,063:0 PM
+sched_dep_time,1270,07:15 PM,07:15PM
+sched_dep_time,1275,04:5 PM,04:55 PM
+sched_dep_time,1277,03:50 PM,03:50n PM
+sched_dep_time,1289,08:25 PM,0i8:25 PM
+sched_dep_time,1290,06:5 AM,06:5k9 AM
+sched_dep_time,1299,11:15 AM,11:15 MA
+sched_dep_time,1309,09:05 AM,09g:05 AM
+sched_dep_time,1313,07:30 AM,073:0 AM
+sched_dep_time,1314,04:00 PM,04:00 jPM
+sched_dep_time,1326,06:40 AM,0:40 AM
+sched_dep_time,1327,08:00 AM,08:00 AqM
+sched_dep_time,1328,empty,08:41 AM
+sched_dep_time,1329,empty,07:45 PM
+sched_dep_time,1335,empty,06:00 AM
+sched_dep_time,1337,04:00 PM,040:0 PM
+sched_dep_time,1340,09:05 AM,090:5 AM
+sched_dep_time,1344,10:45 AM,104:5 AM
+sched_dep_time,1361,05:25 PM,05:25 sPM
+sched_dep_time,1365,03:35 MP,03:35 PM
+sched_dep_time,1367,06:30 PM,063:0 PM
+sched_dep_time,1369,07:15 PM,07:15PM
+sched_dep_time,1374,04:55 MP,04:55 PM
+sched_dep_time,1375,03:50 PM,03:50n PM
+sched_dep_time,1387,08:25 PM,0i8:25 PM
+sched_dep_time,1388,06:5d9 AM,06:5k9 AM
+sched_dep_time,1396,11:15 AM,11:15 MA
+sched_dep_time,1406,09:05 AM,09g:05 AM
+sched_dep_time,1409,03:0 PM,03:05 PM
+sched_dep_time,1410,07:30 AM,073:0 AM
+sched_dep_time,1412,04:00 PM,04:00 jPM
+sched_dep_time,1413,11:35 AM,11:3 AM
+sched_dep_time,1431,07:15 PM,07:15PM
+sched_dep_time,1444,05:25 PM,05:25 sPM
+sched_dep_time,1450,03:50 PM,03:50n PM
+sched_dep_time,1451,empty,06:00 AM
+sched_dep_time,1454,empty,01:05 PM
+sched_dep_time,1461,07:30 AM,073:0 AM
+sched_dep_time,1463,04:00 PM,04:00 jPM
+sched_dep_time,1464,empty,08:35 AM
+sched_dep_time,1469,1025 AM,10:25 AM
+sched_dep_time,1478,09:05 AM,090:5 AM
+sched_dep_time,1479,1200 PM,12:00 PM
+sched_dep_time,1480,07:15 PM,07:15PM
+sched_dep_time,1482,08:00 AM,08:00 AqM
+sched_dep_time,1490,06:40 AM,0:40 AM
+sched_dep_time,1491,08:00 AM,08:00 AqM
+sched_dep_time,1501,04:00 PM,040:0 PM
+sched_dep_time,1504,09:05 AM,090:5 AM
+sched_dep_time,1508,10:45 AM,104:5 AM
+sched_dep_time,1509,empty,02:30 PM
+sched_dep_time,1525,05:25 PM,05:25 sPM
+sched_dep_time,1531,06:30 PM,063:0 PM
+sched_dep_time,1533,12:0 0PM,12:00 PM
+sched_dep_time,1534,07:15 PM,07:15PM
+sched_dep_time,1539,045:5 PM,04:55 PM
+sched_dep_time,1541,03:50 PM,03:50n PM
+sched_dep_time,1542,04:1 6PM,04:16 PM
+sched_dep_time,1553,08:25 PM,0i8:25 PM
+sched_dep_time,1554,06:59 AfM,06:5k9 AM
+sched_dep_time,1563,11:15 AM,11:15 MA
+sched_dep_time,1577,07:30 AM,073:0 AM
+sched_dep_time,1578,04:00 PM,04:00 jPM
+sched_dep_time,1579,11:35 AM,11:3 AM
+sched_dep_time,1591,06:30 PM,063:0 PM
+sched_dep_time,1596,04:00 PM,040:0 PM
+sched_dep_time,1604,07:30 AM,073:0 AM
+sched_dep_time,1610,11:35 AM,11:3 AM
+sched_dep_time,1613,0455 PM,04:55 PM
+sched_dep_time,1620,08:25 PM,0i8:25 PM
+sched_dep_time,1621,06:59 AbM,06:5k9 AM
+sched_dep_time,1631,09:05 AM,09g:05 AM
+sched_dep_time,1635,04:00 PM,04:00 jPM
+sched_dep_time,1647,07:30 AM,073:0 AM
+sched_dep_time,1650,04:00 PM,04:00 jPM
+sched_dep_time,1663,06:40 AM,0:40 AM
+sched_dep_time,1668,04:00 PM,040:0 PM
+sched_dep_time,1672,09:05 AM,090:5 AM
+sched_dep_time,1679,07:30 AM,073:0 AM
+sched_dep_time,1686,05:25 PM,05:25 sPM
+sched_dep_time,1689,11:35 AM,11:3 AM
+sched_dep_time,1693,06:30 PM,063:0 PM
+sched_dep_time,1696,07:15 PM,07:15PM
+sched_dep_time,1699,m07:10 AM,07:10 AM
+sched_dep_time,1700,4:55 PM,04:55 PM
+sched_dep_time,1701,03:50 PM,03:50n PM
+sched_dep_time,1708,08:25 PM,0i8:25 PM
+sched_dep_time,1709,06:5t9 AM,06:5k9 AM
+sched_dep_time,1721,04:00 PM,04:00 jPM
+sched_dep_time,1728,08:00 AM,08:00 AqM
+sched_dep_time,1732,04:00 PM,040:0 PM
+sched_dep_time,1740,03:50 PM,03:50n PM
+sched_dep_time,1750,11:15 AM,11:15 MA
+sched_dep_time,1755,09:05 AM,09g:05 AM
+sched_dep_time,1761,06:40 AM,0:40 AM
+sched_dep_time,1762,08:00 AM,08:00 AqM
+sched_dep_time,1772,04:00 PM,040:0 PM
+sched_dep_time,1775,0905 AM,090:5 AM
+sched_dep_time,1779,10:45 AM,104:5 AM
+sched_dep_time,1796,05:25 PM,05:25 sPM
+sched_dep_time,1802,06:30 PM,063:0 PM
+sched_dep_time,1804,07:15 PM,07:15PM
+sched_dep_time,1809,04:55v PM,04:55 PM
+sched_dep_time,1810,03:50 PM,03:50n PM
+sched_dep_time,1822,08:25 PM,0i8:25 PM
+sched_dep_time,1823,06d:59 AM,06:5k9 AM
+sched_dep_time,1832,11:15 AM,11:15 MA
+sched_dep_time,1842,09:05 AM,09g:05 AM
+sched_dep_time,1848,04:00 PM,04:00 jPM
+sched_dep_time,1849,11:35 AM,11:3 AM
+sched_dep_time,1861,06:40 AM,0:40 AM
+sched_dep_time,1862,08:00 AM,08:00 AqM
+sched_dep_time,1866,06:30 PM,063:0 PM
+sched_dep_time,1872,04:00 PM,040:0 PM
+sched_dep_time,1878,09:05 AM,090:5 AM
+sched_dep_time,1880,05:25 PM,05:25 sPM
+sched_dep_time,1883,0k6:00 AM,06:00 AM
+sched_dep_time,1889,07:30 AM,073:0 AM
+sched_dep_time,1896,11:35 AM,11:3 AM
+sched_dep_time,1904,07:15 PM,07:15PM
+sched_dep_time,1909,0k4:55 PM,04:55 PM
+sched_dep_time,1911,03:50 PM,03:50n PM
+sched_dep_time,1922,08:25 PM,0i8:25 PM
+sched_dep_time,1924,60:59 AM,06:5k9 AM
+sched_dep_time,1931,empty,11:15 MA
+sched_dep_time,1943,04:00 PM,04:00 jPM
+sched_dep_time,1953,06:40 AM,0:40 AM
+sched_dep_time,1954,08:00 AM,08:00 AqM
+sched_dep_time,1964,empty,040:0 PM
+sched_dep_time,1967,09:05 AM,090:5 AM
+sched_dep_time,1971,10:45 AM,104:5 AM
+sched_dep_time,1988,05:25 PM,05:25 sPM
+sched_dep_time,1994,06:30 PM,063:0 PM
+sched_dep_time,1996,07:15 PM,07:15PM
+sched_dep_time,2001,4:55 PM,04:55 PM
+sched_dep_time,2002,03:50 PM,03:50n PM
+sched_dep_time,2014,08:25 PM,0i8:25 PM
+sched_dep_time,2015,06:59 MA,06:5k9 AM
+sched_dep_time,2024,11:15 AM,11:15 MA
+sched_dep_time,2034,09:05 AM,09g:05 AM
+sched_dep_time,2038,07:30 AM,073:0 AM
+sched_dep_time,2039,empty,11:25 AM
+sched_dep_time,2040,04:00 PM,04:00 jPM
+sched_dep_time,2041,11:35 AM,11:3 AM
+sched_dep_time,2046,empty,06:45 AM
+sched_dep_time,2053,06:40 AM,0:40 AM
+sched_dep_time,2054,08:00 AM,08:00 AqM
+sched_dep_time,2064,04:00 PM,040:0 PM
+sched_dep_time,2067,09:05 AM,090:5 AM
+sched_dep_time,2071,10:45 AM,104:5 AM
+sched_dep_time,2088,05:25 PM,05:25 sPM
+sched_dep_time,2091,12:z57 PM,12:57 PM
+sched_dep_time,2093,071:5 AM,07:15 AM
+sched_dep_time,2094,06:30 PM,063:0 PM
+sched_dep_time,2096,07:15 PM,07:15PM
+sched_dep_time,2101,0f4:55 PM,04:55 PM
+sched_dep_time,2102,03:50 PM,03:50n PM
+sched_dep_time,2114,08:25 PM,0i8:25 PM
+sched_dep_time,2115,06:9 AM,06:5k9 AM
+sched_dep_time,2124,11:15 AM,11:15 MA
+sched_dep_time,2133,0e7:55 AM,07:55 AM
+sched_dep_time,2134,09:05 AM,09g:05 AM
+sched_dep_time,2138,07:30 AM,073:0 AM
+sched_dep_time,2140,04:00 PM,04:00 jPM
+sched_dep_time,2141,11:35 AM,11:3 AM
+sched_dep_time,2158,06:40 AM,0:40 AM
+sched_dep_time,2169,04:00 PM,040:0 PM
+sched_dep_time,2172,09:05 AM,090:5 AM
+sched_dep_time,2187,01:0 0PM,01:00 PM
+sched_dep_time,2193,05:25 PM,05:25 sPM
+sched_dep_time,2199,06:30 PM,063:0 PM
+sched_dep_time,2201,07:15 PM,07:15PM
+sched_dep_time,2206,045:5 PM,04:55 PM
+sched_dep_time,2207,03:50 PM,03:50n PM
+sched_dep_time,2219,08:25 PM,0i8:25 PM
+sched_dep_time,2220,6:59 AM,06:5k9 AM
+sched_dep_time,2224,02:5 PM,02:53 PM
+sched_dep_time,2229,11:15 AM,11:15 MA
+sched_dep_time,2232,empty,02:30 PM
+sched_dep_time,2239,09:05 AM,09g:05 AM
+sched_dep_time,2243,07:30 AM,073:0 AM
+sched_dep_time,2245,04:00 PM,04:00 jPM
+sched_dep_time,2246,11:35 AM,11:3 AM
+sched_dep_time,2257,06:40 AM,0:40 AM
+sched_dep_time,2262,04:00 PM,040:0 PM
+sched_dep_time,2266,09:05 AM,090:5 AM
+sched_dep_time,2273,07:30 AM,073:0 AM
+sched_dep_time,2280,05:25 PM,05:25 sPM
+sched_dep_time,2283,11:35 AM,11:3 AM
+sched_dep_time,2287,06:30 PM,063:0 PM
+sched_dep_time,2290,07:15 PM,07:15PM
+sched_dep_time,2294,0:455 PM,04:55 PM
+sched_dep_time,2295,03:50 PM,03:50n PM
+sched_dep_time,2302,08:25 PM,0i8:25 PM
+sched_dep_time,2303,06:59 AM,06:5k9 AM
+sched_dep_time,2308,08y:20 PM,08:20 PM
+sched_dep_time,2315,04:00 PM,04:00 jPM
+sched_dep_time,2323,06:40 AM,0:40 AM
+sched_dep_time,2324,08:00 AM,08:00 AqM
+sched_dep_time,2326,06:30 PM,063:0 PM
+sched_dep_time,2327,07:15 PM,07:15PM
+sched_dep_time,2330,04:00 PM,040:0 PM
+sched_dep_time,2333,09:05 AM,090:5 AM
+sched_dep_time,2339,07:30 AM,073:0 AM
+sched_dep_time,2345,11:35 AM,11:3 AM
+sched_dep_time,2353,03:50 PM,03:50n PM
+sched_dep_time,2360,06:59 AM,06:5k9 AM
+sched_dep_time,2370,04:00 PM,04:00 jPM
+act_dep_time,4,06:54 M,06:54 AM
+act_dep_time,8,04:29 PM,04:15 PM
+act_dep_time,18,07:39 AM,07:25 AM
+act_dep_time,21,11:05 AM,1:05 AM
+act_dep_time,27,07:30 AM,07:39 AM
+act_dep_time,30,11:01 AM,1:101 AM
+act_dep_time,31,10:54 AM,10:f54 AM
+act_dep_time,35,07:22 AM,70:22 AM
+act_dep_time,40,03:27 PM,02:55 PM
+act_dep_time,41,empty,07:22 AM
+act_dep_time,42,12:10 PM,12:10P M
+act_dep_time,43,01:19 PM,1:19 PM
+act_dep_time,53,empty,06:54 AM
+act_dep_time,58,11:32 AM,11:40 AM
+act_dep_time,70,04:29 PM,04:15 PM
+act_dep_time,76,11:56 AM,11:40 AM
+act_dep_time,87,30:11 AM,03:11 AM
+act_dep_time,90,11:05 AM,1:05 AM
+act_dep_time,95,empty,06:55 PM
+act_dep_time,98,02:10 PM,02:1g0 PM
+act_dep_time,101,07:30 AM,07:39 AM
+act_dep_time,103,07:39 AM,07:25 AM
+act_dep_time,106,8:23 PM,08:23 PM
+act_dep_time,109,11:01 AM,1:101 AM
+act_dep_time,115,0h9:00 PM,09:00 PM
+act_dep_time,117,07:2 AM,70:22 AM
+act_dep_time,125,0132 PM,01:32 PM
+act_dep_time,132,03:27 PM,02:55 PM
+act_dep_time,133,07:r22 AM,07:22 AM
+act_dep_time,134,12:10 PM,12:10P M
+act_dep_time,137,01:19 PM,1:19 PM
+act_dep_time,143,03:31 PM,02:55 PM
+act_dep_time,145,10:54 AM,10:f54 AM
+act_dep_time,159,11:32 AM,11:40 AM
+act_dep_time,170,04:29 PM,04:15 PM
+act_dep_time,176,11:56 AM,11:40 AM
+act_dep_time,190,11:05 AM,1:05 AM
+act_dep_time,197,02:10 PM,02:1g0 PM
+act_dep_time,200,07:30 AM,07:39 AM
+act_dep_time,201,empty,05:08 PM
+act_dep_time,204,8:23 PM,08:23 PM
+act_dep_time,207,11:01 AM,1:101 AM
+act_dep_time,215,07:22h AM,70:22 AM
+act_dep_time,220,d07:27 AM,07:27 AM
+act_dep_time,230,03:27 PM,02:55 PM
+act_dep_time,231,07a:22 AM,07:22 AM
+act_dep_time,232,12:10 PM,12:10P M
+act_dep_time,233,empty,08:04 AM
+act_dep_time,235,01:19 PM,1:19 PM
+act_dep_time,242,07:39 AM,07:25 AM
+act_dep_time,243,03:31 PM,02:55 PM
+act_dep_time,245,10:54 AM,10:f54 AM
+act_dep_time,258,11:32 AM,11:40 AM
+act_dep_time,268,04:29 PmM,04:15 PM
+act_dep_time,283,07:39 AM,07:25 AM
+act_dep_time,285,11:05 AM,1:05 AM
+act_dep_time,291,02:10 PM,02:1g0 PM
+act_dep_time,294,07:30 AM,07:39 AM
+act_dep_time,297,08:2 PM,08:23 PM
+act_dep_time,300,11:01 AM,1:101 AM
+act_dep_time,306,empty,70:22 AM
+act_dep_time,319,03:27 PM,02:55 PM
+act_dep_time,322,12:10 PM,12:10P M
+act_dep_time,325,01:19 PM,1:19 PM
+act_dep_time,330,03:31 PM,02:55 PM
+act_dep_time,332,10:54 AM,10:f54 AM
+act_dep_time,345,11:32 AM,11:40 AM
+act_dep_time,357,04:29 PM,04:15 PM
+act_dep_time,363,11:56 AM,11:40 AM
+act_dep_time,377,11:05 AM,1:05 AM
+act_dep_time,385,02:10 PM,02:1g0 PM
+act_dep_time,388,07:30 AM,07:39 AM
+act_dep_time,390,07:39 AM,07:25 AM
+act_dep_time,393,08:2 PM,08:23 PM
+act_dep_time,396,11:01 AM,1:101 AM
+act_dep_time,404,07:22A M,70:22 AM
+act_dep_time,409,0:27 AM,07:27 AM
+act_dep_time,419,03:27 PM,02:55 PM
+act_dep_time,421,12:10 PM,12:10P M
+act_dep_time,424,01:19 PM,1:19 PM
+act_dep_time,430,03:31 PM,02:55 PM
+act_dep_time,432,10:54 AM,10:f54 AM
+act_dep_time,446,11:32 AM,11:40 AM
+act_dep_time,457,04:29 PM,04:15 PM
+act_dep_time,463,11:56 AM,11:40 AM
+act_dep_time,470,empty,07:49 AM
+act_dep_time,477,11:05 AM,1:05 AM
+act_dep_time,484,02:10 PM,02:1g0 PM
+act_dep_time,487,07:30 AM,07:39 AM
+act_dep_time,494,11:01 AM,1:101 AM
+act_dep_time,517,03:27 PM,02:55 PM
+act_dep_time,519,12:10 PM,12:10P M
+act_dep_time,522,01:19 PM,1:19 PM
+act_dep_time,529,07:39 AM,07:25 AM
+act_dep_time,530,03:31 PM,02:55 PM
+act_dep_time,532,10:54 AM,10:f54 AM
+act_dep_time,547,11:32 AM,11:40 AM
+act_dep_time,556,0429 PM,04:15 PM
+act_dep_time,560,empty,12:12 PM
+act_dep_time,561,11:56 AM,11:40 AM
+act_dep_time,564,empty,06:02 AM
+act_dep_time,576,11:05 AM,1:05 AM
+act_dep_time,584,02:10 PM,02:1g0 PM
+act_dep_time,587,07:30 AM,07:39 AM
+act_dep_time,589,07:93 AM,07:25 AM
+act_dep_time,591,empty,04:15 PM
+act_dep_time,594,07:d05 AM,07:05 AM
+act_dep_time,603,0:22 AM,70:22 AM
+act_dep_time,615,03:27 PM,02:55 PM
+act_dep_time,617,12:10 PM,12:10P M
+act_dep_time,618,01:19 PM,1:19 PM
+act_dep_time,624,03:31 PM,02:55 PM
+act_dep_time,626,10:54 AM,10:f54 AM
+act_dep_time,632,06:o54 AM,06:54 AM
+act_dep_time,638,11:32 AM,11:40 AM
+act_dep_time,649,04:29 PM,04:15 PM
+act_dep_time,655,11:56 AM,11:40 AM
+act_dep_time,664,2:13 PM,12:13 PM
+act_dep_time,669,11:05 AM,1:05 AM
+act_dep_time,674,empty,06:55 PM
+act_dep_time,676,02:10 PM,02:1g0 PM
+act_dep_time,679,07:30 AM,07:39 AM
+act_dep_time,686,11:01 AM,1:101 AM
+act_dep_time,694,07:22 M,70:22 AM
+act_dep_time,709,03:27 PM,02:55 PM
+act_dep_time,711,12:10 PM,12:10P M
+act_dep_time,714,01:19 PM,1:19 PM
+act_dep_time,721,07:39 AM,07:25 AM
+act_dep_time,722,03:31 PM,02:55 PM
+act_dep_time,724,10:54 AM,10:f54 AM
+act_dep_time,743,04:29 PM,04:15 PM
+act_dep_time,746,11:56 AM,11:40 AM
+act_dep_time,756,11:05 AM,1:05 AM
+act_dep_time,764,07:30 AM,07:39 AM
+act_dep_time,766,07:39 AM,07:25 AM
+act_dep_time,786,12:10 PM,12:10P M
+act_dep_time,787,01:19 PM,1:19 PM
+act_dep_time,789,10:54 AM,10:f54 AM
+act_dep_time,793,11:05 AM,1:05 AM
+act_dep_time,794,7:22 AM,70:22 AM
+act_dep_time,795,04:29 PM,04:15 PM
+act_dep_time,797,07:39 AM,07:25 AM
+act_dep_time,802,11:01 AM,1:101 AM
+act_dep_time,803,04:29 PM,04:15 PM
+act_dep_time,805,03:27 PM,02:55 PM
+act_dep_time,820,11:32 AM,11:40 AM
+act_dep_time,831,04:29 PM,04:15 PM
+act_dep_time,837,11:56 AM,11:40 AM
+act_dep_time,851,11:05 AM,1:05 AM
+act_dep_time,858,02:10 PM,02:1g0 PM
+act_dep_time,861,07:30 AM,07:39 AM
+act_dep_time,862,05:0 PM,05:08 PM
+act_dep_time,868,11:01 AM,1:101 AM
+act_dep_time,876,07:m22 AM,70:22 AM
+act_dep_time,887,02:55o PM,02:55 PM
+act_dep_time,891,03:27 PM,02:55 PM
+act_dep_time,893,12:10 PM,12:10P M
+act_dep_time,903,07:39 AM,07:25 AM
+act_dep_time,904,03:31 PM,02:55 PM
+act_dep_time,916,empty,05:56 AM
+act_dep_time,922,06:08o AM,06:08 AM
+act_dep_time,927,03:31 PM,02:55 PM
+act_dep_time,930,11:05 AM,1:05 AM
+act_dep_time,940,11:01 AM,1:101 AM
+act_dep_time,958,12:10 PM,12:10P M
+act_dep_time,966,10:54 AM,10:f54 AM
+act_dep_time,972,07:30 AM,07:39 AM
+act_dep_time,974,07:39 AM,07:25 AM
+act_dep_time,978,01:19 PM,1:19 PM
+act_dep_time,991,empty,06:54 AM
+act_dep_time,1005,04:29 PM,04:15 PM
+act_dep_time,1020,07:39 AM,07:25 AM
+act_dep_time,1022,11:05 AM,1:05 AM
+act_dep_time,1027,02:10 PM,02:1g0 PM
+act_dep_time,1030,07:30 AM,07:39 AM
+act_dep_time,1034,11:01 AM,1:101 AM
+act_dep_time,1036,11:55 PM***,11:55 PM
+act_dep_time,1040,07:2 AM,70:22 AM
+act_dep_time,1047,empty,01:32 PM
+act_dep_time,1053,empty,02:55 PM
+act_dep_time,1056,12:10 PM,12:10P M
+act_dep_time,1058,0:119 PM,1:19 PM
+act_dep_time,1059,07:49y AM,07:49 AM
+act_dep_time,1063,03:31 PM,02:55 PM
+act_dep_time,1065,10:54 AM,10:f54 AM
+act_dep_time,1074,empty,08:29 AM
+act_dep_time,1079,11:32 AM,11:40 AM
+act_dep_time,1081,empty,11:25 PM
+act_dep_time,1090,04:29 PM,04:15 PM
+act_dep_time,1096,11:56 AM,11:40 AM
+act_dep_time,1117,02:10 PM,02:1g0 PM
+act_dep_time,1120,07:30 AM,07:39 AM
+act_dep_time,1121,05:80 PM,05:08 PM
+act_dep_time,1127,11:01 AM,1:101 AM
+act_dep_time,1135,y07:22 AM,70:22 AM
+act_dep_time,1142,05:3 PM,05:30 PM
+act_dep_time,1150,03:27 PM,02:55 PM
+act_dep_time,1152,12:10 PM,12:10P M
+act_dep_time,1155,01:19 PM,1:19 PM
+act_dep_time,1162,07:39 AM,07:25 AM
+act_dep_time,1163,03:31 PM,02:55 PM
+act_dep_time,1165,10:54 AM,10:f54 AM
+act_dep_time,1169,07:3j9 AM,07:39 AM
+act_dep_time,1179,04:29 PM,04:15 PM
+act_dep_time,1189,11:05 AM,1:05 AM
+act_dep_time,1194,02:10 PM,02:1g0 PM
+act_dep_time,1198,11:01 AM,1:101 AM
+act_dep_time,1199,empty,01:31 PM
+act_dep_time,1213,12:10 PM,12:10P M
+act_dep_time,1216,01:19 PM,1:19 PM
+act_dep_time,1227,empty,08:29 AM
+act_dep_time,1231,11:32 AM,11:40 AM
+act_dep_time,1243,04:29 PM,04:15 PM
+act_dep_time,1249,11:56 AM,11:40 AM
+act_dep_time,1263,11:05 AM,1:05 AM
+act_dep_time,1274,07:30 AM,07:39 AM
+act_dep_time,1275,05:08v PM,05:08 PM
+act_dep_time,1276,07:39 AM,07:25 AM
+act_dep_time,1282,11:01 AM,1:101 AM
+act_dep_time,1290,07:22 MA,70:22 AM
+act_dep_time,1297,empty,05:30 PM
+act_dep_time,1305,03:27 PM,02:55 PM
+act_dep_time,1307,12:10 PM,12:10P M
+act_dep_time,1310,01:19 PM,1:19 PM
+act_dep_time,1316,03:31 PM,02:55 PM
+act_dep_time,1318,10:54 AM,10:f54 AM
+act_dep_time,1323,07:31 AoM,07:31 AM
+act_dep_time,1328,08:4 2AM,08:42 AM
+act_dep_time,1331,empty,03:27 PM
+act_dep_time,1332,11:32 AM,11:40 AM
+act_dep_time,1343,04:29 PM,04:15 PM
+act_dep_time,1349,11:56 AM,11:40 AM
+act_dep_time,1363,11:05 AM,1:05 AM
+act_dep_time,1370,02:10 PM,02:1g0 PM
+act_dep_time,1373,07:30 AM,07:39 AM
+act_dep_time,1374,05:08 MP,05:08 PM
+act_dep_time,1380,11:01 AM,1:101 AM
+act_dep_time,1388,07:22 AmM,70:22 AM
+act_dep_time,1393,11:08 M,11:08 PM
+act_dep_time,1402,03:27 PM,02:55 PM
+act_dep_time,1404,12:10 PM,12:10P M
+act_dep_time,1407,01:19 PM,1:19 PM
+act_dep_time,1414,07:39 AM,07:25 AM
+act_dep_time,1415,03:31 PM,02:55 PM
+act_dep_time,1417,10:54 AM,10:f54 AM
+act_dep_time,1420,06:10AM,06:10 AM
+act_dep_time,1429,11:56 AM,11:40 AM
+act_dep_time,1434,11:32 AM,11:40 AM
+act_dep_time,1435,03:31 PM,02:55 PM
+act_dep_time,1441,08:l25 PM,08:25 PM
+act_dep_time,1449,03:27 PM,02:55 PM
+act_dep_time,1454,01:19 PM,1:19 PM
+act_dep_time,1458,12:f41 AM,12:41 AM
+act_dep_time,1459,11:32 AM,11:40 AM
+act_dep_time,1468,empty,02:55 PM
+act_dep_time,1472,11:05 AM,1:05 AM
+act_dep_time,1479,12:1 1PM,12:11 PM
+act_dep_time,1495,11:32 AM,11:40 AM
+act_dep_time,1507,04:29 PM,04:15 PM
+act_dep_time,1513,11:56 AM,11:40 AM
+act_dep_time,1527,11:05 AM,1:05 AM
+act_dep_time,1530,07:21 M,07:21 AM
+act_dep_time,1535,02:10 PM,02:1g0 PM
+act_dep_time,1538,07:30 AM,07:39 AM
+act_dep_time,1539,05:08PM,05:08 PM
+act_dep_time,1540,07:39 AM,07:25 AM
+act_dep_time,1546,11:01 AM,1:101 AM
+act_dep_time,1554,07:22AM,70:22 AM
+act_dep_time,1569,03:27 PM,02:55 PM
+act_dep_time,1571,12:10 PM,12:10P M
+act_dep_time,1574,01:19 PM,1:19 PM
+act_dep_time,1580,empty,02:55 PM
+act_dep_time,1582,10:54 AM,10:f54 AM
+act_dep_time,1600,11:56 AM,11:40 AM
+act_dep_time,1607,12:3 PM,12:13 PM
+act_dep_time,1612,07:30 AM,07:39 AM
+act_dep_time,1613,05:08u PM,05:08 PM
+act_dep_time,1614,07:39 AM,07:25 AM
+act_dep_time,1621,07:22 AjM,70:22 AM
+act_dep_time,1628,03:27 PM,02:55 PM
+act_dep_time,1630,12:10 PM,12:10P M
+act_dep_time,1634,empty,11:40 AM
+act_dep_time,1636,03:31 PM,02:55 PM
+act_dep_time,1640,07:30 AM,07:39 AM
+act_dep_time,1645,01:19 PM,1:19 PM
+act_dep_time,1655,10:54 AM,10:f54 AM
+act_dep_time,1657,11:05 AM,1:05 AM
+act_dep_time,1661,02:10 PM,02:1g0 PM
+act_dep_time,1671,04:29 PM,04:15 PM
+act_dep_time,1674,11:56 AM,11:40 AM
+act_dep_time,1687,07:39 AM,07:25 AM
+act_dep_time,1690,11:05 AM,1:05 AM
+act_dep_time,1699,07:30 AM,07:39 AM
+act_dep_time,1700,05:80 PM,05:08 PM
+act_dep_time,1703,11:01 AM,1:101 AM
+act_dep_time,1707,09:0 PM,09:00 PM
+act_dep_time,1709,0s7:22 AM,70:22 AM
+act_dep_time,1716,03:27 PM,02:55 PM
+act_dep_time,1718,12:10 PM,12:10P M
+act_dep_time,1719,01:19 PM,1:19 PM
+act_dep_time,1722,empty,07:31 AM
+act_dep_time,1724,10:54 AM,10:f54 AM
+act_dep_time,1739,02:10 PM,02:1g0 PM
+act_dep_time,1767,11:32 AM,11:40 AM
+act_dep_time,1777,7:25 AM,07:25 AM
+act_dep_time,1778,04:29 PM,04:15 PM
+act_dep_time,1784,11:56 AM,11:40 AM
+act_dep_time,1798,11:05 AM,1:05 AM
+act_dep_time,1805,02:10 PM,02:1g0 PM
+act_dep_time,1808,07:30 AM,07:39 AM
+act_dep_time,1809,05:08 MP,05:08 PM
+act_dep_time,1815,11:01 AM***,1:101 AM
+act_dep_time,1822,08:25PM,08:25 PM
+act_dep_time,1823,7:22 AM,70:22 AM
+act_dep_time,1835,empty,02:48 PM
+act_dep_time,1838,03:27 PM,02:55 PM
+act_dep_time,1840,12:10 PM,12:10P M
+act_dep_time,1843,01:19 PM,1:19 PM
+act_dep_time,1850,07:39 AM,07:25 AM
+act_dep_time,1851,03:31 PM,02:55 PM
+act_dep_time,1853,10:54 AM,10:f54 AM
+act_dep_time,1854,06:57 gAM,06:57 AM
+act_dep_time,1868,11:32 AM,11:40 AM
+act_dep_time,1875,empty,07:25 AM
+act_dep_time,1877,04:29 PM,04:15 PM
+act_dep_time,1882,11:56 AM,11:40 AM
+act_dep_time,1897,11:05 AM,1:05 AM
+act_dep_time,1905,02:10 PM,02:1g0 PM
+act_dep_time,1908,07:30 AM,07:39 AM
+act_dep_time,1909,05:0 PM,05:08 PM
+act_dep_time,1910,07:39 AM,07:25 AM
+act_dep_time,1916,11:01 AM,1:101 AM
+act_dep_time,1924,07:22y AM,70:22 AM
+act_dep_time,1936,03:27 PM,02:55 PM
+act_dep_time,1938,12:10 PM,12:10P M
+act_dep_time,1939,01:19 PM,1:19 PM
+act_dep_time,1945,03:31 PM,02:55 PM
+act_dep_time,1947,10:54 AM,10:f54 AM
+act_dep_time,1959,11:32 AM,11:40 AM
+act_dep_time,1970,04:2 PM,04:15 PM
+act_dep_time,1976,11:56 AM,11:40 AM
+act_dep_time,1990,11:05 AM,1:05 AM
+act_dep_time,1997,02:10 PM,02:1g0 PM
+act_dep_time,2000,07:30 AM,07:39 AM
+act_dep_time,2001,05:08 PgM,05:08 PM
+act_dep_time,2006,empty,07:05 AM
+act_dep_time,2007,11:01 AM,1:101 AM
+act_dep_time,2008,empty,01:31 PM
+act_dep_time,2015,0722 AM,70:22 AM
+act_dep_time,2030,03:27 PM,02:55 PM
+act_dep_time,2035,01:19 PM,1:19 PM
+act_dep_time,2040,empty,04:12 PM
+act_dep_time,2042,07:39 AM,07:25 AM
+act_dep_time,2043,03:31 PM,02:55 PM
+act_dep_time,2045,10:54 AM,10:f54 AM
+act_dep_time,2059,11:32 AM,11:40 AM
+act_dep_time,2070,04:29 PM,04:15 PM
+act_dep_time,2076,11:56 AM,11:40 AM
+act_dep_time,2081,empty,10:18 AM
+act_dep_time,2090,empty,1:05 AM
+act_dep_time,2097,02:10 PM,02:1g0 PM
+act_dep_time,2100,07:30 AM,07:39 AM
+act_dep_time,2101,0:08 PM,05:08 PM
+act_dep_time,2104,08:2 PM,08:23 PM
+act_dep_time,2107,11:01 AM,1:101 AM
+act_dep_time,2115,7:22 AM,70:22 AM
+act_dep_time,2120,empty,07:27 AM
+act_dep_time,2130,03:27 PM,02:55 PM
+act_dep_time,2132,12:10 PM,12:10P M
+act_dep_time,2135,01:19 PM,1:19 PM
+act_dep_time,2136,empty,08:56 AM
+act_dep_time,2142,07:39 AM,07:25 AM
+act_dep_time,2143,03:31 PM,02:55 PM
+act_dep_time,2145,10:54 AM,10:f54 AM
+act_dep_time,2151,11:32 AM,11:40 AM
+act_dep_time,2152,11:56 AM,11:40 AM
+act_dep_time,2155,01:19 PM,1:19 PM
+act_dep_time,2164,11:32 AM,11:40 AM
+act_dep_time,2166,11:25 rPM,11:25 PM
+act_dep_time,2175,04:29 PM,04:15 PM
+act_dep_time,2181,11:56 AM,11:40 AM
+act_dep_time,2195,11:05 AM,1:05 AM
+act_dep_time,2200,06:5 PM,06:55 PM
+act_dep_time,2202,02:10 PM,02:1g0 PM
+act_dep_time,2205,07:30 AM,07:39 AM
+act_dep_time,2206,05:08 fPM,05:08 PM
+act_dep_time,2212,11:01 AM,1:101 AM
+act_dep_time,2220,07b:22 AM,70:22 AM
+act_dep_time,2224,empty,03:01 PM
+act_dep_time,2235,03:27 PM,02:55 PM
+act_dep_time,2237,12:10 PM,12:10P M
+act_dep_time,2240,01:19 PM,1:19 PM
+act_dep_time,2247,07:39 AM,07:25 AM
+act_dep_time,2248,03:31 PM,02:55 PM
+act_dep_time,2250,10:54 AM,10:f54 AM
+act_dep_time,2264,70:25 AM,07:25 AM
+act_dep_time,2265,04:29 PM,04:15 PM
+act_dep_time,2268,11:56 AM,11:40 AM
+act_dep_time,2275,0:57 AM,06:57 AM
+act_dep_time,2276,empty,12:41 PM
+act_dep_time,2281,07:39 AM,07:25 AM
+act_dep_time,2284,11:05 AM,1:05 AM
+act_dep_time,2293,empty,07:39 AM
+act_dep_time,2294,5:08 PM,05:08 PM
+act_dep_time,2297,11:01 AM,1:101 AM
+act_dep_time,2310,03:27 PM,02:55 PM
+act_dep_time,2312,12:10 PM,12:10P M
+act_dep_time,2313,01:19 PM,1:19 PM
+act_dep_time,2318,10:54 AM,10:f54 AM
+act_dep_time,2332,04:29 PaM,04:15 PM
+act_dep_time,2333,empty,10:10 AM
+act_dep_time,2344,07:39 AM,07:25 AM
+act_dep_time,2346,11:05 AM,1:05 AM
+act_dep_time,2352,07:30 AM,07:39 AM
+act_dep_time,2360,07:22 MA,70:22 AM
+act_dep_time,2365,03:27 PM,02:55 PM
+act_dep_time,2367,12:10 PM,12:10P M
+act_dep_time,2368,01:19 PM,1:19 PM
+act_dep_time,2372,11:55 AM,02:48 PM
+act_dep_time,2373,10:54 AM,10:f54 AM
+sched_arr_time,2,10:30 PM,10:30b PM
+sched_arr_time,3,07:25 PM,06:30 PM
+sched_arr_time,9,03:50 PM,11:50 AM
+sched_arr_time,11,02:20 PM,10:45 AM
+sched_arr_time,14,08:00 AM,07:30 AM
+sched_arr_time,17,02:00 PM,11:45 AM
+sched_arr_time,20,02:25 PM,11:35 AM
+sched_arr_time,21,02:45 PM,11:05 AM
+sched_arr_time,32,05:50 AM,50:50 AM
+sched_arr_time,34,11:50 PM,11:50 M
+sched_arr_time,39,04:05 PM,02:35 PM
+sched_arr_time,42,02:15 PM,12:10 PM
+sched_arr_time,47,06:40 PM,04:00 PM
+sched_arr_time,49,empty,06:40 AM
+sched_arr_time,54,11:55 AM,08:00 AM
+sched_arr_time,56,10:30 PM,10:30b PM
+sched_arr_time,64,06:46 PM,04:00 PM
+sched_arr_time,71,02:20 PM,10:45 AM
+sched_arr_time,75,03:50 PM,11:50 AM
+sched_arr_time,76,01:17 PM,011:7 PM
+sched_arr_time,84,03:19 PM,12:35 PM
+sched_arr_time,85,02:00 PM,11:45 AM
+sched_arr_time,86,06:15 PM,06:5 PM
+sched_arr_time,90,02:45 PM,11:05 AM
+sched_arr_time,92,empty,04:00 PM
+sched_arr_time,94,0m7:25 PM,06:30 PM
+sched_arr_time,97,12:21 AM,2:21 AM
+sched_arr_time,99,12:1t8 PM,12:18 PM
+sched_arr_time,107,06:44 PM,10:20 AM
+sched_arr_time,112,04:17 PM,40:17 PM
+sched_arr_time,113,05:50 AM,50:50 AM
+sched_arr_time,114,12:29 AM,1229 AM
+sched_arr_time,116,11:50 PM,11:50 M
+sched_arr_time,118,11c:50 AM,11:50 AM
+sched_arr_time,122,09:43 AM,09:43 AgM
+sched_arr_time,125,empty,01:45 PM
+sched_arr_time,126,01:40 PM,10:40 PM
+sched_arr_time,131,04:05 PM,02:35 PM
+sched_arr_time,134,02:15 PM,12:10 PM
+sched_arr_time,140,08:00 AM,07:30 AM
+sched_arr_time,141,06:40 PM,04:00 PM
+sched_arr_time,142,02:25 PM,11:35 AM
+sched_arr_time,147,07:05 PM,04:00 PM
+sched_arr_time,154,11:55 AM,08:00 AM
+sched_arr_time,156,10:30 PM,10:30b PM
+sched_arr_time,159,02:50 PM,02:50 MP
+sched_arr_time,164,06:46 PM,04:00 PM
+sched_arr_time,171,02:20 PM,10:45 AM
+sched_arr_time,175,03:50 PM,11:50 AM
+sched_arr_time,183,01:39 M,01:39 PM
+sched_arr_time,184,03:19 PM,12:35 PM
+sched_arr_time,185,02:00 PM,11:45 AM
+sched_arr_time,186,empty,06:5 PM
+sched_arr_time,190,02:45 PM,11:05 AM
+sched_arr_time,194,07:25 PM,06:30 PM
+sched_arr_time,196,12:21 AM,2:21 AM
+sched_arr_time,205,06:44 PM,10:20 AM
+sched_arr_time,211,05:50 AM,50:50 AM
+sched_arr_time,212,12:29 AM,1229 AM
+sched_arr_time,214,11:50 PM,11:50 M
+sched_arr_time,220,09:43 AM,09:43 AgM
+sched_arr_time,223,08:27 AM,01:45 PM
+sched_arr_time,224,01:40 PM,10:40 PM
+sched_arr_time,229,04:05 PM,02:35 PM
+sched_arr_time,232,02:15 PM,12:10 PM
+sched_arr_time,238,08:o00 AM,07:30 AM
+sched_arr_time,240,06:40 PM,04:00 PM
+sched_arr_time,241,02:25 PM,11:35 AM
+sched_arr_time,245,empty,12:55 PM
+sched_arr_time,247,07:05 PM,04:00 PM
+sched_arr_time,253,11:55 AM,08:00 AM
+sched_arr_time,255,10:30 PM,10:30b PM
+sched_arr_time,256,07:25 PM,06:30 PM
+sched_arr_time,258,02:50 PM,02:50 MP
+sched_arr_time,263,02:45P M,02:45 PM
+sched_arr_time,264,06:46 PM,04:00 PM
+sched_arr_time,267,empty,10:06 AM
+sched_arr_time,270,03:50 PM,11:50 AM
+sched_arr_time,275,02:20 PM,10:45 AM
+sched_arr_time,277,08:00 AM,07:30 AM
+sched_arr_time,281,02:00P M,11:45 AM
+sched_arr_time,282,empty,01:45 PM
+sched_arr_time,284,02:25 PM,11:35 AM
+sched_arr_time,285,02:45 PM,11:05 AM
+sched_arr_time,298,06:44 PM,10:20 AM
+sched_arr_time,302,05:50 AM,50:50 AM
+sched_arr_time,303,12:29 AM,1229 AM
+sched_arr_time,305,11:50 PM,11:50 M
+sched_arr_time,308,06:15 PM,06:5 PM
+sched_arr_time,312,09:43 AM,09:43 AgM
+sched_arr_time,313,08:27 AM,01:45 PM
+sched_arr_time,314,01:40 PM,10:40 PM
+sched_arr_time,318,04:05 PM,02:35 PM
+sched_arr_time,322,02:15 PM,12:10 PM
+sched_arr_time,326,01:39 vPM,01:39 PM
+sched_arr_time,329,06:40 PM,04:00 PM
+sched_arr_time,334,07:05 MP,04:00 PM
+sched_arr_time,341,11:55 AM,08:00 AM
+sched_arr_time,342,empty,09:54 AM
+sched_arr_time,343,10:30 PM,10:30b PM
+sched_arr_time,345,02:50 PM,02:50 MP
+sched_arr_time,351,06:46 PM,04:00 PM
+sched_arr_time,358,02:20 PM,10:45 AM
+sched_arr_time,362,03:50 PM,11:50 AM
+sched_arr_time,370,01:39 M,01:39 PM
+sched_arr_time,371,03:19 PM,12:35 PM
+sched_arr_time,372,02:00 PM,11:45 AM
+sched_arr_time,373,06:15 PM,06:5 PM
+sched_arr_time,377,02:45 PM,11:05 AM
+sched_arr_time,379,4:00 PM,04:00 PM
+sched_arr_time,381,07:25 PM,06:30 PM
+sched_arr_time,383,03:15 M,03:15 PM
+sched_arr_time,384,12:21 AM,2:21 AM
+sched_arr_time,394,06:44 PM,10:20 AM
+sched_arr_time,399,04:17 PM,40:17 PM
+sched_arr_time,400,05:50 AM,50:50 AM
+sched_arr_time,401,12:29 AM,1229 AM
+sched_arr_time,403,11:50 PM,11:50 M
+sched_arr_time,406,empty,09:24 AM
+sched_arr_time,409,09:43 AM,09:43 AgM
+sched_arr_time,412,08:27 AM,01:45 PM
+sched_arr_time,413,01:40 PM,10:40 PM
+sched_arr_time,418,04:05 PM,02:35 PM
+sched_arr_time,421,02:15 PM,12:10 PM
+sched_arr_time,427,08:00 AM,07:30 AM
+sched_arr_time,428,06:40 PM,04:00 PM
+sched_arr_time,429,02:25 PM,11:35 AM
+sched_arr_time,434,07:05 PM,04:00 PM
+sched_arr_time,441,11:55 AM,08:00 AM
+sched_arr_time,443,10:30 PM,10:30b PM
+sched_arr_time,446,02:50 PM,02:50 MP
+sched_arr_time,451,06:46 PM,04:00 PM
+sched_arr_time,458,02:20 PM,10:45 AM
+sched_arr_time,462,03:50 PM,11:50 AM
+sched_arr_time,463,01:17 xPM,011:7 PM
+sched_arr_time,470,01:39 MP,01:39 PM
+sched_arr_time,471,03:19 PM,12:35 PM
+sched_arr_time,472,02:00 PM,11:45 AM
+sched_arr_time,473,06:15 PM,06:5 PM
+sched_arr_time,477,02:45 PM,11:05 AM
+sched_arr_time,478,empty,05:15 PM
+sched_arr_time,481,07:25 PM,06:30 PM
+sched_arr_time,483,12:21 AM,2:21 AM
+sched_arr_time,484,empty,07:53 PM
+sched_arr_time,489,empty,06:23 PM
+sched_arr_time,492,06:44 PM,10:20 AM
+sched_arr_time,497,04:17P M,40:17 PM
+sched_arr_time,498,05:50 AM,50:50 AM
+sched_arr_time,499,12:29 AM,1229 AM
+sched_arr_time,501,11:50 PM,11:50 M
+sched_arr_time,507,09:43 AM,09:43 AgM
+sched_arr_time,510,08:27 AM,01:45 PM
+sched_arr_time,511,01:40 PM,10:40 PM
+sched_arr_time,516,04:05 PM,02:35 PM
+sched_arr_time,519,02:15 PM,12:10 PM
+sched_arr_time,525,08:00 AM,07:30 AM
+sched_arr_time,527,06:40 PM,04:00 PM
+sched_arr_time,528,02:25 PM,11:35 AM
+sched_arr_time,532,empty,12:55 PM
+sched_arr_time,534,07:05 PM,04:00 PM
+sched_arr_time,538,empty,09:40 AM
+sched_arr_time,541,11:55 AM,08:00 AM
+sched_arr_time,543,10:30 PM,10:30b PM
+sched_arr_time,544,02:00 PM,11:45 AM
+sched_arr_time,545,07:25 PM,06:30 PM
+sched_arr_time,547,02:50 PM,02:50 MP
+sched_arr_time,551,06:46 PM,04:00 PM
+sched_arr_time,560,03:50 PM,11:50 AM
+sched_arr_time,561,01:q17 PM,011:7 PM
+sched_arr_time,568,08:00 AM,07:30 AM
+sched_arr_time,572,03:19 PM,12:35 PM
+sched_arr_time,575,02:25 PM,11:35 AM
+sched_arr_time,576,02:45 PM,11:05 AM
+sched_arr_time,583,12:21 AM,2:21 AM
+sched_arr_time,593,06:44 PM,10:20 AM
+sched_arr_time,597,04:17 PM,40:17 PM
+sched_arr_time,598,05:50 AM,50:50 AM
+sched_arr_time,599,12:29 AM,1229 AM
+sched_arr_time,605,06:15 PM,06:5 PM
+sched_arr_time,610,01:40 PM,10:40 PM
+sched_arr_time,614,04:05 PM,02:35 PM
+sched_arr_time,617,02:15 PM,12:10 PM
+sched_arr_time,619,01:39 ePM,01:39 PM
+sched_arr_time,622,06:40 PM,04:00 PM
+sched_arr_time,627,07:05 PM,04:00 PM
+sched_arr_time,628,empty,06:40 AM
+sched_arr_time,633,11:55 AM,08:00 AM
+sched_arr_time,635,10:30 PM,10:30b PM
+sched_arr_time,638,02:50 PM,02:50 MP
+sched_arr_time,639,11:19 M,11:19 AM
+sched_arr_time,643,06:46 PM,04:00 PM
+sched_arr_time,648,09:55 pAM,09:55 AM
+sched_arr_time,650,02:20 PM,10:45 AM
+sched_arr_time,654,03:50 PM,11:50 AM
+sched_arr_time,655,01:17P M,011:7 PM
+sched_arr_time,659,10:54AM,10:54 AM
+sched_arr_time,662,1:39 PM,01:39 PM
+sched_arr_time,663,03:19 PM,12:35 PM
+sched_arr_time,664,02:00 PM,11:45 AM
+sched_arr_time,665,06:15 PM,06:5 PM
+sched_arr_time,669,02:45 PM,11:05 AM
+sched_arr_time,673,07:25 PM,06:30 PM
+sched_arr_time,675,12:21 AM,2:21 AM
+sched_arr_time,684,06:44 PM,10:20 AM
+sched_arr_time,689,04:17 PM,40:17 PM
+sched_arr_time,690,05:50 AM,50:50 AM
+sched_arr_time,691,12:29 AM,1229 AM
+sched_arr_time,693,11:50 PM,11:50 M
+sched_arr_time,699,09:43 AM,09:43 AgM
+sched_arr_time,702,08:27 AM,01:45 PM
+sched_arr_time,703,01:40 PM,10:40 PM
+sched_arr_time,708,04:05 PM,02:35 PM
+sched_arr_time,711,02:15 PM,12:10 PM
+sched_arr_time,717,08:00 AM,07:30 AM
+sched_arr_time,719,06:40 PM,04:00 PM
+sched_arr_time,720,02:25 PM,11:35 AM
+sched_arr_time,726,07:05 PM,04:00 PM
+sched_arr_time,731,10:30 PM,10:30b PM
+sched_arr_time,733,11:55 AM,08:00 AM
+sched_arr_time,735,07:25 PM,06:30 PM
+sched_arr_time,744,empty,12:35 PM
+sched_arr_time,745,03:50 PM,11:50 AM
+sched_arr_time,746,d01:17 PM,011:7 PM
+sched_arr_time,750,08:00 AM,07:30 AM
+sched_arr_time,752,03:19 PM,12:35 PM
+sched_arr_time,753,02:00 PM,11:45 AM
+sched_arr_time,754,06:15 PM,06:5 PM
+sched_arr_time,755,02:25 PM,11:35 AM
+sched_arr_time,756,02:45 PM,11:05 AM
+sched_arr_time,769,02:20 PM,10:45 AM
+sched_arr_time,771,04:17 PM,40:17 PM
+sched_arr_time,772,05:50 AM,50:50 AM
+sched_arr_time,774,11:50 PM,11:50 M
+sched_arr_time,782,04:05 PM,02:35 PM
+sched_arr_time,785,09:43 AM,09:43 AgM
+sched_arr_time,786,02:15 PM,12:10 PM
+sched_arr_time,793,02:45 PM,11:05 AM
+sched_arr_time,798,03:19 PM,12:35 PM
+sched_arr_time,800,11:50 PM,11:50 M
+sched_arr_time,801,03:50 PM,11:50 AM
+sched_arr_time,806,07:25 PM,06:30 PM
+sched_arr_time,814,09:2 5AM,09:25 AM
+sched_arr_time,815,11:55 AM,08:00 AM
+sched_arr_time,817,10:30 PM,10:30b PM
+sched_arr_time,820,02:50 PM,02:50 MP
+sched_arr_time,825,06:46 PM,04:00 PM
+sched_arr_time,832,02:20 PM,10:45 AM
+sched_arr_time,836,03:50 PM,11:50 AM
+sched_arr_time,837,01:1g7 PM,011:7 PM
+sched_arr_time,844,01:39j PM,01:39 PM
+sched_arr_time,845,03:19 PM,12:35 PM
+sched_arr_time,846,02:00 PM,11:45 AM
+sched_arr_time,847,06:15 PM,06:5 PM
+sched_arr_time,851,02:45 PM,11:05 AM
+sched_arr_time,855,07:25 PM,06:30 PM
+sched_arr_time,866,06:44 PM,10:20 AM
+sched_arr_time,868,empty,02:59 PM
+sched_arr_time,871,04:17 PM,40:17 PM
+sched_arr_time,872,05:50 AM,50:50 AM
+sched_arr_time,873,12:29 AM,1229 AM
+sched_arr_time,875,11:50 PM,11:50 M
+sched_arr_time,881,09:43 AM,09:43 AgM
+sched_arr_time,884,08:27 AM,01:45 PM
+sched_arr_time,885,01:40 PM,10:40 PM
+sched_arr_time,890,04:05 PM,02:35 PM
+sched_arr_time,893,02:15 PM,12:10 PM
+sched_arr_time,899,08:00 AM,07:30 AM
+sched_arr_time,901,06:40 PM,04:00 PM
+sched_arr_time,902,02:25 PM,11:35 AM
+sched_arr_time,908,07:05 PM,04:00 PM
+sched_arr_time,913,07:25 PM,06:30 PM
+sched_arr_time,915,02:00 PM,11:45 AM
+sched_arr_time,919,01b:16 PM,01:16 PM
+sched_arr_time,926,03:19 PM,12:35 PM
+sched_arr_time,929,02:25 PM,11:35 AM
+sched_arr_time,930,02:45 PM,11:05 AM
+sched_arr_time,933,12:21 AM,2:21 AM
+sched_arr_time,938,06:44 PM,10:20 AM
+sched_arr_time,942,04:17 PM,40:17 PM
+sched_arr_time,943,12:29 AM,1229 AM
+sched_arr_time,944,11:50 PM,11:50 M
+sched_arr_time,946,06:15 PM,06:5 PM
+sched_arr_time,950,08:27 AM,01:45 PM
+sched_arr_time,951,01:40 PM,10:40 PM
+sched_arr_time,957,09:43 AM,09:43 AgM
+sched_arr_time,958,02:15 PM,12:10 PM
+sched_arr_time,963,empty,05:25 PM
+sched_arr_time,964,06:40 PM,04:00 PM
+sched_arr_time,973,07:25 PM,06:30 PM
+sched_arr_time,979,11:50 PM,11:50 M
+sched_arr_time,980,12:21 AM,2:21 AM
+sched_arr_time,982,06:40 PM,04:00 PM
+sched_arr_time,984,empty,10:35 AM
+sched_arr_time,992,11:55 AM,08:00 AM
+sched_arr_time,994,10:30 PM,10:30b PM
+sched_arr_time,995,07:25 PM,06:30 PM
+sched_arr_time,1002,06:46 PM,04:00 PM
+sched_arr_time,1007,03:50 PM,11:50 AM
+sched_arr_time,1012,02:20 PM,10:45 AM
+sched_arr_time,1015,08:00 AM,07:30 AM
+sched_arr_time,1018,02:00 PM,11:45 AM
+sched_arr_time,1021,02:25 PM,11:35 AM
+sched_arr_time,1022,02:45 PM,11:05 AM
+sched_arr_time,1026,12:21 AM,2:21 AM
+sched_arr_time,1036,05:50 AM,50:50 AM
+sched_arr_time,1037,12:29 AM,1229 AM
+sched_arr_time,1039,11:50 PM,11:50 M
+sched_arr_time,1041,empty,11:50 AM
+sched_arr_time,1042,06:15 PM,06:5 PM
+sched_arr_time,1046,09:43 AM,09:43 AgM
+sched_arr_time,1047,08:27 AM,01:45 PM
+sched_arr_time,1048,01:40 PM,10:40 PM
+sched_arr_time,1052,04:05 PM,02:35 PM
+sched_arr_time,1056,02:15 PM,12:10 PM
+sched_arr_time,1059,01:39 PxM,01:39 PM
+sched_arr_time,1062,06:40 PM,04:00 PM
+sched_arr_time,1068,07:05 PM,04:00 PM
+sched_arr_time,1074,11:55 AM,08:00 AM
+sched_arr_time,1076,10:30 PM,10:30b PM
+sched_arr_time,1079,02:50 PM,02:50 MP
+sched_arr_time,1084,06:46 PM,04:00 PM
+sched_arr_time,1086,01:16 iPM,01:16 PM
+sched_arr_time,1091,02:20 PM,10:45 AM
+sched_arr_time,1095,3:50 PM,11:50 AM
+sched_arr_time,1104,03:19 PM,12:35 PM
+sched_arr_time,1105,02:00 PM,11:45 AM
+sched_arr_time,1110,02:45 PM,11:05 AM
+sched_arr_time,1114,07:25 PM,06:30 PM
+sched_arr_time,1116,12:21 AM,2:21 AM
+sched_arr_time,1125,06:44 PM,10:20 AM
+sched_arr_time,1130,04:17 PM,40:17 PM
+sched_arr_time,1131,05:50 AM,50:50 AM
+sched_arr_time,1132,12:29 AM,1229 AM
+sched_arr_time,1134,11:50 PM,11:50 M
+sched_arr_time,1140,09:43 AM,09:43 AgM
+sched_arr_time,1143,08:27 AM,01:45 PM
+sched_arr_time,1144,01:40 PM,10:40 PM
+sched_arr_time,1149,04:05 PM,02:35 PM
+sched_arr_time,1152,02:15 PM,12:10 PM
+sched_arr_time,1158,08:00 AM,07:30 AM
+sched_arr_time,1160,06:40 PM,04:00 PM
+sched_arr_time,1161,02:25 PM,11:35 AM
+sched_arr_time,1167,07:05 PM,04:00 PM
+sched_arr_time,1175,10:30 PM,10:30b PM
+sched_arr_time,1183,02:20 PM,10:45 AM
+sched_arr_time,1186,02:4q5 PM,02:45 PM
+sched_arr_time,1187,03:19 PM,12:35 PM
+sched_arr_time,1189,02:45 PM,11:05 AM
+sched_arr_time,1193,12:21 AM,2:21 AM
+sched_arr_time,1197,06:44 PM,10:20 AM
+sched_arr_time,1200,05:50 AM,50:50 AM
+sched_arr_time,1201,06:15 PM,06:5 PM
+sched_arr_time,1204,09:43 AM,09:43 AgM
+sched_arr_time,1207,01:40 PM,10:40 PM
+sched_arr_time,1210,04:05 PM,02:35 PM
+sched_arr_time,1212,12:29 AM,1229 AM
+sched_arr_time,1213,02:15 PM,12:10 PM
+sched_arr_time,1219,07:25 PM,06:30 PM
+sched_arr_time,1221,06:40 PM,04:00 PM
+sched_arr_time,1227,11:55 AM,08:00 AM
+sched_arr_time,1229,empty,10:30b PM
+sched_arr_time,1231,02:50 PM,02:50 MP
+sched_arr_time,1237,06:46 PM,04:00 PM
+sched_arr_time,1239,01:1p6 PM,01:16 PM
+sched_arr_time,1244,02:20 PM,10:45 AM
+sched_arr_time,1248,03:50 PM,11:50 AM
+sched_arr_time,1249,01:17PM,011:7 PM
+sched_arr_time,1257,03:19 PM,12:35 PM
+sched_arr_time,1258,02:00 PM,11:45 AM
+sched_arr_time,1259,06:15 PM,06:5 PM
+sched_arr_time,1263,02:45 PM,11:05 AM
+sched_arr_time,1267,07:25 PM,06:30 PM
+sched_arr_time,1270,12:21 AM,2:21 AM
+sched_arr_time,1280,06:44 PM,10:20 AM
+sched_arr_time,1285,04:17 PM,40:17 PM
+sched_arr_time,1286,05:50 AM,50:50 AM
+sched_arr_time,1287,12:29 AM,1229 AM
+sched_arr_time,1289,11:50 PM,11:50 M
+sched_arr_time,1295,09:43 AM,09:43 AgM
+sched_arr_time,1298,08:27 AM,01:45 PM
+sched_arr_time,1299,01:40 PM,10:40 PM
+sched_arr_time,1304,04:05 PM,02:35 PM
+sched_arr_time,1307,02:15 PM,12:10 PM
+sched_arr_time,1313,08:00 AM,07:30 AM
+sched_arr_time,1314,06:40 PM,04:00 PM
+sched_arr_time,1315,02:25 PM,11:35 AM
+sched_arr_time,1320,07:05 PM,04:00 PM
+sched_arr_time,1327,11:55 AM,08:00 AM
+sched_arr_time,1332,02:50 PM,02:50 MP
+sched_arr_time,1337,06:46 PM,04:00 PM
+sched_arr_time,1339,1:16 PM,01:16 PM
+sched_arr_time,1344,empty,10:45 AM
+sched_arr_time,1348,03:50 PM,11:50 AM
+sched_arr_time,1349,t01:17 PM,011:7 PM
+sched_arr_time,1357,03:19 PM,12:35 PM
+sched_arr_time,1358,02:00 PM,11:45 AM
+sched_arr_time,1359,06:15 PM,06:5 PM
+sched_arr_time,1363,02:45 PM,11:05 AM
+sched_arr_time,1367,07:25 PM,06:30 PM
+sched_arr_time,1369,12:21 AM,2:21 AM
+sched_arr_time,1378,06:44 PM,10:20 AM
+sched_arr_time,1383,04:17 PM,40:17 PM
+sched_arr_time,1384,05:50 AM,50:50 AM
+sched_arr_time,1385,12:29 AM,1229 AM
+sched_arr_time,1387,11:50 PM,11:50 M
+sched_arr_time,1392,09:43 AM,09:43 AgM
+sched_arr_time,1395,08:27 AM,01:45 PM
+sched_arr_time,1396,01:40 PM,10:40 PM
+sched_arr_time,1401,04:5 PM,02:35 PM
+sched_arr_time,1404,02:15 PM,12:10 PM
+sched_arr_time,1410,08:00 AM,07:30 AM
+sched_arr_time,1412,06:40 PM,04:00 PM
+sched_arr_time,1413,02:25 PM,11:35 AM
+sched_arr_time,1419,07:05 PM,04:00 PM
+sched_arr_time,1421,1z0:45 AM,10:45 AM
+sched_arr_time,1423,03:50 PM,11:50 AM
+sched_arr_time,1425,04:05 PM,02:35 PM
+sched_arr_time,1429,empty,011:7 PM
+sched_arr_time,1431,12:21 AM,2:21 AM
+sched_arr_time,1434,02:50 PM,02:50 MP
+sched_arr_time,1438,06:44 PM,10:20 AM
+sched_arr_time,1439,01:16PM,01:16 PM
+sched_arr_time,1443,07:05 PM,04:00 PM
+sched_arr_time,1447,04:05 PM,02:35 PM
+sched_arr_time,1448,01:6 PM,01:16 PM
+sched_arr_time,1454,empty,02:35 PM
+sched_arr_time,1459,02:50 PM,02:50 MP
+sched_arr_time,1460,12:29 AM,1229 AM
+sched_arr_time,1461,08:00 AM,07:30 AM
+sched_arr_time,1463,06:40 PM,04:00 PM
+sched_arr_time,1465,10:30 PM,10:30b PM
+sched_arr_time,1466,empty,09:24 AM
+sched_arr_time,1469,06:44 PM,10:20 AM
+sched_arr_time,1472,02:45 PM,11:05 AM
+sched_arr_time,1480,12:21 AM,2:21 AM
+sched_arr_time,1481,03:50 PM,11:50 AM
+sched_arr_time,1482,11:55 AM,08:00 AM
+sched_arr_time,1486,06:15 PM,06:5 PM
+sched_arr_time,1491,11:55 AM,08:00 AM
+sched_arr_time,1493,10:30 PM,10:30b PM
+sched_arr_time,1495,02:50 PM,02:50 MP
+sched_arr_time,1501,06:46 PM,04:00 PM
+sched_arr_time,1503,01n:16 PM,01:16 PM
+sched_arr_time,1508,02:20 PM,10:45 AM
+sched_arr_time,1512,03:50 PM,11:50 AM
+sched_arr_time,1521,03:19 PM,12:35 PM
+sched_arr_time,1522,02:00 PM,11:45 AM
+sched_arr_time,1523,06:15 PM,06:5 PM
+sched_arr_time,1527,02:45 PM,11:05 AM
+sched_arr_time,1531,07:25 PM,06:30 PM
+sched_arr_time,1534,12:21 AM,2:21 AM
+sched_arr_time,1544,06:44 PM,10:20 AM
+sched_arr_time,1549,04:17 PM,40:17 PM
+sched_arr_time,1550,05:50 AM,50:50 AM
+sched_arr_time,1551,12:2 AM,1229 AM
+sched_arr_time,1553,11:50 PM,11:50 M
+sched_arr_time,1559,09:43 AM,09:43 AgM
+sched_arr_time,1562,08:27 AM,01:45 PM
+sched_arr_time,1563,01:40 PM,10:40 PM
+sched_arr_time,1568,04:05 PM,02:35 PM
+sched_arr_time,1569,05:5f5 PM,05:55 PM
+sched_arr_time,1571,02:15 PM,12:10 PM
+sched_arr_time,1577,08:00 AM,07:30 AM
+sched_arr_time,1578,06:40 MP,04:00 PM
+sched_arr_time,1579,02:25 PM,11:35 AM
+sched_arr_time,1584,07:05 PM,04:00 PM
+sched_arr_time,1588,empty,10:30b PM
+sched_arr_time,1591,07:25 PM,06:30 PM
+sched_arr_time,1596,06:46 PM,04:00 PM
+sched_arr_time,1597,01:1v6 PM,01:16 PM
+sched_arr_time,1600,10:17 PM,011:7 PM
+sched_arr_time,1604,08:00 AM,07:30 AM
+sched_arr_time,1605,03:19 PM,12:35 PM
+sched_arr_time,1607,02:00 PM,11:45 AM
+sched_arr_time,1610,02:25 PM,11:35 AM
+sched_arr_time,1618,12:29 AM,1229 AM
+sched_arr_time,1620,11:50 PM,11:50 M
+sched_arr_time,1623,06:15 PM,06:5 PM
+sched_arr_time,1628,empty,05:55 PM
+sched_arr_time,1629,09:43 AM,09:43 AgM
+sched_arr_time,1630,02:15 PM,12:10 PM
+sched_arr_time,1635,06:40 PM,04:00 PM
+sched_arr_time,1641,04:05 PM,02:35 PM
+sched_arr_time,1646,0:10 PM,09:10 PM
+sched_arr_time,1647,08:00 AM,07:30 AM
+sched_arr_time,1650,06:40 PM,04:00 PM
+sched_arr_time,1651,05:50 AM,50:50 AM
+sched_arr_time,1653,02:00 PM,11:45 AM
+sched_arr_time,1654,10c:30 PM,10:30b PM
+sched_arr_time,1657,02:45 PM,11:05 AM
+sched_arr_time,1666,10:30 PM,10:30b PM
+sched_arr_time,1668,06:46 PM,04:00 PM
+sched_arr_time,1673,03:50 PM,11:50 AM
+sched_arr_time,1674,01:1s7 PM,011:7 PM
+sched_arr_time,1679,08:00 AM,07:30 AM
+sched_arr_time,1683,03:19 PM,12:35 PM
+sched_arr_time,1684,06:15 PM,06:5 PM
+sched_arr_time,1689,02:25 PM,11:35 AM
+sched_arr_time,1690,02:45 PM,11:05 AM
+sched_arr_time,1693,07:25 PM,06:30 PM
+sched_arr_time,1696,12:21 AM,2:21 AM
+sched_arr_time,1705,empty,40:17 PM
+sched_arr_time,1706,12:29 AM,1229 AM
+sched_arr_time,1708,11:50 PM,11:50 M
+sched_arr_time,1715,04:05 PM,02:35 PM
+sched_arr_time,1718,02:15 PM,12:10 PM
+sched_arr_time,1719,0:35 PM,02:35 PM
+sched_arr_time,1721,06:40 PM,04:00 PM
+sched_arr_time,1725,07:05 PM,04:00 PM
+sched_arr_time,1728,11:55 AM,08:00 AM
+sched_arr_time,1732,06:46 PM,04:00 PM
+sched_arr_time,1734,03:19 PM,12:35 PM
+sched_arr_time,1744,04:17 PM,40:17 PM
+sched_arr_time,1745,12:29 AM,1229 AM
+sched_arr_time,1747,09:43 AM,09:43 AgM
+sched_arr_time,1749,08:27 AM,01:45 PM
+sched_arr_time,1758,06:15 PM,06:5 PM
+sched_arr_time,1762,11:55 AM,08:00 AM
+sched_arr_time,1764,10:30 PM,10:30b PM
+sched_arr_time,1767,02:50 PM,02:50 MP
+sched_arr_time,1772,06:46 PM,04:00 PM
+sched_arr_time,1774,0c1:16 PM,01:16 PM
+sched_arr_time,1779,02:20 PM,10:45 AM
+sched_arr_time,1783,03:5t0 PM,11:50 AM
+sched_arr_time,1784,0:117 PM,011:7 PM
+sched_arr_time,1792,03:19 PM,12:35 PM
+sched_arr_time,1793,02:00 PM,11:45 AM
+sched_arr_time,1794,06:15 PM,06:5 PM
+sched_arr_time,1798,02:45 PM,11:05 AM
+sched_arr_time,1802,07:25 PM,06:30 PM
+sched_arr_time,1804,12:21 AM,2:21 AM
+sched_arr_time,1813,06:44 PM,10:20 AM
+sched_arr_time,1817,02:45 MP,02:45 PM
+sched_arr_time,1818,04:17 PM,40:17 PM
+sched_arr_time,1820,12:29 AM,1229 AM
+sched_arr_time,1822,11:50 PM,11:50 M
+sched_arr_time,1828,09:43 AM,09:43 AgM
+sched_arr_time,1831,08:27 AM,01:45 PM
+sched_arr_time,1832,01:40 PM,10:40 PM
+sched_arr_time,1837,04:05 PM,02:35 PM
+sched_arr_time,1840,02:15 PM,12:10 PM
+sched_arr_time,1846,08:00 AM,07:30 AM
+sched_arr_time,1848,06:40 PM,04:00 PM
+sched_arr_time,1849,02:25 PM,11:35 AM
+sched_arr_time,1855,07:05 PM,04:00 PM
+sched_arr_time,1862,11:55 AM,08:00 AM
+sched_arr_time,1864,10:30 PM,10:30b PM
+sched_arr_time,1865,02:00 PM,11:45 AM
+sched_arr_time,1866,07:25 PM,06:30 PM
+sched_arr_time,1868,02:50 PM,02:50 MP
+sched_arr_time,1872,06:46 PM,04:00 PM
+sched_arr_time,1874,0:116 PM,01:16 PM
+sched_arr_time,1881,03:50 PM,11:50 AM
+sched_arr_time,1882,01:17 aPM,011:7 PM
+sched_arr_time,1884,empty,04:57 PM
+sched_arr_time,1889,08:00 AM,07:30 AM
+sched_arr_time,1893,03:19 PM,12:35 PM
+sched_arr_time,1896,02:25 PM,11:35 AM
+sched_arr_time,1897,02:45 PM,11:05 AM
+sched_arr_time,1904,12:21 AM,2:21 AM
+sched_arr_time,1907,07:03 AM,07:30 AM
+sched_arr_time,1914,06:44 PM,10:20 AM
+sched_arr_time,1918,04:17 PM,40:17 PM
+sched_arr_time,1919,05:50 AM,50:50 AM
+sched_arr_time,1920,12:29 AM,1229 AM
+sched_arr_time,1922,11:50 PM,11:50 M
+sched_arr_time,1926,06:15 PM,06:5 PM
+sched_arr_time,1931,01:40 PM,10:40 PM
+sched_arr_time,1935,04:05 PM,02:35 PM
+sched_arr_time,1938,02:15 PM,12:10 PM
+sched_arr_time,1943,06:40 PM,04:00 PM
+sched_arr_time,1948,07:05 PM,04:00 PM
+sched_arr_time,1954,11:55 AM,08:00 AM
+sched_arr_time,1955,empty,09:54 AM
+sched_arr_time,1956,10:30 PM,10:30b PM
+sched_arr_time,1959,02:50 PM,02:50 MP
+sched_arr_time,1964,06:46 PM,04:00 PM
+sched_arr_time,1966,01:1r6 PM,01:16 PM
+sched_arr_time,1971,02:20 PM,10:45 AM
+sched_arr_time,1975,03:50 PM,11:50 AM
+sched_arr_time,1976,01:7 PM,011:7 PM
+sched_arr_time,1984,03:19 PM,12:35 PM
+sched_arr_time,1985,02:00 PM,11:45 AM
+sched_arr_time,1986,06:15 PM,06:5 PM
+sched_arr_time,1990,02:45 PM,11:05 AM
+sched_arr_time,1994,07:25 PM,06:30 PM
+sched_arr_time,1996,12:21 AM,2:21 AM
+sched_arr_time,2005,06:44 PM,10:20 AM
+sched_arr_time,2010,04:17 PM,40:17 PM
+sched_arr_time,2011,05:50 AM,50:50 AM
+sched_arr_time,2012,12:29 AM,1229 AM
+sched_arr_time,2014,11:50 PM,11:50 M
+sched_arr_time,2023,08:27 AM,01:45 PM
+sched_arr_time,2024,empty,10:40 PM
+sched_arr_time,2029,04:05 PM,02:35 PM
+sched_arr_time,2032,02:15 PM,12:10 PM
+sched_arr_time,2038,08:00 AM,07:30 AM
+sched_arr_time,2040,06:40 PM,04:00 PM
+sched_arr_time,2041,02:25 PM,11:35 AM
+sched_arr_time,2044,empty,06:17 PM
+sched_arr_time,2047,07:05 PM,04:00 PM
+sched_arr_time,2054,11:55 AM,08:00 AM
+sched_arr_time,2056,10:30 PM,10:30b PM
+sched_arr_time,2059,02:50 PM,02:50 MP
+sched_arr_time,2064,06:46 PM,04:00 PM
+sched_arr_time,2066,01:16 qPM,01:16 PM
+sched_arr_time,2071,02:20 PM,10:45 AM
+sched_arr_time,2075,03:50 PM,11:50 AM
+sched_arr_time,2076,01i:17 PM,011:7 PM
+sched_arr_time,2077,09:20 M,09:20 AM
+sched_arr_time,2084,03:19 PM,12:35 PM
+sched_arr_time,2085,02:00 PM,11:45 AM
+sched_arr_time,2086,06:15 PM,06:5 PM
+sched_arr_time,2090,02:45 PM,11:05 AM
+sched_arr_time,2094,07:25 PM,06:30 PM
+sched_arr_time,2096,12:21 AM,2:21 AM
+sched_arr_time,2099,07:30 MA,07:30 AM
+sched_arr_time,2105,06:44 PM,10:20 AM
+sched_arr_time,2110,04:17 PM,40:17 PM
+sched_arr_time,2111,05:50 AM,50:50 AM
+sched_arr_time,2112,12:29 AM,1229 AM
+sched_arr_time,2114,11:50 PM,11:50 M
+sched_arr_time,2120,09:43 AM,09:43 AgM
+sched_arr_time,2123,08:27 AM,01:45 PM
+sched_arr_time,2124,01:40 PM,10:40 PM
+sched_arr_time,2129,04:05 PM,02:35 PM
+sched_arr_time,2132,02:15 PM,12:10 PM
+sched_arr_time,2138,08:00 AM,07:30 AM
+sched_arr_time,2140,06:40 PM,04:00 PM
+sched_arr_time,2141,02:25 PM,11:35 AM
+sched_arr_time,2147,07:05 PM,04:00 PM
+sched_arr_time,2151,02:50 PM,02:50 MP
+sched_arr_time,2152,01:17P M,011:7 PM
+sched_arr_time,2159,11:55 AM,08:00 AM
+sched_arr_time,2161,10:30 PM,10:30b PM
+sched_arr_time,2164,02:50 PM,02:50 MP
+sched_arr_time,2169,06:46 PM,04:00 PM
+sched_arr_time,2171,01:61 PM,01:16 PM
+sched_arr_time,2176,02:20 PM,10:45 AM
+sched_arr_time,2180,03:50 PM,11:50 AM
+sched_arr_time,2181,01:l17 PM,011:7 PM
+sched_arr_time,2189,03:19 PM,12:35 PM
+sched_arr_time,2190,02:00 PM,11:45 AM
+sched_arr_time,2191,06:15 PiM,06:5 PM
+sched_arr_time,2195,02:45 PM,11:05 AM
+sched_arr_time,2199,07:25 PM,06:30 PM
+sched_arr_time,2201,12:21 AM,2:21 AM
+sched_arr_time,2210,06:44 PM,10:20 AM
+sched_arr_time,2211,empty,10:31 AM
+sched_arr_time,2212,empty,02:59 PM
+sched_arr_time,2215,04:17 PM,40:17 PM
+sched_arr_time,2216,05:50 AM,50:50 AM
+sched_arr_time,2217,12:29 AM,1229 AM
+sched_arr_time,2219,11:50 PM,11:50 M
+sched_arr_time,2225,09:43 AM,09:43 AgM
+sched_arr_time,2228,08:27 AM,01:45 PM
+sched_arr_time,2229,01:40 PM,10:40 PM
+sched_arr_time,2234,04:05 PM,02:35 PM
+sched_arr_time,2237,02:15 PM,12:10 PM
+sched_arr_time,2243,08:00 AM,07:30 AM
+sched_arr_time,2245,06:40 PM,04:00 PM
+sched_arr_time,2246,02:25 PM,11:35 AM
+sched_arr_time,2252,07:05 PM,04:00 PM
+sched_arr_time,2253,0:640 AM,06:40 AM
+sched_arr_time,2260,10:30 PM,10:30b PM
+sched_arr_time,2262,06:46 PM,04:00 PM
+sched_arr_time,2267,03:50 PM,11:50 AM
+sched_arr_time,2268,01:1 7PM,011:7 PM
+sched_arr_time,2273,08:00 AM,07:30 AM
+sched_arr_time,2277,03:19 PM,12:35 PM
+sched_arr_time,2278,06:15 PM,06:5 PM
+sched_arr_time,2283,02:25 PM,11:35 AM
+sched_arr_time,2284,empty,11:05 AM
+sched_arr_time,2287,07:25 PM,06:30 PM
+sched_arr_time,2290,12:21 AM,2:21 AM
+sched_arr_time,2299,04:17 PM,40:17 PM
+sched_arr_time,2300,12:29 AM,1229 AM
+sched_arr_time,2302,11:50 PM,11:50 M
+sched_arr_time,2309,04:05 PM,02:35 PM
+sched_arr_time,2312,02:15 PM,12:10 PM
+sched_arr_time,2315,06:40 PM,04:00 PM
+sched_arr_time,2319,07:05 PM,04:00 PM
+sched_arr_time,2324,11:55 AM,08:00 AM
+sched_arr_time,2325,10:30 PM,10:30b PM
+sched_arr_time,2326,07:25 PM,06:30 PM
+sched_arr_time,2327,12:21 AM,2:21 AM
+sched_arr_time,2330,06:46 PM,04:00 PM
+sched_arr_time,2334,03:50 PM,11:50 AM
+sched_arr_time,2339,08:00 AM,07:30 AM
+sched_arr_time,2343,empty,01:45 PM
+sched_arr_time,2345,02:25 PM,11:35 AM
+sched_arr_time,2346,02:45 PM,11:05 AM
+sched_arr_time,2356,05:50 AM,50:50 AM
+sched_arr_time,2357,12:29 AM,1229 AM
+sched_arr_time,2359,11:50 PM,11:50 M
+sched_arr_time,2362,06:15 PM,06:5 PM
+sched_arr_time,2364,04:05 PM,02:35 PM
+sched_arr_time,2367,02:15 PM,12:10 PM
+sched_arr_time,2370,06:40 PM,04:00 PM
+sched_arr_time,2374,07:05 PM,04:00 PM
+act_arr_time,8,07:39 PM,07:55 PM
+act_arr_time,18,11c:06 AM,11:06 AM
+act_arr_time,35,10:04 AM,01:04 AM
+act_arr_time,37,03:50 PM,01:30 PM
+act_arr_time,66,0:19 PM,09:45 AM
+act_arr_time,70,07:39 PM,07:55 PM
+act_arr_time,81,1:56 AM,11:56 AM
+act_arr_time,83,10:30 PM,01:30 PM
+act_arr_time,98,07:58 PM,02:10 PM
+act_arr_time,99,12:09 PM,09:14 AM
+act_arr_time,120,03:50 PM,01:30 PM
+act_arr_time,166,01:19 PM,09:45 AM
+act_arr_time,170,07:39 PM,07:55 PM
+act_arr_time,171,0:40 PM,01:40 PM
+act_arr_time,197,07:58 PM,02:10 PM
+act_arr_time,198,12:09 PM,09:14 AM
+act_arr_time,215,10:04AM,01:04 AM
+act_arr_time,218,03:50 PM,01:30 PM
+act_arr_time,227,0710 PM,07:10 PM
+act_arr_time,236,10:h16 AM,10:16 AM
+act_arr_time,238,0806 AM,08:06 AM
+act_arr_time,244,5:38 PM,05:38 PM
+act_arr_time,256,empty,07:25 PM
+act_arr_time,265,empty,09:45 AM
+act_arr_time,268,07:39 PM,07:55 PM
+act_arr_time,282,empty,01:15 PM
+act_arr_time,291,07:58 PM,02:10 PM
+act_arr_time,292,12:09 PM,09:14 AM
+act_arr_time,306,10i:04 AM,01:04 AM
+act_arr_time,310,03:50 PM,01:30 PM
+act_arr_time,335,06:m19 AM,06:19 AM
+act_arr_time,353,01:19 PM,09:45 AM
+act_arr_time,357,07:39 PM,07:55 PM
+act_arr_time,358,01:40n PM,01:40 PM
+act_arr_time,385,07:58 PM,02:10 PM
+act_arr_time,386,12:09 PM,09:14 AM
+act_arr_time,404,10:04AM,01:04 AM
+act_arr_time,407,03:50 PM,01:30 PM
+act_arr_time,412,08:02AM,08:02 AM
+act_arr_time,434,empty,06:36 PM
+act_arr_time,453,01:19 PM,09:45 AM
+act_arr_time,457,07:39 PM,07:55 PM
+act_arr_time,468,empty,11:56 AM
+act_arr_time,484,07:58 M,02:10 PM
+act_arr_time,485,12:09 PM,09:14 AM
+act_arr_time,488,07:55 tPM,07:55 PM
+act_arr_time,502,100:4 AM,01:04 AM
+act_arr_time,505,03:50 PM,01:30 PM
+act_arr_time,514,07:10 MP,07:10 PM
+act_arr_time,553,01:19 PM,09:45 AM
+act_arr_time,556,07:39 PM,07:55 PM
+act_arr_time,584,07:58 PM,02:10 PM
+act_arr_time,585,12:09 PM,09:14 AM
+act_arr_time,588,70:55 PM,07:55 PM
+act_arr_time,603,1:04 AM,01:04 AM
+act_arr_time,604,11:44 AM***,11:44 AM
+act_arr_time,614,empty,03:43 PM
+act_arr_time,645,01:19 PM,09:45 AM
+act_arr_time,648,empty,09:45 AM
+act_arr_time,649,07:39 PM,07:55 PM
+act_arr_time,673,07:52 PM,07:25 PM
+act_arr_time,676,07:58 PM,02:10 PM
+act_arr_time,677,12:09 PM,09:14 AM
+act_arr_time,680,0755 PM,07:55 PM
+act_arr_time,685,empty,10:47 AM
+act_arr_time,694,100:4 AM,01:04 AM
+act_arr_time,697,03:50 PM,01:30 PM
+act_arr_time,700,empty,05:11 AM
+act_arr_time,720,empty,02:27 PM
+act_arr_time,733,empty,11:58 AM
+act_arr_time,734,09:3 AM,09:43 AM
+act_arr_time,743,07:39 PM,07:55 PM
+act_arr_time,762,12:09 PM,09:14 AM
+act_arr_time,765,07:5 PM,07:55 PM
+act_arr_time,770,empty,04:23 PM
+act_arr_time,774,1z1:50 PM,11:50 PM
+act_arr_time,775,10:04 AdM,01:04 AM
+act_arr_time,778,03:50 PM,01:30 PM
+act_arr_time,790,empty,07:40 AM
+act_arr_time,795,07:39 PM,07:55 PM
+act_arr_time,803,empty,07:55 PM
+act_arr_time,808,06:55 lAM,06:55 AM
+act_arr_time,811,12:09 PM,09:14 AM
+act_arr_time,827,01:19 PM,09:45 AM
+act_arr_time,831,07:39 PM,07:55 PM
+act_arr_time,833,07o:10 PM,07:10 PM
+act_arr_time,848,10:15 PM,01:15 PM
+act_arr_time,850,empty,09:52 PM
+act_arr_time,858,07:58 PM,02:10 PM
+act_arr_time,859,12:09 PM,09:14 AM
+act_arr_time,862,0:55 PM,07:55 PM
+act_arr_time,879,03:50 PM,01:30 PM
+act_arr_time,919,01:19 PM,09:45 AM
+act_arr_time,931,8:53 PM,08:53 PM
+act_arr_time,934,12:09 PM,09:14 AM
+act_arr_time,959,11:0z1 AM,11:01 AM
+act_arr_time,1001,2:50 PM,02:50 PM
+act_arr_time,1002,empty,06:28 PM
+act_arr_time,1005,07:39 PM,07:55 PM
+act_arr_time,1007,empty,04:09 PM
+act_arr_time,1027,07:58 PM,02:10 PM
+act_arr_time,1028,12:09 PM,09:14 AM
+act_arr_time,1031,06:3 PM,06:38 PM
+act_arr_time,1040,0:04 AM,01:04 AM
+act_arr_time,1044,03:50 PM,01:30 PM
+act_arr_time,1056,empty,01:43 PM
+act_arr_time,1086,01:19 PM,09:45 AM
+act_arr_time,1090,07:39 PM,07:55 PM
+act_arr_time,1117,07:58 PM,02:10 PM
+act_arr_time,1118,12:09 PM,09:14 AM
+act_arr_time,1121,0755 PM,07:55 PM
+act_arr_time,1124,z09:53 PM,09:53 PM
+act_arr_time,1135,10:04 AiM,01:04 AM
+act_arr_time,1138,03:50 PM,01:30 PM
+act_arr_time,1143,empty,08:02 AM
+act_arr_time,1179,07:39 PM,07:55 PM
+act_arr_time,1194,07:58 PM,02:10 PM
+act_arr_time,1195,12:09 PM,09:14 AM
+act_arr_time,1227,empty,11:58 AM
+act_arr_time,1239,01:19 PM,09:45 AM
+act_arr_time,1243,n07:39 PM,07:55 PM
+act_arr_time,1269,0316 PM,03:16 PM
+act_arr_time,1271,07:58 PM,02:10 PM
+act_arr_time,1272,empty,09:14 AM
+act_arr_time,1275,07:55 PM***,07:55 PM
+act_arr_time,1289,empty,11:50 PM
+act_arr_time,1290,10:04AM,01:04 AM
+act_arr_time,1293,03:50 PM,01:30 PM
+act_arr_time,1300,09:20 MP,09:20 PM
+act_arr_time,1304,empty,03:43 PM
+act_arr_time,1339,01:19 PM,09:45 AM
+act_arr_time,1343,07:39 PM,07:55 PM
+act_arr_time,1370,07:58 PM,02:10 PM
+act_arr_time,1371,12:09 PM,09:14 AM
+act_arr_time,1374,075:5 PM,07:55 PM
+act_arr_time,1388,100:4 AM,01:04 AM
+act_arr_time,1390,03:50 PM,01:30 PM
+act_arr_time,1418,empty,07:40 AM
+act_arr_time,1437,12:09 PM,09:14 AM
+act_arr_time,1438,empty,06:34 PM
+act_arr_time,1439,01:19 PM,09:45 AM
+act_arr_time,1448,01:19 PM,09:45 AM
+act_arr_time,1503,01:19 PM,09:45 AM
+act_arr_time,1507,07:39 PM,07:55 PM
+act_arr_time,1524,01o:15 PM,01:15 PM
+act_arr_time,1535,07:58 PM,02:10 PM
+act_arr_time,1536,12:09 PM,09:14 AM
+act_arr_time,1539,0:755 PM,07:55 PM
+act_arr_time,1554,1:04 AM,01:04 AM
+act_arr_time,1557,03:50 PM,01:30 PM
+act_arr_time,1560,empty,05:11 AM
+act_arr_time,1569,empty,05:43 PM
+act_arr_time,1597,01:19 PM,09:45 AM
+act_arr_time,1605,empty,03:21 PM
+act_arr_time,1608,x01:15 PM,01:15 PM
+act_arr_time,1613,07:55P M,07:55 PM
+act_arr_time,1621,10:4 AM,01:04 AM
+act_arr_time,1624,03:50 PM,01:30 PM
+act_arr_time,1637,0740 AM,07:40 AM
+act_arr_time,1648,empty,04:23 PM
+act_arr_time,1661,07:58 PM,02:10 PM
+act_arr_time,1665,0m9:43 AM,09:43 AM
+act_arr_time,1666,1:30 PM,10:30 PM
+act_arr_time,1671,07:39 PM,07:55 PM
+act_arr_time,1697,12:09 PM,09:14 AM
+act_arr_time,1700,g07:55 PM,07:55 PM
+act_arr_time,1709,s10:04 AM,01:04 AM
+act_arr_time,1711,03:50 PM,01:30 PM
+act_arr_time,1739,empty,02:10 PM
+act_arr_time,1774,01:19 PM,09:45 AM
+act_arr_time,1778,07:39 PM,07:55 PM
+act_arr_time,1805,07:58 PM,02:10 PM
+act_arr_time,1806,12:09 PM,09:14 AM
+act_arr_time,1809,07:55PM,07:55 PM
+act_arr_time,1817,02:5 PM,02:50 PM
+act_arr_time,1819,0:550 AM,05:50 AM
+act_arr_time,1823,0:04 AM,01:04 AM
+act_arr_time,1824,empty,11:44 AM
+act_arr_time,1826,03:50 PM,01:30 PM
+act_arr_time,1874,01:19 PM,09:45 AM
+act_arr_time,1877,07:39 PM,07:55 PM
+act_arr_time,1905,07:58 PM,02:10 PM
+act_arr_time,1906,12:09 PM,09:14 AM
+act_arr_time,1909,07:55 hPM,07:55 PM
+act_arr_time,1924,10:04 MA,01:04 AM
+act_arr_time,1949,empty,06:19 AM
+act_arr_time,1954,empty,11:58 AM
+act_arr_time,1966,01:19 PM,09:45 AM
+act_arr_time,1970,07:39 PM,07:55 PM
+act_arr_time,1972,7:10 PM,07:10 PM
+act_arr_time,1996,12:2 AM,12:21 AM
+act_arr_time,1997,07:58 PM,02:10 PM
+act_arr_time,1998,12:09 PM,09:14 AM
+act_arr_time,2001,07:55 PgM,07:55 PM
+act_arr_time,2004,09:53 MP,09:53 PM
+act_arr_time,2014,empty,11:50 PM
+act_arr_time,2015,10:0 4AM,01:04 AM
+act_arr_time,2018,03:50 PM,01:30 PM
+act_arr_time,2060,empty,11:21 AM
+act_arr_time,2063,05:26 MA,05:26 AM
+act_arr_time,2066,01:19 PM,09:45 AM
+act_arr_time,2070,07:39 PM,07:55 PM
+act_arr_time,2082,03:30s PM,03:30 PM
+act_arr_time,2097,07:58 PM,02:10 PM
+act_arr_time,2098,12:09 PM,09:14 AM
+act_arr_time,2101,07:5 PM,07:55 PM
+act_arr_time,2115,10:0s4 AM,01:04 AM
+act_arr_time,2118,03:50 PM,01:30 PM
+act_arr_time,2171,01:19 PM,09:45 AM
+act_arr_time,2173,empty,09:56 AM
+act_arr_time,2175,07:39 PM,07:55 PM
+act_arr_time,2195,empty,02:46 PM
+act_arr_time,2202,07:58 PM,02:10 PM
+act_arr_time,2203,12:09 PM,09:14 AM
+act_arr_time,2206,0z7:55 PM,07:55 PM
+act_arr_time,2220,0:04 AM,01:04 AM
+act_arr_time,2223,03:50 PM,01:30 PM
+act_arr_time,2265,07:39 PM,07:55 PM
+act_arr_time,2278,empty,05:42 PM
+act_arr_time,2284,0:246 PM,02:46 PM
+act_arr_time,2289,empty,03:16 PM
+act_arr_time,2291,12:09 PM,09:14 AM
+act_arr_time,2294,07:55 MP,07:55 PM
+act_arr_time,2303,10c:04 AM,01:04 AM
+act_arr_time,2305,03:50 PM,01:30 PM
+act_arr_time,2320,06:1b9 AM,06:19 AM
+act_arr_time,2332,07:39 PM,07:55 PM
+act_arr_time,2350,12:09 PM,09:14 AM
+act_arr_time,2351,empty,07:51 AM
+act_arr_time,2360,10:w04 AM,01:04 AM
+act_arr_time,2363,03:50 PM,01:30 PM
+act_arr_time,2375,empty,06:19 AM

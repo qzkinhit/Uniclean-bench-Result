@@ -1,0 +1,28 @@
+Attribute,Index,Clean Value,Dirty Value
+gender,7522,f,empty
+gender,8097,f,empty
+gender,17003,m,um
+city,2384,newport,empty
+city,17147,albion,alblion
+city,17666,aguas buenas,aguasg buenas
+city,19058,aguadilla,guadilla
+city,19764,aguirre,augirre
+state,162,pr,empty
+state,11015,ma,empty
+state,14863,ma,mja
+state,19714,pr,rp
+singleexemp,1266,0,e0
+singleexemp,2349,0,empty
+singleexemp,7503,0,empty
+singleexemp,7700,0,***
+singleexemp,8866,0,empty
+singleexemp,12496,3575,375
+singleexemp,13068,0,empty
+singleexemp,14114,0,empty
+marriedexemp,4440,0,empty
+marriedexemp,5738,0,empty
+childexemp,1796,0,empty
+childexemp,3828,0,empty
+childexemp,13604,0,k0
+childexemp,13881,0,empty
+childexemp,14762,0,t0

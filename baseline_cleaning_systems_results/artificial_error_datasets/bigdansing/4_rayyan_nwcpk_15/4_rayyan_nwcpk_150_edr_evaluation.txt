@@ -1,0 +1,51 @@
+Attribute: index
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: id
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: article_title
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: article_language
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 345
+========================================
+Attribute: journal_title
+Distance (Dirty to Clean): 47
+Distance (Repaired to Clean): 366
+========================================
+Attribute: jounral_abbreviation
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 373
+========================================
+Attribute: journal_issn
+Distance (Dirty to Clean): 48
+Distance (Repaired to Clean): 195
+========================================
+Attribute: article_jvolumn
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 139
+========================================
+Attribute: article_jissue
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 47
+========================================
+Attribute: article_jcreated_at
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 230
+========================================
+Attribute: article_pagination
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 60
+========================================
+Attribute: author_list
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+总的脏数据到干净数据距离: 95
+总的修复后数据到干净数据距离: 1755
+错误减少率 (EDR): -17.473684210526315

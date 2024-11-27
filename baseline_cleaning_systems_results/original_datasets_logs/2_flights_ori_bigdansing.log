@@ -1,0 +1,48 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/dirty_index.csv
+Running bigdansing with dirty file: Data/2_flights/dirty_index.csv
+Start Blocking
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 50%|███████████████████████████▌                           | 3/6 [00:00<00:00, 14.36it/s] 83%|█████████████████████████████████████████████▊         | 5/6 [00:01<00:00,  3.72it/s]100%|███████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.07it/s]100%|███████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.65it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:07<00:38,  7.71s/it] 33%|██████████████████▎                                    | 2/6 [00:15<00:31,  7.76s/it] 50%|███████████████████████████▌                           | 3/6 [00:23<00:24,  8.05s/it] 67%|████████████████████████████████████▋                  | 4/6 [00:31<00:15,  7.94s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [02:02<00:37, 37.76s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:37<00:00, 57.32s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:37<00:00, 36.26s/it]
+Finish Detectings
+Initial cells to repair: 11832
+Processing loop - sizebefore: 11832, sizeafter: 0
+Current MVC size: 6596
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:07<00:37,  7.48s/it] 33%|██████████████████▎                                    | 2/6 [00:15<00:30,  7.52s/it] 50%|███████████████████████████▌                           | 3/6 [00:22<00:22,  7.53s/it] 67%|████████████████████████████████████▋                  | 4/6 [00:30<00:14,  7.49s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [01:53<00:34, 34.99s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:23<00:00, 53.69s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:23<00:00, 33.96s/it]
+===============================================
+Results saved to results/bigdansing/Repaired_res/2_flights_or/repaired_2_flights_ori.csv
+BigDansing finished in 64025.20381689072 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/Repaired_res/2_flights_or/repaired_2_flights_ori.csv
+差异文件已保存到:
+results/bigdansing/Repaired_res/2_flights_or/2_flights_ori_clean_vs_dirty.csv
+results/bigdansing/Repaired_res/2_flights_or/2_flights_ori_dirty_vs_cleaned.csv
+results/bigdansing/Repaired_res/2_flights_or/2_flights_ori_clean_vs_cleaned.csv
+修复准确率: 0.33814370347865713, 修复召回率: 0.4524390243902439, F1值: 0.38702947052393905
+========================================
+EDR 结果已保存到: results/bigdansing/Repaired_res/2_flights_or/2_flights_ori_edr_evaluation.txt
+错误减少率 (EDR): -0.13821138211382114
+========================================
+混合距离结果已保存到: results/bigdansing/Repaired_res/2_flights_or/2_flights_ori_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.1998929542593674
+========================================
+R-EDR 结果已保存到: results/bigdansing/Repaired_res/2_flights_or/2_flights_ori_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.06932773109243698
+========================================
+测试结果:
+Accuracy: 0.33814370347865713
+Recall: 0.4524390243902439
+F1 Score: 0.38702947052393905
+EDR: -0.13821138211382114
+Hybrid Distance: 0.1998929542593674
+R-EDR: -0.06932773109243698
+time(s): 64025.20381689072
+speed: 2694.6634603068483 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/Repaired_res/2_flights_or

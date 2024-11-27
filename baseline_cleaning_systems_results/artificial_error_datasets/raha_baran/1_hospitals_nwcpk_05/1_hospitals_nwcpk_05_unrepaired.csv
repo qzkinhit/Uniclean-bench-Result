@@ -1,0 +1,139 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,9,callahan eye foundation hospital,helen keller memorial hospital
+HospitalName,10,callahan eye foundation hospital,helen keller memorial hospital
+HospitalName,11,callahan eye foundation hospital,helen keller memorial hospital
+HospitalName,12,callahan eye foundation hospital,helen keller memorial hospital
+HospitalName,26,southeast alabama emdical center,southeast alabama medical center
+HospitalName,46,callahan eye foundation hospital,marshall medical center south
+HospitalName,47,callahan eye foundation hospital,marshall medical center south
+HospitalName,60,callahan eye foundation hospital,marshall medical center south
+HospitalName,107,mizell mmeorial hospital,mizell memorial hospital
+HospitalName,187,marshall medical centernorth,marshall medical center north
+HospitalName,212,callahan eye foundation hospital,st vincents east
+HospitalName,213,callahan eye foundation hospital,st vincents east
+HospitalName,214,callahan eye foundation hospital,st vincents east
+HospitalName,215,callahan eye foundation hospital,st vincents east
+HospitalName,216,callahan eye foundation hospital,st vincents east
+HospitalName,257,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,258,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,295,callahan eyhe foundation hospital,callahan eye foundation hospital
+HospitalName,296,callahan eye founadtion hospital,callahan eye foundation hospital
+HospitalName,297,callahan eye foutndation hospital,callahan eye foundation hospital
+HospitalName,298,callaha eye foundation hospital,callahan eye foundation hospital
+HospitalName,299,cllahan eye foundation hospital,callahan eye foundation hospital
+HospitalName,357,nothwest medical center,northwest medical center
+HospitalName,799,xhuntsville hospital,huntsville hospital
+HospitalName,857,marion regional medical centre,marion regional medical center
+Address1,180,empty,8000 alabama highway 69
+Address1,251,33m700 highway 43,33700 highway 43
+Address1,300,1720 universityj blvd,1720 university blvd
+Address1,301,720 university blvd,1720 university blvd
+Address1,368,1530k u s highway 43,1530 u s highway 43
+Address1,399,124 s memoprial dr,124 s memorial dr
+Address1,408,124 sh memorial dr,124 s memorial dr
+Address1,440,2081 debarr road,2801 debarr road
+Address1,502,empty,400 northwood dr
+Address1,526,empty,2105 east south boulevard
+Address1,765,849 south three notch treet,849 south three notch street
+Address1,774,301 east1 8th st,301 east 18th st
+Address1,778,empty,101 sivley rd
+Address1,819,empty,1007 goodyear avenue
+Address1,981,150 gilbreathd rive,150 gilbreath drive
+City,35,dyothan,dothan
+City,169,empty,hartselle
+City,185,birmingham,guntersville
+City,187,birmingham,guntersville
+City,208,empty,birmingham
+City,426,sylaacuga,sylacauga
+City,488,empty,ozark
+City,693,empty,tallassee
+City,958,empty,enterprise
+ZipCode,16,35660***,35660
+ZipCode,17,35x660,35660
+ZipCode,92,empty,35631
+ZipCode,95,35233,36467
+ZipCode,96,35233,36467
+ZipCode,184,3597t6,35976
+ZipCode,226,empty,35968
+ZipCode,347,3630g5,36305
+ZipCode,609,empty,36323
+ZipCode,626,36081,36801
+ZipCode,680,3233,35233
+ZipCode,803,3a5903,35903
+ZipCode,871,empty,35570
+ZipCode,942,6033,36033
+ZipCode,958,3630,36330
+ZipCode,985,empty,35121
+CountyName,70,luderdale,lauderdale
+CountyName,197,jefferrson,jefferson
+CountyName,273,shelbzy,shelby
+CountyName,276,empty,shelby
+CountyName,292,shejlby,shelby
+CountyName,355,mlarion,marion
+CountyName,474,empty,dale
+CountyName,484,empty,dale
+CountyName,556,mongomery,montgomery
+CountyName,558,empty,montgomery
+CountyName,727,empty,cullman
+PhoneNumber,107,empty,3344933541
+PhoneNumber,502,empty,2569275531
+PhoneNumber,597,empty,3348972257
+PhoneNumber,754,empty,3342228466
+PhoneNumber,977,empty,3343470584
+HospitalOwner,5,empty,voluntary non-profit - private
+HospitalOwner,337,empty,proprietary
+HospitalOwner,392,empty,government - state
+HospitalOwner,485,empty,government - hospital district or authority
+HospitalOwner,557,empty,voluntary non-profit - private
+EmergencyService,133,empty,yes
+EmergencyService,135,empty,yes
+EmergencyService,180,eys,yes
+EmergencyService,249,empty,yes
+EmergencyService,285,eys,yes
+EmergencyService,335,eys,yes
+EmergencyService,339,es,yes
+EmergencyService,459,yses,yes
+EmergencyService,460,ryes,yes
+EmergencyService,697,empty,no
+EmergencyService,920,empty,yes
+EmergencyService,926,yse,yes
+Condition,77,heartfailure,heart failure
+Condition,94,surgical infection preveniton,surgical infection prevention
+Condition,290,surgical infection prevntion,surgical infection prevention
+Condition,376,surgical infection prevetnion,surgical infection prevention
+Condition,410,surgical infexction prevention,surgical infection prevention
+Condition,444,surgical infection prjevention,surgical infection prevention
+Condition,460,surgical infection prevntion,surgical infection prevention
+Condition,485,surgical infection preventino,surgical infection prevention
+Condition,510,surgical infection preventionn,surgical infection prevention
+MeasureName,45,heart attack aptients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,109,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,110,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given the most appropriate initial antibiotic(s)
+MeasureName,111,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients assessed and given influenza vaccination
+MeasureName,113,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+MeasureName,114,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,120,empty,heart attack patients given aspirin at arrival
+MeasureName,125,empty,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,173,empty,heart attack patients given smoking cessation advice/counseling
+MeasureName,256,pneumonia patients assessed and give pneumococcal vaccination,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,275,heart attack patisents given fibrinolytic medication within 30 minutes of arrival,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,322,heart failure patients given anr evaluation of left ventricular systolic (lvs) function,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,327,empty,pneumonia patients given smoking cessation advice/counseling
+MeasureName,380,heart attack patietns given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,391,pneumonia patients assessedand given pneumococcal vaccination,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,399,heart failure patients given discharge instructiovns,heart failure patients given discharge instructions
+MeasureName,451,hart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,517,heart attack patients fgiven aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,592,hart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,619,empty,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,995,pneumonia patients given initial antibiotic(s) within 6 hours after rarival,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+Stateavg,344,al_scoip-inf-3,al_scip-inf-3
+Stateavg,375,al_scip-inf-k3,al_scip-inf-3
+Stateavg,412,alh_scip-inf-3,al_scip-inf-3
+Stateavg,422,alhf-1,al_hf-1
+Stateavg,462,al_scip-infz-3,al_scip-inf-3
+Stateavg,487,al_scip-inf3-,al_scip-inf-3
+Stateavg,739,al_sciap-inf-6,al_scip-inf-6
+Stateavg,740,al_sci-pvte-1,al_scip-vte-1
+Stateavg,833,hal_ami-7a,al_ami-7a
+Stateavg,893,al_p-6,al_pn-6

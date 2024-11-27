@@ -1,0 +1,31 @@
+Attribute: index
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: src
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: flight
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: sched_dep_time
+Distance (Dirty to Clean): 66
+Distance (Repaired to Clean): 255
+========================================
+Attribute: act_dep_time
+Distance (Dirty to Clean): 61
+Distance (Repaired to Clean): 138
+========================================
+Attribute: sched_arr_time
+Distance (Dirty to Clean): 77
+Distance (Repaired to Clean): 213
+========================================
+Attribute: act_arr_time
+Distance (Dirty to Clean): 65
+Distance (Repaired to Clean): 305
+========================================
+总的脏数据到干净数据距离: 269
+总的修复后数据到干净数据距离: 911
+错误减少率 (EDR): -2.386617100371747

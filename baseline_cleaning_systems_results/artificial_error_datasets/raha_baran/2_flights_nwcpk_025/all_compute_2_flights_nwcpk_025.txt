@@ -1,0 +1,11 @@
+rep_right:20
+rec_right:20
+wrong_cells:74
+prec:1.0
+rec:0.2702702702702703
+wrong2right:20
+right2right:0
+wrong2wrong:0
+right2wrong:0
+clean_in_cands AFTER filter:20
+proportion of clean value in candidates and selected correctly:0.9999999995

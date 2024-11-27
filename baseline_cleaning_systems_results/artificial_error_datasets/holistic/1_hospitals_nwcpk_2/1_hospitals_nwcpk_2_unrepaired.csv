@@ -1,0 +1,72 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,29,southeast alaama medical center,southeast alabama medical center
+HospitalName,30,southeast alabama medzical center,southeast alabama medical center
+HospitalName,34,southeasat alabama medical center,southeast alabama medical center
+HospitalName,36,southeast alabama medical cneter,southeast alabama medical center
+HospitalName,38,southeast alabama medicalb center,southeast alabama medical center
+HospitalName,44,southeast alaama medical center,southeast alabama medical center
+HospitalName,454,helen keller mmorial hospital,helen keller memorial hospital
+HospitalName,455,ehlen keller memorial hospital,helen keller memorial hospital
+Address1,8,1720 unievrsity blvd,1720 university blvd
+Address1,40,1108 ross clar circle,1108 ross clark circle
+Address1,150,empty,201 pine street northwest
+Address1,311,1720 duniversity blvd,1720 university blvd
+Address1,459,empty,1300 south montgomery avenue
+City,40,empty,dothan
+City,456,sheffield***,sheffield
+City,457,shkeffield,sheffield
+City,458,sheffield***,sheffield
+City,459,sheffild,sheffield
+City,460,shheffield,sheffield
+City,461,seffield,sheffield
+City,462,sheffiseld,sheffield
+City,463,sheaffield,sheffield
+City,464,shefield,sheffield
+City,465,asheffield,sheffield
+State,52,l,al
+State,116,empty,al
+State,122,l,al
+State,123,l,al
+State,128,empty,al
+State,277,la,al
+State,304,l,al
+State,305,empty,al
+State,307,l,al
+State,308,aql,al
+State,706,la,al
+ZipCode,9,5660,35660
+ZipCode,10,35d660,35660
+ZipCode,11,3660,35660
+ZipCode,12,35606,35660
+ZipCode,13,5660,35660
+ZipCode,14,3560,35660
+ZipCode,16,356p60,35660
+ZipCode,17,35606,35660
+ZipCode,21,empty,36302
+ZipCode,32,63302,36302
+ZipCode,451,99a559,99559
+ZipCode,460,5660,35660
+ZipCode,465,356c60,35660
+ZipCode,466,36560,35660
+CountyName,290,empty,shelby
+PhoneNumber,34,empty,3347938701
+PhoneNumber,311,2053251800,2053258100
+PhoneNumber,340,empty,3347935000
+PhoneNumber,455,empty,2563864556
+PhoneNumber,636,334793411,3347493411
+HospitalOwner,9,governmen t- hospital district or authority,government - hospital district or authority
+HospitalOwner,10,governmentf - hospital district or authority,government - hospital district or authority
+HospitalOwner,11,government - hospital distric or authority,government - hospital district or authority
+HospitalOwner,12,government - hospital dsitrict or authority,government - hospital district or authority
+HospitalOwner,13,government - hospital district or autchority,government - hospital district or authority
+HospitalOwner,14,government - hospital districyt or authority,government - hospital district or authority
+HospitalOwner,15,government - hospital distrct or authority,government - hospital district or authority
+HospitalOwner,16,government - hospital distrlict or authority,government - hospital district or authority
+HospitalOwner,43,empty,government - hospital district or authority
+HospitalOwner,227,volutary non-profit - church,voluntary non-profit - church
+HospitalOwner,456,empty,government - hospital district or authority
+HospitalOwner,463,government - hospital district or authoritey,government - hospital district or authority
+HospitalOwner,465,government  -hospital district or authority,government - hospital district or authority
+HospitalOwner,466,governmen t- hospital district or authority,government - hospital district or authority
+HospitalOwner,834,empty,voluntary non-profit - private
+EmergencyService,557,empty,yes

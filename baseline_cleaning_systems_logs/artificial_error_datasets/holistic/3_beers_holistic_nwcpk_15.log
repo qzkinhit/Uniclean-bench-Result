@@ -1,0 +1,57 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/3_beers/clean.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/3_beers/noise_with_correct_primary_key/dirty_mixed_1.5/dirty_beers_mix_1.5.csv
+Running holistic with dirty file: Data/3_beers/noise_with_correct_primary_key/dirty_mixed_1.5/dirty_beers_mix_1.5.csv
+
+  0%|          | 0/5 [00:00<?, ?it/s]
+ 20%|██        | 1/5 [00:08<00:34,  8.71s/it]
+ 40%|████      | 2/5 [00:17<00:26,  8.71s/it]
+ 60%|██████    | 3/5 [00:27<00:18,  9.03s/it]
+ 80%|████████  | 4/5 [00:34<00:08,  8.50s/it]
+100%|██████████| 5/5 [00:43<00:00,  8.57s/it]
+
+  0%|                                                               | 0/4 [00:00<?, ?it/s]
+ 25%|█████████████▌                                        | 1/4 [05:55<17:47, 355.77s/it]
+ 50%|███████████████████████████                           | 2/4 [11:49<11:50, 355.11s/it]
+ 75%|████████████████████████████████████████▌             | 3/4 [17:47<05:55, 355.95s/it]
+100%|██████████████████████████████████████████████████████| 4/4 [23:49<00:00, 357.89s/it]
+
+  0%|                                                               | 0/4 [00:00<?, ?it/s]
+ 25%|█████████████▌                                        | 1/4 [05:50<17:32, 350.94s/it]
+ 50%|███████████████████████████                           | 2/4 [11:51<11:47, 353.74s/it]
+ 75%|████████████████████████████████████████▌             | 3/4 [17:45<05:53, 353.83s/it]
+100%|██████████████████████████████████████████████████████| 4/4 [23:39<00:00, 354.05s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/repaired_3_beers_nwcpk_15.csv
+holistic finished in 2901.904409646988 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/repaired_3_beers_nwcpk_15.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_unrepaired.csv
+修复准确率: 0.35889070146818924, 修复召回率: 0.5164319248826291, F1值: 0.4234841192971442
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_edr_evaluation.txt
+错误减少率 (EDR): -0.3192488262910798
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.025850802900276117
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1/3_beers_nwcpk_15_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.1012987012987013
+========================================
+测试结果:
+Accuracy: 0.35889070146818924
+Recall: 0.5164319248826291
+F1 Score: 0.4234841192971442
+EDR: -0.3192488262910798
+Hybrid Distance: 0.025850802900276117
+R-EDR: -0.1012987012987013
+time(s): 2901.904409646988
+speed: 120.4109713546468 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/3_beers_nwcpk_1

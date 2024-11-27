@@ -1,0 +1,354 @@
+Attribute,Index,Clean Value,Cleaned Value
+ProviderNumber,9,10019,10018
+ProviderNumber,10,10019,10018
+ProviderNumber,11,10019,10018
+ProviderNumber,12,10019,10018
+ProviderNumber,46,10005,10018
+ProviderNumber,47,10005,10018
+ProviderNumber,60,10005,10018
+ProviderNumber,189,10010,10005
+ProviderNumber,212,10011,10018
+ProviderNumber,213,10011,10018
+ProviderNumber,214,10011,10018
+ProviderNumber,215,10011,10018
+ProviderNumber,216,10011,10018
+ProviderNumber,257,10015,10018
+ProviderNumber,258,10015,10018
+ProviderNumber,482,10021,10005
+ProviderNumber,665,10032,10005
+ProviderNumber,890,10045,10005
+HospitalName,9,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,10,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,11,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,12,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,26,southeast alabama medical center,southeast alabama emdical center
+HospitalName,46,marshall medical center south,callahan eye foundation hospital
+HospitalName,47,marshall medical center south,callahan eye foundation hospital
+HospitalName,59,marshall medical center south,empty
+HospitalName,60,marshall medical center south,callahan eye foundation hospital
+HospitalName,107,mizell memorial hospital,mizell mmeorial hospital
+HospitalName,187,marshall medical center north,marshall medical centernorth
+HospitalName,189,marshall medical center north,empty
+HospitalName,212,st vincents east,callahan eye foundation hospital
+HospitalName,213,st vincents east,callahan eye foundation hospital
+HospitalName,214,st vincents east,callahan eye foundation hospital
+HospitalName,215,st vincents east,callahan eye foundation hospital
+HospitalName,216,st vincents east,callahan eye foundation hospital
+HospitalName,257,southwest alabama medical center,callahan eye foundation hospital
+HospitalName,258,southwest alabama medical center,callahan eye foundation hospital
+HospitalName,295,callahan eye foundation hospital,callahan eyhe foundation hospital
+HospitalName,296,callahan eye foundation hospital,callahan eye founadtion hospital
+HospitalName,297,callahan eye foundation hospital,callahan eye foutndation hospital
+HospitalName,298,callahan eye foundation hospital,callaha eye foundation hospital
+HospitalName,299,callahan eye foundation hospital,cllahan eye foundation hospital
+HospitalName,357,northwest medical center,nothwest medical center
+HospitalName,482,dale medical center,empty
+HospitalName,665,wedowee hospital,empty
+HospitalName,799,huntsville hospital,xhuntsville hospital
+HospitalName,857,marion regional medical center,marion regional medical centre
+HospitalName,890,fayette medical center,empty
+Address1,9,1300 south montgomery avenue,1720 university blvd
+Address1,10,1300 south montgomery avenue,1720 university blvd
+Address1,11,1300 south montgomery avenue,1720 university blvd
+Address1,12,1300 south montgomery avenue,1720 university blvd
+Address1,46,2505 u s highway 431 north,1720 university blvd
+Address1,47,2505 u s highway 431 north,1720 university blvd
+Address1,60,2505 u s highway 431 north,1720 university blvd
+Address1,189,8000 alabama highway 69,2505 u s highway 431 north
+Address1,212,50 medical park east drive,1720 university blvd
+Address1,213,50 medical park east drive,1720 university blvd
+Address1,214,50 medical park east drive,1720 university blvd
+Address1,215,50 medical park east drive,1720 university blvd
+Address1,216,50 medical park east drive,1720 university blvd
+Address1,257,33700 highway 43,1720 university blvd
+Address1,258,33700 highway 43,1720 university blvd
+Address1,482,126 hospital ave,2505 u s highway 431 north
+Address1,665,209 north main street,2505 u s highway 431 north
+Address1,890,1653 temple avenue north,2505 u s highway 431 north
+Address1,981,150 gilbreath drive,150 gilbreathd rive
+Address1,982,150 gilbreath drive,150 gilbreathd rive
+Address1,983,150 gilbreath drive,150 gilbreathd rive
+Address1,984,150 gilbreath drive,150 gilbreathd rive
+Address1,985,150 gilbreath drive,150 gilbreathd rive
+Address1,986,150 gilbreath drive,150 gilbreathd rive
+Address1,987,150 gilbreath drive,150 gilbreathd rive
+Address1,988,150 gilbreath drive,150 gilbreathd rive
+Address1,989,150 gilbreath drive,150 gilbreathd rive
+Address1,990,150 gilbreath drive,150 gilbreathd rive
+Address1,991,150 gilbreath drive,150 gilbreathd rive
+Address1,992,150 gilbreath drive,150 gilbreathd rive
+Address1,993,150 gilbreath drive,150 gilbreathd rive
+Address1,994,150 gilbreath drive,150 gilbreathd rive
+Address1,995,150 gilbreath drive,150 gilbreathd rive
+Address1,996,150 gilbreath drive,150 gilbreathd rive
+Address1,997,150 gilbreath drive,150 gilbreathd rive
+Address1,998,150 gilbreath drive,150 gilbreathd rive
+Address1,999,150 gilbreath drive,150 gilbreathd rive
+Address1,1000,150 gilbreath drive,150 gilbreathd rive
+City,9,sheffield,birmingham
+City,10,sheffield,birmingham
+City,11,sheffield,birmingham
+City,12,sheffield,birmingham
+City,46,boaz,birmingham
+City,47,boaz,birmingham
+City,60,boaz,birmingham
+City,187,guntersville,birmingham
+City,189,guntersville,boaz
+City,257,thomasville,birmingham
+City,258,thomasville,birmingham
+City,298,birmingham,birmingam
+City,482,ozark,boaz
+City,665,wedowee,boaz
+City,890,fayette,boaz
+ZipCode,9,35660,35233
+ZipCode,10,35660,35233
+ZipCode,11,35660,35233
+ZipCode,12,35660,35233
+ZipCode,46,35957,35233
+ZipCode,47,35957,35233
+ZipCode,60,35957,35233
+ZipCode,95,36467,35233
+ZipCode,96,36467,35233
+ZipCode,97,36467,35233
+ZipCode,98,36467,35233
+ZipCode,99,36467,35233
+ZipCode,100,36467,35233
+ZipCode,101,36467,35233
+ZipCode,102,36467,35233
+ZipCode,103,36467,35233
+ZipCode,104,36467,35233
+ZipCode,105,36467,35233
+ZipCode,106,36467,35233
+ZipCode,108,36467,35233
+ZipCode,109,36467,35233
+ZipCode,110,36467,35233
+ZipCode,111,36467,35233
+ZipCode,112,36467,35233
+ZipCode,113,36467,35233
+ZipCode,114,36467,35233
+ZipCode,115,36467,35233
+ZipCode,116,36467,35233
+ZipCode,117,36467,35233
+ZipCode,118,36467,35233
+ZipCode,119,36467,35233
+ZipCode,189,35976,35957
+ZipCode,212,35235,35233
+ZipCode,213,35235,35233
+ZipCode,214,35235,35233
+ZipCode,215,35235,35233
+ZipCode,216,35235,35233
+ZipCode,257,36784,35233
+ZipCode,258,36784,35233
+ZipCode,482,36360,35957
+ZipCode,665,36278,35957
+ZipCode,803,35903,3a5903
+ZipCode,804,35903,3a5903
+ZipCode,805,35903,3a5903
+ZipCode,806,35903,3a5903
+ZipCode,807,35903,3a5903
+ZipCode,808,35903,3a5903
+ZipCode,809,35903,3a5903
+ZipCode,810,35903,3a5903
+ZipCode,811,35903,3a5903
+ZipCode,812,35903,3a5903
+ZipCode,813,35903,3a5903
+ZipCode,814,35903,3a5903
+ZipCode,815,35903,3a5903
+ZipCode,816,35903,3a5903
+ZipCode,817,35903,3a5903
+ZipCode,818,35903,3a5903
+ZipCode,819,35903,3a5903
+ZipCode,820,35903,3a5903
+ZipCode,821,35903,3a5903
+ZipCode,822,35903,3a5903
+ZipCode,823,35903,3a5903
+ZipCode,824,35903,3a5903
+ZipCode,825,35903,3a5903
+ZipCode,826,35903,3a5903
+ZipCode,827,35903,3a5903
+ZipCode,890,35555,35957
+CountyName,46,marshall,jefferson
+CountyName,47,marshall,jefferson
+CountyName,60,marshall,jefferson
+CountyName,70,lauderdale,luderdale
+CountyName,71,lauderdale,luderdale
+CountyName,72,lauderdale,luderdale
+CountyName,73,lauderdale,luderdale
+CountyName,74,lauderdale,luderdale
+CountyName,75,lauderdale,luderdale
+CountyName,76,lauderdale,luderdale
+CountyName,77,lauderdale,luderdale
+CountyName,78,lauderdale,luderdale
+CountyName,79,lauderdale,luderdale
+CountyName,80,lauderdale,luderdale
+CountyName,81,lauderdale,luderdale
+CountyName,82,lauderdale,luderdale
+CountyName,83,lauderdale,luderdale
+CountyName,84,lauderdale,luderdale
+CountyName,85,lauderdale,luderdale
+CountyName,86,lauderdale,luderdale
+CountyName,87,lauderdale,luderdale
+CountyName,88,lauderdale,luderdale
+CountyName,89,lauderdale,luderdale
+CountyName,90,lauderdale,luderdale
+CountyName,91,lauderdale,luderdale
+CountyName,92,lauderdale,luderdale
+CountyName,93,lauderdale,luderdale
+CountyName,94,lauderdale,luderdale
+CountyName,187,marshall,jefferson
+CountyName,257,clarke,jefferson
+CountyName,258,clarke,jefferson
+CountyName,355,marion,mlarion
+CountyName,356,marion,mlarion
+CountyName,357,marion,mlarion
+CountyName,358,marion,mlarion
+CountyName,359,marion,mlarion
+CountyName,360,marion,mlarion
+CountyName,361,marion,mlarion
+CountyName,362,marion,mlarion
+CountyName,363,marion,mlarion
+CountyName,364,marion,mlarion
+CountyName,365,marion,mlarion
+CountyName,366,marion,mlarion
+CountyName,367,marion,mlarion
+CountyName,368,marion,mlarion
+CountyName,369,marion,mlarion
+CountyName,370,marion,mlarion
+CountyName,371,marion,mlarion
+CountyName,372,marion,mlarion
+CountyName,373,marion,mlarion
+CountyName,374,marion,mlarion
+CountyName,375,marion,mlarion
+CountyName,376,marion,mlarion
+CountyName,377,marion,mlarion
+CountyName,378,marion,mlarion
+CountyName,379,marion,mlarion
+CountyName,482,dale,marshall
+CountyName,517,montgomery,mongomery
+CountyName,518,montgomery,mongomery
+CountyName,519,montgomery,mongomery
+CountyName,520,montgomery,mongomery
+CountyName,521,montgomery,mongomery
+CountyName,522,montgomery,mongomery
+CountyName,523,montgomery,mongomery
+CountyName,524,montgomery,mongomery
+CountyName,525,montgomery,mongomery
+CountyName,526,montgomery,mongomery
+CountyName,527,montgomery,mongomery
+CountyName,528,montgomery,mongomery
+CountyName,529,montgomery,mongomery
+CountyName,530,montgomery,mongomery
+CountyName,531,montgomery,mongomery
+CountyName,532,montgomery,mongomery
+CountyName,533,montgomery,mongomery
+CountyName,534,montgomery,mongomery
+CountyName,535,montgomery,mongomery
+CountyName,536,montgomery,mongomery
+CountyName,537,montgomery,mongomery
+CountyName,538,montgomery,mongomery
+CountyName,539,montgomery,mongomery
+CountyName,540,montgomery,mongomery
+CountyName,541,montgomery,mongomery
+CountyName,542,montgomery,mongomery
+CountyName,543,montgomery,mongomery
+CountyName,544,montgomery,mongomery
+CountyName,545,montgomery,mongomery
+CountyName,546,montgomery,mongomery
+CountyName,547,montgomery,mongomery
+CountyName,548,montgomery,mongomery
+CountyName,549,montgomery,mongomery
+CountyName,550,montgomery,mongomery
+CountyName,551,montgomery,mongomery
+CountyName,552,montgomery,mongomery
+CountyName,553,montgomery,mongomery
+CountyName,554,montgomery,mongomery
+CountyName,555,montgomery,mongomery
+CountyName,556,montgomery,mongomery
+CountyName,557,montgomery,mongomery
+CountyName,558,montgomery,mongomery
+CountyName,559,montgomery,mongomery
+CountyName,560,montgomery,mongomery
+CountyName,561,montgomery,mongomery
+CountyName,562,montgomery,mongomery
+CountyName,563,montgomery,mongomery
+CountyName,564,montgomery,mongomery
+CountyName,565,montgomery,mongomery
+CountyName,566,montgomery,mongomery
+CountyName,665,randolph,marshall
+CountyName,727,cullman,empty
+CountyName,890,fayette,marshall
+PhoneNumber,9,2563864556,2053258100
+PhoneNumber,10,2563864556,2053258100
+PhoneNumber,11,2563864556,2053258100
+PhoneNumber,12,2563864556,2053258100
+PhoneNumber,46,2565938310,2053258100
+PhoneNumber,47,2565938310,2053258100
+PhoneNumber,60,2565938310,2053258100
+PhoneNumber,107,3344933541,empty
+PhoneNumber,189,2565718000,2565938310
+PhoneNumber,212,2058383122,2053258100
+PhoneNumber,213,2058383122,2053258100
+PhoneNumber,214,2058383122,2053258100
+PhoneNumber,215,2058383122,2053258100
+PhoneNumber,216,2058383122,2053258100
+PhoneNumber,257,3346366221,2053258100
+PhoneNumber,258,3346366221,2053258100
+PhoneNumber,482,3347742601,2565938310
+PhoneNumber,665,2563572111,2565938310
+PhoneNumber,890,2059325966,2565938310
+HospitalOwner,9,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,10,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,11,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,12,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,46,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,47,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,60,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,257,government - federal,voluntary non-profit - private
+HospitalOwner,258,government - federal,voluntary non-profit - private
+HospitalOwner,665,government - local,government - hospital district or authority
+HospitalOwner,890,voluntary non-profit - other,government - hospital district or authority
+EmergencyService,95,no,yes
+EmergencyService,96,no,yes
+EmergencyService,97,no,yes
+EmergencyService,98,no,yes
+EmergencyService,99,no,yes
+EmergencyService,100,no,yes
+EmergencyService,101,no,yes
+EmergencyService,102,no,yes
+EmergencyService,103,no,yes
+EmergencyService,104,no,yes
+EmergencyService,105,no,yes
+EmergencyService,106,no,yes
+EmergencyService,108,no,yes
+EmergencyService,109,no,yes
+EmergencyService,110,no,yes
+EmergencyService,111,no,yes
+EmergencyService,112,no,yes
+EmergencyService,113,no,yes
+EmergencyService,114,no,yes
+EmergencyService,115,no,yes
+EmergencyService,116,no,yes
+EmergencyService,117,no,yes
+EmergencyService,118,no,yes
+EmergencyService,119,no,yes
+EmergencyService,665,no,yes
+Stateavg,433,ak_hf-1,al_hf-1
+Stateavg,434,ak_hf-2,al_hf-2
+Stateavg,435,ak_hf-3,al_hf-3
+Stateavg,436,ak_hf-4,al_hf-4
+Stateavg,437,ak_pn-2,al_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6
+Stateavg,442,ak_pn-7,al_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1
+Stateavg,452,ak_ami-2,al_ami-2

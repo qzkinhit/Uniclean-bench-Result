@@ -1,0 +1,171 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,56,callahan eye foundation hospital,marshall medical center south
+HospitalName,57,callahan eye foundation hospital,marshall medical center south
+HospitalName,58,callahan eye foundation hospital,marshall medical center south
+HospitalName,59,callahan eye foundation hospital,marshall medical center south
+HospitalName,60,callahan eye foundation hospital,marshall medical center south
+HospitalName,66,callahan eye foundation hospital,marshall medical center south
+HospitalName,67,callahan eye foundation hospital,marshall medical center south
+HospitalName,68,callahan eye foundation hospital,marshall medical center south
+HospitalName,69,callahan eye foundation hospital,marshall medical center south
+HospitalName,90,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,108,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,109,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,110,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,111,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,112,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,118,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,119,callahan eye foundation hospital,mizell memorial hospital
+HospitalName,120,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,121,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,122,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,123,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,124,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,125,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,126,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,127,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,169,callahan eye foundation hospital,hartselle medical center
+HospitalName,170,callahan eye foundation hospital,marshall medical center north
+HospitalName,171,callahan eye foundation hospital,marshall medical center north
+HospitalName,172,callahan eye foundation hospital,marshall medical center north
+HospitalName,173,callahan eye foundation hospital,marshall medical center north
+HospitalName,180,callahan eye foundation hospital,marshall medical center north
+HospitalName,181,callahan eye foundation hospital,marshall medical center north
+HospitalName,182,callahan eye foundation hospital,marshall medical center north
+HospitalName,183,callahan eye foundation hospital,marshall medical center north
+HospitalName,184,callahan eye foundation hospital,marshall medical center north
+Address1,100,empty,702 n main st
+Address1,147,empty,201 pine street northwest
+Address1,162,201 pine srteet northwest,201 pine street northwest
+Address1,209,50 medical park eats drive,50 medical park east drive
+Address1,219,empty,50 medical park east drive
+Address1,234,200 med center drie,200 med center drive
+Address1,270,empty,1000 first street north
+Address1,314,empty,301 east 18th st
+Address1,395,empty,124 s memorial dr
+Address1,475,126 hospitalave,126 hospital ave
+Address1,557,1725 pine stret,1725 pine street
+Address1,641,2000 pepperel lparkway,2000 pepperell parkway
+Address1,706,805 frinedship road,805 friendship road
+Address1,717,empty,1912 alabama highway 157
+Address1,758,empty,849 south three notch street
+Address1,768,empty,301 east 18th st
+Address1,773,empty,301 east 18th st
+Address1,787,11 sivley rd,101 sivley rd
+Address1,890,1653 tempe avenue north,1653 temple avenue north
+Address1,958,40j0 n edwards street,400 n edwards street
+Address1,960,400 n edwrads street,400 n edwards street
+City,10,sheffielfd,sheffield
+City,70,floernce,florence
+City,108,empty,opp
+City,132,empty,luverne
+City,145,empty,hartselle
+City,152,birmingham,hartselle
+City,153,birmingham,hartselle
+City,154,birmingham,hartselle
+City,156,birmingham,hartselle
+City,157,empty,hartselle
+City,223,fotr payne,fort payne
+City,464,sheffielfd,sheffield
+City,559,empty,montgomery
+City,633,poelika,opelika
+City,639,empty,opelika
+City,665,empty,wedowee
+City,717,culman,cullman
+City,744,empty,andalusia
+City,829,empty,clanton
+City,864,empty,hamilton
+City,989,oneotna,oneonta
+ZipCode,6,35323,35233
+ZipCode,7,32533,35233
+ZipCode,74,35361,35631
+ZipCode,239,35986,35968
+CountyName,230,empty,de kalb
+CountyName,241,de kaalb,de kalb
+CountyName,282,shlby,shelby
+CountyName,283,selby,shelby
+CountyName,284,shelbby,shelby
+CountyName,285,eshelby,shelby
+CountyName,286,helby,shelby
+CountyName,288,empty,shelby
+CountyName,321,empty,calhoun
+CountyName,323,calhun,calhoun
+CountyName,403,empty,autauga
+CountyName,406,empty,autauga
+CountyName,417,talladeega,talladega
+CountyName,424,empty,talladega
+CountyName,568,empty,chambers
+CountyName,595,cffee,coffee
+CountyName,602,empty,coffee
+CountyName,620,lee***,lee
+CountyName,657,randolqph,randolph
+CountyName,708,empty,elmore
+CountyName,756,ovington,covington
+CountyName,837,empty,chilton
+CountyName,960,ocffee,coffee
+PhoneNumber,336,3349735000,3347935000
+EmergencyService,25,empty,yes
+EmergencyService,127,es,yes
+EmergencyService,157,empty,yes
+EmergencyService,462,es,yes
+EmergencyService,464,es,yes
+EmergencyService,470,es,yes
+EmergencyService,495,empty,yes
+EmergencyService,599,empty,yes
+EmergencyService,651,empty,no
+EmergencyService,671,empty,yes
+EmergencyService,728,es,yes
+EmergencyService,760,empty,no
+EmergencyService,768,empty,yes
+EmergencyService,849,empty,yes
+EmergencyService,974,empty,yes
+Condition,292,surgical infection pevention,surgical infection prevention
+Condition,346,surgial infection prevention,surgical infection prevention
+Condition,377,surigcal infection prevention,surgical infection prevention
+Condition,464,surgial infection prevention,surgical infection prevention
+Condition,514,surgical infection pevention,surgical infection prevention
+Condition,564,surigcal infection prevention,surgical infection prevention
+MeasureName,120,heart attack patientjs given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,245,heart attack patients given aspirin ata rrival,heart attack patients given aspirin at arrival
+MeasureName,279,heart failure patients gipven ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,314,heart battack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,343,surgery patients who were given the  right kind  of antibiotic to hlp prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,349,heart attack patiennts given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,445,surgery patients who were given the  right kind  of antbiiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,562,surgery patients whose preventive antibiotics wwere stopped at the right time (within 24 hours after surgery),surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,567,heart attack patients givne aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,579,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the firsmt hospital dose of antibiotics,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,592,heart attack gpatients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,643,heart attack patients given asiprin at discharge,heart attack patients given aspirin at discharge
+MeasureName,723,heart attack patients given pci within 90 minutes of arrivla,heart attack patients given pci within 90 minutes of arrival
+MeasureName,731,pneumonia patients given initial antibiotci(s) within 6 hours after arrival,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,803,heart attack patients given aspirin at arrival***,heart attack patients given aspirin at arrival
+MeasureName,853,heart attack patients givne aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,878,heart attack patients giveon aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,953,surgery patients needing hair removed from tahe surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,956,hert attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+Stateavg,14,al_ami-a7,al_ami-7a
+Stateavg,92,empty,al_scip-inf-6
+Stateavg,181,empty,al_pn-2
+Stateavg,225,empty,al_ami-7a
+Stateavg,339,empty,al_pn-6
+Stateavg,419,al_kami-5,al_ami-5
+Stateavg,478,mal_pn-2,al_pn-2
+Stateavg,516,al_scpi-vte-2,al_scip-vte-2
+Stateavg,547,al_ai-7a,al_ami-7a
+Stateavg,567,la_ami-1,al_ami-1
+Stateavg,628,ajl_pn-2,al_pn-2
+Stateavg,629,empty,al_pn-3b
+Stateavg,641,al_scip-vyte-2,al_scip-vte-2
+Stateavg,667,aml_ami-1,al_ami-1
+Stateavg,694,al_ami3-,al_ami-3
+Stateavg,732,empty,al_pn-6
+Stateavg,746,a_ami-5,al_ami-5
+Stateavg,768,al_scipi-nf-1,al_scip-inf-1
+Stateavg,791,a_lpn-4,al_pn-4
+Stateavg,807,empty,al_ami-5
+Stateavg,821,al_scipi-nf-1,al_scip-inf-1
+Stateavg,844,empty,al_pn-7
+Stateavg,847,empty,al_scip-inf-2
+Stateavg,860,empty,al_hf-1
+Stateavg,946,al_np-6,al_pn-6

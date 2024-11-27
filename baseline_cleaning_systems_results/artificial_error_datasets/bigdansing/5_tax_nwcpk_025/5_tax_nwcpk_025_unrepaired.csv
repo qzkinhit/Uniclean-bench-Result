@@ -1,0 +1,122 @@
+Attribute,Index,Dirty Value,Clean Value
+<<<<<<< HEAD
+gender,92,empty,m
+gender,1911,empty,m
+=======
+gender,77,lf,f
+gender,92,empty,m
+gender,1852,nf,f
+gender,1911,empty,m
+gender,3932,empty,m
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+gender,5631,zf,f
+gender,7522,empty,f
+gender,8097,empty,f
+gender,8759,***,f
+<<<<<<< HEAD
+gender,9494,***,f
+gender,9554,pf,f
+gender,13219,empty,m
+gender,17003,um,m
+gender,17289,pm,m
+gender,19868,empty,f
+city,6297,tacftsville,taftsville
+city,16659,noth jay,north jay
+city,17147,alblion,albion
+city,17666,aguasg buenas,aguas buenas
+city,19764,augirre,aguirre
+singleexemp,1266,e0,0
+singleexemp,2088,empty,0
+singleexemp,2349,empty,0
+singleexemp,7326,empty,0
+singleexemp,7503,empty,0
+singleexemp,7700,***,0
+singleexemp,8866,empty,0
+=======
+gender,9297,empty,m
+gender,9494,***,f
+gender,9554,pf,f
+gender,11264,hf,f
+gender,11633,***,m
+gender,13219,empty,m
+gender,15771,***,f
+gender,17003,um,m
+gender,17289,pm,m
+gender,17769,***,f
+gender,19341,empty,m
+gender,19868,empty,f
+city,5293,shelurne,shelburne
+city,6297,tacftsville,taftsville
+city,11058,jersy city,jersey city
+city,13573,empty,newark
+city,16198,empty,colts neck
+city,17147,alblion,albion
+city,17666,aguasg buenas,aguas buenas
+city,17777,empty,chaplin
+city,19764,augirre,aguirre
+singleexemp,648,1250,12750
+singleexemp,1182,300,3300
+singleexemp,1266,e0,0
+singleexemp,2088,empty,0
+singleexemp,2349,empty,0
+singleexemp,5119,300,3300
+singleexemp,7326,empty,0
+singleexemp,7503,empty,0
+singleexemp,7583,1000***,1000
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+singleexemp,11294,250,2850
+singleexemp,12496,375,3575
+singleexemp,13068,empty,0
+singleexemp,14114,empty,0
+<<<<<<< HEAD
+marriedexemp,4440,empty,0
+marriedexemp,4970,empty,0
+marriedexemp,6001,700,5700
+childexemp,1342,empty,0
+childexemp,2136,empty,0
+=======
+singleexemp,15639,empty,0
+marriedexemp,202,***,0
+marriedexemp,3146,2t4500,24500
+marriedexemp,4035,***,0
+marriedexemp,4440,empty,0
+marriedexemp,4813,2o4500,24500
+marriedexemp,4970,empty,0
+marriedexemp,6001,700,5700
+marriedexemp,6012,24500***,24500
+marriedexemp,6957,2450,24500
+marriedexemp,7264,24w500,24500
+marriedexemp,7771,4500,24500
+marriedexemp,8552,25400,24500
+marriedexemp,9196,j24500,24500
+marriedexemp,9591,2450l0,24500
+marriedexemp,10287,24n500,24500
+marriedexemp,10902,25400,24500
+marriedexemp,12086,empty,0
+marriedexemp,12227,25400,24500
+marriedexemp,12667,4500,24500
+marriedexemp,13773,2450,24500
+marriedexemp,14120,4500,24500
+marriedexemp,14206,245j00,24500
+marriedexemp,14320,2400,24500
+marriedexemp,14405,245a00,24500
+marriedexemp,14728,4500,24500
+marriedexemp,14750,4500,24500
+marriedexemp,15007,2n4500,24500
+marriedexemp,15805,24500***,24500
+marriedexemp,16137,24500***,24500
+marriedexemp,16170,42500,24500
+marriedexemp,16215,2450s0,24500
+marriedexemp,16771,2400,24500
+marriedexemp,17095,25400,24500
+marriedexemp,17144,245z00,24500
+marriedexemp,17205,2450o0,24500
+childexemp,1342,empty,0
+childexemp,2136,empty,0
+childexemp,5110,***,0
+childexemp,5725,a0,0
+childexemp,8301,150,1500
+childexemp,12667,v0,0
+>>>>>>> 7bf0206f7ddcf282baf2ab902c08e6483a4ce7cb
+childexemp,13815,l0,0
+childexemp,19585,3v300,3300

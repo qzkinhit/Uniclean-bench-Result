@@ -1,0 +1,637 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+ProviderNumber,9,10019,10018,10019
+ProviderNumber,10,10019,0,10019
+ProviderNumber,11,10019,10018,10019
+ProviderNumber,12,10019,10018,10019
+ProviderNumber,13,10019,0,10019
+ProviderNumber,14,10019,0,10019
+ProviderNumber,15,10019,10018,10019
+ProviderNumber,16,10019,10018,10019
+ProviderNumber,17,10019,10018,10019
+ProviderNumber,18,10019,10018,10019
+ProviderNumber,19,10019,10018,10019
+ProviderNumber,20,10001,10018,10001
+ProviderNumber,21,10001,10018,10001
+ProviderNumber,22,10001,10018,10001
+ProviderNumber,23,10001,10018,10001
+ProviderNumber,24,10001,10018,10001
+ProviderNumber,25,10001,10018,10001
+ProviderNumber,26,10001,10018,10001
+ProviderNumber,27,10001,10018,10001
+ProviderNumber,28,10001,10018,10001
+ProviderNumber,29,10001,10018,10001
+ProviderNumber,30,10001,10018,10001
+ProviderNumber,31,10001,10018,10001
+ProviderNumber,32,10001,10018,10001
+ProviderNumber,33,10001,10018,10001
+ProviderNumber,34,10001,10018,10001
+ProviderNumber,35,10001,10018,10001
+ProviderNumber,37,10001,0,10001
+ProviderNumber,46,10005,10018,10005
+ProviderNumber,47,10005,10018,10005
+ProviderNumber,48,10005,10018,10005
+ProviderNumber,49,10005,10018,10005
+ProviderNumber,50,10005,10018,10005
+ProviderNumber,51,10005,10018,10005
+ProviderNumber,52,10005,10018,10005
+ProviderNumber,53,10005,0,10005
+ProviderNumber,54,10005,10018,10005
+ProviderNumber,55,10005,10018,10005
+ProviderNumber,56,10005,10018,10005
+ProviderNumber,57,10005,10018,10005
+ProviderNumber,58,10005,10018,10005
+ProviderNumber,63,10005,0,10005
+ProviderNumber,64,10005,0,10005
+ProviderNumber,65,10005,0,10005
+ProviderNumber,66,10005,0,10005
+ProviderNumber,67,10005,0,10005
+ProviderNumber,68,10005,0,10005
+ProviderNumber,69,10005,0,10005
+ProviderNumber,77,10006,0,10006
+ProviderNumber,118,10007,0,10007
+ProviderNumber,162,10009,0,10009
+ProviderNumber,165,10009,0,10009
+ProviderNumber,177,10010,10018,10010
+ProviderNumber,178,10010,0,10010
+ProviderNumber,179,10010,10018,10010
+ProviderNumber,180,10010,10018,10010
+ProviderNumber,181,10010,10018,10010
+ProviderNumber,182,10010,10018,10010
+ProviderNumber,183,10010,10018,10010
+ProviderNumber,193,10010,0,10010
+ProviderNumber,246,10015,0,10015
+ProviderNumber,290,10016,10018,10016
+ProviderNumber,291,10016,10018,10016
+ProviderNumber,292,10016,10018,10016
+ProviderNumber,293,10016,10018,10016
+ProviderNumber,294,10016,10018,10016
+ProviderNumber,312,10038,10018,10038
+ProviderNumber,328,10038,0,10038
+ProviderNumber,358,10086,0,10086
+ProviderNumber,380,10087,0,10087
+ProviderNumber,397,10108,0,10108
+ProviderNumber,418,10164,0,10164
+ProviderNumber,453,10019,0,10019
+ProviderNumber,454,10019,0,10019
+ProviderNumber,455,10019,0,10019
+ProviderNumber,456,10019,0,10019
+ProviderNumber,457,10019,0,10019
+ProviderNumber,458,10019,0,10019
+ProviderNumber,461,10019,0,10019
+ProviderNumber,462,10019,0,10019
+ProviderNumber,463,10019,0,10019
+ProviderNumber,464,10019,0,10019
+ProviderNumber,465,10019,0,10019
+ProviderNumber,469,10021,0,10021
+ProviderNumber,487,10021,0,10021
+ProviderNumber,504,10022,0,10022
+ProviderNumber,510,10022,0,10022
+ProviderNumber,516,10022,0,10022
+ProviderNumber,631,10029,0,10029
+ProviderNumber,659,10032,0,10032
+ProviderNumber,689,10033,0,10033
+ProviderNumber,723,10035,0,10035
+ProviderNumber,762,10036,0,10036
+ProviderNumber,780,10039,0,10039
+ProviderNumber,784,10039,0,10039
+ProviderNumber,853,10044,0,10044
+ProviderNumber,865,10044,0,10044
+ProviderNumber,929,10046,0,10046
+ProviderNumber,952,10047,0,10047
+ProviderNumber,963,10049,0,10049
+ProviderNumber,993,10050,0,10050
+HospitalName,1,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,2,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,3,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,4,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,5,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,6,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,7,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,8,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,10,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,11,callahan eye foundation hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,12,callahan eye foundation hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,13,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,14,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,16,callahan eye foundation hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,18,callahan eye foundation hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,19,callahan eye foundation hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,20,callahan eye foundation hospital,0,southeast alabama medical center
+HospitalName,21,callahan eye foundation hospital,0,southeast alabama medical center
+HospitalName,26,callahan eye foundation hospital,0,southeast alabama medical center
+HospitalName,28,callahan eye foundation hospital,0,southeast alabama medical center
+HospitalName,36,southeast alabama medical center,0,southeast alabama medical center
+HospitalName,38,southeast alabama medical center,0,southeast alabama medical center
+HospitalName,40,southeast alabama medical center,0,southeast alabama medical center
+HospitalName,42,southeast alabama medical center,0,southeast alabama medical center
+HospitalName,44,southeast alabama medical center,0,southeast alabama medical center
+HospitalName,75,eliza coffee memorial hospital,0,eliza coffee memorial hospital
+HospitalName,93,eliza coffee memorial hospital,0,eliza coffee memorial hospital
+HospitalName,95,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,96,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,97,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,98,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,99,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,100,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,101,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,115,mizell memorial hospital,0,mizell memorial hospital
+HospitalName,128,crenshaw community hospital,0,crenshaw community hospital
+HospitalName,143,crenshaw community hospital,0,crenshaw community hospital
+HospitalName,150,hartselle medical center,empty,hartselle medical center
+HospitalName,163,hartselle medical center,0,hartselle medical center
+HospitalName,164,hartselle medical center,0,hartselle medical center
+HospitalName,172,marshall medical center north,empty,marshall medical center north
+HospitalName,175,marshall medical center north,0,marshall medical center north
+HospitalName,185,marshall medical center north,0,marshall medical center north
+HospitalName,187,marshall medical center north,0,marshall medical center north
+HospitalName,189,marshall medical center north,0,marshall medical center north
+HospitalName,190,marshall medical center north,0,marshall medical center north
+HospitalName,191,marshall medical center north,0,marshall medical center north
+HospitalName,192,marshall medical center north,0,marshall medical center north
+HospitalName,207,st vincents east,0,st vincents east
+HospitalName,208,st vincents east,0,st vincents east
+HospitalName,214,st vincents east,0,st vincents east
+HospitalName,215,st vincents east,0,st vincents east
+HospitalName,223,dekalb regional medical center,0,dekalb regional medical center
+HospitalName,224,dekalb regional medical center,0,dekalb regional medical center
+HospitalName,229,dekalb regional medical center,0,dekalb regional medical center
+HospitalName,233,dekalb regional medical center,0,dekalb regional medical center
+HospitalName,236,dekalb regional medical center,0,dekalb regional medical center
+HospitalName,239,dekalb regional medical center,0,dekalb regional medical center
+HospitalName,247,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,250,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,257,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,259,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,263,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,267,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,269,southwest alabama medical center,0,southwest alabama medical center
+HospitalName,278,shelby baptist medical center,0,shelby baptist medical center
+HospitalName,295,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,296,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,297,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,298,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,299,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,300,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,301,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,302,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,303,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,304,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,305,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,306,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,307,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,308,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,309,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,310,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,311,callahan eye foundation hospital,0,callahan eye foundation hospital
+HospitalName,314,stringfellow memorial hospital,stringfellow mmeorial hospital,stringfellow memorial hospital
+HospitalName,316,stringfellow memorial hospital,stringfellow mmeorial hospital,stringfellow memorial hospital
+HospitalName,319,stringfellow memorial hospital,stringfellow mmeorial hospital,stringfellow memorial hospital
+HospitalName,330,stringfellow memorial hospital,stringfellow mmeorial hospital,stringfellow memorial hospital
+HospitalName,335,flowers hospital,0,flowers hospital
+HospitalName,337,flowers hospital,0,flowers hospital
+HospitalName,351,st vincents hospital,0,st vincents hospital
+HospitalName,360,northwest medical center,0,northwest medical center
+HospitalName,361,northwest medical center,0,northwest medical center
+HospitalName,366,northwest medical center,0,northwest medical center
+HospitalName,371,northwest medical center,0,northwest medical center
+HospitalName,373,northwest medical center,0,northwest medical center
+HospitalName,396,prattville baptist hospital,0,prattville baptist hospital
+HospitalName,403,prattville baptist hospital,0,prattville baptist hospital
+HospitalName,406,prattville baptist hospital,0,prattville baptist hospital
+HospitalName,424,coosa valley medical center,0,coosa valley medical center
+HospitalName,425,coosa valley medical center,0,coosa valley medical center
+HospitalName,428,coosa valley medical center,0,coosa valley medical center
+HospitalName,432,coosa valley medical center,0,coosa valley medical center
+HospitalName,441,alaska regional hospital,0,alaska regional hospital
+HospitalName,442,alaska regional hospital,0,alaska regional hospital
+HospitalName,447,alaska regional hospital,0,alaska regional hospital
+HospitalName,453,helen keller vmemorial hospital,helen keller mmeorial hospital,helen keller memorial hospital
+HospitalName,454,helen keller memorialhospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,455,helen kellefr memorial hospital,helen keller mmeorial hospital,helen keller memorial hospital
+HospitalName,456,helen keller memorial ospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,457,helen kezller memorial hospital,helen keller mmeorial hospital,helen keller memorial hospital
+HospitalName,460,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,461,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,462,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,463,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,464,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,465,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,466,helen keller memorial hospital,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,481,dale medical center,0,dale medical center
+HospitalName,482,dale medical center,0,dale medical center
+HospitalName,483,dale medical center,daleh medical center,dale medical center
+HospitalName,485,dale medical center,daleh medical center,dale medical center
+HospitalName,488,dale medical center,0,dale medical center
+HospitalName,507,cherokee medical center,0,cherokee medical center
+HospitalName,511,cherokee medical center,0,cherokee medical center
+HospitalName,530,baptist medical center south,0,baptist medical center south
+HospitalName,532,baptist medical center south,0,baptist medical center south
+HospitalName,536,baptist medical center south,0,baptist medical center south
+HospitalName,547,jackson hospital & clinic inc,0,jackson hospital & clinic inc
+HospitalName,551,jackson hospital & clinic inc,0,jackson hospital & clinic inc
+HospitalName,561,jackson hospital & clinic inc,0,jackson hospital & clinic inc
+HospitalName,566,jackson hospital & clinic inc,0,jackson hospital & clinic inc
+HospitalName,582,g h lanier memorial hospital,0,g h lanier memorial hospital
+HospitalName,589,g h lanier memorial hospital,0,g h lanier memorial hospital
+HospitalName,591,g h lanier memorial hospital,0,g h lanier memorial hospital
+HospitalName,605,elba general hospital,0,elba general hospital
+HospitalName,620,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,627,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,628,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,634,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,636,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,638,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,640,east alabama medical center and snf,0,east alabama medical center and snf
+HospitalName,670,university of alabama hospital,0,university of alabama hospital
+HospitalName,684,university of alabama hospital,0,university of alabama hospital
+HospitalName,696,community hospital inc,0,community hospital inc
+HospitalName,700,community hospital inc,0,community hospital inc
+HospitalName,707,community hospital inc,0,community hospital inc
+HospitalName,713,community hospital inc,0,community hospital inc
+HospitalName,719,cullman regional medical center,0,cullman regional medical center
+HospitalName,721,cullman regional medical center,cullmn regional medical center,cullman regional medical center
+HospitalName,726,cullman regional medical center,0,cullman regional medical center
+HospitalName,729,cullman regional medical center,cullmn regional medical center,cullman regional medical center
+HospitalName,735,cullman regional medical center,0,cullman regional medical center
+HospitalName,736,cullman regional medical center,cullmn regional medical center,cullman regional medical center
+HospitalName,739,cullman regional medical center,0,cullman regional medical center
+HospitalName,755,andalusia regional hospital,andalusia regional hospeital,andalusia regional hospital
+HospitalName,764,andalusia regional hospital,0,andalusia regional hospital
+HospitalName,775,huntsville hospital,huntsille hospital,huntsville hospital
+HospitalName,791,huntsville hospital,huntsille hospital,huntsville hospital
+HospitalName,793,huntsville hospital,huntsille hospital,huntsville hospital
+HospitalName,800,huntsville hospital,0,huntsville hospital
+HospitalName,807,gadsden regional medical center,0,gadsden regional medical center
+HospitalName,816,gadsden regional medical center,0,gadsden regional medical center
+HospitalName,818,gadsden regional medical center,0,gadsden regional medical center
+HospitalName,821,gadsden regional medical center,0,gadsden regional medical center
+HospitalName,825,gadsden regional medical center,0,gadsden regional medical center
+HospitalName,836,chilton medical center,0,chilton medical center
+HospitalName,837,chilton medical center,0,chilton medical center
+HospitalName,839,chilton medical center,0,chilton medical center
+HospitalName,841,chilton medical center,0,chilton medical center
+HospitalName,858,marion regional medical center,marino regional medical center,marion regional medical center
+HospitalName,879,fayette medical center,0,fayette medical center
+HospitalName,886,fayette medical center,0,fayette medical center
+HospitalName,887,fayette medical center,0,fayette medical center
+HospitalName,891,fayette medical center,0,fayette medical center
+HospitalName,893,fayette medical center,0,fayette medical center
+HospitalName,898,fayette medical center,0,fayette medical center
+HospitalName,908,riverview regional medical center,riverview regionalmedical center,riverview regional medical center
+HospitalName,912,riverview regional medical center,riverview regionalmedical center,riverview regional medical center
+HospitalName,924,riverview regional medical center,riverview regionalmedical center,riverview regional medical center
+HospitalName,930,riverview regional medical center,0,riverview regional medical center
+HospitalName,931,georgiana hospital,georginaa hospital,georgiana hospital
+HospitalName,946,georgiana hospital,0,georgiana hospital
+HospitalName,948,georgiana hospital,0,georgiana hospital
+HospitalName,951,georgiana hospital,0,georgiana hospital
+HospitalName,977,medical center enterprise,0,medical center enterprise
+HospitalName,986,st vincents blount,st vincents blout,st vincents blount
+HospitalName,990,st vincents blount,st vincents blout,st vincents blount
+HospitalName,999,st vincents blount,0,st vincents blount
+Address1,15,1300 south montgomery avenue,1720 university blvd,1300 south montgomery avenue
+Address1,21,1108 ross clark circle,1720 university blvd,1108 ross clark circle
+Address1,27,1108 ross clark circle,1720 university blvd,1108 ross clark circle
+Address1,35,1108 rossc lark circle,1720 university blvd,1108 ross clark circle
+Address1,290,1000 first street north,1720 university blvd,1000 first street north
+Address1,291,1000 first street north,1720 university blvd,1000 first street north
+Address1,293,1000 first street north,1720 university blvd,1000 first street north
+City,7,birmingham,empty,birmingham
+City,18,sheffield,birmingham,sheffield
+City,23,dothan,birmingham,dothan
+City,32,dothan,birmingham,dothan
+City,33,dothan,birmingham,dothan
+City,47,boaz,birmingham,boaz
+City,50,boaz,birmingham,boaz
+City,51,boaz,birmingham,boaz
+City,52,boaz,birmingham,boaz
+City,114,opp,0,opp
+City,124,luverne,0,luverne
+City,135,luverne,0,luverne
+City,162,hartselle,0,hartselle
+City,184,guntersville,0,guntersville
+City,193,birmingham,hartselle,guntersville
+City,239,fort payne,0,fort payne
+City,270,alabaster,0,alabaster
+City,278,alabaster,0,alabaster
+City,286,alabaster,0,alabaster
+City,287,alabaster,0,alabaster
+City,288,alabaster,0,alabaster
+City,289,alabaster,0,alabaster
+City,290,alabaster,birmingham,alabaster
+City,291,alabaster,birmingham,alabaster
+City,294,alabaster,birmingham,alabaster
+City,339,dothan,0,dothan
+City,451,bethel,0,bethel
+City,578,valley,0,valley
+City,582,valley,0,valley
+City,597,elba,0,elba
+City,608,elba,0,elba
+City,642,wedowee,0,wedowee
+City,772,anniston,0,anniston
+City,825,gadsden,0,gadsden
+City,897,fayette,fayete,fayette
+City,948,georgiana,0,georgiana
+ZipCode,13,empty,0,35660
+ZipCode,14,35660,0,35660
+ZipCode,27,36302,35233,36302
+ZipCode,28,36302,35233,36302
+ZipCode,34,36302,35233,36302
+ZipCode,36,36302,6302,36302
+ZipCode,40,empty,6302,36302
+ZipCode,42,3602,6302,36302
+ZipCode,44,36032,6302,36302
+ZipCode,58,35957,35233,35957
+ZipCode,77,35631,35976,35631
+ZipCode,90,35631,0,35631
+ZipCode,133,36049,0,36049
+ZipCode,155,35640,0,35640
+ZipCode,179,35976,35233,35976
+ZipCode,181,35976,35233,35976
+ZipCode,182,35976,35233,35976
+ZipCode,233,35968,0,35968
+ZipCode,266,36784,37684,36784
+ZipCode,290,35007,35233,35007
+ZipCode,291,35007,35233,35007
+ZipCode,307,35233,0,35233
+ZipCode,312,36201,35233,36201
+ZipCode,351,35205,0,35205
+ZipCode,432,35150,0,35150
+ZipCode,448,99508,0,99508
+ZipCode,467,36360,0,36360
+ZipCode,474,36360,0,36360
+ZipCode,495,35960,0,35960
+ZipCode,552,36106,0,36106
+ZipCode,562,36106,0,36106
+ZipCode,563,36106,0,36106
+ZipCode,585,36854,0,36854
+ZipCode,630,36801,0,36801
+ZipCode,667,35233,empty,35233
+ZipCode,672,35233,empty,35233
+ZipCode,702,36078,0,36078
+ZipCode,720,35058,0,35058
+ZipCode,733,35058,0,35058
+ZipCode,770,36201,0,36201
+ZipCode,888,35555,0,35555
+ZipCode,889,35555,0,35555
+ZipCode,921,35901,0,35901
+CountyName,128,crenshaw,jefferson,crenshaw
+CountyName,187,marshall,jefferson,marshall
+CountyName,188,marshall,jefferson,marshall
+CountyName,189,marshall,jefferson,marshall
+CountyName,190,marshall,jefferson,marshall
+CountyName,191,marshall,jefferson,marshall
+CountyName,192,marshall,jefferson,marshall
+CountyName,193,marshall,jefferson,marshall
+CountyName,447,anchorage,jefferson,anchorage
+CountyName,530,montgomery,jefferson,montgomery
+CountyName,566,montgomery,jefferson,montgomery
+CountyName,638,lee,jefferson,lee
+CountyName,713,elmore,jefferson,elmore
+CountyName,951,butler,jefferson,butler
+PhoneNumber,6,2053258100,0,2053258100
+PhoneNumber,9,2563864556,2053258100,2563864556
+PhoneNumber,21,3347938701,2053258100,3347938701
+PhoneNumber,24,3347938701,2053258100,3347938701
+PhoneNumber,25,3347938701,2053258100,3347938701
+PhoneNumber,27,3347938701,2053258100,3347938701
+PhoneNumber,33,3347938701,2053258100,3347938701
+PhoneNumber,50,2565938310,2053258100,2565938310
+PhoneNumber,54,2565938310,2053258100,2565938310
+PhoneNumber,57,2565938310,2053258100,2565938310
+PhoneNumber,58,2565938310,2053258100,2565938310
+PhoneNumber,150,2567736511,0,2567736511
+PhoneNumber,163,2567736511,0,2567736511
+PhoneNumber,181,2565718000,2053258100,2565718000
+PhoneNumber,215,2058383122,0,2058383122
+PhoneNumber,224,2568453150,0,2568453150
+PhoneNumber,291,2056208100,2053258100,2056208100
+PhoneNumber,293,2056208100,2053258100,2056208100
+PhoneNumber,294,2056208100,2053258100,2056208100
+PhoneNumber,297,2053258100,0,2053258100
+PhoneNumber,319,2562358900,0,2562358900
+PhoneNumber,337,3347935000,0,3347935000
+PhoneNumber,486,3347742601,0,3347742601
+PhoneNumber,536,3342882100,0,3342882100
+PhoneNumber,640,3347493411,0,3347493411
+PhoneNumber,707,3342836541,0,3342836541
+PhoneNumber,719,2567372000,0,2567372000
+PhoneNumber,735,2567372000,0,2567372000
+PhoneNumber,739,2567372000,0,2567372000
+PhoneNumber,748,3342228466,0,3342228466
+PhoneNumber,755,3342228466,0,3342228466
+PhoneNumber,775,2562651000,0,2562651000
+PhoneNumber,789,2562651000,0,2562651000
+PhoneNumber,791,2562651000,0,2562651000
+PhoneNumber,800,2562651000,0,2562651000
+PhoneNumber,839,2057552500,0,2057552500
+PhoneNumber,886,2059325966,0,2059325966
+PhoneNumber,920,2565435200,0,2565435200
+HospitalOwner,15,government - hospital district or authority,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,47,government - hospital district or authority,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,150,proprietary,0,proprietary
+HospitalOwner,163,proprietary,0,proprietary
+HospitalOwner,215,voluntary non-profit - private,0,voluntary non-profit - private
+HospitalOwner,224,voluntary non-profit - church,0,voluntary non-profit - church
+HospitalOwner,290,voluntary non-profit - church,voluntary non-profit - private,voluntary non-profit - church
+HospitalOwner,295,voluntary non-profit - private,0,voluntary non-profit - private
+HospitalOwner,319,proprietary,0,proprietary
+HospitalOwner,337,proprietary,0,proprietary
+HospitalOwner,486,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,536,voluntary non-profit - church,0,voluntary non-profit - church
+HospitalOwner,640,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,707,voluntary non-profit - private,0,voluntary non-profit - private
+HospitalOwner,719,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,735,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,739,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,748,proprietary,0,proprietary
+HospitalOwner,755,proprietary,0,proprietary
+HospitalOwner,775,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,789,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,791,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,800,government - hospital district or authority,0,government - hospital district or authority
+HospitalOwner,839,voluntary non-profit - private,0,voluntary non-profit - private
+HospitalOwner,886,voluntary non-profit - other,0,voluntary non-profit - other
+HospitalOwner,920,proprietary,0,proprietary
+EmergencyService,95,no,yes,no
+EmergencyService,96,no,yes,no
+EmergencyService,97,empty,yes,no
+EmergencyService,98,no,yes,no
+EmergencyService,99,no,yes,no
+EmergencyService,100,no,yes,no
+EmergencyService,101,no,yes,no
+EmergencyService,361,yes,no,yes
+EmergencyService,591,yes,no,yes
+EmergencyService,670,yse,no,yes
+EmergencyService,818,yes,no,yes
+MeasureCode,5,scip-inf-4,0,scip-inf-4
+MeasureCode,9,ami-1,0,ami-1
+MeasureCode,18,hf-3,scip-card-2,hf-3
+MeasureCode,19,hf-4,scip-card-2,hf-4
+MeasureCode,20,ami-1,scip-card-2,ami-1
+MeasureCode,21,ami-2,scip-card-2,ami-2
+MeasureCode,22,ami-3,scip-card-2,ami-3
+MeasureCode,23,ami-4,scip-card-2,ami-4
+MeasureCode,24,ami-5,scip-card-2,ami-5
+MeasureCode,25,ami-7a,scip-card-2,ami-7a
+MeasureCode,26,ami-8a,scip-card-2,ami-8a
+MeasureCode,27,hf-1,scip-card-2,hf-1
+MeasureCode,28,hf-2,scip-card-2,hf-2
+MeasureCode,29,hf-3,scip-card-2,hf-3
+MeasureCode,30,hf-4,scip-card-2,hf-4
+MeasureCode,31,pn-2,scip-card-2,pn-2
+MeasureCode,32,pn-3b,scip-card-2,pn-3b
+MeasureCode,37,scip-card-2,0,scip-card-2
+MeasureCode,43,scip-vte-1,0,scip-vte-1
+MeasureCode,44,scip-vte-2,0,scip-vte-2
+MeasureCode,46,ami-2,0,ami-2
+MeasureCode,61,pn-7,0,pn-7
+MeasureCode,62,scip-card-2,0,scip-card-2
+MeasureCode,71,ami-2,0,ami-2
+MeasureCode,85,pn-6,0,pn-6
+MeasureCode,87,scip-card-2,0,scip-card-2
+MeasureCode,89,scip-inf-2,0,scip-inf-2
+MeasureCode,95,ami-1,0,ami-1
+MeasureCode,96,ami-2,0,ami-2
+MeasureCode,102,hf-1,ami-8a,hf-1
+MeasureCode,112,scip-card-2,0,scip-card-2
+MeasureCode,121,ami-2,0,ami-2
+MeasureCode,137,scip-card-2,0,scip-card-2
+MeasureCode,145,ami-1,0,ami-1
+MeasureCode,146,ami-2,0,ami-2
+MeasureCode,154,hf-3,0,hf-3
+MeasureCode,162,scip-card-2,0,scip-card-2
+MeasureCode,167,scip-inf-6,0,scip-inf-6
+MeasureCode,171,ami-2,0,ami-2
+MeasureCode,178,hf-2,0,hf-2
+MeasureCode,187,scip-card-2,0,scip-card-2
+MeasureCode,192,scip-inf-6,0,scip-inf-6
+MeasureCode,196,ami-2,0,ami-2
+MeasureCode,208,pn-4,0,pn-4
+MeasureCode,212,scip-card-2,0,scip-card-2
+MeasureCode,214,scip-inf-2,0,scip-inf-2
+MeasureCode,221,ami-2,0,ami-2
+MeasureCode,222,ami-3,0,ami-3
+MeasureCode,226,ami-8a,0,ami-8a
+MeasureCode,230,hf-4,0,hf-4
+MeasureCode,237,scip-card-2,0,scip-card-2
+MeasureCode,244,scip-vte-2,0,scip-vte-2
+MeasureCode,246,ami-2,0,ami-2
+MeasureCode,250,ami-7a,0,ami-7a
+MeasureCode,269,scip-vte-2,0,scip-vte-2
+MeasureCode,270,ami-1,0,ami-1
+MeasureCode,271,ami-2,0,ami-2
+MeasureCode,284,pn-5c,0,pn-5c
+MeasureCode,288,scip-inf-1,0,scip-inf-1
+MeasureCode,295,ami-1,0,ami-1
+MeasureCode,296,ami-2,0,ami-2
+MeasureCode,315,ami-2,0,ami-2
+MeasureCode,317,ami-4,0,ami-4
+MeasureCode,324,hf-4,0,hf-4
+MeasureCode,344,scip-inf-3,0,scip-inf-3
+MeasureCode,347,scip-vte-1,0,scip-vte-1
+MeasureCode,348,scip-vte-2,0,scip-vte-2
+MeasureCode,350,ami-2,0,ami-2
+MeasureCode,355,ami-1,0,ami-1
+MeasureCode,356,ami-2,0,ami-2
+MeasureCode,379,scip-vte-2,ami-8a,scip-vte-2
+MeasureCode,381,ami-2,0,ami-2
+MeasureCode,404,pn-3b,0,pn-3b
+MeasureCode,406,pn-5c,0,pn-5c
+MeasureCode,415,ami-1,0,ami-1
+MeasureCode,429,pn-5c,0,pn-5c
+MeasureCode,431,pn-7,0,pn-7
+MeasureCode,433,hf-1,0,hf-1
+MeasureCode,434,hf-2,0,hf-2
+MeasureCode,435,hf-3,0,hf-3
+MeasureCode,436,hf-4,0,hf-4
+MeasureCode,437,pn-2,0,pn-2
+MeasureCode,438,pn-3b,0,pn-3b
+MeasureCode,439,pn-4,0,pn-4
+MeasureCode,440,pn-5c,0,pn-5c
+MeasureCode,441,pn-6,0,pn-6
+MeasureCode,442,pn-7,0,pn-7
+MeasureCode,443,scip-card-2,0,scip-card-2
+MeasureCode,444,scip-inf-1,0,scip-inf-1
+MeasureCode,445,scip-inf-2,0,scip-inf-2
+MeasureCode,446,scip-inf-3,0,scip-inf-3
+MeasureCode,447,scip-inf-4,0,scip-inf-4
+MeasureCode,448,scip-inf-6,0,scip-inf-6
+MeasureCode,449,scip-vte-1,0,scip-vte-1
+MeasureCode,450,scip-vte-2,0,scip-vte-2
+MeasureCode,451,ami-1,0,ami-1
+MeasureCode,452,ami-2,0,ami-2
+MeasureCode,458,pn-7,0,pn-7
+MeasureCode,463,scip-inf-4,0,scip-inf-4
+MeasureCode,466,scip-vte-2,0,scip-vte-2
+MeasureCode,467,ami-1,0,ami-1
+MeasureCode,489,scip-inf-6,0,scip-inf-6
+MeasureCode,491,scip-vte-2,0,scip-vte-2
+MeasureCode,492,ami-1,0,ami-1
+MeasureCode,493,ami-2,0,ami-2
+MeasureCode,497,ami-7a,0,ami-7a
+MeasureCode,509,scip-card-2,0,scip-card-2
+MeasureCode,535,scip-inf-1,0,scip-inf-1
+MeasureCode,540,scip-vte-1,0,scip-vte-1
+MeasureCode,542,ami-1,0,ami-1
+MeasureCode,548,ami-8a,0,ami-8a
+MeasureCode,563,scip-inf-4,0,scip-inf-4
+MeasureCode,581,pn-5c,0,pn-5c
+MeasureCode,584,scip-card-2,0,scip-card-2
+MeasureCode,596,ami-5,0,ami-5
+MeasureCode,617,ami-1,0,ami-1
+MeasureCode,637,scip-inf-3,0,scip-inf-3
+MeasureCode,678,pn-2,0,pn-2
+MeasureCode,691,scip-vte-2,0,scip-vte-2
+MeasureCode,692,ami-1,0,ami-1
+MeasureCode,694,ami-3,0,ami-3
+MeasureCode,704,pn-3b,0,pn-3b
+MeasureCode,714,scip-inf-6,0,scip-inf-6
+MeasureCode,757,pn-6,0,pn-6
+MeasureCode,770,scip-inf-3,0,scip-inf-3
+MeasureCode,778,ami-1,0,ami-1
+MeasureCode,779,ami-2,0,ami-2
+MeasureCode,785,hf-1,0,hf-1
+MeasureCode,794,pn-7,0,pn-7
+MeasureCode,819,pn-7,0,pn-7
+MeasureCode,823,scip-inf-3,0,scip-inf-3
+MeasureCode,833,ami-7a,0,ami-7a
+MeasureCode,851,scip-vte-1,0,scip-vte-1
+MeasureCode,861,hf-2,0,hf-2
+MeasureCode,862,hf-3,0,hf-3
+MeasureCode,865,pn-3b,0,pn-3b
+MeasureCode,871,scip-inf-1,0,scip-inf-1
+MeasureCode,879,ami-2,0,ami-2
+MeasureCode,896,scip-inf-1,0,scip-inf-1
+MeasureCode,924,scip-inf-1,0,scip-inf-1
+MeasureCode,926,scip-inf-3,0,scip-inf-3
+MeasureCode,931,ami-1,0,ami-1
+MeasureCode,934,ami-4,0,ami-4
+MeasureCode,936,ami-7a,0,ami-7a
+MeasureCode,949,scip-inf-1,0,scip-inf-1
+MeasureCode,962,ami-8a,0,ami-8a
+MeasureCode,973,scip-card-2,0,scip-card-2
+MeasureCode,974,scip-inf-1,0,scip-inf-1
+MeasureCode,981,ami-1,0,ami-1
+MeasureCode,995,pn-5c,0,pn-5c
+MeasureCode,999,scip-inf-1,0,scip-inf-1
+Stateavg,433,ak_hf-1,al_hf-1,ak_hf-1
+Stateavg,434,ak_hf-2,al_hf-2,ak_hf-2
+Stateavg,435,ak_hf-3,al_hf-3,ak_hf-3
+Stateavg,436,ak_hf-4,al_hf-4,ak_hf-4
+Stateavg,437,ak_pn-2,al_pn-2,ak_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b,ak_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4,ak_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c,ak_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6,ak_pn-6
+Stateavg,442,ak_pn-7,al_pn-7,ak_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2,ak_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1,ak_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2,ak_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3,ak_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4,ak_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6,ak_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1,ak_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2,ak_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1,ak_ami-1
+Stateavg,452,ak_ami-2,al_ami-2,ak_ami-2

@@ -1,0 +1,74 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,13,helen keller memoriatl hospital,helen keller memorial hospital
+HospitalName,14,helen keller memorial hospiatl,helen keller memorial hospital
+HospitalName,77,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,164,hartselle medcial center,hartselle medical center
+HospitalName,195,callahan eye foundation hospital,st vincents east
+HospitalName,196,callahan eye foundation hospital,st vincents east
+HospitalName,199,callahan eye foundation hospital,st vincents east
+HospitalName,208,st vincents xeast,st vincents east
+HospitalName,319,stringfegllow memorial hospital,stringfellow memorial hospital
+HospitalName,455,helen keller memorial hsopital,helen keller memorial hospital
+HospitalName,456,helen keller memoiral hospital,helen keller memorial hospital
+HospitalName,457,heeln keller memorial hospital,helen keller memorial hospital
+HospitalName,458,helen keller memorial hosjpital,helen keller memorial hospital
+HospitalName,459,helen keller memorial hosiptal,helen keller memorial hospital
+HospitalName,483,ale medical center,dale medical center
+HospitalName,767,stringfellow memoial hospital,stringfellow memorial hospital
+HospitalName,874,marion regoinal medical center,marion regional medical center
+HospitalName,875,marion regional mediacl center,marion regional medical center
+HospitalName,910,riverviewr egional medical center,riverview regional medical center
+HospitalName,977,medicail center enterprise,medical center enterprise
+Address1,59,empty,2505 u s highway 431 north
+Address1,279,1000 first street nkorth,1000 first street north
+Address1,354,empty,1201 7th street se
+Address1,388,empty,2451 fillingim street
+Address1,403,124 s memorival dr,124 s memorial dr
+Address1,499,empty,400 northwood dr
+Address1,507,empty,400 northwood dr
+Address1,541,2105 east souh boulevard,1725 pine street
+Address1,652,empty,209 north main street
+Address1,943,515 misranda st,515 miranda st
+Address1,980,400 n ewards street,400 n edwards street
+Address1,997,empty,150 gilbreath drive
+City,19,empty,sheffield
+City,33,dodthan,dothan
+City,146,empty,hartselle
+City,164,empty,hartselle
+City,332,othan,dothan
+City,386,empty,mobile
+City,460,shefield,sheffield
+City,461,sheffiedl,sheffield
+City,462,sheffeld,sheffield
+City,620,empty,opelika
+City,649,empty,wedowee
+City,746,empty,andalusia
+City,781,hunsville,huntsville
+City,797,uhntsville,huntsville
+State,10,ajl,al
+State,11,ual,al
+State,12,cal,al
+State,46,empty,al
+State,149,empty,al
+State,183,empty,al
+State,593,l,al
+State,684,l,al
+State,754,empty,al
+State,867,empty,al
+State,917,l,al
+State,963,empty,al
+State,976,empty,al
+HospitalOwner,61,empty,government - hospital district or authority
+HospitalOwner,164,empty,proprietary
+HospitalOwner,404,empty,voluntary non-profit - private
+HospitalOwner,412,empty,voluntary non-profit - private
+HospitalOwner,506,empty,voluntary non-profit - private
+HospitalOwner,617,empty,government - hospital district or authority
+HospitalOwner,688,empty,voluntary non-profit - private
+EmergencyService,159,empty,yes
+EmergencyService,292,empty,yes
+EmergencyService,387,empty,yes
+EmergencyService,468,empty,yes
+EmergencyService,647,empty,yes
+EmergencyService,678,empty,yes
+EmergencyService,830,empty,yes

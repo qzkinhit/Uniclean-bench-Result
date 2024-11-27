@@ -1,0 +1,429 @@
+01:04:43 - [DEBUG] - initiating session with parameters: {'db_user': 'datacleanuser', 'db_pwd': 'abcd1234', 'db_host': 'localhost', 'db_name': 'holo', 'threads': 1, 'timeout': 180000, 'seed': 45, 'learning_rate': 0.001, 'optimizer': 'adam', 'epochs': 10, 'weight_decay': 0.01, 'momentum': 0.0, 'batch_size': 1, 'weak_label_thresh': 0.99, 'domain_thresh_1': 0, 'domain_thresh_2': 0, 'max_domain': 10000, 'cor_strength': 0.6, 'nb_cor_strength': 0.8, 'feature_norm': False, 'weight_norm': False, 'estimator_epochs': 3, 'estimator_batch_size': 32, 'verbose': True, 'bias': False, 'print_fw': True, 'debug_mode': False}
+01:04:43 - [ INFO] - Loaded 2376 rows with 16632 cells
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [ INFO] - DONE Loading dirty_flights_mix_0.25_holoclean.csv
+01:04:44 - [DEBUG] - Time to load dataset: 0.22 secs
+01:04:44 - [DEBUG] - OPENED constraints file successfully
+01:04:44 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.act_arr_time,t2.act_arr_time)
+01:04:44 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.act_arr_time,t2.act_arr_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: EQ(t1.flight,t2.flight)
+01:04:44 - [DEBUG] - DONE parsing predicate: IQ(t1.act_arr_time,t2.act_arr_time)
+01:04:44 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.sched_arr_time,t2.sched_arr_time)
+01:04:44 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.sched_arr_time,t2.sched_arr_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: EQ(t1.flight,t2.flight)
+01:04:44 - [DEBUG] - DONE parsing predicate: IQ(t1.sched_arr_time,t2.sched_arr_time)
+01:04:44 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.act_dep_time,t2.act_dep_time)
+01:04:44 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.act_dep_time,t2.act_dep_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: EQ(t1.flight,t2.flight)
+01:04:44 - [DEBUG] - DONE parsing predicate: IQ(t1.act_dep_time,t2.act_dep_time)
+01:04:44 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.sched_dep_time,t2.sched_dep_time)
+01:04:44 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.sched_dep_time,t2.sched_dep_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: EQ(t1.flight,t2.flight)
+01:04:44 - [DEBUG] - DONE parsing predicate: IQ(t1.sched_dep_time,t2.sched_dep_time)
+01:04:44 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.sched_arr_time,t2.sched_arr_time)&IQ(t1.act_arr_time,t2.act_arr_time)
+01:04:44 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.sched_arr_time,t2.sched_arr_time)&IQ(t1.act_arr_time,t2.act_arr_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: EQ(t1.sched_arr_time,t2.sched_arr_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: IQ(t1.act_arr_time,t2.act_arr_time)
+01:04:44 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.sched_dep_time,t2.sched_arr_time)&IQ(t1.act_dep_time,t2.act_dep_time)
+01:04:44 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.sched_dep_time,t2.sched_arr_time)&IQ(t1.act_dep_time,t2.act_dep_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: EQ(t1.sched_dep_time,t2.sched_arr_time)
+01:04:44 - [DEBUG] - DONE parsing predicate: IQ(t1.act_dep_time,t2.act_dep_time)
+01:04:44 - [ INFO] - DONE Loading DCs from dc_rules_holoclean.txt
+01:04:44 - [DEBUG] - Time to load dirty data: 0.00 secs
+01:04:44 - [DEBUG] - DONE with Error Detector: NullDetector in 0.02 secs
+01:04:44 - [DEBUG] - Preparing to execute 6 queries.
+01:04:44 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "flights_nwcpk_025" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "flights_nwcpk_025" as t2 WHERE t1."flight"=t2."flight" AND t1."act_arr_time"<>t2."act_arr_time") with id 0
+01:04:44 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+01:04:44 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "flights_nwcpk_025" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "flights_nwcpk_025" as t2 WHERE t1."flight"=t2."flight" AND t1."sched_arr_time"<>t2."sched_arr_time") with id 1
+01:04:44 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+01:04:44 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "flights_nwcpk_025" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "flights_nwcpk_025" as t2 WHERE t1."flight"=t2."flight" AND t1."act_dep_time"<>t2."act_dep_time") with id 2
+01:04:44 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+01:04:44 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "flights_nwcpk_025" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "flights_nwcpk_025" as t2 WHERE t1."flight"=t2."flight" AND t1."sched_dep_time"<>t2."sched_dep_time") with id 3
+01:04:44 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+01:04:44 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "flights_nwcpk_025" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "flights_nwcpk_025" as t2 WHERE t1."sched_arr_time"=t2."sched_arr_time" AND t1."act_arr_time"<>t2."act_arr_time") with id 4
+01:04:44 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+01:04:44 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "flights_nwcpk_025" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "flights_nwcpk_025" as t2 WHERE t1."sched_dep_time"=t2."sched_arr_time" AND t1."act_dep_time"<>t2."act_dep_time") with id 5
+01:04:44 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+01:04:44 - [DEBUG] - Time to execute 6 queries: 0.01 secs
+01:04:44 - [DEBUG] - DONE with Error Detector: ViolationDetector in 0.04 secs
+01:04:44 - [ INFO] - detected 4057 potentially erroneous cells
+01:04:44 - [DEBUG] - Time to create index: 0.00 secs
+01:04:44 - [ INFO] - DONE with error detection.
+01:04:44 - [DEBUG] - Time to detect errors: 0.39 secs
+01:04:45 - [DEBUG] - Time to execute query: 0.00 secs
+01:04:45 - [DEBUG] - computing frequency and co-occurrence statistics from raw data...
+01:04:45 - [DEBUG] - Collecting single/pair-wise statistics...
+01:04:46 - [DEBUG] - DONE computing statistics in 0.51s
+01:04:46 - [DEBUG] - preparing pruned co-occurring statistics...
+
+  0%|          | 0/6 [00:00<?, ?it/s]
+100%|██████████| 6/6 [00:00<00:00, 484.34it/s]
+01:04:46 - [DEBUG] - DONE with pruned co-occurring statistics in 0.01 secs
+01:04:46 - [DEBUG] - generating initial set of un-pruned domain values...
+
+  0%|          | 0/2376 [00:00<?, ?it/s]
+  6%|▌         | 146/2376 [00:00<00:01, 1451.67it/s]
+ 12%|█▏        | 289/2376 [00:00<00:01, 1444.16it/s]
+ 18%|█▊        | 438/2376 [00:00<00:01, 1457.57it/s]
+ 24%|██▍       | 582/2376 [00:00<00:01, 1448.22it/s]
+ 31%|███       | 729/2376 [00:00<00:01, 1453.40it/s]
+ 37%|███▋      | 869/2376 [00:00<00:01, 1436.13it/s]
+ 43%|████▎     | 1026/2376 [00:00<00:00, 1470.60it/s]
+ 49%|████▉     | 1176/2376 [00:00<00:00, 1477.87it/s]
+ 55%|█████▌    | 1318/2376 [00:00<00:00, 1458.60it/s]
+ 62%|██████▏   | 1465/2376 [00:01<00:00, 1457.73it/s]
+ 68%|██████▊   | 1608/2376 [00:01<00:00, 1444.82it/s]
+ 74%|███████▍  | 1756/2376 [00:01<00:00, 1450.04it/s]
+ 80%|████████  | 1902/2376 [00:01<00:00, 1452.43it/s]
+ 86%|████████▌ | 2046/2376 [00:01<00:00, 1416.19it/s]
+ 92%|█████████▏| 2192/2376 [00:01<00:00, 1427.23it/s]
+ 99%|█████████▉| 2348/2376 [00:01<00:00, 1463.39it/s]
+100%|██████████| 2376/2376 [00:01<00:00, 1455.98it/s]
+01:04:48 - [DEBUG] - DONE generating initial set of domain values in 1.75
+01:04:48 - [DEBUG] - training posterior model for estimating domain value probabilities...
+01:04:48 - [DEBUG] - DONE training posterior model in 0.01s
+01:04:48 - [DEBUG] - predicting domain value probabilities from posterior model...
+01:04:48 - [DEBUG] - DONE predictions in 0.00 secs, re-constructing cell domain...
+01:04:48 - [DEBUG] - re-assembling final cell domain table...
+
+0it [00:00, ?it/s]
+
+  0%|          | 0/11880 [00:00<?, ?it/s][A
+1234it [00:00, 12333.63it/s]
+
+ 14%|█▍        | 1638/11880 [00:00<00:00, 16377.52it/s][A
+2882it [00:00, 13339.98it/s]
+
+ 26%|██▋       | 3143/11880 [00:00<00:00, 15951.58it/s][A
+4449it [00:00, 13960.16it/s]
+
+ 40%|███▉      | 4697/11880 [00:00<00:00, 15821.83it/s][A
+5919it [00:00, 14171.42it/s]
+
+ 52%|█████▏    | 6216/11880 [00:00<00:00, 15626.24it/s][A
+7490it [00:00, 14599.22it/s]
+
+ 66%|██████▌   | 7791/11880 [00:00<00:00, 15661.76it/s][A
+9005it [00:00, 14760.15it/s]
+
+ 78%|███████▊  | 9278/11880 [00:00<00:00, 15409.79it/s][A
+10598it [00:00, 15090.73it/s]
+
+ 91%|█████████ | 10816/11880 [00:00<00:00, 15397.24it/s][A
+
+100%|██████████| 11880/11880 [00:00<00:00, 13017.86it/s][A
+11880it [00:00, 12526.57it/s]
+01:04:49 - [DEBUG] - DONE assembling cell domain table in 1.42s
+01:04:49 - [ INFO] - number of (additional) weak labels assigned from posterior model: 53
+01:04:49 - [DEBUG] - DONE generating domain and weak labels
+01:04:51 - [DEBUG] - Time to create index: 0.00 secs
+01:04:51 - [DEBUG] - Time to create index: 0.00 secs
+01:04:51 - [DEBUG] - Time to create index: 0.00 secs
+01:04:51 - [DEBUG] - Time to create table: 0.00 secs
+01:04:52 - [DEBUG] - Time to create index: 0.00 secs
+01:04:52 - [ INFO] - DONE with domain preparation.
+01:04:52 - [DEBUG] - Time to setup the domain: 7.61 secs
+01:04:52 - [DEBUG] - Time to execute query: 0.00 secs
+01:04:52 - [DEBUG] - Time to execute query: 0.00 secs
+01:04:52 - [DEBUG] - Time to execute query: 0.00 secs
+01:04:52 - [DEBUG] - Time to execute query: 0.00 secs
+01:04:52 - [DEBUG] - Time to execute query: 0.00 secs
+01:04:52 - [DEBUG] - featurizing training data...
+01:04:52 - [DEBUG] - Time to execute query: 0.02 secs
+
+  0%|          | 0/11880 [00:00<?, ?it/s]
+  2%|▏         | 296/11880 [00:00<00:03, 2955.93it/s]
+  5%|▍         | 592/11880 [00:00<00:03, 2955.49it/s]
+  8%|▊         | 898/11880 [00:00<00:03, 2984.34it/s]
+ 10%|█         | 1211/11880 [00:00<00:03, 3024.44it/s]
+ 13%|█▎        | 1503/11880 [00:00<00:03, 2989.67it/s]
+ 15%|█▌        | 1815/11880 [00:00<00:03, 3024.98it/s]
+ 18%|█▊        | 2120/11880 [00:00<00:03, 3031.69it/s]
+ 20%|██        | 2421/11880 [00:00<00:03, 3024.26it/s]
+ 23%|██▎       | 2720/11880 [00:00<00:03, 3013.38it/s]
+ 25%|██▌       | 3026/11880 [00:01<00:02, 3026.88it/s]
+ 28%|██▊       | 3321/11880 [00:01<00:02, 3001.90it/s]
+ 30%|███       | 3616/11880 [00:01<00:03, 2115.69it/s]
+ 33%|███▎      | 3920/11880 [00:01<00:03, 2327.34it/s]
+ 36%|███▌      | 4220/11880 [00:01<00:03, 2495.15it/s]
+ 38%|███▊      | 4534/11880 [00:01<00:02, 2658.18it/s]
+ 41%|████      | 4838/11880 [00:01<00:02, 2760.29it/s]
+ 43%|████▎     | 5146/11880 [00:01<00:02, 2846.32it/s]
+ 46%|████▌     | 5447/11880 [00:01<00:02, 2888.99it/s]
+ 48%|████▊     | 5751/11880 [00:02<00:02, 2930.94it/s]
+ 51%|█████     | 6051/11880 [00:02<00:01, 2950.88it/s]
+ 53%|█████▎    | 6353/11880 [00:02<00:01, 2970.39it/s]
+ 56%|█████▌    | 6658/11880 [00:02<00:01, 2993.40it/s]
+ 59%|█████▊    | 6960/11880 [00:02<00:01, 2985.13it/s]
+ 61%|██████    | 7273/11880 [00:02<00:01, 3026.59it/s]
+ 64%|██████▍   | 7577/11880 [00:02<00:01, 3002.03it/s]
+ 66%|██████▋   | 7879/11880 [00:02<00:01, 2987.14it/s]
+ 69%|██████▉   | 8179/11880 [00:02<00:01, 2945.99it/s]
+ 71%|███████▏  | 8475/11880 [00:02<00:01, 2920.22it/s]
+ 74%|███████▍  | 8768/11880 [00:03<00:01, 2869.37it/s]
+ 76%|███████▌  | 9056/11880 [00:03<00:00, 2841.56it/s]
+ 79%|███████▊  | 9350/11880 [00:03<00:00, 2869.10it/s]
+ 81%|████████  | 9638/11880 [00:03<00:00, 2857.20it/s]
+ 84%|████████▎ | 9924/11880 [00:03<00:00, 2846.33it/s]
+ 86%|████████▌ | 10226/11880 [00:03<00:00, 2892.71it/s]
+ 89%|████████▊ | 10516/11880 [00:03<00:00, 2851.04it/s]
+ 91%|█████████ | 10808/11880 [00:03<00:00, 2870.36it/s]
+ 93%|█████████▎| 11096/11880 [00:03<00:00, 2846.87it/s]
+ 96%|█████████▌| 11400/11880 [00:03<00:00, 2900.82it/s]
+ 98%|█████████▊| 11691/11880 [00:04<00:00, 2853.67it/s]
+100%|██████████| 11880/11880 [00:04<00:00, 2864.61it/s]
+01:04:57 - [DEBUG] - Time to execute query: 0.02 secs
+01:04:58 - [DEBUG] - Preparing to execute 12 queries.
+01:04:58 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'flight'   AND  t1."act_arr_time"<>t2."act_arr_time"   AND  t3.rv_val = t2."flight" GROUP BY _vid_, val_id with id 0
+01:04:58 - [DEBUG] - Time to execute query with id 0: 0.01 secs
+01:04:58 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'act_arr_time'   AND  t1."flight"=t2."flight"   AND  t3.rv_val <> t2."act_arr_time" GROUP BY _vid_, val_id with id 1
+01:04:58 - [DEBUG] - Time to execute query with id 1: 0.01 secs
+01:04:58 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'flight'   AND  t1."sched_arr_time"<>t2."sched_arr_time"   AND  t3.rv_val = t2."flight" GROUP BY _vid_, val_id with id 2
+01:04:58 - [DEBUG] - Time to execute query with id 2: 0.01 secs
+01:04:58 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'sched_arr_time'   AND  t1."flight"=t2."flight"   AND  t3.rv_val <> t2."sched_arr_time" GROUP BY _vid_, val_id with id 3
+01:04:58 - [DEBUG] - Time to execute query with id 3: 0.01 secs
+01:04:58 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'flight'   AND  t1."act_dep_time"<>t2."act_dep_time"   AND  t3.rv_val = t2."flight" GROUP BY _vid_, val_id with id 4
+01:04:59 - [DEBUG] - Time to execute query with id 4: 0.02 secs
+01:04:59 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'act_dep_time'   AND  t1."flight"=t2."flight"   AND  t3.rv_val <> t2."act_dep_time" GROUP BY _vid_, val_id with id 5
+01:04:59 - [DEBUG] - Time to execute query with id 5: 0.01 secs
+01:04:59 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'flight'   AND  t1."sched_dep_time"<>t2."sched_dep_time"   AND  t3.rv_val = t2."flight" GROUP BY _vid_, val_id with id 6
+01:04:59 - [DEBUG] - Time to execute query with id 6: 0.01 secs
+01:04:59 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'sched_dep_time'   AND  t1."flight"=t2."flight"   AND  t3.rv_val <> t2."sched_dep_time" GROUP BY _vid_, val_id with id 7
+01:04:59 - [DEBUG] - Time to execute query with id 7: 0.01 secs
+01:04:59 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'sched_arr_time'   AND  t1."act_arr_time"<>t2."act_arr_time"   AND  t3.rv_val = t2."sched_arr_time" GROUP BY _vid_, val_id with id 8
+01:04:59 - [DEBUG] - Time to execute query with id 8: 0.01 secs
+01:04:59 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'act_arr_time'   AND  t1."sched_arr_time"=t2."sched_arr_time"   AND  t3.rv_val <> t2."act_arr_time" GROUP BY _vid_, val_id with id 9
+01:05:00 - [DEBUG] - Time to execute query with id 9: 0.01 secs
+01:05:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'sched_dep_time'   AND  t1."act_dep_time"<>t2."act_dep_time"   AND  t3.rv_val = t2."sched_arr_time" GROUP BY _vid_, val_id with id 10
+01:05:00 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+01:05:00 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "flights_nwcpk_025" as t1, "flights_nwcpk_025" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'act_dep_time'   AND  t1."sched_dep_time"=t2."sched_arr_time"   AND  t3.rv_val <> t2."act_dep_time" GROUP BY _vid_, val_id with id 11
+01:05:00 - [DEBUG] - Time to execute query with id 11: 0.00 secs
+01:05:00 - [DEBUG] - Time to execute 12 queries: 0.12 secs
+01:05:01 - [DEBUG] - DONE featurization.
+01:05:01 - [DEBUG] - generating weak labels...
+01:05:01 - [DEBUG] - Time to execute query: 0.05 secs
+
+  0%|          | 0/9583 [00:00<?, ?it/s]
+ 50%|█████     | 4813/9583 [00:00<00:00, 48126.37it/s]
+100%|██████████| 9583/9583 [00:00<00:00, 47978.65it/s]
+01:05:01 - [DEBUG] - DONE generating weak labels.
+01:05:01 - [DEBUG] - generating mask...
+01:05:01 - [DEBUG] - Time to execute query: 0.02 secs
+
+  0%|          | 0/11880 [00:00<?, ?it/s]
+ 67%|██████▋   | 7965/11880 [00:00<00:00, 79640.77it/s]
+100%|██████████| 11880/11880 [00:00<00:00, 78398.08it/s]
+01:05:02 - [DEBUG] - DONE generating mask.
+01:05:02 - [ INFO] - DONE setting up featurized dataset.
+01:05:02 - [DEBUG] - Time to featurize data: 10.24 secs
+01:05:02 - [ INFO] - DONE setting up repair model.
+01:05:02 - [DEBUG] - Time to setup repair model: 10.24 secs
+01:05:02 - [ INFO] - training with 9583 training examples (cells)
+
+  0%|          | 0/10 [00:00<?, ?it/s]01:05:07 - [DEBUG] - Epoch 1, cost = 0.066980, acc = 99.95%
+
+ 10%|█         | 1/10 [00:05<00:51,  5.70s/it]01:05:13 - [DEBUG] - Epoch 2, cost = 0.037581, acc = 99.95%
+
+ 20%|██        | 2/10 [00:11<00:45,  5.68s/it]01:05:19 - [DEBUG] - Epoch 3, cost = 0.037577, acc = 99.95%
+
+ 30%|███       | 3/10 [00:17<00:39,  5.70s/it]01:05:24 - [DEBUG] - Epoch 4, cost = 0.037577, acc = 99.95%
+
+ 40%|████      | 4/10 [00:22<00:34,  5.67s/it]01:05:30 - [DEBUG] - Epoch 5, cost = 0.037577, acc = 99.95%
+
+ 50%|█████     | 5/10 [00:28<00:28,  5.67s/it]01:05:37 - [DEBUG] - Epoch 6, cost = 0.037577, acc = 99.95%
+
+ 60%|██████    | 6/10 [00:35<00:24,  6.05s/it]01:05:43 - [DEBUG] - Epoch 7, cost = 0.037577, acc = 99.95%
+
+ 70%|███████   | 7/10 [00:40<00:17,  5.94s/it]01:05:48 - [DEBUG] - Epoch 8, cost = 0.037577, acc = 99.95%
+
+ 80%|████████  | 8/10 [00:46<00:11,  5.84s/it]01:05:54 - [DEBUG] - Epoch 9, cost = 0.037577, acc = 99.95%
+
+ 90%|█████████ | 9/10 [00:52<00:05,  5.76s/it]01:06:00 - [DEBUG] - Epoch 10, cost = 0.037577, acc = 99.95%
+
+100%|██████████| 10/10 [00:57<00:00,  5.78s/it]
+01:06:00 - [ INFO] - DONE training repair model.
+01:06:00 - [DEBUG] - Time to fit repair model: 63.18 secs
+01:06:00 - [ INFO] - inferring on 4057 examples (cells)
+01:06:00 - [DEBUG] - Time to execute query: 0.20 secs
+01:06:01 - [DEBUG] - Time to create index: 0.00 secs
+01:06:01 - [DEBUG] - Time to create index: 0.00 secs
+01:06:01 - [ INFO] - DONE inferring repairs.
+01:06:01 - [DEBUG] - Time to infer correct cell values: 1.60 secs
+01:06:01 - [DEBUG] - Time to create table: 0.00 secs
+01:06:01 - [DEBUG] - Time to create index: 0.00 secs
+01:06:01 - [DEBUG] - Time to create index: 0.00 secs
+01:06:01 - [ INFO] - DONE collecting the inferred values.
+01:06:01 - [DEBUG] - Time to collect inferred values: 0.05 secs
+01:06:02 - [ INFO] - DONE generating repaired dataset
+01:06:02 - [DEBUG] - Time to store repaired dataset: 0.21 secs
+01:06:02 - [ INFO] - featurizer InitAttrFeaturizer,size 6,max 1.0000,min 1.0000,avg 1.0000,abs_avg 1.0000,weights:
+src 1.0
+flight 1.0
+sched_dep_time 1.0
+act_dep_time 1.0
+sched_arr_time 1.0
+act_arr_time 1.0
+featurizer OccurAttrFeaturizer,size 36,max 0.7322,min -0.0000,avg 0.3578,abs_avg 0.3578,weights:
+src X src 0.0
+src X flight 0.0
+src X sched_dep_time -0.0
+src X act_dep_time 0.0
+src X sched_arr_time -0.0
+src X act_arr_time -0.0
+flight X src 0.005
+flight X flight -0.0
+flight X sched_dep_time 0.505
+flight X act_dep_time 0.589
+flight X sched_arr_time 0.599
+flight X act_arr_time 0.601
+sched_dep_time X src 0.018
+sched_dep_time X flight 0.714
+sched_dep_time X sched_dep_time -0.0
+sched_dep_time X act_dep_time 0.653
+sched_dep_time X sched_arr_time 0.667
+sched_dep_time X act_arr_time 0.661
+act_dep_time X src 0.009
+act_dep_time X flight 0.732
+act_dep_time X sched_dep_time 0.562
+act_dep_time X act_dep_time -0.0
+act_dep_time X sched_arr_time 0.69
+act_dep_time X act_arr_time 0.695
+sched_arr_time X src 0.006
+sched_arr_time X flight 0.725
+sched_arr_time X sched_dep_time 0.584
+sched_arr_time X act_dep_time 0.661
+sched_arr_time X sched_arr_time -0.0
+sched_arr_time X act_arr_time 0.7
+act_arr_time X src 0.002
+act_arr_time X flight 0.69
+act_arr_time X sched_dep_time 0.496
+act_arr_time X act_dep_time 0.631
+act_arr_time X sched_arr_time 0.687
+act_arr_time X act_arr_time -0.0
+featurizer FreqFeaturizer,size 6,max 0.0118,min -0.0000,avg 0.0042,abs_avg 0.0042,weights:
+src -0.0
+flight 0.001
+sched_dep_time 0.012
+act_dep_time 0.0
+sched_arr_time 0.003
+act_arr_time 0.01
+featurizer ConstraintFeaturizer,size 12,max 0.0430,min -0.3885,avg -0.2667,abs_avg 0.2738,weights:
+fixed pred: t1."act_arr_time"<>t2."act_arr_time", violation pred: t1."flight"=t2."flight" -0.313
+fixed pred: t1."flight"=t2."flight", violation pred: t1."act_arr_time"<>t2."act_arr_time" -0.349
+fixed pred: t1."sched_arr_time"<>t2."sched_arr_time", violation pred: t1."flight"=t2."flight" -0.305
+fixed pred: t1."flight"=t2."flight", violation pred: t1."sched_arr_time"<>t2."sched_arr_time" -0.388
+fixed pred: t1."act_dep_time"<>t2."act_dep_time", violation pred: t1."flight"=t2."flight" -0.309
+fixed pred: t1."flight"=t2."flight", violation pred: t1."act_dep_time"<>t2."act_dep_time" -0.376
+fixed pred: t1."sched_dep_time"<>t2."sched_dep_time", violation pred: t1."flight"=t2."flight" -0.276
+fixed pred: t1."flight"=t2."flight", violation pred: t1."sched_dep_time"<>t2."sched_dep_time" -0.354
+fixed pred: t1."act_arr_time"<>t2."act_arr_time", violation pred: t1."sched_arr_time"=t2."sched_arr_time" -0.23
+fixed pred: t1."sched_arr_time"=t2."sched_arr_time", violation pred: t1."act_arr_time"<>t2."act_arr_time" -0.342
+fixed pred: t1."act_dep_time"<>t2."act_dep_time", violation pred: t1."sched_dep_time"=t2."sched_arr_time" 0.043
+fixed pred: t1."sched_dep_time"=t2."sched_arr_time", violation pred: t1."act_dep_time"<>t2."act_dep_time" -0.0
+
+01:06:02 - [DEBUG] - Time to store featurizer weights: 0.00 secs
+01:06:04 - [DEBUG] - Time to create index: 0.00 secs
+01:06:04 - [DEBUG] - Time to create index: 0.00 secs
+01:06:04 - [ INFO] - DONE Loading clean_index_holoclean.csv
+01:06:04 - [DEBUG] - Time to evaluate repairs: 0.90 secs
+01:06:04 - [DEBUG] - Time to execute query: 0.00 secs
+01:06:04 - [DEBUG] - Time to execute query: 0.00 secs
+01:06:04 - [DEBUG] - Preparing to execute 6 queries.
+01:06:04 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'src'   AND t1."src" != t2._value_ with id 0
+01:06:04 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'flight'   AND t1."flight" != t2._value_ with id 1
+01:06:04 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'sched_dep_time'   AND t1."sched_dep_time" != t2._value_ with id 2
+01:06:04 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'act_dep_time'   AND t1."act_dep_time" != t2._value_ with id 3
+01:06:04 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'sched_arr_time'   AND t1."sched_arr_time" != t2._value_ with id 4
+01:06:04 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'act_arr_time'   AND t1."act_arr_time" != t2._value_ with id 5
+01:06:04 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+01:06:04 - [DEBUG] - Time to execute 6 queries: 0.01 secs
+01:06:04 - [DEBUG] - Time to execute query: 0.00 secs
+01:06:04 - [DEBUG] - Preparing to execute 6 queries.
+01:06:04 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'src'       AND t1."src" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 0
+01:06:04 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'flight'       AND t1."flight" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 1
+01:06:04 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'sched_dep_time'       AND t1."sched_dep_time" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 2
+01:06:04 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'act_dep_time'       AND t1."act_dep_time" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 3
+01:06:04 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'sched_arr_time'       AND t1."sched_arr_time" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 4
+01:06:04 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+01:06:04 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "flights_nwcpk_025" as t1, "flights_nwcpk_025_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'act_arr_time'       AND t1."act_arr_time" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 5
+01:06:04 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+01:06:04 - [DEBUG] - Time to execute 6 queries: 0.01 secs
+01:06:06 - [DEBUG] - Time to execute query: 0.00 secs
+01:06:06 - [DEBUG] - weak label statistics:
+01:06:06 - [DEBUG] -    is_clean  cell_status  is_inferred  init = grdth init = inferred  \
+0  False     0            True         False         False            
+1  False     0            True         False         True             
+2  False     0            True         True          True             
+3  False     1            True         False         False            
+4  False     1            True         False         True             
+5  False     2            True         False         False            
+6  False     2            True         True          True             
+7  True      0            False        True          None             
+8  True      2            False        True          None             
+
+   w. label = init  w. label = grdth w. label = inferred infer = grdth  count  
+0  True             False             False               True          2      
+1  True             False             True                False         9      
+2  True             True              True                True          2276   
+3  False            True              True                True          48     
+4  False            True              False               False         5      
+5  True             False             False               True          10     
+6  True             True              True                True          1707   
+7  True             True              None                None          3353   
+8  True             True              None                None          4470   
+01:06:06 - [ INFO] - Precision = 1.00, Recall = 0.81, Repairing Recall = 0.81, F1 = 0.90, Repairing F1 = 0.90, Detected Errors = 74, Total Errors = 74, Correct Repairs = 60, Total Repairs = 60, Total Repairs on correct cells (Grdth present) = 0, Total Repairs on incorrect cells (Grdth present) = 60
+01:06:06 - [DEBUG] - Time to generate report: 0.04 secs
+01:06:06 - [DEBUG] - Time to execute query: 0.01 secs
+01:06:06 - [ INFO] - 清洗后的数据已成功保存到 results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_repaired.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/clean_index_ori_empty.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_flights_mix_0.25_ori_empty.csv
+Running Holoclean with modified dirty file: Data/2_flights/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_flights_mix_0.25_holoclean.csv
+转换完成，结果已保存到 Data/2_flights/clean_index_holoclean.csv
+Results saved to results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_repaired.csv
+Holoclean finished in 83.35323095321655 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_repaired_ori_empty.csv
+差异文件已保存到:
+results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_clean_vs_dirty.csv
+results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_dirty_vs_cleaned.csv
+results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_unrepaired.csv
+修复准确率: 1.0, 修复召回率: 0.8108108108108109, F1值: 0.8955223880102472
+========================================
+EDR 结果已保存到: results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_edr_evaluation.txt
+错误减少率 (EDR): 0.8108108108108109
+========================================
+混合距离结果已保存到: results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.00965176233592999
+========================================
+R-EDR 结果已保存到: results/holoclean/nwcpk/2_flights_nwcpk_025/2_flights_nwcpk_025_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): 0.8194444444444444
+========================================
+测试结果:
+Accuracy: 1.0
+Recall: 0.8108108108108109
+F1 Score: 0.8955223880102472
+EDR: 0.8108108108108109
+Hybrid Distance: 0.00965176233592999
+R-EDR: 0.8194444444444444
+Time: 83.35323095321655
+Speed: 3.5081326158761175 seconds/100 records
+测评结束，详细测评日志见：results/holoclean/nwcpk/2_flights_nwcpk_025

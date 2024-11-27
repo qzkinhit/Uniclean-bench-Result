@@ -1,0 +1,61 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+Address1,17,1300 south montgomery avenue,101 sivley rd,1300 south montgomery avenue
+Address1,453,1300 south montgomery avenue,2451 fillingim street,1300 south montgomery avenue
+Address1,454,1300 south montgomery avenue,101 sivley rd,1300 south montgomery avenue
+Address1,742,849 south three notch street,empty,849 south three notch street
+Address1,743,849 south three notch street,empty,849 south three notch street
+Address1,744,849 south three notch street,empty,849 south three notch street
+Address1,745,849 south three notch street,empty,849 south three notch street
+Address1,746,849 south three notch street,empty,849 south three notch street
+Address1,747,849 south three notch street,empty,849 south three notch street
+Address1,748,849 south three notch street,empty,849 south three notch street
+Address1,749,849 south three notch street,empty,849 south three notch street
+Address1,750,849 south three notch street,empty,849 south three notch street
+Address1,751,849 south three notch street,empty,849 south three notch street
+Address1,752,849 south three notch street,empty,849 south three notch street
+Address1,753,849 south three notch street,empty,849 south three notch street
+Address1,754,849 south three notch street,empty,849 south three notch street
+Address1,755,849 south three notch street,empty,849 south three notch street
+Address1,756,849 south three notch street,empty,849 south three notch street
+Address1,757,849 south three notch street,empty,849 south three notch street
+Address1,759,849 south three notch street,empty,849 south three notch street
+Address1,760,849 south three notch street,empty,849 south three notch street
+Address1,761,849 south three notch street,empty,849 south three notch street
+Address1,762,849 south three notch street,empty,849 south three notch street
+Address1,763,849 south three notch street,empty,849 south three notch street
+Address1,764,849 south three notch street,empty,849 south three notch street
+Address1,765,849 south three notch street,empty,849 south three notch street
+Address1,766,849 south three notchp street,empty,849 south three notch street
+ZipCode,104,3667,35233,36467
+ZipCode,200,empty,35233,35235
+ZipCode,223,359j68,35233,35968
+ZipCode,244,empty,35233,35968
+ZipCode,280,350h07,35233,35007
+ZipCode,370,empty,35233,35594
+ZipCode,385,empty,35233,36617
+ZipCode,532,empty,35233,36116
+ZipCode,553,empty,35233,36106
+ZipCode,698,empty,35233,36078
+ZipCode,869,empty,35233,35570
+ZipCode,883,3555c5,35233,35555
+ZipCode,899,empty,35233,35555
+ZipCode,930,35p901,35233,35901
+PhoneNumber,2,2y053258100,2059344011,2053258100
+PhoneNumber,3,53258100,2059344011,2053258100
+HospitalOwner,304,empty,government - state,voluntary non-profit - private
+HospitalOwner,306,empty,government - state,voluntary non-profit - private
+HospitalOwner,345,propfrietary,government - hospital district or authority,proprietary
+HospitalOwner,747,proprietayr,voluntary non-profit - private,proprietary
+HospitalOwner,761,proprieteary,voluntary non-profit - private,proprietary
+HospitalOwner,863,voluntary nno-profit - private,proprietary,voluntary non-profit - private
+EmergencyService,108,neo,yes,no
+MeasureName,264,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given the right kind of antibiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+Stateavg,433,ak_hf-1,al_hf-1,ak_hf-1
+Stateavg,434,ak_hf-2,al_hf-2,ak_hf-2
+Stateavg,435,ak_hf-3,al_hf-3,ak_hf-3
+Stateavg,436,ak_hf-4,al_hf-4,ak_hf-4
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1,ak_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-3,ak_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3,ak_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4,ak_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6,ak_scip-inf-6

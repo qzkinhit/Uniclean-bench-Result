@@ -1,0 +1,164 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+HospitalName,542,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,543,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,544,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,545,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,546,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,547,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,548,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,549,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,550,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,551,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,552,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,553,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,554,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,555,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,556,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,557,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,558,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,559,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,560,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,561,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,562,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,563,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,564,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,565,jackson hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,566,jackon hospital & clinic inc,baptist medical center south,jackson hospital & clinic inc
+HospitalName,825,empty,riverview regional medical center,gadsden regional medical center
+City,220,fort payne,birmingham,fort payne
+City,221,fort payne,birmingham,fort payne
+City,222,fort payne,birmingham,fort payne
+City,223,fort payne,birmingham,fort payne
+City,224,fort payne,birmingham,fort payne
+City,225,fort payne,birmingham,fort payne
+City,226,fort payne,birmingham,fort payne
+City,227,fort payne,birmingham,fort payne
+City,238,fort payne,birmingham,fort payne
+City,239,fort payne,birmingham,fort payne
+City,240,fort payne,birmingham,fort payne
+City,241,fort payne,birmingham,fort payne
+City,242,fort payne,birmingham,fort payne
+City,243,fort payne,birmingham,fort payne
+City,244,fort payne,birmingham,fort payne
+CountyName,107,ocvington,jefferson,covington
+PhoneNumber,340,empty,3347938701,3347935000
+PhoneNumber,555,3342938000***,3342882100,3342938000
+EmergencyService,108,empty,yes,no
+EmergencyService,415,empty,yes,no
+EmergencyService,426,on,yes,no
+EmergencyService,743,empty,yes,no
+EmergencyService,931,empty,yes,no
+EmergencyService,933,empty,yes,no
+EmergencyService,935,empty,yes,no
+EmergencyService,954,on,yes,no
+Condition,18,herat failure,pneumonia,heart failure
+Condition,38,sugical infection prevention,surgical infeciton prevention,surgical infection prevention
+Condition,88,surgicali nfection prevention,heart attack,surgical infection prevention
+Condition,103,hdeart failure,surgical infection prevention,heart failure
+Condition,113,surgical infectoin prevention,pneumonia,surgical infection prevention
+Condition,131,pneumonica,surgical infection prevention,pneumonia
+Condition,133,neumonia,surgical infection prevention,pneumonia
+Condition,138,surgical finfection prevention,heart attack,surgical infection prevention
+Condition,163,surgical infectino prevention,heart attack,surgical infection prevention
+Condition,185,pneumnoia,surgical infection prevention,pneumonia
+Condition,213,vsurgical infection prevention,heart attack,surgical infection prevention
+Condition,274,heart atack,pneumonia,heart attack
+Condition,424,hekart failure,heart attack,heart failure
+Condition,562,surgical inefction prevention,heart attack,surgical infection prevention
+Condition,596,heart atack,surgical infection prevention,heart attack
+Condition,709,surgical infection revention,heart attack,surgical infection prevention
+Condition,847,surgical infection prveention,heart attack,surgical infection prevention
+Condition,897,surgical infectionp revention,heart attack,surgical infection prevention
+Condition,914,heart failupre,surgical infection prevention,heart failure
+Condition,1000,sugrical infection prevention,heart attack,surgical infection prevention
+MeasureName,269,empty,patients who got treatment at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,691,empty,patients who got treatment at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+Stateavg,14,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,15,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,25,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,26,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,50,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,51,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,59,empty,al_hf-1,al_pn-5c
+Stateavg,75,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,76,al_ami-8a,ak_hf-2,al_ami-8a
+Stateavg,87,al_sgcip-card-2,al_pn-4,al_scip-card-2
+Stateavg,100,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,101,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,125,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,126,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,150,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,151,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,175,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,176,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,200,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,201,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,207,empty,al_pn-2,al_pn-3b
+Stateavg,225,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,226,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,250,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,251,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,258,empty,al_pn-2,al_pn-4
+Stateavg,275,al_ami-7a,al_ami-2,al_ami-7a
+Stateavg,276,al_ami-8a,al_ami-2,al_ami-8a
+Stateavg,300,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,301,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,307,empty,al_pn-2,al_pn-3b
+Stateavg,319,al_ami-7a,al_ami-2,al_ami-7a
+Stateavg,320,al_ami-8a,al_ami-2,al_ami-8a
+Stateavg,361,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,385,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,386,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,397,al_ami-7a,al_ami-1,al_ami-7a
+Stateavg,398,al_ami-8a,al_ami-1,al_ami-8a
+Stateavg,420,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,421,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,472,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,473,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,497,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,498,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,522,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,523,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,534,al_scip-card-2,al_pn-7,al_scip-card-2
+Stateavg,547,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,548,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,563,empty,al_ami-1,al_scip-inf-4
+Stateavg,572,al_ami-7a,al_ami-1,al_ami-7a
+Stateavg,573,al_ami-8a,al_ami-1,al_ami-8a
+Stateavg,597,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,598,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,622,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,623,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,634,al_scip-card-2,al_ai-2,al_scip-card-2
+Stateavg,647,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,648,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,672,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,673,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,697,al_ami-7a,al_ami-2,al_ami-7a
+Stateavg,698,al_ami-8a,al_ami-2,al_ami-8a
+Stateavg,708,empty,al_pn-2,al_pn-7
+Stateavg,722,al_ami-7a,al_ami-4,al_ami-7a
+Stateavg,723,al_ami-8a,al_ami-4,al_ami-8a
+Stateavg,734,al_scip-card-2,al_ami-4,al_scip-card-2
+Stateavg,747,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,748,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,783,al_ami-7a,al_ami-2,al_ami-7a
+Stateavg,784,al_ami-8a,al_ami-2,al_ami-8a
+Stateavg,808,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,809,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,833,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,834,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,840,empty,al_pn-2,al_pn-3b
+Stateavg,858,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,859,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,883,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,884,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,911,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,912,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,923,al_scip-card-2,al_pn-4,al_scip-card-2
+Stateavg,936,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,937,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,961,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,962,al_ami-8a,al_ami-5,al_ami-8a
+Stateavg,986,al_ami-7a,al_ami-5,al_ami-7a
+Stateavg,987,al_ami-8a,al_ami-5,al_ami-8a

@@ -1,0 +1,48 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/noise_with_correct_primary_key/rayyan_1.25/dirty_rayyan_mix_1.25.csv
+Running bigdansing with dirty file: Data/4_rayyan/noise_with_correct_primary_key/rayyan_1.25/dirty_rayyan_mix_1.25.csv
+Start Blocking
+  0%|                                                               | 0/9 [00:00<?, ?it/s] 11%|██████                                                 | 1/9 [00:00<00:01,  5.74it/s] 22%|████████████▏                                          | 2/9 [00:10<00:44,  6.41s/it] 33%|██████████████████▎                                    | 3/9 [00:11<00:21,  3.55s/it] 44%|████████████████████████▍                              | 4/9 [00:11<00:10,  2.19s/it] 56%|██████████████████████████████▌                        | 5/9 [00:33<00:38,  9.51s/it] 78%|██████████████████████████████████████████▊            | 7/9 [00:33<00:09,  4.71s/it]100%|███████████████████████████████████████████████████████| 9/9 [00:33<00:00,  2.76s/it]100%|███████████████████████████████████████████████████████| 9/9 [00:33<00:00,  3.77s/it]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/8 [00:00<?, ?it/s] 12%|██████▉                                                | 1/8 [00:00<00:03,  2.12it/s] 25%|█████████████▊                                         | 2/8 [00:02<00:06,  1.09s/it] 38%|████████████████████▋                                  | 3/8 [00:03<00:05,  1.09s/it] 50%|███████████████████████████▌                           | 4/8 [00:04<00:04,  1.10s/it] 62%|██████████████████████████████████▍                    | 5/8 [00:09<00:07,  2.61s/it] 75%|█████████████████████████████████████████▎             | 6/8 [00:26<00:14,  7.34s/it] 88%|████████████████████████████████████████████████▏      | 7/8 [00:43<00:10, 10.54s/it]100%|███████████████████████████████████████████████████████| 8/8 [00:49<00:00,  9.07s/it]100%|███████████████████████████████████████████████████████| 8/8 [00:49<00:00,  6.13s/it]
+Finish Detectings
+Initial cells to repair: 4235
+Processing loop - sizebefore: 4235, sizeafter: 0
+Current MVC size: 2048
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                               | 0/8 [00:00<?, ?it/s] 12%|██████▉                                                | 1/8 [00:00<00:03,  2.01it/s] 25%|█████████████▊                                         | 2/8 [00:02<00:06,  1.13s/it] 38%|████████████████████▋                                  | 3/8 [00:03<00:05,  1.12s/it] 50%|███████████████████████████▌                           | 4/8 [00:04<00:04,  1.11s/it] 62%|██████████████████████████████████▍                    | 5/8 [00:09<00:07,  2.61s/it] 75%|█████████████████████████████████████████▎             | 6/8 [00:26<00:15,  7.54s/it] 88%|████████████████████████████████████████████████▏      | 7/8 [00:42<00:10, 10.31s/it]100%|███████████████████████████████████████████████████████| 8/8 [00:48<00:00,  8.90s/it]100%|███████████████████████████████████████████████████████| 8/8 [00:48<00:00,  6.07s/it]
+===============================================
+Results saved to results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/repaired_4_rayyan_nwcpk_125.csv
+BigDansing finished in 2618.922459125519 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/repaired_4_rayyan_nwcpk_125.csv
+差异文件已保存到:
+results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/4_rayyan_nwcpk_125_clean_vs_dirty.csv
+results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/4_rayyan_nwcpk_125_dirty_vs_cleaned.csv
+results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/4_rayyan_nwcpk_125_clean_vs_cleaned.csv
+修复准确率: 0.005765199161425576, 修复召回率: 0.1375, F1值: 0.011066398382617637
+========================================
+EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/4_rayyan_nwcpk_125_edr_evaluation.txt
+错误减少率 (EDR): -23.4125
+========================================
+混合距离结果已保存到: results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/4_rayyan_nwcpk_125_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.037707967089283936
+========================================
+R-EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12/4_rayyan_nwcpk_125_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -9.093333333333334
+========================================
+测试结果:
+Accuracy: 0.005765199161425576
+Recall: 0.1375
+F1 Score: 0.011066398382617637
+EDR: -23.4125
+Hybrid Distance: 0.037707967089283936
+R-EDR: -9.093333333333334
+time(s): 2618.922459125519
+speed: 261.89224591255186 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/nwcpk/Repaired_res/4_rayyan_nwcpk_12

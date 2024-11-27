@@ -1,0 +1,645 @@
+Attribute,Index,Dirty Value,Cleaned Value
+brewery_id,1583,373,368
+brewery_id,2540,62,1
+brewery_id,2539,62,1
+brewery_id,1620,360,368
+brewery_id,1876,286,368
+brewery_id,1644,318,368
+brewery_id,1778,292,368
+brewery_id,910,292,368
+brewery_id,2585,40,368
+brewery_id,643,519,368
+brewery_id,1847,294,386
+brewery_id,2449,95,12
+brewery_id,1025,380,368
+brewery_id,1408,414,382
+brewery_id,1360,107,368
+brewery_id,1184,107,368
+brewery_id,1289,219,368
+brewery_id,2619,19,368
+brewery_id,2240,10,386
+brewery_id,2160,24,368
+brewery_id,1927,267,67
+brewery_id,2226,192,368
+brewery_id,1881,285,368
+brewery_id,2079,226,141
+brewery_id,893,418,368
+brewery_id,542,212,368
+brewery_id,2587,39,68
+brewery_id,539,365,141
+brewery_id,2179,204,368
+brewery_id,1351,423,3
+brewery_id,904,423,368
+brewery_id,1834,297,166
+brewery_id,2383,120,141
+brewery_id,1523,32,368
+brewery_id,2492,59,368
+brewery_id,1571,377,456
+brewery_id,1325,393,368
+brewery_id,2667,3,368
+brewery_id,768,507,368
+brewery_id,2692,0,368
+brewery_id,2069,184,82
+brewery_id,933,166,25
+brewery_id,661,166,25
+brewery_id,805,503,166
+brewery_id,804,503,166
+brewery_id,803,503,166
+brewery_id,787,503,166
+brewery_id,786,503,166
+brewery_id,785,503,166
+brewery_id,745,503,166
+brewery_id,744,503,166
+brewery_id,743,503,166
+brewery_id,742,503,166
+brewery_id,741,503,166
+brewery_id,734,503,166
+brewery_id,733,503,166
+brewery_id,1328,389,166
+brewery_id,1175,389,166
+brewery_id,1166,389,166
+brewery_id,1065,389,166
+brewery_id,1946,261,275
+brewery_id,2559,52,368
+brewery_id,711,135,368
+brewery_id,1861,128,61
+brewery_id,2580,42,41
+brewery_id,2373,43,141
+brewery_id,1995,30,141
+brewery_id,70,264,368
+brewery_id,69,264,368
+brewery_id,2305,163,371
+brewery_id,2405,115,60
+brewery_id,1971,257,368
+brewery_id,1120,133,368
+brewery_id,91,119,368
+brewery_id,90,119,368
+brewery_id,2352,138,58
+brewery_id,18,61,368
+brewery_id,1242,447,368
+brewery_id,1198,457,368
+brewery_id,2421,108,103
+brewery_id,1938,265,368
+brewery_id,1509,97,368
+brewery_id,1121,74,368
+brewery_id,1823,302,368
+brewery_id,1730,322,368
+brewery_id,1029,295,368
+brewery_id,1498,396,368
+brewery_id,1511,199,368
+brewery_name,2540,Against The Grain Brewery,Against the Grain Brewery
+brewery_name,2539,Against The Grain Brewery,Against the Grain Brewery
+brewery_name,1847,Black Shirt Brewing Company,Revolution Brewing
+brewery_name,2240,Breweryp Vivant,Revolution Brewing
+brewery_name,1927,Cape Cod Beer,3 Daughters Brewing
+brewery_name,1910,Capital iBrewery,Capital Brewery
+brewery_name,638,empty,Catawba Brewing Company
+brewery_name,2079,Chatham Brewing,Cigar City Brewing Company
+brewery_name,2587,Gonzo's BiggDogg Brewing,Red Shedman Farm Brewery and Hop...
+brewery_name,2202,empty,Goose Island Brewing Company
+brewery_name,539,Great River Brewery,Cigar City Brewing Company
+brewery_name,1351,Hess Brewing Company,Mike Hess Brewing Company
+brewery_name,1834,Hop Farm Brewing Company,Oskar Blues Brewery
+brewery_name,2383,Horny Goat Brew Pub,Cigar City Brewing Company
+brewery_name,2276,Minhas Craft Breewry,Minhas Craft Brewery
+brewery_name,578,New Belgium Brewin Company,New Belgium Brewing Company
+brewery_name,2069,Oasis Texas Brewing Company,New Belgium Brewing Company
+brewery_name,933,Oskar Blues Brewery,Sun King Brewing Company
+brewery_name,661,Oskar Blues Brewery,Sun King Brewing Company
+brewery_name,1328,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1175,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1166,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1065,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1861,Real Ale Brewing Company,Surly Brewing Company
+brewery_name,2580,Rising Tide Brewing Company,Lost Nation Brewing
+brewery_name,2373,Rivertowne Brewing Company,Cigar City Brewing Company
+brewery_name,1995,SanTan Brewing Company,Cigar City Brewing Company
+brewery_name,2405,Smartmouth Brewing Company,4 Hands Brewing Company
+brewery_name,622,TaivlGate Beer,TailGate Beer
+brewery_name,2421,Thomas Hooker Brewing Company,Beer Works Brewery
+city,2219,Cjolumbus,Columbus
+city,1583,Dunedin,San Francisco
+city,2540,empty,Louisville
+city,2682,Louisivlle,Louisville
+city,2680,empty,Louisville
+city,2291,empty,Boonville
+city,1563,Boonvlile,Boonville
+city,979,Atoria,Astoria
+city,1620,Fuquay-Varina,San Francisco
+city,2058,empty,Bloomfield
+city,1876,Gadsden,San Francisco
+city,1644,Williamsburg,San Francisco
+city,1778,Lewiston,San Francisco
+city,910,Lewiston,San Francisco
+city,2420,Lwell,Lowell
+city,1157,lApine,Alpine
+city,2104,Broomfield,CO
+city,1762,Broomfield,CO
+city,1422,empty,CO
+city,1067,Broomfield,CO
+city,2585,Murphysboro,San Francisco
+city,643,Chattanooga,San Francisco
+city,1413,Hamiltno,Hamilton
+city,1847,Denver,Paonia
+city,1025,Lincoln,San Francisco
+city,1408,Arrington,Afton
+city,1360,Eagle,San Francisco
+city,1184,Eagle,San Francisco
+city,931,Eale,Eagle
+city,1289,Bozeman,San Francisco
+city,1800,ampa,Tampa
+city,2619,Plainfield,San Francisco
+city,2636,Grand Raipds,Grand Rapids
+city,2542,Grand Rapeids,Grand Rapids
+city,2541,Gnrand Rapids,Grand Rapids
+city,2504,Gransd Rapids,Grand Rapids
+city,2500,Grand mRapids,Grand Rapids
+city,2499,rand Rapids,Grand Rapids
+city,2498,Grand apids,Grand Rapids
+city,2481,Grand Rapis,Grand Rapids
+city,2476,Gradn Rapids,Grand Rapids
+city,2467,Grancd Rapids,Grand Rapids
+city,2466,Grand Rapisd,Grand Rapids
+city,2465,Grand Rapisd,Grand Rapids
+city,2433,Grand Rapdis,Grand Rapids
+city,2418,Gramnd Rapids,Grand Rapids
+city,2416,rGand Rapids,Grand Rapids
+city,2382,Grancd Rapids,Grand Rapids
+city,2381,Grnd Rapids,Grand Rapids
+city,2290,Grkand Rapids,Grand Rapids
+city,2241,Grand Rsapids,Grand Rapids
+city,2240,Grand Rapcids,Paonia
+city,2137,bGrand Rapids,Grand Rapids
+city,2101,Grgand Rapids,Grand Rapids
+city,2092,rand Rapids,Grand Rapids
+city,2091,Grad Rapids,Grand Rapids
+city,2086,Grnd Rapids,Grand Rapids
+city,2023,rand Rapids,Grand Rapids
+city,2006,Grand Rapds,Grand Rapids
+city,1997,Grand Rpaids,Grand Rapids
+city,1977,Grand Rpids,Grand Rapids
+city,1976,Grand Rapidns,Grand Rapids
+city,1974,Gran dRapids,Grand Rapids
+city,1973,Grand Raids,Grand Rapids
+city,1959,Gand Rapids,Grand Rapids
+city,1958,Greand Rapids,Grand Rapids
+city,1949,Gradn Rapids,Grand Rapids
+city,1947,Grand Rapilds,Grand Rapids
+city,1785,GrandR apids,Grand Rapids
+city,1651,Grand Rapisd,Grand Rapids
+city,1443,empty,Grand Rapids
+city,1352,Grand Rapis,Grand Rapids
+city,1267,Gran dRapids,Grand Rapids
+city,677,Gradn Rapids,Grand Rapids
+city,671,Grand Rapidos,Grand Rapids
+city,670,Grad Rapids,Grand Rapids
+city,669,Grand Raepids,Grand Rapids
+city,627,rand Rapids,Grand Rapids
+city,387,Grand Rapis,Grand Rapids
+city,385,lGrand Rapids,Grand Rapids
+city,384,Grand aRpids,Grand Rapids
+city,2160,Michpigan City,San Francisco
+city,2066,Gloucesetr,Gloucester
+city,1927,Hyannis,St Petersburg
+city,2226,Middleton,San Francisco
+city,1910,Middlton,Middleton
+city,1464,Portalnd,Portland
+city,1881,empty,San Francisco
+city,2210,empty,Seven Points
+city,2079,Chatham,Tampa
+city,2380,empty,Cheboygan
+city,567,Seattle,WA
+city,56,empty,Nantucket
+city,893,Portland,San Francisco
+city,1804,empty,Spearfish
+city,542,Spearfish,San Francisco
+city,1224,Aurora,CO
+city,964,empty,CO
+city,1203,empty,Dallas
+city,1590,Buena Vista,CO
+city,1382,Buena Vista,CO
+city,1110,empty,CO
+city,1014,Buena Vista,CO
+city,911,Buena Vista,CO
+city,680,Buena Vitsa,CO
+city,395,Buena Vista,CO
+city,673,Seattle,WA
+city,2604,Misahwaka,Mishawaka
+city,983,empty,Pawtucket
+city,982,empty,Pawtucket
+city,1803,empty,Astoria
+city,552,empty,Astoria
+city,1873,empty,Dallas
+city,1635,Tmepe,Tempe
+city,1174,Seattle,WA
+city,1116,Seattle,WA
+city,994,Seattle,WA
+city,901,Seattle,WA
+city,875,Seattle,WA
+city,858,Seattle,WA
+city,857,Seattle,WA
+city,2587,Kalamazoo,Mt. Airy
+city,1702,empty,Aurora
+city,1700,empty,Aurora
+city,539,Davenport,Tampa
+city,2142,empty,Birmingham
+city,2141,empty,Birmingham
+city,1857,Seattle,WA
+city,1440,Seattle,WA
+city,2059,empty,Boston
+city,1340,Bostuon,Boston
+city,769,empty,Boston
+city,2179,Hilo,San Francisco
+city,904,San Diego,San Francisco
+city,889,Seattle,WA
+city,724,Seattle,WA
+city,497,Seattle,WA
+city,496,Seattle,WA
+city,1834,Pittsburgh,CO
+city,501,empty,Austin
+city,2383,Milwaukee,Tampa
+city,1903,Mfinneapolis,Minneapolis
+city,688,empty,Athens
+city,1523,Stevens Point,San Francisco
+city,759,Missoua,Missoula
+city,87,empty,Missoula
+city,2492,Portage,San Francisco
+city,1571,Menominee,Menominie
+city,1671,empty,Santee
+city,2178,Hiol,Hilo
+city,1508,empty,Miami
+city,1325,Miami,San Francisco
+city,2667,San Diego,San Francisco
+city,2535,empty,Chicago
+city,1080,empty,Milwaukee
+city,2280,empty,Monroe
+city,2441,San iego,San Diego
+city,1493,empty,San Diego
+city,768,Lake Havasu City,San Francisco
+city,326,empty,Lake Havasu City
+city,747,Porltand,Portland
+city,1114,New Olreans,New Orleans
+city,1306,empty,Slippery Rock
+city,2692,Minneapolis,San Francisco
+city,1917,empty,Ipswich
+city,128,empty,O'Fallon
+city,2069,Austin,Fort Collins
+city,2334,Arvaad,Arvada
+city,2302,Longmont,CO
+city,1883,Longmont,CO
+city,1859,Longmont,CO
+city,1790,Longmont,CO
+city,1752,Longmont,CO
+city,1751,Longmont,CO
+city,1750,Longmont,CO
+city,1444,Longmont,CO
+city,1252,Longmont,CO
+city,1167,Longmont,CO
+city,993,Longmont,CO
+city,992,Longmont,CO
+city,955,Longmont,CO
+city,933,Longmont,Indianapolis
+city,892,Longmont,CO
+city,828,Longmont,CO
+city,806,Longmont,CO
+city,755,Longmont,CO
+city,754,Longmont,CO
+city,726,Longmont,CO
+city,720,Longmont,CO
+city,661,Longmont,Indianapolis
+city,585,Longmont,CO
+city,565,Longmont,CO
+city,391,Longmont,CO
+city,388,Longmont,CO
+city,8,Longmont,CO
+city,7,Longmont,CO
+city,6,Longmont,CO
+city,5,Longmont,CO
+city,4,Longmont,CO
+city,1,Longmont,CO
+city,805,Lyons,CO
+city,804,Lyons,CO
+city,803,Lyons,CO
+city,787,Lyons,CO
+city,786,Lyons,CO
+city,785,Lyons,CO
+city,745,Lyons,CO
+city,744,Lyons,CO
+city,743,Lyons,CO
+city,742,Lyons,CO
+city,741,Lyons,CO
+city,734,Lyons,CO
+city,733,Lyons,CO
+city,1532,Brevadr,Brevard
+city,1328,Brevard,CO
+city,1175,empty,CO
+city,1166,Brevard,CO
+city,1065,Brevard,CO
+city,1946,Waterbury,Middlebury
+city,2628,empty,Comstock Park
+city,1060,SanAntonio,San Antonio
+city,2559,Chicago,San Francisco
+city,711,Dillon,San Francisco
+city,399,Seattle,WA
+city,82,Seattle,WA
+city,1861,Blanco,Brooklyn Center
+city,945,Wooodinville,WA
+city,583,Woodinville,WA
+city,339,Woodinville,WA
+city,2414,Denver,CO
+city,1581,Denver,CO
+city,1176,Denvre,CO
+city,1006,Denver,CO
+city,1005,Denver,CO
+city,636,Denver,CO
+city,2580,Portland,East Fairfield
+city,2373,Export,Tampa
+city,1995,Chandler,Tampa
+city,1503,Seattle,WA
+city,1466,Seattle,WA
+city,1245,Seattle,WA
+city,1416,Seattle,WA
+city,1415,Seattle,WA
+city,2090,empty,Brooklyn
+city,1608,Brooklny,Brooklyn
+city,630,Brodoklyn,Brooklyn
+city,1942,Durango,CO
+city,1708,Durango,CO
+city,1521,Durango,CO
+city,1297,Durango,CO
+city,1192,Durango,CO
+city,1013,Durango,CO
+city,774,Durango,CO
+city,386,Durango,CO
+city,70,Durngo,San Francisco
+city,69,Durango,San Francisco
+city,68,Durango,CO
+city,67,Durango,CO
+city,2536,hicago,Chicago
+city,2305,Phoenixville,Pottstown
+city,1211,Potttsown,Pottstown
+city,2405,Norfolk,Saint Louis
+city,1971,South Austin,San Francisco
+city,1120,Hattiesburg,San Francisco
+city,91,Durango,San Francisco
+city,90,Durango,San Francisco
+city,2232,empty,St Mary's
+city,2352,St Paul,St. Paul
+city,2164,empty,Indianapolis
+city,2084,Idianapolis,Indianapolis
+city,1656,empty,Indianapolis
+city,18,Brooklyn Center,San Francisco
+city,13,zBrooklyn Center,Brooklyn Center
+city,1242,Gainesville,San Francisco
+city,105,empty,Manhattan
+city,103,Manhattn,Manhattan
+city,2155,vEanston,Evanston
+city,1198,Sheridan,San Francisco
+city,1037,empty,Bronx
+city,2421,Bloomfield,Lowell
+city,1938,Albuquerque,San Francisco
+city,1509,Hershey,San Francisco
+city,2235,Seattle,WA
+city,1661,Seattle,WA
+city,1660,Seattle,WA
+city,1659,Seattle,WA
+city,1438,Seattle,WA
+city,1173,Seattle,WA
+city,560,Seattle,WA
+city,519,Seattle,WA
+city,518,Seattle,WA
+city,505,Seattle,WA
+city,482,Seattle,WA
+city,451,Seattle,WA
+city,1121,Warrenville,San Francisco
+city,1823,Salt Lake City,San Francisco
+city,1680,aSlt Lake City,Salt Lake City
+city,1730,Meadville,San Francisco
+city,1030,Westminstcer,Westminster
+city,1029,Westminster,San Francisco
+city,1551,empty,Westfield
+city,2572,Hookxsett,Hooksett
+city,1498,Hudsonville,San Francisco
+city,1513,empty,Bend
+city,1511,Bend,San Francisco
+state,1583,FL,CA
+state,2681,empty,KY
+state,1327,CiA,CA
+state,1326,kCA,CA
+state,1221,A,CA
+state,1217,AC,CA
+state,811,CvA,CA
+state,753,AC,CA
+state,572,A,CA
+state,523,AC,CA
+state,367,A,CA
+state,78,AC,CA
+state,77,AC,CA
+state,76,AC,CA
+state,2509,empty,NC
+state,1620,NC,CA
+state,1876,AL,CA
+state,1875,empty,AL
+state,1644,MA,CA
+state,1778,ME,CA
+state,910,ME,CA
+state,2585,IL,CA
+state,643,TN,CA
+state,1898,empty,CA
+state,2449,MA,MI
+state,1025,NE,CA
+state,88,empty,UT
+state,2422,CO,O
+state,1727,CO,O
+state,1614,CO,O
+state,1613,CO,O
+state,1549,CO,O
+state,1548,CO,O
+state,1517,CO,O
+state,1500,CO,O
+state,1421,CO,O
+state,1360,CO,CA
+state,1184,empty,CA
+state,1183,CO,O
+state,1023,CO,O
+state,998,CO,O
+state,997,CO,O
+state,996,CO,O
+state,931,CO,O
+state,633,CO,O
+state,1289,MT,CA
+state,1800,LF,FL
+state,2619,IN,CA
+state,2466,jMI,MI
+state,2006,empty,MI
+state,921,dAK,AK
+state,2160,IN,CA
+state,1927,MA,FL
+state,2226,WI,CA
+state,1465,empty,OR
+state,1881,OH,CA
+state,2079,NY,FL
+state,1341,I,WI
+state,2011,empty,FL
+state,1726,empty,FL
+state,893,OR,CA
+state,2028,A,GA
+state,1301,D,SD
+state,542,SD,CA
+state,1263,empty,DC
+state,1734,CiA,CA
+state,1731,empty,OR
+state,2659,empty,CA
+state,2611,empty,IN
+state,2045,CA,A
+state,1777,AC,A
+state,1641,AC,A
+state,1399,CdA,A
+state,1296,ClA,A
+state,1034,CkA,A
+state,991,yCA,A
+state,549,ChA,A
+state,548,AC,A
+state,2587,MI,MD
+state,311,L,AL
+state,2650,CO,ClO
+state,2649,CO,ClO
+state,2648,CO,ClO
+state,2647,CO,ClO
+state,2646,CO,ClO
+state,2645,CO,ClO
+state,2644,CO,ClO
+state,2643,CO,ClO
+state,539,AI,FL
+state,2044,RI,RmI
+state,2140,MyI,MI
+state,1753,IiL,IL
+state,2059,empty,MA
+state,2179,HI,CA
+state,1894,A,CA
+state,1893,CjA,CA
+state,1351,CA,AC
+state,1605,empty,OR
+state,1354,empty,OR
+state,498,empty,OR
+state,2383,WI,FL
+state,729,N,MN
+state,558,empty,FL
+state,2595,empty,WI
+state,1523,WI,CA
+state,1254,empty,WI
+state,465,dTX,TX
+state,2492,MI,CA
+state,1356,empty,PA
+state,1325,FL,CA
+state,2668,empty,AC
+state,2667,qCA,CA
+state,2666,CjA,AC
+state,2664,vCA,AC
+state,1272,empty,WI
+state,2280,empty,WI
+state,2278,IW,WI
+state,1459,empty,CA
+state,2159,CA,AC
+state,2154,A,AC
+state,1495,zCA,AC
+state,1492,A,AC
+state,1906,Y,NY
+state,1051,empty,MO
+state,768,AZ,CA
+state,699,empty,OK
+state,2475,CO,O
+state,2230,CO,O
+state,1987,CO,O
+state,1978,CO,O
+state,1975,CO,O
+state,1707,CO,O
+state,1690,CO,O
+state,1586,CO,O
+state,952,CO,O
+state,748,CO,O
+state,578,CO,O
+state,564,CO,O
+state,563,CO,O
+state,115,CO,O
+state,72,CO,O
+state,71,CO,O
+state,2692,MN,CA
+state,1669,OaR,OR
+state,2069,TX,O
+state,2335,CO,O
+state,2334,CO,O
+state,2333,CO,O
+state,1721,CO,O
+state,1720,CO,O
+state,1430,CO,O
+state,1058,A,IA
+state,933,CO,IN
+state,661,CO,IN
+state,1805,empty,ID
+state,1437,xCA,CA
+state,2559,IL,CA
+state,1759,C,NC
+state,711,CO,CA
+state,1861,TX,MN
+state,1086,X,TX
+state,2514,cMD,MD
+state,2580,EM,VT
+state,1807,ME,EM
+state,2373,PA,FL
+state,1878,PnA,PA
+state,1478,empty,CA
+state,1867,CxA,CA
+state,1865,CfA,CA
+state,1864,ChA,CA
+state,1995,AZ,FL
+state,1683,AC,CA
+state,1362,ClA,CA
+state,1765,empty,OH
+state,70,CO,CA
+state,69,CO,CA
+state,2405,empty,MO
+state,1971,TX,CA
+state,1120,MS,CA
+state,2387,empty,TX
+state,1633,LI,IL
+state,91,CO,CA
+state,90,CO,CA
+state,2115,WcI,WI
+state,1599,empty,IN
+state,874,uIN,IN
+state,18,MN,CA
+state,1242,FL,CA
+state,1915,empty,VT
+state,1198,WY,CA
+state,2035,AC,CA
+state,2034,CoA,CA
+state,2421,CT,MA
+state,1938,NM,CA
+state,114,CN,NC
+state,1509,PA,CA
+state,2235,WA,A
+state,1661,WA,A
+state,1660,WA,A
+state,1659,WA,A
+state,1438,WA,A
+state,1173,WA,A
+state,519,WA,A
+state,518,WA,A
+state,505,WA,A
+state,482,WA,A
+state,451,WA,A
+state,1121,IL,CA
+state,1285,empty,CT
+state,1704,empty,MI
+state,25,AC,CA
+state,1823,T,CA
+state,1378,empty,MI
+state,1730,PA,CA
+state,1029,MA,CA
+state,2223,empty,OH
+state,2571,empty,NH
+state,1498,MI,CA
+state,1364,LI,IL
+state,2626,MI,I
+state,1511,OR,CA

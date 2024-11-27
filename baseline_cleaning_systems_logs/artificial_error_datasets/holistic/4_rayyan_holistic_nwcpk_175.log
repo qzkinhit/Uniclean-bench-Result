@@ -1,0 +1,41 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/noise_with_correct_primary_key/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/4_rayyan/noise_with_correct_primary_key/rayyan_1.75/dirty_rayyan_mix_1.75.csv
+Running holistic with dirty file: Data/4_rayyan/noise_with_correct_primary_key/rayyan_1.75/dirty_rayyan_mix_1.75.csv
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:03,  2.04it/s] 22%|██▏       | 2/9 [00:00<00:03,  2.32it/s] 33%|███▎      | 3/9 [00:01<00:02,  2.37it/s] 44%|████▍     | 4/9 [00:01<00:02,  2.48it/s] 56%|█████▌    | 5/9 [00:01<00:01,  2.49it/s] 67%|██████▋   | 6/9 [00:02<00:01,  2.40it/s] 78%|███████▊  | 7/9 [00:02<00:00,  2.44it/s] 89%|████████▉ | 8/9 [00:02<00:00,  3.08it/s]100%|██████████| 9/9 [00:03<00:00,  2.52it/s]
+  0%|                                                               | 0/8 [00:00<?, ?it/s] 12%|██████▉                                                | 1/8 [00:40<04:40, 40.03s/it] 25%|█████████████▊                                         | 2/8 [01:36<04:29, 44.97s/it] 38%|████████████████████▋                                  | 3/8 [02:35<04:05, 49.17s/it] 50%|███████████████████████████▌                           | 4/8 [03:34<03:28, 52.14s/it] 62%|██████████████████████████████████▍                    | 5/8 [04:51<02:58, 59.56s/it] 75%|█████████████████████████████████████████▎             | 6/8 [05:32<01:47, 53.89s/it] 88%|████████████████████████████████████████████████▏      | 7/8 [06:15<00:50, 50.74s/it]100%|███████████████████████████████████████████████████████| 8/8 [06:55<00:00, 47.62s/it]
+  0%|                                                               | 0/8 [00:00<?, ?it/s] 12%|██████▉                                                | 1/8 [00:43<05:07, 43.91s/it] 25%|█████████████▊                                         | 2/8 [01:49<05:02, 50.36s/it] 38%|████████████████████▋                                  | 3/8 [02:54<04:34, 54.81s/it] 50%|███████████████████████████▌                           | 4/8 [03:57<03:48, 57.22s/it] 62%|██████████████████████████████████▍                    | 5/8 [05:20<03:15, 65.09s/it] 75%|█████████████████████████████████████████▎             | 6/8 [06:05<01:58, 59.03s/it] 88%|████████████████████████████████████████████████▏      | 7/8 [06:49<00:54, 54.40s/it]100%|███████████████████████████████████████████████████████| 8/8 [07:32<00:00, 51.11s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/repaired_4_rayyan_nwcpk_175.csv
+holistic finished in 24301.766759872437 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/repaired_4_rayyan_nwcpk_175.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_unrepaired.csv
+修复准确率: 0.009722222222222222, 修复召回率: 0.18584070796460178, F1值: 0.01847778265663156
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_edr_evaluation.txt
+错误减少率 (EDR): -18.442477876106196
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.04334372055020489
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17/4_rayyan_nwcpk_175_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -6.132075471698113
+========================================
+测试结果:
+Accuracy: 0.009722222222222222
+Recall: 0.18584070796460178
+F1 Score: 0.01847778265663156
+EDR: -18.442477876106196
+Hybrid Distance: 0.04334372055020489
+R-EDR: -6.132075471698113
+time(s): 24301.766759872437
+speed: 2430.1766759872435 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_17

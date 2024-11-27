@@ -1,0 +1,165 @@
+Attribute,Index,Clean Value,Cleaned Value
+ProviderNumber,9,10019,10018
+ProviderNumber,91,10006,10018
+ProviderNumber,130,10008,10018
+ProviderNumber,142,10008,10018
+ProviderNumber,271,10016,10018
+ProviderNumber,291,10016,10018
+ProviderNumber,292,10016,10018
+ProviderNumber,987,10050,10008
+HospitalName,9,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,91,eliza coffee memorial hospital,callahan eye foundation hospital
+HospitalName,130,crenshaw community hospital,callahan eye foundation hospital
+HospitalName,136,crenshaw community hospital,empty
+HospitalName,142,crenshaw community hospital,callahan eye foundation hospital
+HospitalName,271,shelby baptist medical center,callahan eye foundation hospital
+HospitalName,291,shelby baptist medical center,callahan eye foundation hospital
+HospitalName,292,shelby baptist medical center,callahan eye foundation hospital
+HospitalName,305,callahan eye foundation hospital,callahan eye foundation hspital
+HospitalName,306,callahan eye foundation hospital,callahan eye fuondation hospital
+HospitalName,314,stringfellow memorial hospital,stringfellow meumorial hospital
+HospitalName,580,g h lanier memorial hospital,mg h lanier memorial hospital
+HospitalName,781,huntsville hospital,huntbsville hospital
+HospitalName,987,st vincents blount,empty
+Address1,9,1300 south montgomery avenue,1720 university blvd
+Address1,91,205 marengo street,1720 university blvd
+Address1,130,101 hospital circle,1720 university blvd
+Address1,142,101 hospital circle,1720 university blvd
+Address1,271,1000 first street north,1720 university blvd
+Address1,291,1000 first street north,1720 university blvd
+Address1,292,1000 first street north,1720 university blvd
+Address1,987,150 gilbreath drive,101 hospital circle
+City,9,sheffield,birmingham
+City,91,florence,birmingham
+City,130,luverne,birmingham
+City,142,luverne,birmingham
+City,271,alabaster,birmingham
+City,291,alabaster,birmingham
+City,292,alabaster,birmingham
+City,987,oneonta,luverne
+State,354,al,empty
+ZipCode,9,35660,35233
+ZipCode,91,35631,35233
+ZipCode,95,36467,35233
+ZipCode,96,36467,35233
+ZipCode,97,36467,35233
+ZipCode,98,36467,35233
+ZipCode,99,36467,35233
+ZipCode,100,36467,35233
+ZipCode,101,36467,35233
+ZipCode,102,36467,35233
+ZipCode,103,36467,35233
+ZipCode,104,36467,35233
+ZipCode,105,36467,35233
+ZipCode,106,36467,35233
+ZipCode,107,36467,35233
+ZipCode,108,36467,35233
+ZipCode,109,36467,35233
+ZipCode,110,36467,35233
+ZipCode,111,36467,35233
+ZipCode,112,36467,35233
+ZipCode,113,36467,35233
+ZipCode,114,36467,35233
+ZipCode,115,36467,35233
+ZipCode,116,36467,35233
+ZipCode,117,36467,35233
+ZipCode,118,36467,35233
+ZipCode,119,36467,35233
+ZipCode,130,36049,35233
+ZipCode,142,36049,35233
+ZipCode,271,35007,35233
+ZipCode,291,35007,35233
+ZipCode,292,35007,35233
+ZipCode,987,35121,36049
+CountyName,91,lauderdale,jefferson
+CountyName,130,crenshaw,jefferson
+CountyName,142,crenshaw,jefferson
+CountyName,271,shelby,jefferson
+CountyName,291,shelby,jefferson
+CountyName,292,shelby,jefferson
+CountyName,987,blount,crenshaw
+PhoneNumber,9,2563864556,2053258100
+PhoneNumber,91,2567688400,2053258100
+PhoneNumber,130,3343353374,2053258100
+PhoneNumber,142,3343353374,2053258100
+PhoneNumber,271,2056208100,2053258100
+PhoneNumber,291,2056208100,2053258100
+PhoneNumber,292,2056208100,2053258100
+PhoneNumber,987,2052743000,3343353374
+HospitalOwner,9,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,10,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,11,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,12,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,13,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,14,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,15,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,16,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,17,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,18,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,19,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,91,voluntary non-profit - other,voluntary non-profit - private
+HospitalOwner,130,government - federal,voluntary non-profit - private
+HospitalOwner,142,government - federal,voluntary non-profit - private
+HospitalOwner,271,voluntary non-profit - church,voluntary non-profit - private
+HospitalOwner,291,voluntary non-profit - church,voluntary non-profit - private
+HospitalOwner,292,voluntary non-profit - church,voluntary non-profit - private
+HospitalOwner,453,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,454,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,455,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,456,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,457,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,458,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,459,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,460,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,461,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,462,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,463,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,464,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,465,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,466,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,987,voluntary non-profit - private,government - federal
+EmergencyService,95,no,yes
+EmergencyService,96,no,yes
+EmergencyService,97,no,yes
+EmergencyService,98,no,yes
+EmergencyService,99,no,yes
+EmergencyService,100,no,yes
+EmergencyService,101,no,yes
+EmergencyService,102,no,yes
+EmergencyService,103,no,yes
+EmergencyService,104,no,yes
+EmergencyService,105,no,yes
+EmergencyService,106,no,yes
+EmergencyService,107,no,yes
+EmergencyService,108,no,yes
+EmergencyService,109,no,yes
+EmergencyService,110,no,yes
+EmergencyService,111,no,yes
+EmergencyService,112,no,yes
+EmergencyService,113,no,yes
+EmergencyService,114,no,yes
+EmergencyService,115,no,yes
+EmergencyService,116,no,yes
+EmergencyService,117,no,yes
+EmergencyService,118,no,yes
+EmergencyService,119,no,yes
+Stateavg,433,ak_hf-1,al_hf-1
+Stateavg,434,ak_hf-2,al_hf-2
+Stateavg,435,ak_hf-3,al_hf-3
+Stateavg,436,ak_hf-4,al_hf-4
+Stateavg,437,ak_pn-2,al_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6
+Stateavg,442,ak_pn-7,al_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1
+Stateavg,452,ak_ami-2,al_ami-2

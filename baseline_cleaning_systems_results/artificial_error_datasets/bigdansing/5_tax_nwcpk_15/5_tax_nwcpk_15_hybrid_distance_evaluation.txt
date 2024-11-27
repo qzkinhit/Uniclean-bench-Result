@@ -1,0 +1,17 @@
+Attribute: tno, MSE: nan, Jaccard: 0.0
+Attribute: fname, MSE: nan, Jaccard: 0.0007419773696901721
+Attribute: lname, MSE: nan, Jaccard: 0.0
+Attribute: gender, MSE: nan, Jaccard: 0.87736601437742
+Attribute: areacode, MSE: nan, Jaccard: 0.050035143660998704
+Attribute: phone, MSE: nan, Jaccard: 0.0
+Attribute: city, MSE: nan, Jaccard: 0.10485783062749998
+Attribute: state, MSE: nan, Jaccard: 0.33504519831172774
+Attribute: zip, MSE: nan, Jaccard: 0.025699930081373168
+Attribute: maritalstatus, MSE: nan, Jaccard: 0.35041601487224827
+Attribute: haschild, MSE: nan, Jaccard: 0.3353360320431794
+Attribute: salary, MSE: nan, Jaccard: 0.0
+Attribute: rate, MSE: 2.958228394578794e-32, Jaccard: 0.17647058823529416
+Attribute: singleexemp, MSE: nan, Jaccard: 0.6686209453215299
+Attribute: marriedexemp, MSE: nan, Jaccard: 0.7266585851488778
+Attribute: childexemp, MSE: nan, Jaccard: 0.7061783292970474
+加权混合距离: 0.13616958091709022

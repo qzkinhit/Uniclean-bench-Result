@@ -1,0 +1,12 @@
+Attribute: index, MSE: nan, Jaccard: 0.0
+Attribute: name, MSE: nan, Jaccard: 0.0
+Attribute: surname, MSE: nan, Jaccard: 0.5358173626865568
+Attribute: birthyear, MSE: nan, Jaccard: 0.7651330792935466
+Attribute: birthplace, MSE: nan, Jaccard: 0.5939878665019576
+Attribute: position, MSE: nan, Jaccard: 0.9744041789107505
+Attribute: team, MSE: nan, Jaccard: 0.8228273528291544
+Attribute: city, MSE: nan, Jaccard: 0.0
+Attribute: stadium, MSE: nan, Jaccard: 0.9100096412546387
+Attribute: season, MSE: nan, Jaccard: 0.0
+Attribute: manager, MSE: nan, Jaccard: 0.0
+加权混合距离: 0.20918997643075476

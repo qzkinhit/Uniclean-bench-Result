@@ -1,0 +1,196 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,64,marshall medical center souh,marshall medical center south
+HospitalName,67,marshall medical center souh,marshall medical center south
+HospitalName,504,cherokee medical enter,cherokee medical center
+HospitalName,516,cherokee medical enter,cherokee medical center
+Address1,2,1720 universityk blvd,1720 university blvd
+Address1,4,1720 uniersity blvd,1720 university blvd
+Address1,35,1108 rossc lark circle,1108 ross clark circle
+Address1,41,empty,1108 ross clark circle
+Address1,93,205 marengo streept,205 marengo street
+Address1,175,8000 aalbama highway 69,8000 alabama highway 69
+Address1,185,8000 alabama ihghway 69,8000 alabama highway 69
+Address1,208,50 mdeical park east drive,50 medical park east drive
+Address1,250,empty,33700 highway 43
+Address1,267,empty,33700 highway 43
+Address1,303,17s20 university blvd,1720 university blvd
+Address1,307,1720 university bmlvd,1720 university blvd
+Address1,308,1720 universty blvd,1720 university blvd
+Address1,309,1720 nuiversity blvd,1720 university blvd
+Address1,310,1720 universityc blvd,1720 university blvd
+Address1,311,1720 univerity blvd,1720 university blvd
+Address1,314,301 east 18th rst,301 east 18th st
+Address1,330,301 east18th st,301 east 18th st
+Address1,366,empty,1530 u s highway 43
+Address1,428,empty,315 w hickory st
+Address1,441,801 debarr road,2801 debarr road
+Address1,442,empty,2801 debarr road
+Address1,499,00 northwood dr,400 northwood dr
+Address1,504,400 nworthwood dr,400 northwood dr
+Address1,532,2105 east southb oulevard,2105 east south boulevard
+Address1,551,empty,1725 pine street
+Address1,582,empty,4800 48th st
+Address1,620,empty,2000 pepperell parkway
+Address1,628,empty,2000 pepperell parkway
+Address1,684,empty,619 south 19th street
+Address1,696,empty,805 friendship road
+Address1,721,empty,1912 alabama highway 157
+Address1,736,1912 alabam ahighway 157,1912 alabama highway 157
+Address1,758,empty,849 south three notch street
+Address1,793,101c sivley rd,101 sivley rd
+Address1,816,1007 gooydear avenue,1007 goodyear avenue
+Address1,821,1007 goodyear avewnue,1007 goodyear avenue
+Address1,879,1653 temple avenue orth,1653 temple avenue north
+Address1,910,600 outh third street,600 south third street
+Address1,924,600 sout third street,600 south third street
+Address1,985,empty,150 gilbreath drive
+Address1,990,150 gilbreath hdrive,150 gilbreath drive
+City,28,dthan,dothan
+City,187,birmingham,guntersville
+City,188,birmingham,guntersville
+City,189,birmingham,guntersville
+City,190,birmingham,guntersville
+City,191,birmingham,guntersville
+City,192,birmingham,guntersville
+City,193,birmingham,guntersville
+City,396,rpattville,prattville
+City,460,sheffeild,sheffield
+City,465,sheffeild,sheffield
+City,561,montgomeory,montgomery
+City,891,fayete,fayette
+ZipCode,95,35233,36467
+ZipCode,96,35233,36467
+ZipCode,97,35233,36467
+ZipCode,98,35233,36467
+ZipCode,99,35233,36467
+ZipCode,100,35233,36467
+ZipCode,101,35233,36467
+ZipCode,172,35967,35976
+ZipCode,188,35967,35976
+ZipCode,825,35093,35903
+CountyName,7,empty,jefferson
+CountyName,23,hosuton,houston
+CountyName,32,empty,houston
+CountyName,47,empty,marshall
+CountyName,114,empty,covington
+CountyName,124,bcrenshaw,crenshaw
+CountyName,135,rcenshaw,crenshaw
+CountyName,162,mrogan,morgan
+CountyName,184,marshal,marshall
+CountyName,239,empty,de kalb
+CountyName,270,shelzby,shelby
+CountyName,278,empty,shelby
+CountyName,286,empty,shelby
+CountyName,287,shcelby,shelby
+CountyName,288,shlby,shelby
+CountyName,289,sehlby,shelby
+CountyName,290,nshelby,shelby
+CountyName,291,hselby,shelby
+CountyName,294,shelyb,shelby
+CountyName,339,empty,houston
+CountyName,452,bthel,bethel
+CountyName,517,motngomery,montgomery
+CountyName,518,montgomvery,montgomery
+CountyName,529,empty,montgomery
+CountyName,578,chtambers,chambers
+CountyName,582,chammbers,chambers
+CountyName,597,empty,coffee
+CountyName,608,cofee,coffee
+CountyName,642,empty,randolph
+CountyName,772,calhun,calhoun
+CountyName,825,empty,etowah
+CountyName,879,empty,fayette
+CountyName,897,empty,fayette
+CountyName,948,empty,butler
+PhoneNumber,229,2586453150,2568453150
+HospitalOwner,2,empty,voluntary non-profit - private
+HospitalOwner,21,empty,government - hospital district or authority
+HospitalOwner,62,empty,government - hospital district or authority
+HospitalOwner,207,empty,voluntary non-profit - private
+HospitalOwner,223,empty,voluntary non-profit - church
+HospitalOwner,239,empty,voluntary non-profit - church
+HospitalOwner,247,empty,government - federal
+HospitalOwner,263,empty,government - federal
+HospitalOwner,460,government - hospital district or authoriyt,government - hospital district or authority
+HospitalOwner,461,government - hospital district or authoriyt,government - hospital district or authority
+HospitalOwner,636,empty,government - hospital district or authority
+HospitalOwner,700,empty,voluntary non-profit - private
+HospitalOwner,807,empty,proprietary
+HospitalOwner,879,empty,voluntary non-profit - other
+HospitalOwner,898,empty,voluntary non-profit - other
+HospitalOwner,931,empty,voluntary non-profit - private
+HospitalOwner,986,empty,voluntary non-profit - private
+EmergencyService,14,eys,yes
+EmergencyService,36,ys,yes
+EmergencyService,77,es,yes
+EmergencyService,266,es,yes
+EmergencyService,351,ys,yes
+EmergencyService,467,es,yes
+EmergencyService,495,yse,yes
+EmergencyService,563,yse,yes
+EmergencyService,668,es,yes
+EmergencyService,670,yse,yes
+EmergencyService,671,es,yes
+EmergencyService,889,es,yes
+Condition,71,heart atack,heart attack
+Condition,121,herat attack,heart attack
+Condition,196,heart atack,heart attack
+Condition,296,heart attack***,heart attack
+Condition,315,heart attack***,heart attack
+Condition,694,herat attack,heart attack
+MeasureName,18,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,19,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given smoking cessation advice/counseling
+MeasureName,20,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given aspirin at arrival
+MeasureName,21,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given aspirin at discharge
+MeasureName,22,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,23,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given smoking cessation advice/counseling
+MeasureName,24,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given beta blocker at discharge
+MeasureName,25,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,26,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given pci within 90 minutes of arrival
+MeasureName,27,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given discharge instructions
+MeasureName,28,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,29,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,30,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given smoking cessation advice/counseling
+MeasureName,31,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,32,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,102,empty,heart failure patients given discharge instructions
+MeasureName,178,empty,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,192,empty,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,214,empty,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,230,empty,heart failure patients given smoking cessation advice/counseling
+MeasureName,284,empty,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,347,empty,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+MeasureName,379,empty,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,442,empty,pneumonia patients assessed and given influenza vaccination
+MeasureName,509,empty,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,704,empty,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,714,empty,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,879,empty,heart attack patients given aspirin at discharge
+MeasureName,926,empty,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,962,empty,heart attack patients given pci within 90 minutes of arrival
+Stateavg,61,empty,al_pn-7
+Stateavg,85,empty,al_pn-6
+Stateavg,137,l_scip-card-2,al_scip-card-2
+Stateavg,162,al_cip-card-2,al_scip-card-2
+Stateavg,208,empty,al_pn-4
+Stateavg,212,alscip-card-2,al_scip-card-2
+Stateavg,226,alami-8a,al_ami-8a
+Stateavg,250,empty,al_ami-7a
+Stateavg,404,empty,al_pn-3b
+Stateavg,466,empty,al_scip-vte-2
+Stateavg,497,empty,al_ami-7a
+Stateavg,535,empty,al_scip-inf-1
+Stateavg,540,al_scip-vte1-,al_scip-vte-1
+Stateavg,563,al_csip-inf-4,al_scip-inf-4
+Stateavg,581,empty,al_pn-5c
+Stateavg,596,empty,al_ami-5
+Stateavg,637,al_scip-nif-3,al_scip-inf-3
+Stateavg,678,empty,al_pn-2
+Stateavg,691,al_scpi-vte-2,al_scip-vte-2
+Stateavg,794,empty,al_pn-7
+Stateavg,823,empty,al_scip-inf-3
+Stateavg,865,empty,al_pn-3b
+Stateavg,924,al_sci-inf-1,al_scip-inf-1
+Stateavg,949,al_scip-inf1-,al_scip-inf-1
+Stateavg,974,al_sci-inf-1,al_scip-inf-1
+Stateavg,999,empty,al_scip-inf-1

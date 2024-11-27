@@ -1,0 +1,255 @@
+Attribute,Index,Dirty Value,Clean Value
+beer_name,1535,kentucky kölsch,kentucky k?lsch
+beer_name,1738,the kimmie the yink and the holy gose,"the kimmie, the yink and the holy gose"
+beer_name,1640,aslan kölsch,aslan k?lsch
+beer_name,1408,kölsch 151,k?lsch 151
+beer_name,2204,post time kölsch,post time k?lsch
+beer_name,1802,you're my boy blue,"you're my boy, blue"
+beer_name,2654,32°/50° kölsch,32°/50° k?lsch
+beer_name,129,heiner brau kölsch,heiner brau k?lsch
+beer_name,1804,mjöllnir,mj?llnir
+beer_name,1452,laimas kölsch style ale,laimas k?lsch style ale
+beer_name,2309,sunbru kölsch,sunbru k?lsch
+beer_name,178,sunbru kölsch,sunbru k?lsch
+beer_name,1034,cabrillo kölsch,cabrillo k?lsch
+beer_name,2142,screamin�?pumpkin,screamin??pumpkin
+beer_name,195,lancaster german style kölsch,lancaster german style k?lsch
+beer_name,1081,occidental kölsch,occidental k?lsch
+beer_name,1087,side kick kölsch,side kick k?lsch
+beer_name,1760,greybeard�?ipa,greybeard??ipa
+beer_name,92,colorado kölsch,colorado k?lsch
+beer_name,105,köld lager (2010),k?ld lager (2010)
+beer_name,936,loafin bräu,loafin br?u
+style,2217,kölsch,k?lsch
+style,1535,kölsch,k?lsch
+style,550,kölsch,k?lsch
+style,1640,kölsch,k?lsch
+style,1579,märzen / oktoberfest,m?rzen / oktoberfest
+style,1401,kölsch,k?lsch
+style,1408,kölsch,k?lsch
+style,1613,märzen / oktoberfest,m?rzen / oktoberfest
+style,1281,märzen / oktoberfest,m?rzen / oktoberfest
+style,2204,kölsch,k?lsch
+style,2654,kölsch,k?lsch
+style,427,kölsch,k?lsch
+style,2055,kölsch,k?lsch
+style,2019,kölsch,k?lsch
+style,2079,märzen / oktoberfest,m?rzen / oktoberfest
+style,2011,märzen / oktoberfest,m?rzen / oktoberfest
+style,2438,kölsch,k?lsch
+style,129,kölsch,k?lsch
+style,681,kölsch,k?lsch
+style,1311,kölsch,k?lsch
+style,1452,kölsch,k?lsch
+style,1968,kölsch,k?lsch
+style,2659,kölsch,k?lsch
+style,2309,kölsch,k?lsch
+style,178,kölsch,k?lsch
+style,1300,kölsch,k?lsch
+style,1034,kölsch,k?lsch
+style,930,märzen / oktoberfest,m?rzen / oktoberfest
+style,539,märzen / oktoberfest,m?rzen / oktoberfest
+style,2461,märzen / oktoberfest,m?rzen / oktoberfest
+style,1567,märzen / oktoberfest,m?rzen / oktoberfest
+style,1380,kölsch,k?lsch
+style,1313,märzen / oktoberfest,m?rzen / oktoberfest
+style,769,kölsch,k?lsch
+style,192,kölsch,k?lsch
+style,989,märzen / oktoberfest,m?rzen / oktoberfest
+style,2383,märzen / oktoberfest,m?rzen / oktoberfest
+style,1458,märzen / oktoberfest,m?rzen / oktoberfest
+style,1235,kölsch,k?lsch
+style,195,kölsch,k?lsch
+style,475,kölsch,k?lsch
+style,1816,kölsch,k?lsch
+style,1626,märzen / oktoberfest,m?rzen / oktoberfest
+style,2662,kölsch,k?lsch
+style,1617,märzen / oktoberfest,m?rzen / oktoberfest
+style,314,märzen / oktoberfest,m?rzen / oktoberfest
+style,1081,kölsch,k?lsch
+style,696,kölsch,k?lsch
+style,1087,kölsch,k?lsch
+style,417,märzen / oktoberfest,m?rzen / oktoberfest
+style,1992,märzen / oktoberfest,m?rzen / oktoberfest
+style,2373,märzen / oktoberfest,m?rzen / oktoberfest
+style,1552,kölsch,k?lsch
+style,1864,kölsch,k?lsch
+style,1995,märzen / oktoberfest,m?rzen / oktoberfest
+style,307,märzen / oktoberfest,m?rzen / oktoberfest
+style,166,märzen / oktoberfest,m?rzen / oktoberfest
+style,1798,kölsch,k?lsch
+style,1482,märzen / oktoberfest,m?rzen / oktoberfest
+style,1969,kölsch,k?lsch
+style,369,märzen / oktoberfest,m?rzen / oktoberfest
+style,92,kölsch,k?lsch
+style,1357,märzen / oktoberfest,m?rzen / oktoberfest
+style,650,kölsch,k?lsch
+style,456,märzen / oktoberfest,m?rzen / oktoberfest
+style,1410,kölsch,k?lsch
+style,874,märzen / oktoberfest,m?rzen / oktoberfest
+style,526,märzen / oktoberfest,m?rzen / oktoberfest
+style,2035,kölsch,k?lsch
+style,1042,märzen / oktoberfest,m?rzen / oktoberfest
+style,1645,märzen / oktoberfest,m?rzen / oktoberfest
+style,1514,kölsch,k?lsch
+brewery_id,2518,67,267
+brewery_name,515,abitda brewing company,abita brewing company
+brewery_name,986,big wood breery,big wood brewery
+brewery_name,1012,bue blood brewing company,blue blood brewing company
+brewery_name,1887,destihl brwery,destihl brewery
+brewery_name,2430,evil czech brweery,evil czech brewery
+brewery_name,858,frsemont brewing company,fremont brewing company
+brewery_name,2649,greaat divide brewing company,great divide brewing company
+brewery_name,189,gerat river brewery,great river brewery
+brewery_name,2408,empty,jailbreak brewing company
+brewery_name,1254,james pag brewing company,james page brewing company
+brewery_name,574,long trail berwing company,long trail brewing company
+brewery_name,2582,lost nation berwing,lost nation brewing
+brewery_name,962,empty,mactarnahans brewing company
+brewery_name,1952,empty,mountain town brewing company
+brewery_name,1946,otter creke brewing,otter creek brewing
+brewery_name,2633,perirn brewing company,perrin brewing company
+brewery_name,2559,empty,pipeworks brewing company
+brewery_name,2599,santan brewing comany,santan brewing company
+brewery_name,839,empty,santan brewing company
+brewery_name,2406,smartmouth bmrewing company,smartmouth brewing company
+brewery_name,361,tailgajte beer,tailgate beer
+brewery_name,827,telluride brexwing company,telluride brewing company
+brewery_name,2455,the lion brewrey,the lion brewery
+brewery_name,1732,teh traveler beer company,the traveler beer company
+brewery_name,2445,tröegs brewing company,tr?egs brewing company
+brewery_name,2444,tröegs brewing company,tr?egs brewing company
+brewery_name,2203,tröegs brewing company,tr?egs brewing company
+brewery_name,1510,tröegs brewing company,tr?egs brewing company
+brewery_name,1509,tröegs brewing company,tr?egs brewing company
+brewery_name,575,westbrook brewing compny,westbrook brewing company
+brewery_name,2417,woodstock inn station & brewery,"woodstock inn, station & brewery"
+brewery_name,2306,woodstock inn station & brewery,"woodstock inn, station & brewery"
+city,2258,empty,gary
+city,1426,bwloomfield,bloomfield
+city,2496,empty,duluth
+city,1541,empty,lincoln
+city,633,eale,eagle
+city,1573,bozemn,bozeman
+city,2597,grandr apids,grand rapids
+city,2548,grand arpids,grand rapids
+city,2541,grand apids,grand rapids
+city,2504,grand rapis,grand rapids
+city,2499,grand arpids,grand rapids
+city,2481,rgand rapids,grand rapids
+city,2476,rand rapids,grand rapids
+city,2467,grand rapis,grand rapids
+city,2466,grnad rapids,grand rapids
+city,2416,grand arpids,grand rapids
+city,2290,grnad rapids,grand rapids
+city,2241,grand arpids,grand rapids
+city,2240,grandr apids,grand rapids
+city,2101,rand rapids,grand rapids
+city,2091,grandrapids,grand rapids
+city,2086,rand rapids,grand rapids
+city,627,grandrapids,grand rapids
+city,385,grand rapis,grand rapids
+city,793,empty,ashland
+city,1719,empty,morganton
+city,2003,empty,denver
+city,982,empty,pawtucket
+city,2171,empty,astoria
+city,2303,empty,aurora
+city,1244,daveonport,davenport
+city,655,empty,davenport
+city,190,davenpyort,davenport
+city,2375,empty,birmingham
+city,1653,empty,boston
+city,2195,springifeld,springfield
+city,2163,empty,kalona
+city,1686,oyrk,york
+city,125,empty,flagstaff
+city,1716,belafst,belfast
+city,2275,empty,monroe
+city,521,empty,bucryus
+city,399,seabttle,seattle
+city,2579,empty,export
+city,2249,empty,lansdale
+city,1995,chanler,chandler
+city,764,chandlre,chandler
+city,2024,empty,southampton
+city,2296,empty,hattiesburg
+city,925,hhuntsville,huntsville
+city,874,empty,indianapolis
+city,1164,empty,san diego
+city,2555,empty,manhattan
+city,2447,empty,bridgman
+city,1982,empty,evanston
+city,1277,traverse ciy,traverse city
+city,2622,evnasville,evansville
+city,974,empty,salt lake city
+city,543,empty,santa cruz
+city,1681,nsalt lake city,salt lake city
+city,1836,empty,portland
+city,1194,empty,nellysford
+city,2417,empty,north woodstock
+state,173,a,ca
+state,2403,empty,or
+state,1818,a,ca
+state,1738,a,ca
+state,2589,oc,co
+state,1776,a,ma
+state,1422,empty,co
+state,168,empty,mt
+state,1898,a,ca
+state,1897,a,ca
+state,1896,a,ca
+state,1496,empty,mi
+state,1319,empty,ne
+state,1614,empty,co
+state,1183,empty,co
+state,397,oc,co
+state,83,empty,co
+state,2315,empty,or
+state,1941,empty,nj
+state,2349,empty,fl
+state,809,empty,il
+state,901,empty,wa
+state,1960,a,ca
+state,1489,empty,ca
+state,1296,empty,ca
+state,143,za,az
+state,142,za,az
+state,1331,empty,va
+state,1405,empty,pa
+state,1675,empty,pa
+state,2332,empty,nc
+state,1090,empty,vt
+state,1475,a,ga
+state,1262,empty,nm
+state,1046,empty,mo
+state,326,za,az
+state,132,za,az
+state,131,za,az
+state,314,empty,ri
+state,585,empty,co
+state,847,empty,mo
+state,64,za,az
+state,2063,za,az
+state,1995,z,az
+state,1934,axz,az
+state,1329,z,az
+state,1299,aqz,az
+state,1073,ajz,az
+state,1072,za,az
+state,1071,za,az
+state,852,z,az
+state,850,z,az
+state,839,zaz,az
+state,777,aqz,az
+state,764,za,az
+state,317,z,az
+state,286,za,az
+state,285,empty,az
+state,124,avz,az
+state,2405,a,va
+state,1969,empty,tx
+state,1820,empty,il
+state,2155,empty,il
+state,1748,empty,ny
+state,2561,oc,co

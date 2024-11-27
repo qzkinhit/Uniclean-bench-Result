@@ -1,0 +1,22 @@
+Attribute: index, MSE: nan, Jaccard: 0.0
+Attribute: ProviderNumber, MSE: nan, Jaccard: 0.0
+Attribute: HospitalName, MSE: nan, Jaccard: 0.43626926941995436
+Attribute: Address1, MSE: nan, Jaccard: 0.18901298701298697
+Attribute: Address2, MSE: nan, Jaccard: 0.0
+Attribute: Address3, MSE: nan, Jaccard: 0.0
+Attribute: City, MSE: nan, Jaccard: 0.20300561029009312
+Attribute: State, MSE: nan, Jaccard: 0.6006122448979592
+Attribute: ZipCode, MSE: nan, Jaccard: 0.18674235533339467
+Attribute: CountyName, MSE: nan, Jaccard: 0.2141463414634147
+Attribute: PhoneNumber, MSE: nan, Jaccard: 0.17657474600870826
+Attribute: HospitalType, MSE: nan, Jaccard: 0.0
+Attribute: HospitalOwner, MSE: nan, Jaccard: 0.7179350540716166
+Attribute: EmergencyService, MSE: nan, Jaccard: 0.0
+Attribute: Condition, MSE: nan, Jaccard: 0.7759089680707503
+Attribute: MeasureCode, MSE: nan, Jaccard: 0.0
+Attribute: MeasureName, MSE: nan, Jaccard: 0.6061834881705362
+检查你指定的属性 Score 是否为数值型！
+Attribute: Score, MSE: nan, Jaccard: 0.0
+Attribute: Sample, MSE: nan, Jaccard: 0.0
+Attribute: Stateavg, MSE: nan, Jaccard: 0.3327191535493982
+加权混合距离: 0.11097775545722033

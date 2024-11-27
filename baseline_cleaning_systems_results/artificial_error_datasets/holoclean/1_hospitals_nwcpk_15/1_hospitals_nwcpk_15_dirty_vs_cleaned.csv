@@ -1,0 +1,271 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,77,nan,eliza coffee memorial hospital
+HospitalName,118,nan,mizell memorial hospital
+HospitalName,162,nan,hartselle medical center
+HospitalName,165,nan,hartselle medical center
+HospitalName,178,nan,marshall medical center north
+HospitalName,193,nan,marshall medical center north
+HospitalName,246,nan,southwest alabama medical center
+HospitalName,358,nan,northwest medical center
+HospitalName,397,nan,prattville baptist hospital
+HospitalName,418,nan,coosa valley medical center
+HospitalName,487,nan,dale medical center
+HospitalName,631,nan,east alabama medical center and snf
+HospitalName,659,nan,wedowee hospital
+HospitalName,689,nan,university of alabama hospital
+HospitalName,853,nan,marion regional medical center
+Address1,41,nan,1108 ross clark circle
+Address1,93,205 marengo streept,205 marengo street
+Address1,175,8000 aalbama highway 69,8000 alabama highway 69
+Address1,185,8000 alabama ihghway 69,8000 alabama highway 69
+Address1,208,50 mdeical park east drive,50 medical park east drive
+Address1,250,nan,33700 highway 43
+Address1,267,nan,33700 highway 43
+Address1,330,301 east18th st,301 east 18th st
+Address1,366,nan,1530 u s highway 43
+Address1,428,nan,315 w hickory st
+Address1,441,801 debarr road,2801 debarr road
+Address1,442,nan,2801 debarr road
+Address1,499,00 northwood dr,400 northwood dr
+Address1,504,400 nworthwood dr,400 northwood dr
+Address1,532,2105 east southb oulevard,2105 east south boulevard
+Address1,551,nan,1725 pine street
+Address1,582,nan,4800 48th st
+Address1,620,nan,2000 pepperell parkway
+Address1,628,nan,2000 pepperell parkway
+Address1,684,nan,619 south 19th street
+Address1,696,nan,805 friendship road
+Address1,721,nan,1912 alabama highway 157
+Address1,736,1912 alabam ahighway 157,1912 alabama highway 157
+Address1,758,nan,849 south three notch street
+Address1,793,101c sivley rd,101 sivley rd
+Address1,816,1007 gooydear avenue,1007 goodyear avenue
+Address1,821,1007 goodyear avewnue,1007 goodyear avenue
+Address1,879,1653 temple avenue orth,1653 temple avenue north
+Address1,910,600 outh third street,600 south third street
+Address1,924,600 sout third street,600 south third street
+Address1,985,nan,150 gilbreath drive
+Address1,990,150 gilbreath hdrive,150 gilbreath drive
+City,28,dthan,dothan
+City,128,nan,luverne
+City,150,nan,hartselle
+City,233,nan,fort payne
+City,257,nan,thomasville
+City,259,thomaseville,thomasville
+City,302,nan,birmingham
+City,396,rpattville,prattville
+City,447,nan,anchorage
+City,483,xozark,ozark
+City,485,oazrk,ozark
+City,488,nan,ozark
+City,530,nan,montgomery
+City,561,montgomeory,montgomery
+City,566,nan,montgomery
+City,638,nan,opelika
+City,713,nan,tallassee
+City,729,cugllman,cullman
+City,764,andlausia,andalusia
+City,775,nan,huntsville
+City,887,nan,fayette
+City,891,fayete,fayette
+City,893,nan,fayette
+City,908,gadsdne,gadsden
+City,912,gabdsden,gadsden
+City,951,nan,georgiana
+State,6,l,al
+State,7,fal,al
+State,8,l,al
+State,150,nan,al
+State,163,nan,al
+State,215,nan,al
+State,224,zal,al
+State,295,ail,al
+State,297,l,al
+State,298,la,al
+State,300,nan,al
+State,319,la,al
+State,337,nan,al
+State,462,nan,al
+State,486,nan,al
+State,536,ial,al
+State,640,nan,al
+State,707,la,al
+State,719,nan,al
+State,735,nan,al
+State,739,nan,al
+State,748,nan,al
+State,755,qal,al
+State,775,l,al
+State,789,nan,al
+State,791,dal,al
+State,800,mal,al
+State,839,adl,al
+State,886,nan,al
+State,920,nan,al
+ZipCode,13,nan,35660
+ZipCode,40,nan,36302
+ZipCode,174,nan,35976
+ZipCode,214,nan,35235
+ZipCode,269,37684,36784
+ZipCode,278,5007,35007
+ZipCode,316,nan,36201
+ZipCode,360,35594***,35594
+ZipCode,361,nan,35594
+ZipCode,371,3559j4,35594
+ZipCode,489,nan,36360
+ZipCode,591,nan,36854
+ZipCode,605,6323,36323
+ZipCode,670,nan,35233
+ZipCode,743,63420,36420
+ZipCode,755,nan,36420
+ZipCode,762,nan,36420
+ZipCode,818,nan,35903
+ZipCode,859,nan,35570
+ZipCode,946,nan,36033
+ZipCode,948,nan,36033
+CountyName,7,nan,jefferson
+CountyName,23,hosuton,houston
+CountyName,32,nan,houston
+CountyName,47,nan,marshall
+CountyName,114,nan,covington
+CountyName,124,bcrenshaw,crenshaw
+CountyName,135,rcenshaw,crenshaw
+CountyName,162,mrogan,morgan
+CountyName,184,marshal,marshall
+CountyName,239,nan,de kalb
+CountyName,278,nan,shelby
+CountyName,286,nan,shelby
+CountyName,339,nan,houston
+CountyName,517,motngomery,montgomery
+CountyName,518,montgomvery,montgomery
+CountyName,529,nan,montgomery
+CountyName,578,chtambers,chambers
+CountyName,582,chammbers,chambers
+CountyName,597,nan,coffee
+CountyName,608,cofee,coffee
+CountyName,642,nan,randolph
+CountyName,772,calhun,calhoun
+CountyName,825,nan,etowah
+CountyName,879,nan,fayette
+CountyName,897,nan,fayette
+CountyName,948,nan,butler
+PhoneNumber,75,2567688400***,2567688400
+PhoneNumber,115,nan,3344933541
+PhoneNumber,143,334335334,3343353374
+PhoneNumber,229,2586453150,2568453150
+PhoneNumber,236,256m8453150,2568453150
+PhoneNumber,250,nan,3346366221
+PhoneNumber,296,nan,2053258100
+PhoneNumber,323,nan,2562358900
+PhoneNumber,354,nan,2567736511
+PhoneNumber,403,nan,3343614267
+PhoneNumber,406,33j43614267,3343614267
+PhoneNumber,424,25g62495000,2562495000
+PhoneNumber,425,nan,2562495000
+PhoneNumber,481,nan,3347742601
+PhoneNumber,482,nan,3347742601
+PhoneNumber,507,nan,2569275531
+PhoneNumber,511,nan,2569275531
+PhoneNumber,589,nan,3347561400
+PhoneNumber,634,nan,3347493411
+PhoneNumber,726,z2567372000,2567372000
+PhoneNumber,780,nan,2562651000
+PhoneNumber,837,nan,2057552500
+PhoneNumber,858,2059216200***,2059216200
+PhoneNumber,930,256543200,2565435200
+PhoneNumber,931,334q3762205,3343762205
+PhoneNumber,944,343762205,3343762205
+PhoneNumber,977,33434705s84,3343470584
+HospitalOwner,2,nan,voluntary non-profit - private
+HospitalOwner,21,nan,government - hospital district or authority
+HospitalOwner,62,nan,government - hospital district or authority
+HospitalOwner,207,nan,voluntary non-profit - private
+HospitalOwner,223,nan,voluntary non-profit - church
+HospitalOwner,239,nan,voluntary non-profit - church
+HospitalOwner,247,nan,government - federal
+HospitalOwner,263,nan,government - federal
+HospitalOwner,636,nan,government - hospital district or authority
+HospitalOwner,700,nan,voluntary non-profit - private
+HospitalOwner,807,nan,proprietary
+HospitalOwner,879,nan,voluntary non-profit - other
+HospitalOwner,898,nan,voluntary non-profit - other
+HospitalOwner,931,nan,voluntary non-profit - private
+HospitalOwner,986,nan,voluntary non-profit - private
+EmergencyService,14,eys,yes
+EmergencyService,36,ys,yes
+EmergencyService,77,es,yes
+EmergencyService,90,ryes,yes
+EmergencyService,97,nan,no
+EmergencyService,133,yehs,yes
+EmergencyService,155,nan,yes
+EmergencyService,233,yeos,yes
+EmergencyService,266,es,yes
+EmergencyService,307,nan,yes
+EmergencyService,351,ys,yes
+EmergencyService,371,nan,yes
+EmergencyService,432,nan,no
+EmergencyService,448,nan,yes
+EmergencyService,467,es,yes
+EmergencyService,474,yegs,yes
+EmergencyService,495,yse,yes
+EmergencyService,552,zyes,yes
+EmergencyService,562,yoes,yes
+EmergencyService,563,yse,yes
+EmergencyService,585,nan,yes
+EmergencyService,598,nan,yes
+EmergencyService,630,nan,yes
+EmergencyService,667,yets,yes
+EmergencyService,668,es,yes
+EmergencyService,669,kyes,yes
+EmergencyService,670,yse,yes
+EmergencyService,671,es,yes
+EmergencyService,672,lyes,yes
+EmergencyService,673,nan,yes
+EmergencyService,702,nan,no
+EmergencyService,720,nan,yes
+EmergencyService,733,nan,yes
+EmergencyService,770,nan,yes
+EmergencyService,888,ynes,yes
+EmergencyService,889,es,yes
+EmergencyService,921,nan,yes
+Condition,167,surgical infecztion prevention,surgical infection prevention
+Condition,269,surgical infectino prevention,surgical infection prevention
+Condition,317,heat attack,heart attack
+Condition,344,surgcal infection prevention,surgical infection prevention
+Condition,463,gsurgical infection prevention,surgical infection prevention
+Condition,491,surgical infectio prevention,surgical infection prevention
+Condition,548,heart aattack,heart attack
+Condition,694,herat attack,heart attack
+Condition,757,pneumnia,pneumonia
+Condition,934,heart adttack,heart attack
+Condition,936,hart attack,heart attack
+MeasureName,102,nan,heart failure patients given discharge instructions
+MeasureName,178,nan,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,192,nan,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,214,nan,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,230,nan,heart failure patients given smoking cessation advice/counseling
+MeasureName,284,nan,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,347,nan,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+MeasureName,379,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,442,nan,pneumonia patients assessed and given influenza vaccination
+MeasureName,509,nan,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,704,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,714,nan,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,879,nan,heart attack patients given aspirin at discharge
+MeasureName,926,nan,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,962,nan,heart attack patients given pci within 90 minutes of arrival
+Stateavg,61,nan,al_pn-7
+Stateavg,85,nan,al_pn-6
+Stateavg,208,nan,al_pn-4
+Stateavg,250,nan,al_ami-7a
+Stateavg,404,nan,al_pn-3b
+Stateavg,466,nan,al_scip-vte-2
+Stateavg,497,nan,al_ami-7a
+Stateavg,535,nan,al_scip-inf-1
+Stateavg,581,nan,al_pn-5c
+Stateavg,596,nan,al_ami-5
+Stateavg,678,nan,al_pn-2
+Stateavg,794,nan,al_pn-7
+Stateavg,823,nan,al_scip-inf-3
+Stateavg,865,nan,al_pn-3b
+Stateavg,999,nan,al_scip-inf-1

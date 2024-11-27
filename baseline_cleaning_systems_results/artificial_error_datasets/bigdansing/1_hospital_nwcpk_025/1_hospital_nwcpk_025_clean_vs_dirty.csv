@@ -1,0 +1,84 @@
+Attribute,Index,Clean Value,Dirty Value
+HospitalName,9,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,91,eliza coffee memorial hospital,callahan eye foundation hospital
+HospitalName,130,crenshaw community hospital,callahan eye foundation hospital
+HospitalName,136,crenshaw community hospital,empty
+HospitalName,142,crenshaw community hospital,callahan eye foundation hospital
+HospitalName,271,shelby baptist medical center,callahan eye foundation hospital
+HospitalName,291,shelby baptist medical center,callahan eye foundation hospital
+HospitalName,292,shelby baptist medical center,callahan eye foundation hospital
+HospitalName,305,callahan eye foundation hospital,callahan eye foundation hspital
+HospitalName,306,callahan eye foundation hospital,callahan eye fuondation hospital
+HospitalName,314,stringfellow memorial hospital,stringfellow meumorial hospital
+HospitalName,580,g h lanier memorial hospital,mg h lanier memorial hospital
+HospitalName,781,huntsville hospital,huntbsville hospital
+HospitalName,987,st vincents blount,empty
+Address1,12,1300 south montgomery avenue,300 south montgomery avenue
+Address1,89,205 marengo street,empty
+Address1,256,33700 highway 43,33700 highwya 43
+Address1,321,301 east 18th st,301 east 18t st
+Address1,359,1530 u s highway 43,1530 uj s highway 43
+Address1,503,400 northwood dr,empty
+Address1,874,1256 military street south,s1256 military street south
+City,248,thomasville,empty
+City,297,birmingham,irmingham
+City,394,prattville,empty
+City,729,cullman,dcullman
+City,761,andalusia,andalusai
+State,150,al,sal
+State,311,al,l
+State,354,al,empty
+State,443,ak,empty
+State,574,al,zal
+ZipCode,95,36467,35233
+ZipCode,103,36467,63467
+ZipCode,249,36784,empty
+ZipCode,296,35233,32533
+ZipCode,404,36067,n36067
+ZipCode,421,35150,n35150
+ZipCode,545,36106,3606
+ZipCode,628,36801,j36801
+ZipCode,793,35801,empty
+CountyName,244,de kalb,empty
+CountyName,282,shelby,helby
+CountyName,494,cherokee,empty
+CountyName,682,jefferson,jeferson
+CountyName,914,etowah,eowah
+PhoneNumber,3,2053258100,2035258100
+PhoneNumber,44,3347938701,334f7938701
+PhoneNumber,63,2565938310,inf
+PhoneNumber,402,3343614267,empty
+PhoneNumber,590,3347561400,l3347561400
+PhoneNumber,742,3342228466,empty
+PhoneNumber,772,2562358900,25623589t00
+HospitalOwner,10,government - hospital district or authority,government - hospital idstrict or authority
+HospitalOwner,21,government - hospital district or authority,government - hospital district or auhtority
+HospitalOwner,45,government - hospital district or authority,empty
+HospitalOwner,207,voluntary non-profit - private,empty
+HospitalOwner,226,voluntary non-profit - church,voluntar non-profit - church
+HospitalOwner,480,government - hospital district or authority,government -hospital district or authority
+HospitalOwner,902,voluntary non-profit - other,voulntary non-profit - other
+EmergencyService,23,yes,empty
+EmergencyService,309,yes,ys
+EmergencyService,356,yes,ys
+EmergencyService,579,yes,ymes
+EmergencyService,896,yes,empty
+EmergencyService,992,yes,yse
+Condition,41,surgical infection prevention,surgical infection prevefntion
+Condition,66,surgical infection prevention,surgical infectin prevention
+Condition,239,surgical infection prevention,surgicla infection prevention
+Condition,255,heart failure,hart failure
+Condition,820,surgical infection prevention,syurgical infection prevention
+MeasureName,39,surgery patients who were given the  right kind  of antibiotic to help prevent infection,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,40,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,60,pneumonia patients given the most appropriate initial antibiotic(s),pneumonia patents given the most appropriate initial antibiotic(s)
+MeasureName,398,heart attack patients given pci within 90 minutes of arrival,empty
+MeasureName,500,heart failure patients given an evaluation of left ventricular systolic (lvs) function,empty
+MeasureName,567,heart attack patients given aspirin at arrival,heart attack patients given taspirin at arrival
+MeasureName,848,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),surgery patients whose preventive antibiotics were stopped at the right time (withni 24 hours after surgery)
+MeasureName,956,heart attack patients given aspirin at arrival,heart attack patients gven aspirin at arrival
+Stateavg,302,al_hf-1,empty
+Stateavg,541,al_scip-vte-2,empty
+Stateavg,597,al_ami-7a,al_mi-7a
+Stateavg,779,al_ami-2,al_mi-2
+Stateavg,804,al_ami-2,al_mai-2

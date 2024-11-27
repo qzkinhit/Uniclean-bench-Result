@@ -1,0 +1,46 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_1k/subset_directly_extract_soccer_1k_clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_1k/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_soccer_mix_0.25.csv
+Running holistic with dirty file: Data/6_soccer/subset_directly_extract_soccer_1k/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_soccer_mix_0.25.csv
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:00<00:01,  2.58it/s] 33%|███▎      | 2/6 [00:00<00:01,  3.33it/s] 50%|█████     | 3/6 [00:00<00:00,  3.24it/s] 67%|██████▋   | 4/6 [00:01<00:00,  3.44it/s] 83%|████████▎ | 5/6 [00:01<00:00,  3.69it/s]100%|██████████| 6/6 [00:01<00:00,  3.67it/s]100%|██████████| 6/6 [00:01<00:00,  3.49it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:28<01:55, 28.81s/it] 40%|██████████████████████                                 | 2/5 [00:58<01:28, 29.59s/it] 60%|█████████████████████████████████                      | 3/5 [01:28<00:58, 29.35s/it] 80%|████████████████████████████████████████████           | 4/5 [02:08<00:33, 33.94s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:01<00:00, 40.57s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:01<00:00, 36.26s/it]
+Finish Detectings
+Finish Repairing
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:28<01:55, 28.85s/it] 40%|██████████████████████                                 | 2/5 [00:57<01:26, 28.84s/it] 60%|█████████████████████████████████                      | 3/5 [01:26<00:57, 28.62s/it] 80%|████████████████████████████████████████████           | 4/5 [02:06<00:33, 33.12s/it]100%|███████████████████████████████████████████████████████| 5/5 [02:57<00:00, 39.79s/it]100%|███████████████████████████████████████████████████████| 5/5 [02:57<00:00, 35.53s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/repaired_6_soccer_nwcpk_025.csv
+holistic finished in 360.990309715271 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/repaired_6_soccer_nwcpk_025.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_unrepaired.csv
+修复准确率: 0.23270440251572327, 修复召回率: 0.42045454545454547, F1值: 0.2995951416545362
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_edr_evaluation.txt
+错误减少率 (EDR): -0.8863636363636364
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.0273333472852737
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02/6_soccer_nwcpk_025_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.09302325581395349
+========================================
+测试结果:
+Accuracy: 0.23270440251572327
+Recall: 0.42045454545454547
+F1 Score: 0.2995951416545362
+EDR: -0.8863636363636364
+Hybrid Distance: 0.0273333472852737
+R-EDR: -0.09302325581395349
+time(s): 360.990309715271
+speed: 36.0990309715271 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_02

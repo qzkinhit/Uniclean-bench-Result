@@ -1,0 +1,13 @@
+Attribute: index, MSE: nan, Jaccard: 0.0
+Attribute: id, MSE: nan, Jaccard: 0.0
+Attribute: article_title, MSE: nan, Jaccard: 0.0
+Attribute: article_language, MSE: nan, Jaccard: 0.27803953613754284
+Attribute: journal_title, MSE: nan, Jaccard: 0.05877976190476186
+Attribute: journal_abbreviation, MSE: nan, Jaccard: 0.3174906964380648
+Attribute: journal_issn, MSE: nan, Jaccard: 0.029215686274509878
+Attribute: article_jvolumn, MSE: nan, Jaccard: 0.13704151285052224
+Attribute: article_jissue, MSE: nan, Jaccard: 0.029302800169585308
+Attribute: article_jcreated_at, MSE: nan, Jaccard: 0.031519457964230724
+Attribute: article_pagination, MSE: nan, Jaccard: 0.0
+Attribute: author_list, MSE: nan, Jaccard: 0.0
+加权混合距离: 0.03672456048913407

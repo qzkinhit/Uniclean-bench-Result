@@ -1,0 +1,64 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,59,empty,marshall medical center south
+HospitalName,189,empty,marshall medical center north
+HospitalName,482,empty,dale medical center
+HospitalName,665,empty,wedowee hospital
+HospitalName,890,empty,fayette medical center
+City,298,birmingam,birmingham
+City,465,shefftield,sheffield
+City,466,shefield,sheffield
+State,132,empty,al
+State,152,l,al
+State,284,empty,al
+State,310,l,al
+State,311,abl,al
+State,350,la,al
+State,384,l,al
+State,559,la,al
+State,569,empty,al
+State,587,empty,al
+State,737,la,al
+State,762,l,al
+State,772,empty,al
+PhoneNumber,39,334793n8701,3347938701
+PhoneNumber,465,2563864565,2563864556
+PhoneNumber,466,5263864556,2563864556
+PhoneNumber,536,334882100,3342882100
+PhoneNumber,900,20593v25966,2059325966
+HospitalOwner,339,prorpietary,proprietary
+HospitalOwner,356,proprietray,government - hospital district or authority
+HospitalOwner,465,government - hospital district or auhtority,government - hospital district or authority
+HospitalOwner,466,government - hospital district or authoritsy,government - hospital district or authority
+HospitalOwner,493,voluntary non-profit  private,government - hospital district or authority
+HospitalOwner,642,government - local,voluntary non-profit - private
+HospitalOwner,643,government - local,voluntary non-profit - private
+HospitalOwner,644,government - local,voluntary non-profit - private
+HospitalOwner,645,government - local,voluntary non-profit - private
+HospitalOwner,646,government - local,voluntary non-profit - private
+HospitalOwner,647,government - local,voluntary non-profit - private
+HospitalOwner,648,government - local,voluntary non-profit - private
+HospitalOwner,649,government - local,voluntary non-profit - private
+HospitalOwner,650,government - local,voluntary non-profit - private
+HospitalOwner,651,government - local,voluntary non-profit - private
+HospitalOwner,652,government - local,voluntary non-profit - private
+HospitalOwner,653,government - local,voluntary non-profit - private
+HospitalOwner,654,government - local,voluntary non-profit - private
+HospitalOwner,655,government - local,voluntary non-profit - private
+HospitalOwner,656,government - local,voluntary non-profit - private
+HospitalOwner,657,government - local,voluntary non-profit - private
+HospitalOwner,658,government - local,voluntary non-profit - private
+HospitalOwner,659,government - local,voluntary non-profit - private
+HospitalOwner,660,government - local,voluntary non-profit - private
+HospitalOwner,661,government - local,voluntary non-profit - private
+HospitalOwner,662,government - local,voluntary non-profit - private
+HospitalOwner,663,government - local,voluntary non-profit - private
+HospitalOwner,664,government - local,voluntary non-profit - private
+HospitalOwner,665,government - local,voluntary non-profit - private
+HospitalOwner,666,government - local,voluntary non-profit - private
+HospitalOwner,909,poprietary,sheffield
+HospitalOwner,954,voluntary noon-profit - private,voluntary non-profit - private
+Stateavg,191,empty,al_ami-7a
+Stateavg,352,empty,al_ami-7a
+Stateavg,522,empty,al_ami-7a
+Stateavg,818,empty,al_ami-7a
+Stateavg,974,empty,al_ami-7a

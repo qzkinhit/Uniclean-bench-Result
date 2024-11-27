@@ -1,0 +1,1285 @@
+00:59:28 - [DEBUG] - initiating session with parameters: {'db_user': 'datacleanuser', 'db_pwd': 'abcd1234', 'db_host': 'localhost', 'db_name': 'holo', 'threads': 1, 'timeout': 180000, 'seed': 45, 'learning_rate': 0.001, 'optimizer': 'adam', 'epochs': 10, 'weight_decay': 0.01, 'momentum': 0.0, 'batch_size': 1, 'weak_label_thresh': 0.99, 'domain_thresh_1': 0, 'domain_thresh_2': 0, 'max_domain': 10000, 'cor_strength': 0.6, 'nb_cor_strength': 0.8, 'feature_norm': False, 'weight_norm': False, 'estimator_epochs': 3, 'estimator_batch_size': 32, 'verbose': True, 'bias': False, 'print_fw': True, 'debug_mode': False}
+00:59:28 - [WARNING] - Dropping the following null column from the dataset: 'Address2'
+00:59:28 - [WARNING] - Dropping the following null column from the dataset: 'Address3'
+00:59:28 - [ INFO] - Loaded 1000 rows with 18000 cells
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [DEBUG] - Time to create index: 0.00 secs
+00:59:28 - [ INFO] - DONE Loading dirty_hospitals_mix_1.75_holoclean.csv
+00:59:28 - [DEBUG] - Time to load dataset: 0.23 secs
+00:59:28 - [DEBUG] - OPENED constraints file successfully
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.ZipCode,t2.ZipCode)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.ZipCode,t2.ZipCode)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.ZipCode,t2.ZipCode)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.PhoneNumber,t2.PhoneNumber)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.PhoneNumber,t2.PhoneNumber)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.PhoneNumber,t2.PhoneNumber)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.MeasureCode,t2.MeasureCode)&IQ(t1.MeasureName,t2.MeasureName)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.MeasureCode,t2.MeasureCode)&IQ(t1.MeasureName,t2.MeasureName)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.MeasureCode,t2.MeasureCode)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.MeasureName,t2.MeasureName)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.MeasureCode,t2.MeasureCode)&IQ(t1.Stateavg,t2.Stateavg)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.MeasureCode,t2.MeasureCode)&IQ(t1.Stateavg,t2.Stateavg)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.MeasureCode,t2.MeasureCode)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.Stateavg,t2.Stateavg)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.ProviderNumber,t2.ProviderNumber)&IQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.ProviderNumber,t2.ProviderNumber)&IQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.ProviderNumber,t2.ProviderNumber)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.MeasureCode,t2.MeasureCode)&IQ(t1.Condition,t2.Condition)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.MeasureCode,t2.MeasureCode)&IQ(t1.Condition,t2.Condition)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.MeasureCode,t2.MeasureCode)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.Condition,t2.Condition)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.Address1,t2.Address1)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.Address1,t2.Address1)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.Address1,t2.Address1)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.HospitalOwner,t2.HospitalOwner)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.HospitalOwner,t2.HospitalOwner)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.HospitalOwner,t2.HospitalOwner)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.ProviderNumber,t2.ProviderNumber)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.ProviderNumber,t2.ProviderNumber)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.ProviderNumber,t2.ProviderNumber)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.City,t2.City)&IQ(t1.CountyName,t2.CountyName)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.City,t2.City)&IQ(t1.CountyName,t2.CountyName)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.City,t2.City)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.CountyName,t2.CountyName)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.ZipCode,t2.ZipCode)&IQ(t1.EmergencyService,t2.EmergencyService)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.ZipCode,t2.ZipCode)&IQ(t1.EmergencyService,t2.EmergencyService)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.ZipCode,t2.ZipCode)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.EmergencyService,t2.EmergencyService)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.City,t2.City)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.City,t2.City)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.City,t2.City)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.MeasureName,t2.MeasureName)&IQ(t1.MeasureCode,t2.MeasureCode)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.MeasureName,t2.MeasureName)&IQ(t1.MeasureCode,t2.MeasureCode)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.MeasureName,t2.MeasureName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.MeasureCode,t2.MeasureCode)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&EQ(t1.PhoneNumber,t2.PhoneNumber)&EQ(t1.HospitalOwner,t2.HospitalOwner)&IQ(t1.State,t2.State)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.HospitalName,t2.HospitalName)&EQ(t1.PhoneNumber,t2.PhoneNumber)&EQ(t1.HospitalOwner,t2.HospitalOwner)&IQ(t1.State,t2.State)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalName,t2.HospitalName)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.PhoneNumber,t2.PhoneNumber)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.HospitalOwner,t2.HospitalOwner)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.State,t2.State)
+00:59:28 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.Condition,t2.Condition)&EQ(t1.MeasureName,t2.MeasureName)&IQ(t1.HospitalType,t2.HospitalType)
+00:59:28 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.Condition,t2.Condition)&EQ(t1.MeasureName,t2.MeasureName)&IQ(t1.HospitalType,t2.HospitalType)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.Condition,t2.Condition)
+00:59:28 - [DEBUG] - DONE parsing predicate: EQ(t1.MeasureName,t2.MeasureName)
+00:59:28 - [DEBUG] - DONE parsing predicate: IQ(t1.HospitalType,t2.HospitalType)
+00:59:28 - [ INFO] - DONE Loading DCs from dc_rules_dc_holoclean.txt
+00:59:28 - [DEBUG] - Time to load dirty data: 0.01 secs
+00:59:28 - [DEBUG] - DONE with Error Detector: NullDetector in 0.07 secs
+00:59:28 - [DEBUG] - Preparing to execute 15 queries.
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."ZipCode"<>t2."ZipCode") with id 0
+00:59:28 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."PhoneNumber"<>t2."PhoneNumber") with id 1
+00:59:28 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."MeasureCode"=t2."MeasureCode" AND t1."MeasureName"<>t2."MeasureName") with id 2
+00:59:28 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."MeasureCode"=t2."MeasureCode" AND t1."Stateavg"<>t2."Stateavg") with id 3
+00:59:28 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."ProviderNumber"=t2."ProviderNumber" AND t1."HospitalName"<>t2."HospitalName") with id 4
+00:59:28 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."MeasureCode"=t2."MeasureCode" AND t1."Condition"<>t2."Condition") with id 5
+00:59:28 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."Address1"<>t2."Address1") with id 6
+00:59:28 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."HospitalOwner"<>t2."HospitalOwner") with id 7
+00:59:28 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+00:59:28 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."ProviderNumber"<>t2."ProviderNumber") with id 8
+00:59:29 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+00:59:29 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."City"=t2."City" AND t1."CountyName"<>t2."CountyName") with id 9
+00:59:29 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+00:59:29 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."ZipCode"=t2."ZipCode" AND t1."EmergencyService"<>t2."EmergencyService") with id 10
+00:59:29 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+00:59:29 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."City"<>t2."City") with id 11
+00:59:29 - [DEBUG] - Time to execute query with id 11: 0.00 secs
+00:59:29 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."MeasureName"=t2."MeasureName" AND t1."MeasureCode"<>t2."MeasureCode") with id 12
+00:59:29 - [DEBUG] - Time to execute query with id 12: 0.00 secs
+00:59:29 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."HospitalName"=t2."HospitalName" AND t1."PhoneNumber"=t2."PhoneNumber" AND t1."HospitalOwner"=t2."HospitalOwner" AND t1."State"<>t2."State") with id 13
+00:59:29 - [DEBUG] - Time to execute query with id 13: 0.00 secs
+00:59:29 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "hospitals_nwcpk_175" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "hospitals_nwcpk_175" as t2 WHERE t1."Condition"=t2."Condition" AND t1."MeasureName"=t2."MeasureName" AND t1."HospitalType"<>t2."HospitalType") with id 14
+00:59:29 - [DEBUG] - Time to execute query with id 14: 0.00 secs
+00:59:29 - [DEBUG] - Time to execute 15 queries: 0.02 secs
+00:59:29 - [DEBUG] - DONE with Error Detector: ViolationDetector in 0.11 secs
+00:59:29 - [ INFO] - detected 10870 potentially erroneous cells
+00:59:30 - [DEBUG] - Time to create index: 0.00 secs
+00:59:30 - [ INFO] - DONE with error detection.
+00:59:30 - [DEBUG] - Time to detect errors: 1.02 secs
+00:59:34 - [DEBUG] - Time to execute query: 0.00 secs
+00:59:34 - [DEBUG] - computing frequency and co-occurrence statistics from raw data...
+00:59:34 - [DEBUG] - Collecting single/pair-wise statistics...
+00:59:37 - [DEBUG] - DONE computing statistics in 3.36s
+00:59:37 - [DEBUG] - preparing pruned co-occurring statistics...
+
+  0%|          | 0/17 [00:00<?, ?it/s]
+ 88%|████████▊ | 15/17 [00:00<00:00, 86.75it/s]
+100%|██████████| 17/17 [00:00<00:00, 90.03it/s]
+00:59:38 - [DEBUG] - DONE with pruned co-occurring statistics in 0.19 secs
+00:59:38 - [DEBUG] - generating initial set of un-pruned domain values...
+
+  0%|          | 0/1000 [00:00<?, ?it/s]
+  8%|▊         | 82/1000 [00:00<00:01, 813.46it/s]
+ 16%|█▋        | 163/1000 [00:00<00:01, 810.46it/s]
+ 25%|██▍       | 246/1000 [00:00<00:00, 814.85it/s]
+ 32%|███▎      | 325/1000 [00:00<00:00, 806.70it/s]
+ 41%|████      | 406/1000 [00:00<00:00, 806.32it/s]
+ 48%|████▊     | 480/1000 [00:00<00:00, 784.92it/s]
+ 56%|█████▌    | 558/1000 [00:00<00:00, 782.51it/s]
+ 64%|██████▎   | 635/1000 [00:00<00:00, 775.78it/s]
+ 71%|███████   | 709/1000 [00:00<00:00, 764.52it/s]
+ 78%|███████▊  | 785/1000 [00:01<00:00, 758.53it/s]
+ 86%|████████▌ | 859/1000 [00:01<00:00, 735.14it/s]
+ 94%|█████████▍| 938/1000 [00:01<00:00, 749.29it/s]
+100%|██████████| 1000/1000 [00:01<00:00, 768.93it/s]
+00:59:39 - [DEBUG] - DONE generating initial set of domain values in 1.45
+00:59:39 - [DEBUG] - training posterior model for estimating domain value probabilities...
+00:59:39 - [DEBUG] - DONE training posterior model in 0.01s
+00:59:39 - [DEBUG] - predicting domain value probabilities from posterior model...
+00:59:39 - [DEBUG] - DONE predictions in 0.00 secs, re-constructing cell domain...
+00:59:39 - [DEBUG] - re-assembling final cell domain table...
+
+0it [00:00, ?it/s]
+
+  0%|          | 0/15773 [00:00<?, ?it/s][A
+178it [00:00, 1771.57it/s]
+
+  1%|▏         | 212/15773 [00:00<00:07, 2118.40it/s][A
+447it [00:00, 1972.84it/s]
+
+  3%|▎         | 531/15773 [00:00<00:06, 2354.87it/s][A
+780it [00:00, 2243.51it/s]
+
+  5%|▌         | 846/15773 [00:00<00:05, 2546.87it/s][A
+1167it [00:00, 2564.90it/s]
+
+  8%|▊         | 1226/15773 [00:00<00:05, 2824.44it/s][A
+1523it [00:00, 2795.64it/s]
+
+ 10%|▉         | 1560/15773 [00:00<00:04, 2953.78it/s][A
+1818it [00:00, 2836.66it/s]
+
+ 12%|█▏        | 1889/15773 [00:00<00:04, 3039.71it/s][A
+2100it [00:00, 2768.16it/s]
+
+ 14%|█▍        | 2178/15773 [00:00<00:04, 2903.44it/s][A
+2376it [00:00, 2600.51it/s]
+
+ 16%|█▌        | 2460/15773 [00:00<00:04, 2713.86it/s][A
+2685it [00:00, 2729.30it/s]
+
+ 17%|█▋        | 2738/15773 [00:00<00:04, 2729.30it/s][A
+2961it [00:01, 2671.81it/s]
+
+ 19%|█▉        | 3009/15773 [00:01<00:04, 2691.20it/s][A
+3231it [00:01, 2650.18it/s]
+
+ 21%|██        | 3277/15773 [00:01<00:04, 2655.55it/s][A
+3516it [00:01, 2703.91it/s]
+
+ 23%|██▎       | 3577/15773 [00:01<00:04, 2749.91it/s][A
+3876it [00:01, 2921.78it/s]
+
+ 25%|██▍       | 3903/15773 [00:01<00:04, 2884.17it/s][A
+4175it [00:01, 2747.63it/s]
+
+ 27%|██▋       | 4194/15773 [00:01<00:04, 2782.99it/s][A
+4538it [00:01, 2963.66it/s]
+
+ 29%|██▉       | 4585/15773 [00:01<00:03, 3041.30it/s][A
+4844it [00:01, 2906.51it/s]
+
+ 31%|███       | 4898/15773 [00:01<00:03, 2857.62it/s][A
+5204it [00:01, 3084.38it/s]
+
+ 34%|███▎      | 5298/15773 [00:01<00:03, 3124.56it/s][A
+5579it [00:01, 3256.44it/s]
+
+ 36%|███▌      | 5647/15773 [00:01<00:03, 3224.68it/s][A
+5913it [00:01, 3279.26it/s]
+
+ 38%|███▊      | 5996/15773 [00:01<00:02, 3297.97it/s][A
+6248it [00:02, 3299.33it/s]
+
+ 40%|████      | 6334/15773 [00:02<00:02, 3236.00it/s][A
+6582it [00:02, 3269.47it/s]
+
+ 42%|████▏     | 6664/15773 [00:02<00:02, 3165.12it/s][A
+6934it [00:02, 3340.45it/s]
+
+ 45%|████▌     | 7142/15773 [00:02<00:02, 3521.25it/s][A
+7318it [00:02, 3474.90it/s]
+
+ 48%|████▊     | 7510/15773 [00:02<00:02, 3294.49it/s][A
+7669it [00:02, 3458.68it/s]
+
+ 50%|████▉     | 7854/15773 [00:02<00:02, 3104.29it/s][A
+8018it [00:02, 3193.75it/s]
+
+ 52%|█████▏    | 8212/15773 [00:02<00:02, 3231.77it/s][A
+8350it [00:02, 3228.37it/s]
+
+ 55%|█████▍    | 8604/15773 [00:02<00:02, 3406.19it/s][A
+8747it [00:02, 3412.04it/s]
+
+ 57%|█████▋    | 9003/15773 [00:02<00:01, 3555.23it/s][A
+9114it [00:02, 3477.38it/s]
+
+ 59%|█████▉    | 9367/15773 [00:02<00:01, 3563.44it/s][A
+9485it [00:03, 3539.10it/s]
+
+ 62%|██████▏   | 9730/15773 [00:03<00:01, 3575.38it/s][A
+9896it [00:03, 3686.52it/s]
+
+ 64%|██████▍   | 10155/15773 [00:03<00:01, 3752.96it/s][A
+10269it [00:03, 3576.71it/s]
+
+ 67%|██████▋   | 10536/15773 [00:03<00:01, 3614.34it/s][A
+10631it [00:03, 3550.78it/s]
+
+ 69%|██████▉   | 10903/15773 [00:03<00:01, 3287.49it/s][A
+10989it [00:03, 3179.67it/s]
+
+ 71%|███████▏  | 11241/15773 [00:03<00:01, 3129.99it/s][A
+11327it [00:03, 3231.59it/s]
+
+ 73%|███████▎  | 11586/15773 [00:03<00:01, 3219.38it/s][A
+11676it [00:03, 3299.60it/s]
+
+ 76%|███████▌  | 11915/15773 [00:03<00:01, 3191.24it/s][A
+12011it [00:03, 3286.36it/s]
+
+ 78%|███████▊  | 12316/15773 [00:03<00:01, 3398.13it/s][A
+12397it [00:03, 3438.14it/s]
+
+ 81%|████████  | 12781/15773 [00:03<00:00, 3695.38it/s][A
+12883it [00:03, 3768.02it/s]
+
+ 83%|████████▎ | 13163/15773 [00:04<00:00, 3607.83it/s][A
+13273it [00:04, 3606.90it/s]
+
+ 86%|████████▌ | 13533/15773 [00:04<00:00, 3253.91it/s][A
+13644it [00:04, 3213.15it/s]
+
+ 88%|████████▊ | 13872/15773 [00:04<00:00, 3221.73it/s][A
+13981it [00:04, 3107.88it/s]
+
+ 90%|█████████ | 14204/15773 [00:04<00:00, 2972.27it/s][A
+14304it [00:04, 2977.40it/s]
+
+ 93%|█████████▎| 14597/15773 [00:04<00:00, 3206.05it/s][A
+14721it [00:04, 3255.10it/s]
+
+ 95%|█████████▍| 14931/15773 [00:04<00:00, 3228.31it/s][A
+15086it [00:04, 3364.25it/s]
+
+ 97%|█████████▋| 15263/15773 [00:04<00:00, 3222.88it/s][A
+15434it [00:04, 3189.91it/s]
+
+ 99%|█████████▉| 15592/15773 [00:04<00:00, 3124.12it/s][A
+15763it [00:04, 3193.00it/s]
+
+100%|██████████| 15773/15773 [00:04<00:00, 3230.41it/s][A
+15773it [00:04, 3198.92it/s]
+00:59:45 - [DEBUG] - DONE assembling cell domain table in 5.52s
+00:59:45 - [ INFO] - number of (additional) weak labels assigned from posterior model: 414
+00:59:45 - [DEBUG] - DONE generating domain and weak labels
+00:59:48 - [DEBUG] - Time to create index: 0.00 secs
+00:59:48 - [DEBUG] - Time to create index: 0.00 secs
+00:59:48 - [DEBUG] - Time to create index: 0.00 secs
+00:59:48 - [DEBUG] - Time to create table: 0.00 secs
+00:59:50 - [DEBUG] - Time to create index: 0.00 secs
+00:59:50 - [ INFO] - DONE with domain preparation.
+00:59:50 - [DEBUG] - Time to setup the domain: 19.74 secs
+00:59:50 - [DEBUG] - Time to execute query: 0.00 secs
+00:59:50 - [DEBUG] - Time to execute query: 0.00 secs
+00:59:50 - [DEBUG] - Time to execute query: 0.00 secs
+00:59:50 - [DEBUG] - Time to execute query: 0.00 secs
+00:59:50 - [DEBUG] - Time to execute query: 0.00 secs
+00:59:50 - [DEBUG] - featurizing training data...
+00:59:50 - [DEBUG] - Time to execute query: 0.02 secs
+
+  0%|          | 0/15773 [00:00<?, ?it/s]
+  0%|          | 44/15773 [00:00<00:35, 437.07it/s]
+  1%|          | 86/15773 [00:00<00:36, 429.01it/s]
+  1%|          | 129/15773 [00:00<00:36, 423.90it/s]
+  1%|          | 157/15773 [00:00<00:42, 363.69it/s]
+  1%|          | 185/15773 [00:00<00:46, 333.27it/s]
+  1%|▏         | 213/15773 [00:00<00:56, 277.77it/s]
+  2%|▏         | 243/15773 [00:00<00:54, 283.20it/s]
+  2%|▏         | 286/15773 [00:00<00:49, 315.01it/s]
+  2%|▏         | 344/15773 [00:00<00:42, 364.51it/s]
+  2%|▏         | 384/15773 [00:01<00:41, 366.54it/s]
+  3%|▎         | 456/15773 [00:01<00:35, 429.62it/s]
+  3%|▎         | 523/15773 [00:01<00:31, 479.03it/s]
+  4%|▎         | 588/15773 [00:01<00:29, 520.04it/s]
+  4%|▍         | 664/15773 [00:01<00:26, 574.40it/s]
+  5%|▍         | 727/15773 [00:01<00:26, 571.16it/s]
+  5%|▍         | 788/15773 [00:01<00:35, 421.00it/s]
+  5%|▌         | 845/15773 [00:01<00:32, 455.33it/s]
+  6%|▌         | 916/15773 [00:02<00:29, 508.81it/s]
+  6%|▌         | 984/15773 [00:02<00:26, 549.74it/s]
+  7%|▋         | 1045/15773 [00:02<00:27, 530.33it/s]
+  7%|▋         | 1116/15773 [00:02<00:25, 571.64it/s]
+  7%|▋         | 1177/15773 [00:02<00:27, 523.17it/s]
+  8%|▊         | 1233/15773 [00:02<00:27, 520.64it/s]
+  8%|▊         | 1288/15773 [00:02<00:27, 523.03it/s]
+  9%|▊         | 1362/15773 [00:02<00:25, 572.84it/s]
+  9%|▉         | 1440/15773 [00:02<00:23, 620.64it/s]
+ 10%|▉         | 1506/15773 [00:03<00:24, 587.86it/s]
+ 10%|▉         | 1568/15773 [00:03<00:34, 415.41it/s]
+ 10%|█         | 1619/15773 [00:03<00:35, 393.92it/s]
+ 11%|█         | 1673/15773 [00:03<00:32, 428.33it/s]
+ 11%|█         | 1747/15773 [00:03<00:28, 489.61it/s]
+ 11%|█▏        | 1810/15773 [00:03<00:26, 521.49it/s]
+ 12%|█▏        | 1868/15773 [00:03<00:27, 502.85it/s]
+ 12%|█▏        | 1923/15773 [00:04<00:32, 426.36it/s]
+ 12%|█▏        | 1971/15773 [00:04<00:38, 356.49it/s]
+ 13%|█▎        | 2015/15773 [00:04<00:36, 377.28it/s]
+ 13%|█▎        | 2068/15773 [00:04<00:33, 411.08it/s]
+ 14%|█▎        | 2137/15773 [00:04<00:29, 466.42it/s]
+ 14%|█▍        | 2189/15773 [00:04<00:31, 435.14it/s]
+ 14%|█▍        | 2237/15773 [00:04<00:36, 371.63it/s]
+ 14%|█▍        | 2279/15773 [00:04<00:40, 334.19it/s]
+ 15%|█▍        | 2317/15773 [00:05<00:43, 311.01it/s]
+ 15%|█▍        | 2352/15773 [00:05<00:45, 296.20it/s]
+ 15%|█▌        | 2384/15773 [00:05<00:51, 261.67it/s]
+ 15%|█▌        | 2433/15773 [00:05<00:44, 302.79it/s]
+ 16%|█▌        | 2484/15773 [00:05<00:38, 343.75it/s]
+ 16%|█▌        | 2536/15773 [00:05<00:34, 382.46it/s]
+ 16%|█▋        | 2579/15773 [00:05<00:34, 379.26it/s]
+ 17%|█▋        | 2621/15773 [00:05<00:39, 330.26it/s]
+ 17%|█▋        | 2667/15773 [00:06<00:36, 358.67it/s]
+ 17%|█▋        | 2706/15773 [00:06<00:40, 325.54it/s]
+ 17%|█▋        | 2742/15773 [00:06<00:42, 307.09it/s]
+ 18%|█▊        | 2775/15773 [00:06<00:50, 257.58it/s]
+ 18%|█▊        | 2821/15773 [00:06<00:43, 296.46it/s]
+ 18%|█▊        | 2859/15773 [00:06<00:40, 315.26it/s]
+ 18%|█▊        | 2901/15773 [00:06<00:37, 339.47it/s]
+ 19%|█▊        | 2944/15773 [00:06<00:35, 358.35it/s]
+ 19%|█▉        | 2985/15773 [00:07<00:34, 369.77it/s]
+ 19%|█▉        | 3024/15773 [00:07<00:37, 340.33it/s]
+ 19%|█▉        | 3073/15773 [00:07<00:33, 373.95it/s]
+ 20%|█▉        | 3113/15773 [00:07<00:34, 363.43it/s]
+ 20%|█▉        | 3151/15773 [00:07<00:38, 331.82it/s]
+ 20%|██        | 3186/15773 [00:07<00:41, 305.95it/s]
+ 20%|██        | 3219/15773 [00:07<00:40, 308.77it/s]
+ 21%|██        | 3251/15773 [00:07<00:43, 289.03it/s]
+ 21%|██        | 3281/15773 [00:08<00:43, 286.39it/s]
+ 21%|██        | 3314/15773 [00:08<00:41, 296.79it/s]
+ 21%|██        | 3346/15773 [00:08<00:41, 301.22it/s]
+ 21%|██▏       | 3383/15773 [00:08<00:38, 318.59it/s]
+ 22%|██▏       | 3419/15773 [00:08<00:37, 329.38it/s]
+ 22%|██▏       | 3457/15773 [00:08<00:36, 341.02it/s]
+ 22%|██▏       | 3506/15773 [00:08<00:32, 375.25it/s]
+ 22%|██▏       | 3547/15773 [00:08<00:31, 382.79it/s]
+ 23%|██▎       | 3588/15773 [00:08<00:31, 389.71it/s]
+ 23%|██▎       | 3639/15773 [00:08<00:28, 418.61it/s]
+ 23%|██▎       | 3697/15773 [00:09<00:26, 456.48it/s]
+ 24%|██▍       | 3750/15773 [00:09<00:25, 470.76it/s]
+ 24%|██▍       | 3805/15773 [00:09<00:24, 487.91it/s]
+ 24%|██▍       | 3855/15773 [00:09<00:25, 472.16it/s]
+ 25%|██▍       | 3904/15773 [00:09<00:36, 328.15it/s]
+ 25%|██▌       | 3944/15773 [00:09<00:46, 253.81it/s]
+ 25%|██▌       | 3977/15773 [00:10<00:49, 238.93it/s]
+ 26%|██▌       | 4027/15773 [00:10<00:41, 282.81it/s]
+ 26%|██▌       | 4071/15773 [00:10<00:37, 315.89it/s]
+ 26%|██▌       | 4128/15773 [00:10<00:31, 364.12it/s]
+ 27%|██▋       | 4180/15773 [00:10<00:28, 400.02it/s]
+ 27%|██▋       | 4226/15773 [00:10<00:32, 357.27it/s]
+ 27%|██▋       | 4285/15773 [00:10<00:28, 404.82it/s]
+ 27%|██▋       | 4333/15773 [00:10<00:27, 423.50it/s]
+ 28%|██▊       | 4380/15773 [00:10<00:28, 396.21it/s]
+ 28%|██▊       | 4432/15773 [00:11<00:26, 424.09it/s]
+ 28%|██▊       | 4488/15773 [00:11<00:24, 457.02it/s]
+ 29%|██▉       | 4542/15773 [00:11<00:23, 477.64it/s]
+ 29%|██▉       | 4601/15773 [00:11<00:22, 505.35it/s]
+ 30%|██▉       | 4654/15773 [00:11<00:22, 492.35it/s]
+ 30%|██▉       | 4705/15773 [00:11<00:26, 421.55it/s]
+ 30%|███       | 4750/15773 [00:11<00:28, 386.94it/s]
+ 30%|███       | 4792/15773 [00:11<00:28, 390.79it/s]
+ 31%|███       | 4834/15773 [00:11<00:27, 397.29it/s]
+ 31%|███       | 4875/15773 [00:12<00:28, 375.97it/s]
+ 31%|███       | 4914/15773 [00:12<00:29, 369.13it/s]
+ 31%|███▏      | 4955/15773 [00:12<00:28, 380.43it/s]
+ 32%|███▏      | 4999/15773 [00:12<00:27, 394.55it/s]
+ 32%|███▏      | 5040/15773 [00:12<00:26, 397.67it/s]
+ 32%|███▏      | 5097/15773 [00:12<00:24, 437.27it/s]
+ 33%|███▎      | 5157/15773 [00:12<00:22, 474.65it/s]
+ 33%|███▎      | 5214/15773 [00:12<00:21, 499.58it/s]
+ 33%|███▎      | 5266/15773 [00:12<00:21, 500.31it/s]
+ 34%|███▎      | 5318/15773 [00:12<00:20, 500.64it/s]
+ 34%|███▍      | 5369/15773 [00:13<00:20, 502.76it/s]
+ 34%|███▍      | 5438/15773 [00:13<00:18, 547.22it/s]
+ 35%|███▍      | 5495/15773 [00:13<00:19, 524.75it/s]
+ 35%|███▌      | 5549/15773 [00:13<00:22, 447.54it/s]
+ 35%|███▌      | 5597/15773 [00:13<00:23, 434.54it/s]
+ 36%|███▌      | 5643/15773 [00:13<00:25, 395.49it/s]
+ 36%|███▌      | 5685/15773 [00:13<00:29, 340.84it/s]
+ 36%|███▋      | 5730/15773 [00:13<00:27, 366.37it/s]
+ 37%|███▋      | 5776/15773 [00:14<00:25, 389.74it/s]
+ 37%|███▋      | 5825/15773 [00:14<00:24, 414.42it/s]
+ 37%|███▋      | 5878/15773 [00:14<00:22, 440.94it/s]
+ 38%|███▊      | 5924/15773 [00:14<00:23, 419.53it/s]
+ 38%|███▊      | 5980/15773 [00:14<00:21, 451.43it/s]
+ 38%|███▊      | 6044/15773 [00:14<00:19, 492.07it/s]
+ 39%|███▊      | 6096/15773 [00:14<00:20, 471.86it/s]
+ 39%|███▉      | 6164/15773 [00:14<00:18, 519.09it/s]
+ 39%|███▉      | 6219/15773 [00:14<00:21, 452.13it/s]
+ 40%|███▉      | 6268/15773 [00:15<00:28, 336.47it/s]
+ 40%|████      | 6313/15773 [00:15<00:26, 362.94it/s]
+ 40%|████      | 6374/15773 [00:15<00:22, 409.67it/s]
+ 41%|████      | 6435/15773 [00:15<00:20, 453.56it/s]
+ 41%|████      | 6486/15773 [00:15<00:22, 410.59it/s]
+ 41%|████▏     | 6533/15773 [00:15<00:21, 425.38it/s]
+ 42%|████▏     | 6579/15773 [00:15<00:23, 390.94it/s]
+ 42%|████▏     | 6621/15773 [00:16<00:30, 301.61it/s]
+ 42%|████▏     | 6657/15773 [00:16<00:30, 295.26it/s]
+ 43%|████▎     | 6718/15773 [00:16<00:26, 347.21it/s]
+ 43%|████▎     | 6782/15773 [00:16<00:22, 401.22it/s]
+ 43%|████▎     | 6851/15773 [00:16<00:19, 455.54it/s]
+ 44%|████▍     | 6912/15773 [00:16<00:17, 492.71it/s]
+ 44%|████▍     | 6970/15773 [00:16<00:17, 515.54it/s]
+ 45%|████▍     | 7027/15773 [00:16<00:16, 524.32it/s]
+ 45%|████▍     | 7086/15773 [00:16<00:16, 539.36it/s]
+ 45%|████▌     | 7143/15773 [00:17<00:15, 540.34it/s]
+ 46%|████▌     | 7199/15773 [00:17<00:17, 480.40it/s]
+ 46%|████▌     | 7250/15773 [00:17<00:19, 447.77it/s]
+ 46%|████▋     | 7297/15773 [00:17<00:20, 419.79it/s]
+ 47%|████▋     | 7341/15773 [00:17<00:22, 381.65it/s]
+ 47%|████▋     | 7382/15773 [00:17<00:21, 388.52it/s]
+ 47%|████▋     | 7423/15773 [00:17<00:24, 335.54it/s]
+ 47%|████▋     | 7459/15773 [00:18<00:25, 324.50it/s]
+ 48%|████▊     | 7502/15773 [00:18<00:23, 348.25it/s]
+ 48%|████▊     | 7565/15773 [00:18<00:20, 401.14it/s]
+ 48%|████▊     | 7626/15773 [00:18<00:18, 446.60it/s]
+ 49%|████▊     | 7679/15773 [00:18<00:17, 467.20it/s]
+ 49%|████▉     | 7730/15773 [00:18<00:19, 423.05it/s]
+ 49%|████▉     | 7776/15773 [00:18<00:21, 375.03it/s]
+ 50%|████▉     | 7817/15773 [00:18<00:27, 285.25it/s]
+ 50%|████▉     | 7851/15773 [00:19<00:32, 242.96it/s]
+ 50%|█████     | 7893/15773 [00:19<00:28, 277.49it/s]
+ 50%|█████     | 7937/15773 [00:19<00:25, 311.17it/s]
+ 51%|█████     | 8000/15773 [00:19<00:21, 365.69it/s]
+ 51%|█████     | 8047/15773 [00:19<00:19, 389.35it/s]
+ 51%|█████▏    | 8092/15773 [00:19<00:22, 335.63it/s]
+ 52%|█████▏    | 8131/15773 [00:19<00:22, 333.92it/s]
+ 52%|█████▏    | 8178/15773 [00:19<00:20, 365.36it/s]
+ 52%|█████▏    | 8226/15773 [00:20<00:19, 391.22it/s]
+ 52%|█████▏    | 8269/15773 [00:20<00:19, 376.70it/s]
+ 53%|█████▎    | 8317/15773 [00:20<00:18, 402.53it/s]
+ 53%|█████▎    | 8372/15773 [00:20<00:17, 435.23it/s]
+ 53%|█████▎    | 8422/15773 [00:20<00:16, 448.86it/s]
+ 54%|█████▍    | 8483/15773 [00:20<00:14, 486.09it/s]
+ 54%|█████▍    | 8538/15773 [00:20<00:14, 503.10it/s]
+ 54%|█████▍    | 8590/15773 [00:20<00:14, 496.07it/s]
+ 55%|█████▍    | 8641/15773 [00:20<00:16, 431.11it/s]
+ 55%|█████▌    | 8693/15773 [00:21<00:15, 453.11it/s]
+ 55%|█████▌    | 8754/15773 [00:21<00:14, 487.08it/s]
+ 56%|█████▌    | 8818/15773 [00:21<00:13, 520.97it/s]
+ 56%|█████▋    | 8879/15773 [00:21<00:12, 544.02it/s]
+ 57%|█████▋    | 8941/15773 [00:21<00:12, 563.29it/s]
+ 57%|█████▋    | 8999/15773 [00:21<00:14, 477.77it/s]
+ 57%|█████▋    | 9050/15773 [00:21<00:16, 407.61it/s]
+ 58%|█████▊    | 9108/15773 [00:21<00:14, 445.85it/s]
+ 58%|█████▊    | 9172/15773 [00:21<00:13, 489.19it/s]
+ 58%|█████▊    | 9227/15773 [00:22<00:13, 501.16it/s]
+ 59%|█████▉    | 9280/15773 [00:22<00:13, 497.65it/s]
+ 59%|█████▉    | 9332/15773 [00:22<00:13, 468.42it/s]
+ 60%|█████▉    | 9407/15773 [00:22<00:12, 527.12it/s]
+ 60%|██████    | 9464/15773 [00:22<00:12, 503.15it/s]
+ 60%|██████    | 9518/15773 [00:22<00:16, 375.41it/s]
+ 61%|██████    | 9566/15773 [00:22<00:15, 400.09it/s]
+ 61%|██████    | 9625/15773 [00:22<00:13, 442.28it/s]
+ 62%|██████▏   | 9711/15773 [00:23<00:11, 517.15it/s]
+ 62%|██████▏   | 9775/15773 [00:23<00:10, 547.86it/s]
+ 62%|██████▏   | 9837/15773 [00:23<00:12, 473.53it/s]
+ 63%|██████▎   | 9895/15773 [00:23<00:11, 500.31it/s]
+ 63%|██████▎   | 9954/15773 [00:23<00:11, 523.92it/s]
+ 63%|██████▎   | 10011/15773 [00:23<00:11, 516.84it/s]
+ 64%|██████▍   | 10071/15773 [00:23<00:10, 538.77it/s]
+ 64%|██████▍   | 10127/15773 [00:23<00:10, 516.50it/s]
+ 65%|██████▍   | 10181/15773 [00:24<00:15, 371.93it/s]
+ 65%|██████▍   | 10226/15773 [00:24<00:17, 310.83it/s]
+ 65%|██████▌   | 10265/15773 [00:24<00:16, 327.49it/s]
+ 65%|██████▌   | 10306/15773 [00:24<00:15, 347.66it/s]
+ 66%|██████▌   | 10352/15773 [00:24<00:14, 375.01it/s]
+ 66%|██████▌   | 10404/15773 [00:24<00:13, 408.61it/s]
+ 66%|██████▋   | 10470/15773 [00:24<00:11, 459.37it/s]
+ 67%|██████▋   | 10521/15773 [00:24<00:12, 435.15it/s]
+ 67%|██████▋   | 10568/15773 [00:25<00:13, 385.22it/s]
+ 67%|██████▋   | 10610/15773 [00:25<00:13, 372.22it/s]
+ 68%|██████▊   | 10652/15773 [00:25<00:13, 383.54it/s]
+ 68%|██████▊   | 10695/15773 [00:25<00:12, 394.49it/s]
+ 68%|██████▊   | 10736/15773 [00:25<00:12, 397.98it/s]
+ 68%|██████▊   | 10777/15773 [00:25<00:12, 394.16it/s]
+ 69%|██████▊   | 10821/15773 [00:25<00:12, 406.01it/s]
+ 69%|██████▉   | 10864/15773 [00:25<00:11, 411.54it/s]
+ 69%|██████▉   | 10907/15773 [00:25<00:11, 416.22it/s]
+ 69%|██████▉   | 10949/15773 [00:26<00:13, 346.77it/s]
+ 70%|██████▉   | 10986/15773 [00:26<00:15, 315.78it/s]
+ 70%|██████▉   | 11026/15773 [00:26<00:14, 336.40it/s]
+ 70%|███████   | 11069/15773 [00:26<00:13, 359.40it/s]
+ 71%|███████   | 11122/15773 [00:26<00:11, 396.25it/s]
+ 71%|███████   | 11166/15773 [00:26<00:11, 406.84it/s]
+ 71%|███████   | 11209/15773 [00:26<00:11, 387.64it/s]
+ 71%|███████▏  | 11250/15773 [00:26<00:12, 354.20it/s]
+ 72%|███████▏  | 11294/15773 [00:27<00:11, 375.32it/s]
+ 72%|███████▏  | 11333/15773 [00:27<00:11, 370.05it/s]
+ 72%|███████▏  | 11372/15773 [00:27<00:12, 342.28it/s]
+ 72%|███████▏  | 11408/15773 [00:27<00:13, 315.04it/s]
+ 73%|███████▎  | 11460/15773 [00:27<00:12, 357.11it/s]
+ 73%|███████▎  | 11517/15773 [00:27<00:10, 402.08it/s]
+ 73%|███████▎  | 11570/15773 [00:27<00:09, 431.74it/s]
+ 74%|███████▎  | 11619/15773 [00:27<00:09, 445.77it/s]
+ 74%|███████▍  | 11666/15773 [00:27<00:09, 434.67it/s]
+ 74%|███████▍  | 11712/15773 [00:28<00:09, 421.35it/s]
+ 75%|███████▍  | 11756/15773 [00:28<00:11, 352.39it/s]
+ 75%|███████▍  | 11795/15773 [00:28<00:13, 291.22it/s]
+ 75%|███████▌  | 11855/15773 [00:28<00:11, 343.68it/s]
+ 76%|███████▌  | 11910/15773 [00:28<00:09, 386.82it/s]
+ 76%|███████▌  | 11962/15773 [00:28<00:09, 413.81it/s]
+ 76%|███████▌  | 12013/15773 [00:28<00:08, 435.52it/s]
+ 76%|███████▋  | 12061/15773 [00:28<00:08, 414.65it/s]
+ 77%|███████▋  | 12118/15773 [00:29<00:08, 450.62it/s]
+ 77%|███████▋  | 12166/15773 [00:29<00:08, 408.68it/s]
+ 77%|███████▋  | 12221/15773 [00:29<00:08, 442.30it/s]
+ 78%|███████▊  | 12274/15773 [00:29<00:07, 464.54it/s]
+ 78%|███████▊  | 12330/15773 [00:29<00:07, 486.29it/s]
+ 78%|███████▊  | 12381/15773 [00:29<00:07, 479.28it/s]
+ 79%|███████▉  | 12437/15773 [00:29<00:06, 500.88it/s]
+ 79%|███████▉  | 12493/15773 [00:29<00:06, 514.92it/s]
+ 80%|███████▉  | 12553/15773 [00:29<00:06, 535.54it/s]
+ 80%|███████▉  | 12616/15773 [00:30<00:05, 560.25it/s]
+ 80%|████████  | 12674/15773 [00:30<00:05, 564.27it/s]
+ 81%|████████  | 12732/15773 [00:30<00:05, 543.57it/s]
+ 81%|████████  | 12787/15773 [00:30<00:05, 539.56it/s]
+ 81%|████████▏ | 12842/15773 [00:30<00:05, 538.90it/s]
+ 82%|████████▏ | 12902/15773 [00:30<00:05, 552.96it/s]
+ 82%|████████▏ | 12966/15773 [00:30<00:04, 572.08it/s]
+ 83%|████████▎ | 13029/15773 [00:30<00:04, 587.38it/s]
+ 83%|████████▎ | 13089/15773 [00:30<00:05, 478.01it/s]
+ 83%|████████▎ | 13141/15773 [00:31<00:07, 352.97it/s]
+ 84%|████████▎ | 13184/15773 [00:31<00:07, 330.03it/s]
+ 84%|████████▍ | 13223/15773 [00:31<00:07, 332.51it/s]
+ 84%|████████▍ | 13274/15773 [00:31<00:06, 369.97it/s]
+ 84%|████████▍ | 13325/15773 [00:31<00:06, 402.19it/s]
+ 85%|████████▍ | 13369/15773 [00:31<00:06, 367.49it/s]
+ 85%|████████▌ | 13409/15773 [00:31<00:07, 320.43it/s]
+ 85%|████████▌ | 13445/15773 [00:32<00:08, 261.99it/s]
+ 85%|████████▌ | 13476/15773 [00:32<00:08, 273.49it/s]
+ 86%|████████▌ | 13507/15773 [00:32<00:09, 248.71it/s]
+ 86%|████████▌ | 13535/15773 [00:32<00:09, 246.89it/s]
+ 86%|████████▌ | 13562/15773 [00:32<00:09, 242.83it/s]
+ 86%|████████▋ | 13613/15773 [00:32<00:07, 286.97it/s]
+ 87%|████████▋ | 13671/15773 [00:32<00:06, 337.50it/s]
+ 87%|████████▋ | 13720/15773 [00:32<00:05, 370.41it/s]
+ 87%|████████▋ | 13763/15773 [00:33<00:05, 366.73it/s]
+ 88%|████████▊ | 13804/15773 [00:33<00:05, 328.41it/s]
+ 88%|████████▊ | 13841/15773 [00:33<00:06, 321.56it/s]
+ 88%|████████▊ | 13886/15773 [00:33<00:05, 349.72it/s]
+ 88%|████████▊ | 13926/15773 [00:33<00:05, 362.64it/s]
+ 89%|████████▊ | 13965/15773 [00:33<00:05, 340.95it/s]
+ 89%|████████▉ | 14011/15773 [00:33<00:04, 367.97it/s]
+ 89%|████████▉ | 14065/15773 [00:33<00:04, 405.28it/s]
+ 89%|████████▉ | 14115/15773 [00:33<00:03, 429.54it/s]
+ 90%|████████▉ | 14160/15773 [00:34<00:05, 293.71it/s]
+ 90%|█████████ | 14197/15773 [00:34<00:05, 272.90it/s]
+ 90%|█████████ | 14231/15773 [00:34<00:05, 288.28it/s]
+ 90%|█████████ | 14264/15773 [00:34<00:05, 291.77it/s]
+ 91%|█████████ | 14309/15773 [00:34<00:04, 323.54it/s]
+ 91%|█████████ | 14358/15773 [00:34<00:03, 360.07it/s]
+ 91%|█████████▏| 14399/15773 [00:34<00:03, 371.95it/s]
+ 92%|█████████▏| 14450/15773 [00:34<00:03, 404.12it/s]
+ 92%|█████████▏| 14506/15773 [00:35<00:02, 438.73it/s]
+ 92%|█████████▏| 14566/15773 [00:35<00:02, 471.53it/s]
+ 93%|█████████▎| 14628/15773 [00:35<00:02, 506.88it/s]
+ 93%|█████████▎| 14687/15773 [00:35<00:02, 528.84it/s]
+ 93%|█████████▎| 14742/15773 [00:35<00:02, 456.49it/s]
+ 94%|█████████▍| 14791/15773 [00:35<00:02, 350.06it/s]
+ 94%|█████████▍| 14840/15773 [00:35<00:02, 382.81it/s]
+ 94%|█████████▍| 14884/15773 [00:35<00:02, 386.96it/s]
+ 95%|█████████▍| 14930/15773 [00:36<00:02, 405.84it/s]
+ 95%|█████████▌| 14988/15773 [00:36<00:01, 444.71it/s]
+ 95%|█████████▌| 15050/15773 [00:36<00:01, 485.55it/s]
+ 96%|█████████▌| 15102/15773 [00:36<00:01, 401.76it/s]
+ 96%|█████████▌| 15147/15773 [00:36<00:02, 307.74it/s]
+ 96%|█████████▋| 15185/15773 [00:36<00:02, 282.58it/s]
+ 97%|█████████▋| 15231/15773 [00:36<00:01, 317.89it/s]
+ 97%|█████████▋| 15281/15773 [00:37<00:01, 356.83it/s]
+ 97%|█████████▋| 15327/15773 [00:37<00:01, 379.24it/s]
+ 98%|█████████▊| 15380/15773 [00:37<00:00, 411.80it/s]
+ 98%|█████████▊| 15425/15773 [00:37<00:00, 384.10it/s]
+ 98%|█████████▊| 15471/15773 [00:37<00:00, 403.13it/s]
+ 98%|█████████▊| 15514/15773 [00:37<00:00, 340.99it/s]
+ 99%|█████████▊| 15552/15773 [00:37<00:00, 283.81it/s]
+ 99%|█████████▉| 15585/15773 [00:37<00:00, 286.57it/s]
+ 99%|█████████▉| 15642/15773 [00:38<00:00, 336.57it/s]
+100%|█████████▉| 15719/15773 [00:38<00:00, 404.53it/s]
+100%|██████████| 15773/15773 [00:38<00:00, 412.30it/s]
+01:00:30 - [DEBUG] - Time to execute query: 0.04 secs
+01:00:33 - [DEBUG] - Preparing to execute 33 queries.
+01:00:33 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."ZipCode"<>t2."ZipCode"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 0
+01:00:33 - [DEBUG] - Time to execute query with id 0: 0.01 secs
+01:00:33 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'ZipCode'   AND  t1."HospitalName"=t2."HospitalName"   AND  t3.rv_val <> t2."ZipCode" GROUP BY _vid_, val_id with id 1
+01:00:33 - [DEBUG] - Time to execute query with id 1: 0.03 secs
+01:00:33 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."PhoneNumber"<>t2."PhoneNumber"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 2
+01:00:33 - [DEBUG] - Time to execute query with id 2: 0.05 secs
+01:00:33 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'PhoneNumber'   AND  t1."HospitalName"=t2."HospitalName"   AND  t3.rv_val <> t2."PhoneNumber" GROUP BY _vid_, val_id with id 3
+01:00:34 - [DEBUG] - Time to execute query with id 3: 0.01 secs
+01:00:34 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureCode'   AND  t1."MeasureName"<>t2."MeasureName"   AND  t3.rv_val = t2."MeasureCode" GROUP BY _vid_, val_id with id 4
+01:00:34 - [DEBUG] - Time to execute query with id 4: 0.01 secs
+01:00:34 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureName'   AND  t1."MeasureCode"=t2."MeasureCode"   AND  t3.rv_val <> t2."MeasureName" GROUP BY _vid_, val_id with id 5
+01:00:34 - [DEBUG] - Time to execute query with id 5: 0.01 secs
+01:00:34 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureCode'   AND  t1."Stateavg"<>t2."Stateavg"   AND  t3.rv_val = t2."MeasureCode" GROUP BY _vid_, val_id with id 6
+01:00:34 - [DEBUG] - Time to execute query with id 6: 0.01 secs
+01:00:34 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'Stateavg'   AND  t1."MeasureCode"=t2."MeasureCode"   AND  t3.rv_val <> t2."Stateavg" GROUP BY _vid_, val_id with id 7
+01:00:35 - [DEBUG] - Time to execute query with id 7: 0.01 secs
+01:00:35 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'ProviderNumber'   AND  t1."HospitalName"<>t2."HospitalName"   AND  t3.rv_val = t2."ProviderNumber" GROUP BY _vid_, val_id with id 8
+01:00:35 - [DEBUG] - Time to execute query with id 8: 0.01 secs
+01:00:35 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."ProviderNumber"=t2."ProviderNumber"   AND  t3.rv_val <> t2."HospitalName" GROUP BY _vid_, val_id with id 9
+01:00:35 - [DEBUG] - Time to execute query with id 9: 0.01 secs
+01:00:35 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureCode'   AND  t1."Condition"<>t2."Condition"   AND  t3.rv_val = t2."MeasureCode" GROUP BY _vid_, val_id with id 10
+01:00:35 - [DEBUG] - Time to execute query with id 10: 0.01 secs
+01:00:35 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'Condition'   AND  t1."MeasureCode"=t2."MeasureCode"   AND  t3.rv_val <> t2."Condition" GROUP BY _vid_, val_id with id 11
+01:00:36 - [DEBUG] - Time to execute query with id 11: 0.01 secs
+01:00:36 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."Address1"<>t2."Address1"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 12
+01:00:36 - [DEBUG] - Time to execute query with id 12: 0.01 secs
+01:00:36 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'Address1'   AND  t1."HospitalName"=t2."HospitalName"   AND  t3.rv_val <> t2."Address1" GROUP BY _vid_, val_id with id 13
+01:00:36 - [DEBUG] - Time to execute query with id 13: 0.01 secs
+01:00:36 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."HospitalOwner"<>t2."HospitalOwner"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 14
+01:00:36 - [DEBUG] - Time to execute query with id 14: 0.01 secs
+01:00:36 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalOwner'   AND  t1."HospitalName"=t2."HospitalName"   AND  t3.rv_val <> t2."HospitalOwner" GROUP BY _vid_, val_id with id 15
+01:00:36 - [DEBUG] - Time to execute query with id 15: 0.01 secs
+01:00:36 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."ProviderNumber"<>t2."ProviderNumber"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 16
+01:00:37 - [DEBUG] - Time to execute query with id 16: 0.01 secs
+01:00:37 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'ProviderNumber'   AND  t1."HospitalName"=t2."HospitalName"   AND  t3.rv_val <> t2."ProviderNumber" GROUP BY _vid_, val_id with id 17
+01:00:37 - [DEBUG] - Time to execute query with id 17: 0.01 secs
+01:00:37 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'City'   AND  t1."CountyName"<>t2."CountyName"   AND  t3.rv_val = t2."City" GROUP BY _vid_, val_id with id 18
+01:00:37 - [DEBUG] - Time to execute query with id 18: 0.01 secs
+01:00:37 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'CountyName'   AND  t1."City"=t2."City"   AND  t3.rv_val <> t2."CountyName" GROUP BY _vid_, val_id with id 19
+01:00:37 - [DEBUG] - Time to execute query with id 19: 0.01 secs
+01:00:37 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'ZipCode'   AND  t1."EmergencyService"<>t2."EmergencyService"   AND  t3.rv_val = t2."ZipCode" GROUP BY _vid_, val_id with id 20
+01:00:38 - [DEBUG] - Time to execute query with id 20: 0.01 secs
+01:00:38 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'EmergencyService'   AND  t1."ZipCode"=t2."ZipCode"   AND  t3.rv_val <> t2."EmergencyService" GROUP BY _vid_, val_id with id 21
+01:00:38 - [DEBUG] - Time to execute query with id 21: 0.01 secs
+01:00:38 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."City"<>t2."City"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 22
+01:00:38 - [DEBUG] - Time to execute query with id 22: 0.01 secs
+01:00:38 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'City'   AND  t1."HospitalName"=t2."HospitalName"   AND  t3.rv_val <> t2."City" GROUP BY _vid_, val_id with id 23
+01:00:38 - [DEBUG] - Time to execute query with id 23: 0.01 secs
+01:00:38 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureName'   AND  t1."MeasureCode"<>t2."MeasureCode"   AND  t3.rv_val = t2."MeasureName" GROUP BY _vid_, val_id with id 24
+01:00:38 - [DEBUG] - Time to execute query with id 24: 0.01 secs
+01:00:38 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureCode'   AND  t1."MeasureName"=t2."MeasureName"   AND  t3.rv_val <> t2."MeasureCode" GROUP BY _vid_, val_id with id 25
+01:00:39 - [DEBUG] - Time to execute query with id 25: 0.01 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalName'   AND  t1."PhoneNumber"=t2."PhoneNumber" AND t1."HospitalOwner"=t2."HospitalOwner" AND t1."State"<>t2."State"   AND  t3.rv_val = t2."HospitalName" GROUP BY _vid_, val_id with id 26
+01:00:39 - [DEBUG] - Time to execute query with id 26: 0.00 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'PhoneNumber'   AND  t1."HospitalName"=t2."HospitalName" AND t1."HospitalOwner"=t2."HospitalOwner" AND t1."State"<>t2."State"   AND  t3.rv_val = t2."PhoneNumber" GROUP BY _vid_, val_id with id 27
+01:00:39 - [DEBUG] - Time to execute query with id 27: 0.00 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalOwner'   AND  t1."HospitalName"=t2."HospitalName" AND t1."PhoneNumber"=t2."PhoneNumber" AND t1."State"<>t2."State"   AND  t3.rv_val = t2."HospitalOwner" GROUP BY _vid_, val_id with id 28
+01:00:39 - [DEBUG] - Time to execute query with id 28: 0.00 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'State'   AND  t1."HospitalName"=t2."HospitalName" AND t1."PhoneNumber"=t2."PhoneNumber" AND t1."HospitalOwner"=t2."HospitalOwner"   AND  t3.rv_val <> t2."State" GROUP BY _vid_, val_id with id 29
+01:00:39 - [DEBUG] - Time to execute query with id 29: 0.01 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'Condition'   AND  t1."MeasureName"=t2."MeasureName" AND t1."HospitalType"<>t2."HospitalType"   AND  t3.rv_val = t2."Condition" GROUP BY _vid_, val_id with id 30
+01:00:39 - [DEBUG] - Time to execute query with id 30: 0.00 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'MeasureName'   AND  t1."Condition"=t2."Condition" AND t1."HospitalType"<>t2."HospitalType"   AND  t3.rv_val = t2."MeasureName" GROUP BY _vid_, val_id with id 31
+01:00:39 - [DEBUG] - Time to execute query with id 31: 0.00 secs
+01:00:39 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'HospitalType'   AND  t1."Condition"=t2."Condition" AND t1."MeasureName"=t2."MeasureName"   AND  t3.rv_val <> t2."HospitalType" GROUP BY _vid_, val_id with id 32
+01:00:39 - [DEBUG] - Time to execute query with id 32: 0.00 secs
+01:00:39 - [DEBUG] - Time to execute 33 queries: 0.35 secs
+01:00:45 - [DEBUG] - DONE featurization.
+01:00:45 - [DEBUG] - generating weak labels...
+01:00:45 - [DEBUG] - Time to execute query: 0.10 secs
+
+  0%|          | 0/6770 [00:00<?, ?it/s]
+ 73%|███████▎  | 4969/6770 [00:00<00:00, 49683.30it/s]
+100%|██████████| 6770/6770 [00:00<00:00, 49665.56it/s]
+01:00:45 - [DEBUG] - DONE generating weak labels.
+01:00:45 - [DEBUG] - generating mask...
+01:00:45 - [DEBUG] - Time to execute query: 0.02 secs
+
+  0%|          | 0/15773 [00:00<?, ?it/s]
+ 47%|████▋     | 7348/15773 [00:00<00:00, 73477.09it/s]
+ 89%|████████▉ | 14086/15773 [00:00<00:00, 71532.58it/s]
+100%|██████████| 15773/15773 [00:00<00:00, 70994.16it/s]
+01:00:45 - [DEBUG] - DONE generating mask.
+01:00:45 - [ INFO] - DONE setting up featurized dataset.
+01:00:45 - [DEBUG] - Time to featurize data: 68.17 secs
+01:00:45 - [ INFO] - DONE setting up repair model.
+01:00:45 - [DEBUG] - Time to setup repair model: 68.17 secs
+01:00:45 - [ INFO] - training with 6770 training examples (cells)
+
+  0%|          | 0/10 [00:00<?, ?it/s]01:00:51 - [DEBUG] - Epoch 1, cost = 0.356584, acc = 96.81%
+
+ 10%|█         | 1/10 [00:05<00:47,  5.32s/it]01:00:56 - [DEBUG] - Epoch 2, cost = 0.206320, acc = 97.02%
+
+ 20%|██        | 2/10 [00:10<00:43,  5.39s/it]01:01:02 - [DEBUG] - Epoch 3, cost = 0.203852, acc = 97.02%
+
+ 30%|███       | 3/10 [00:17<00:39,  5.65s/it]01:01:08 - [DEBUG] - Epoch 4, cost = 0.203659, acc = 97.02%
+
+ 40%|████      | 4/10 [00:22<00:33,  5.55s/it]01:01:13 - [DEBUG] - Epoch 5, cost = 0.203627, acc = 97.02%
+
+ 50%|█████     | 5/10 [00:27<00:27,  5.45s/it]01:01:18 - [DEBUG] - Epoch 6, cost = 0.203622, acc = 97.02%
+
+ 60%|██████    | 6/10 [00:32<00:21,  5.33s/it]01:01:23 - [DEBUG] - Epoch 7, cost = 0.203621, acc = 97.02%
+
+ 70%|███████   | 7/10 [00:37<00:15,  5.26s/it]01:01:28 - [DEBUG] - Epoch 8, cost = 0.203620, acc = 97.02%
+
+ 80%|████████  | 8/10 [00:42<00:10,  5.21s/it]01:01:33 - [DEBUG] - Epoch 9, cost = 0.203620, acc = 97.02%
+
+ 90%|█████████ | 9/10 [00:48<00:05,  5.18s/it]01:01:39 - [DEBUG] - Epoch 10, cost = 0.203620, acc = 97.02%
+
+100%|██████████| 10/10 [00:53<00:00,  5.19s/it]
+01:01:39 - [ INFO] - DONE training repair model.
+01:01:39 - [DEBUG] - Time to fit repair model: 69.32 secs
+01:01:39 - [ INFO] - inferring on 10643 examples (cells)
+01:01:39 - [DEBUG] - Time to execute query: 0.27 secs
+01:01:42 - [DEBUG] - Time to create index: 0.00 secs
+01:01:43 - [DEBUG] - Time to create index: 0.00 secs
+01:01:43 - [ INFO] - DONE inferring repairs.
+01:01:43 - [DEBUG] - Time to infer correct cell values: 6.47 secs
+01:01:43 - [DEBUG] - Time to create table: 0.00 secs
+01:01:43 - [DEBUG] - Time to create index: 0.00 secs
+01:01:43 - [DEBUG] - Time to create index: 0.00 secs
+01:01:43 - [ INFO] - DONE collecting the inferred values.
+01:01:43 - [DEBUG] - Time to collect inferred values: 0.08 secs
+01:01:44 - [ INFO] - DONE generating repaired dataset
+01:01:44 - [DEBUG] - Time to store repaired dataset: 0.23 secs
+01:01:44 - [ INFO] - featurizer InitAttrFeaturizer,size 17,max 1.0000,min 1.0000,avg 1.0000,abs_avg 1.0000,weights:
+ProviderNumber 1.0
+HospitalName 1.0
+Address1 1.0
+City 1.0
+State 1.0
+ZipCode 1.0
+CountyName 1.0
+PhoneNumber 1.0
+HospitalType 1.0
+HospitalOwner 1.0
+EmergencyService 1.0
+Condition 1.0
+MeasureCode 1.0
+MeasureName 1.0
+Score 1.0
+Sample 1.0
+Stateavg 1.0
+featurizer OccurAttrFeaturizer,size 289,max 0.8289,min -0.0586,avg 0.1541,abs_avg 0.1560,weights:
+ProviderNumber X ProviderNumber 0.0
+ProviderNumber X HospitalName 0.545
+ProviderNumber X Address1 0.538
+ProviderNumber X City 0.465
+ProviderNumber X State 0.0
+ProviderNumber X ZipCode 0.518
+ProviderNumber X CountyName 0.388
+ProviderNumber X PhoneNumber 0.526
+ProviderNumber X HospitalType -0.002
+ProviderNumber X HospitalOwner 0.074
+ProviderNumber X EmergencyService 0.005
+ProviderNumber X Condition 0.036
+ProviderNumber X MeasureCode 0.0
+ProviderNumber X MeasureName 0.009
+ProviderNumber X Score 0.026
+ProviderNumber X Sample 0.046
+ProviderNumber X Stateavg 0.007
+HospitalName X ProviderNumber 0.289
+HospitalName X HospitalName 0.0
+HospitalName X Address1 0.279
+HospitalName X City 0.246
+HospitalName X State 0.0
+HospitalName X ZipCode 0.281
+HospitalName X CountyName 0.235
+HospitalName X PhoneNumber 0.283
+HospitalName X HospitalType 0.0
+HospitalName X HospitalOwner 0.016
+HospitalName X EmergencyService 0.019
+HospitalName X Condition -0.002
+HospitalName X MeasureCode 0.0
+HospitalName X MeasureName 0.001
+HospitalName X Score 0.018
+HospitalName X Sample -0.009
+HospitalName X Stateavg 0.008
+Address1 X ProviderNumber 0.493
+Address1 X HospitalName 0.48
+Address1 X Address1 -0.0
+Address1 X City 0.376
+Address1 X State 0.002
+Address1 X ZipCode 0.446
+Address1 X CountyName 0.352
+Address1 X PhoneNumber 0.471
+Address1 X HospitalType 0.0
+Address1 X HospitalOwner 0.051
+Address1 X EmergencyService 0.011
+Address1 X Condition 0.015
+Address1 X MeasureCode -0.005
+Address1 X MeasureName 0.003
+Address1 X Score 0.011
+Address1 X Sample -0.02
+Address1 X Stateavg 0.003
+City X ProviderNumber 0.451
+City X HospitalName 0.433
+City X Address1 0.419
+City X City -0.0
+City X State 0.003
+City X ZipCode 0.443
+City X CountyName 0.415
+City X PhoneNumber 0.417
+City X HospitalType 0.003
+City X HospitalOwner 0.061
+City X EmergencyService 0.013
+City X Condition 0.006
+City X MeasureCode -0.014
+City X MeasureName 0.006
+City X Score -0.011
+City X Sample -0.003
+City X Stateavg 0.001
+State X ProviderNumber 0.264
+State X HospitalName 0.26
+State X Address1 0.256
+State X City 0.264
+State X State 0.0
+State X ZipCode 0.256
+State X CountyName 0.256
+State X PhoneNumber 0.285
+State X HospitalType 0.235
+State X HospitalOwner 0.231
+State X EmergencyService 0.227
+State X Condition 0.244
+State X MeasureCode 0.256
+State X MeasureName 0.251
+State X Score 0.185
+State X Sample 0.23
+State X Stateavg 0.266
+ZipCode X ProviderNumber 0.497
+ZipCode X HospitalName 0.451
+ZipCode X Address1 0.47
+ZipCode X City 0.395
+ZipCode X State 0.01
+ZipCode X ZipCode -0.0
+ZipCode X CountyName 0.304
+ZipCode X PhoneNumber 0.486
+ZipCode X HospitalType 0.008
+ZipCode X HospitalOwner 0.064
+ZipCode X EmergencyService 0.012
+ZipCode X Condition 0.026
+ZipCode X MeasureCode -0.002
+ZipCode X MeasureName 0.002
+ZipCode X Score 0.007
+ZipCode X Sample 0.016
+ZipCode X Stateavg 0.009
+CountyName X ProviderNumber 0.522
+CountyName X HospitalName 0.489
+CountyName X Address1 0.517
+CountyName X City 0.519
+CountyName X State -0.009
+CountyName X ZipCode 0.478
+CountyName X CountyName -0.0
+CountyName X PhoneNumber 0.496
+CountyName X HospitalType 0.01
+CountyName X HospitalOwner 0.068
+CountyName X EmergencyService 0.024
+CountyName X Condition 0.017
+CountyName X MeasureCode -0.009
+CountyName X MeasureName 0.004
+CountyName X Score 0.024
+CountyName X Sample -0.013
+CountyName X Stateavg -0.002
+PhoneNumber X ProviderNumber 0.486
+PhoneNumber X HospitalName 0.484
+PhoneNumber X Address1 0.458
+PhoneNumber X City 0.418
+PhoneNumber X State -0.007
+PhoneNumber X ZipCode 0.466
+PhoneNumber X CountyName 0.369
+PhoneNumber X PhoneNumber -0.0
+PhoneNumber X HospitalType -0.002
+PhoneNumber X HospitalOwner 0.058
+PhoneNumber X EmergencyService 0.011
+PhoneNumber X Condition 0.035
+PhoneNumber X MeasureCode -0.002
+PhoneNumber X MeasureName 0.004
+PhoneNumber X Score 0.042
+PhoneNumber X Sample -0.017
+PhoneNumber X Stateavg 0.003
+HospitalType X ProviderNumber 0.0
+HospitalType X HospitalName 0.0
+HospitalType X Address1 -0.0
+HospitalType X City -0.0
+HospitalType X State 0.0
+HospitalType X ZipCode -0.0
+HospitalType X CountyName 0.0
+HospitalType X PhoneNumber 0.0
+HospitalType X HospitalType 0.0
+HospitalType X HospitalOwner 0.0
+HospitalType X EmergencyService -0.0
+HospitalType X Condition -0.0
+HospitalType X MeasureCode -0.0
+HospitalType X MeasureName -0.0
+HospitalType X Score -0.0
+HospitalType X Sample 0.0
+HospitalType X Stateavg 0.0
+HospitalOwner X ProviderNumber 0.352
+HospitalOwner X HospitalName 0.328
+HospitalOwner X Address1 0.347
+HospitalOwner X City 0.319
+HospitalOwner X State 0.061
+HospitalOwner X ZipCode 0.336
+HospitalOwner X CountyName 0.287
+HospitalOwner X PhoneNumber 0.344
+HospitalOwner X HospitalType 0.061
+HospitalOwner X HospitalOwner -0.0
+HospitalOwner X EmergencyService 0.077
+HospitalOwner X Condition 0.075
+HospitalOwner X MeasureCode 0.064
+HospitalOwner X MeasureName 0.063
+HospitalOwner X Score 0.074
+HospitalOwner X Sample 0.083
+HospitalOwner X Stateavg 0.068
+EmergencyService X ProviderNumber 0.315
+EmergencyService X HospitalName 0.311
+EmergencyService X Address1 0.305
+EmergencyService X City 0.306
+EmergencyService X State 0.229
+EmergencyService X ZipCode 0.317
+EmergencyService X CountyName 0.306
+EmergencyService X PhoneNumber 0.306
+EmergencyService X HospitalType 0.235
+EmergencyService X HospitalOwner 0.225
+EmergencyService X EmergencyService -0.0
+EmergencyService X Condition 0.237
+EmergencyService X MeasureCode 0.232
+EmergencyService X MeasureName 0.231
+EmergencyService X Score 0.204
+EmergencyService X Sample 0.252
+EmergencyService X Stateavg 0.23
+Condition X ProviderNumber 0.107
+Condition X HospitalName 0.108
+Condition X Address1 0.117
+Condition X City 0.118
+Condition X State 0.127
+Condition X ZipCode 0.111
+Condition X CountyName 0.116
+Condition X PhoneNumber 0.119
+Condition X HospitalType 0.114
+Condition X HospitalOwner 0.116
+Condition X EmergencyService 0.112
+Condition X Condition 0.0
+Condition X MeasureCode 0.671
+Condition X MeasureName 0.645
+Condition X Score 0.088
+Condition X Sample 0.251
+Condition X Stateavg 0.659
+MeasureCode X ProviderNumber 0.006
+MeasureCode X HospitalName 0.009
+MeasureCode X Address1 0.022
+MeasureCode X City 0.011
+MeasureCode X State 0.013
+MeasureCode X ZipCode 0.027
+MeasureCode X CountyName 0.05
+MeasureCode X PhoneNumber 0.009
+MeasureCode X HospitalType 0.0
+MeasureCode X HospitalOwner 0.014
+MeasureCode X EmergencyService 0.003
+MeasureCode X Condition 0.145
+MeasureCode X MeasureCode -0.0
+MeasureCode X MeasureName 0.827
+MeasureCode X Score 0.076
+MeasureCode X Sample 0.235
+MeasureCode X Stateavg 0.829
+MeasureName X ProviderNumber -0.009
+MeasureName X HospitalName -0.009
+MeasureName X Address1 -0.002
+MeasureName X City -0.007
+MeasureName X State 0.016
+MeasureName X ZipCode -0.002
+MeasureName X CountyName -0.008
+MeasureName X PhoneNumber 0.001
+MeasureName X HospitalType 0.001
+MeasureName X HospitalOwner 0.001
+MeasureName X EmergencyService 0.001
+MeasureName X Condition 0.047
+MeasureName X MeasureCode 0.511
+MeasureName X MeasureName 0.0
+MeasureName X Score 0.0
+MeasureName X Sample -0.029
+MeasureName X Stateavg 0.506
+Score X ProviderNumber 0.167
+Score X HospitalName 0.19
+Score X Address1 0.194
+Score X City 0.185
+Score X State 0.018
+Score X ZipCode 0.203
+Score X CountyName 0.169
+Score X PhoneNumber 0.179
+Score X HospitalType 0.006
+Score X HospitalOwner 0.08
+Score X EmergencyService 0.031
+Score X Condition 0.088
+Score X MeasureCode 0.12
+Score X MeasureName 0.187
+Score X Score 0.0
+Score X Sample 0.515
+Score X Stateavg 0.187
+Sample X ProviderNumber 0.24
+Sample X HospitalName 0.282
+Sample X Address1 0.339
+Sample X City 0.277
+Sample X State 0.084
+Sample X ZipCode 0.31
+Sample X CountyName 0.285
+Sample X PhoneNumber 0.293
+Sample X HospitalType 0.047
+Sample X HospitalOwner 0.12
+Sample X EmergencyService 0.065
+Sample X Condition 0.237
+Sample X MeasureCode 0.274
+Sample X MeasureName 0.361
+Sample X Score 0.348
+Sample X Sample 0.0
+Sample X Stateavg 0.368
+Stateavg X ProviderNumber -0.002
+Stateavg X HospitalName -0.005
+Stateavg X Address1 -0.005
+Stateavg X City -0.002
+Stateavg X State 0.019
+Stateavg X ZipCode -0.003
+Stateavg X CountyName -0.001
+Stateavg X PhoneNumber 0.007
+Stateavg X HospitalType 0.004
+Stateavg X HospitalOwner 0.002
+Stateavg X EmergencyService 0.003
+Stateavg X Condition 0.055
+Stateavg X MeasureCode 0.591
+Stateavg X MeasureName 0.579
+Stateavg X Score 0.002
+Stateavg X Sample -0.059
+Stateavg X Stateavg 0.0
+featurizer FreqFeaturizer,size 17,max 0.2354,min -0.0024,avg 0.0424,abs_avg 0.0429,weights:
+ProviderNumber -0.002
+HospitalName 0.0
+Address1 0.0
+City 0.003
+State 0.235
+ZipCode 0.008
+CountyName 0.01
+PhoneNumber -0.002
+HospitalType 0.0
+HospitalOwner 0.061
+EmergencyService 0.235
+Condition 0.114
+MeasureCode 0.0
+MeasureName 0.001
+Score 0.006
+Sample 0.047
+Stateavg 0.004
+featurizer ConstraintFeaturizer,size 33,max 0.1439,min -0.3465,avg -0.1199,abs_avg 0.1374,weights:
+fixed pred: t1."ZipCode"<>t2."ZipCode", violation pred: t1."HospitalName"=t2."HospitalName" -0.073
+fixed pred: t1."HospitalName"=t2."HospitalName", violation pred: t1."ZipCode"<>t2."ZipCode" -0.19
+fixed pred: t1."PhoneNumber"<>t2."PhoneNumber", violation pred: t1."HospitalName"=t2."HospitalName" -0.081
+fixed pred: t1."HospitalName"=t2."HospitalName", violation pred: t1."PhoneNumber"<>t2."PhoneNumber" -0.18
+fixed pred: t1."MeasureName"<>t2."MeasureName", violation pred: t1."MeasureCode"=t2."MeasureCode" -0.289
+fixed pred: t1."MeasureCode"=t2."MeasureCode", violation pred: t1."MeasureName"<>t2."MeasureName" -0.188
+fixed pred: t1."Stateavg"<>t2."Stateavg", violation pred: t1."MeasureCode"=t2."MeasureCode" -0.286
+fixed pred: t1."MeasureCode"=t2."MeasureCode", violation pred: t1."Stateavg"<>t2."Stateavg" -0.249
+fixed pred: t1."HospitalName"<>t2."HospitalName", violation pred: t1."ProviderNumber"=t2."ProviderNumber" -0.18
+fixed pred: t1."ProviderNumber"=t2."ProviderNumber", violation pred: t1."HospitalName"<>t2."HospitalName" -0.102
+fixed pred: t1."Condition"<>t2."Condition", violation pred: t1."MeasureCode"=t2."MeasureCode" -0.263
+fixed pred: t1."MeasureCode"=t2."MeasureCode", violation pred: t1."Condition"<>t2."Condition" -0.227
+fixed pred: t1."Address1"<>t2."Address1", violation pred: t1."HospitalName"=t2."HospitalName" -0.073
+fixed pred: t1."HospitalName"=t2."HospitalName", violation pred: t1."Address1"<>t2."Address1" -0.164
+fixed pred: t1."HospitalOwner"<>t2."HospitalOwner", violation pred: t1."HospitalName"=t2."HospitalName" -0.065
+fixed pred: t1."HospitalName"=t2."HospitalName", violation pred: t1."HospitalOwner"<>t2."HospitalOwner" -0.155
+fixed pred: t1."ProviderNumber"<>t2."ProviderNumber", violation pred: t1."HospitalName"=t2."HospitalName" -0.079
+fixed pred: t1."HospitalName"=t2."HospitalName", violation pred: t1."ProviderNumber"<>t2."ProviderNumber" -0.183
+fixed pred: t1."CountyName"<>t2."CountyName", violation pred: t1."City"=t2."City" -0.089
+fixed pred: t1."City"=t2."City", violation pred: t1."CountyName"<>t2."CountyName" -0.191
+fixed pred: t1."EmergencyService"<>t2."EmergencyService", violation pred: t1."ZipCode"=t2."ZipCode" -0.054
+fixed pred: t1."ZipCode"=t2."ZipCode", violation pred: t1."EmergencyService"<>t2."EmergencyService" -0.1
+fixed pred: t1."City"<>t2."City", violation pred: t1."HospitalName"=t2."HospitalName" -0.072
+fixed pred: t1."HospitalName"=t2."HospitalName", violation pred: t1."City"<>t2."City" -0.163
+fixed pred: t1."MeasureCode"<>t2."MeasureCode", violation pred: t1."MeasureName"=t2."MeasureName" -0.12
+fixed pred: t1."MeasureName"=t2."MeasureName", violation pred: t1."MeasureCode"<>t2."MeasureCode" -0.347
+fixed pred: t1."PhoneNumber"=t2."PhoneNumber" AND t1."HospitalOwner"=t2."HospitalOwner" AND t1."State"<>t2."State", violation pred: t1."HospitalName"=t2."HospitalName" 0.047
+fixed pred: t1."HospitalName"=t2."HospitalName" AND t1."HospitalOwner"=t2."HospitalOwner" AND t1."State"<>t2."State", violation pred: t1."PhoneNumber"=t2."PhoneNumber" 0.144
+fixed pred: t1."HospitalName"=t2."HospitalName" AND t1."PhoneNumber"=t2."PhoneNumber" AND t1."State"<>t2."State", violation pred: t1."HospitalOwner"=t2."HospitalOwner" 0.098
+fixed pred: t1."HospitalName"=t2."HospitalName" AND t1."PhoneNumber"=t2."PhoneNumber" AND t1."HospitalOwner"=t2."HospitalOwner", violation pred: t1."State"<>t2."State" -0.079
+fixed pred: t1."MeasureName"=t2."MeasureName" AND t1."HospitalType"<>t2."HospitalType", violation pred: t1."Condition"=t2."Condition" -0.0
+fixed pred: t1."Condition"=t2."Condition" AND t1."HospitalType"<>t2."HospitalType", violation pred: t1."MeasureName"=t2."MeasureName" -0.0
+fixed pred: t1."Condition"=t2."Condition" AND t1."MeasureName"=t2."MeasureName", violation pred: t1."HospitalType"<>t2."HospitalType" -0.0
+
+01:01:44 - [DEBUG] - Time to store featurizer weights: 0.00 secs
+01:01:46 - [DEBUG] - Time to create index: 0.00 secs
+01:01:46 - [DEBUG] - Time to create index: 0.00 secs
+01:01:46 - [ INFO] - DONE Loading clean_index_holoclean.csv
+01:01:46 - [DEBUG] - Time to evaluate repairs: 0.99 secs
+01:01:46 - [DEBUG] - Time to execute query: 0.00 secs
+01:01:46 - [DEBUG] - Time to execute query: 0.00 secs
+01:01:46 - [DEBUG] - Preparing to execute 17 queries.
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'ProviderNumber'   AND t1."ProviderNumber" != t2._value_ with id 0
+01:01:46 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'HospitalName'   AND t1."HospitalName" != t2._value_ with id 1
+01:01:46 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'Address1'   AND t1."Address1" != t2._value_ with id 2
+01:01:46 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'City'   AND t1."City" != t2._value_ with id 3
+01:01:46 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'State'   AND t1."State" != t2._value_ with id 4
+01:01:46 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'ZipCode'   AND t1."ZipCode" != t2._value_ with id 5
+01:01:46 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'CountyName'   AND t1."CountyName" != t2._value_ with id 6
+01:01:46 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'PhoneNumber'   AND t1."PhoneNumber" != t2._value_ with id 7
+01:01:46 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'HospitalType'   AND t1."HospitalType" != t2._value_ with id 8
+01:01:46 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'HospitalOwner'   AND t1."HospitalOwner" != t2._value_ with id 9
+01:01:46 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'EmergencyService'   AND t1."EmergencyService" != t2._value_ with id 10
+01:01:46 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'Condition'   AND t1."Condition" != t2._value_ with id 11
+01:01:46 - [DEBUG] - Time to execute query with id 11: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'MeasureCode'   AND t1."MeasureCode" != t2._value_ with id 12
+01:01:46 - [DEBUG] - Time to execute query with id 12: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'MeasureName'   AND t1."MeasureName" != t2._value_ with id 13
+01:01:46 - [DEBUG] - Time to execute query with id 13: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'Score'   AND t1."Score" != t2._value_ with id 14
+01:01:46 - [DEBUG] - Time to execute query with id 14: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'Sample'   AND t1."Sample" != t2._value_ with id 15
+01:01:46 - [DEBUG] - Time to execute query with id 15: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'Stateavg'   AND t1."Stateavg" != t2._value_ with id 16
+01:01:46 - [DEBUG] - Time to execute query with id 16: 0.00 secs
+01:01:46 - [DEBUG] - Time to execute 17 queries: 0.02 secs
+01:01:46 - [DEBUG] - Time to execute query: 0.00 secs
+01:01:46 - [DEBUG] - Preparing to execute 17 queries.
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'ProviderNumber'       AND t1."ProviderNumber" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 0
+01:01:46 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'HospitalName'       AND t1."HospitalName" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 1
+01:01:46 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'Address1'       AND t1."Address1" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 2
+01:01:46 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'City'       AND t1."City" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 3
+01:01:46 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'State'       AND t1."State" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 4
+01:01:46 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'ZipCode'       AND t1."ZipCode" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 5
+01:01:46 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'CountyName'       AND t1."CountyName" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 6
+01:01:46 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'PhoneNumber'       AND t1."PhoneNumber" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 7
+01:01:46 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'HospitalType'       AND t1."HospitalType" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 8
+01:01:46 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'HospitalOwner'       AND t1."HospitalOwner" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 9
+01:01:46 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'EmergencyService'       AND t1."EmergencyService" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 10
+01:01:46 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'Condition'       AND t1."Condition" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 11
+01:01:46 - [DEBUG] - Time to execute query with id 11: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'MeasureCode'       AND t1."MeasureCode" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 12
+01:01:46 - [DEBUG] - Time to execute query with id 12: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'MeasureName'       AND t1."MeasureName" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 13
+01:01:46 - [DEBUG] - Time to execute query with id 13: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'Score'       AND t1."Score" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 14
+01:01:46 - [DEBUG] - Time to execute query with id 14: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'Sample'       AND t1."Sample" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 15
+01:01:46 - [DEBUG] - Time to execute query with id 15: 0.00 secs
+01:01:46 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "hospitals_nwcpk_175" as t1, "hospitals_nwcpk_175_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'Stateavg'       AND t1."Stateavg" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 16
+01:01:46 - [DEBUG] - Time to execute query with id 16: 0.00 secs
+01:01:46 - [DEBUG] - Time to execute 17 queries: 0.02 secs
+01:01:46 - [DEBUG] - Time to execute query: 0.00 secs
+01:01:46 - [DEBUG] - weak label statistics:
+01:01:46 - [DEBUG] -     is_clean  cell_status  is_inferred  init = grdth init = inferred  \
+0   False     0            True         False         False            
+1   False     0            True         False         True             
+2   False     0            True         True          True             
+3   False     1            True         False         False            
+4   False     1            True         False         False            
+5   False     1            True         False         True             
+6   False     1            True         False         True             
+7   False     1            True         True          True             
+8   False     2            True         False         False            
+9   False     2            True         True          True             
+10  True      0            False        False         None             
+11  True      0            False        True          None             
+12  True      1            False        False         None             
+13  True      1            False        True          None             
+14  True      2            False        True          None             
+
+    w. label = init  w. label = grdth w. label = inferred infer = grdth  count  
+0   True             False             False               True          93     
+1   True             False             True                False         107    
+2   True             True              True                True          8795   
+3   False            True              False               False         1      
+4   False            True              True                True          215    
+5   False            False             False               False         1      
+6   False            True              False               False         175    
+7   False            False             False               True          19     
+8   True             False             False               True          8      
+9   True             True              True                True          1229   
+10  True             False             None                None          6      
+11  True             True              None                None          3766   
+12  False            True              None                None          2      
+13  False            False             None                None          1      
+14  True             True              None                None          1355   
+01:01:46 - [ INFO] - Precision = 1.00, Recall = 0.52, Repairing Recall = 0.53, F1 = 0.68, Repairing F1 = 0.69, Detected Errors = 600, Total Errors = 608, Correct Repairs = 316, Total Repairs = 317, Total Repairs on correct cells (Grdth present) = 0, Total Repairs on incorrect cells (Grdth present) = 317
+01:01:46 - [DEBUG] - Time to generate report: 0.07 secs
+01:01:46 - [DEBUG] - Time to execute query: 0.01 secs
+01:01:46 - [WARNING] - 属性列 Address2 在数据中不存在，已新增此列并填充为空值。
+01:01:46 - [WARNING] - 属性列 Address3 在数据中不存在，已新增此列并填充为空值。
+01:01:46 - [ INFO] - 清洗后的数据已成功保存到 results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_repaired.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/1_hospitals/clean_index_ori_empty.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/1_hospitals/noise_with_correct_primary_key/dirty_mixed_1.75/dirty_hospitals_mix_1.75_ori_empty.csv
+Running Holoclean with modified dirty file: Data/1_hospitals/noise_with_correct_primary_key/dirty_mixed_1.75/dirty_hospitals_mix_1.75_holoclean.csv
+转换完成，结果已保存到 Data/1_hospitals/clean_index_holoclean.csv
+Results saved to results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_repaired.csv
+Holoclean finished in 138.6317138671875 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_repaired_ori_empty.csv
+差异文件已保存到:
+results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_clean_vs_dirty.csv
+results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_dirty_vs_cleaned.csv
+results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_unrepaired.csv
+修复准确率: 0.9968454258675079, 修复召回率: 0.5197368421052632, F1值: 0.6832432431981916
+========================================
+EDR 结果已保存到: results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_edr_evaluation.txt
+错误减少率 (EDR): 0.5197368421052632
+========================================
+混合距离结果已保存到: results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.1334637911954361
+========================================
+R-EDR 结果已保存到: results/holoclean/nwcpk/1_hospitals_nwcpk_175/1_hospitals_nwcpk_175_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): 0.4785553047404063
+========================================
+测试结果:
+Accuracy: 0.9968454258675079
+Recall: 0.5197368421052632
+F1 Score: 0.6832432431981916
+EDR: 0.5197368421052632
+Hybrid Distance: 0.1334637911954361
+R-EDR: 0.4785553047404063
+Time: 138.6317138671875
+Speed: 13.86317138671875 seconds/100 records
+测评结束，详细测评日志见：results/holoclean/nwcpk/1_hospitals_nwcpk_175

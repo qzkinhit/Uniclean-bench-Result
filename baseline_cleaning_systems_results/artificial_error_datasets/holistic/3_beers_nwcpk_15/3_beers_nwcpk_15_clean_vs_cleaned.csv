@@ -1,0 +1,563 @@
+Attribute,Index,Clean Value,Cleaned Value
+beer_name,1535,kentucky k?lsch,kentucky kölsch
+beer_name,1738,"the kimmie, the yink and the holy gose",the kimmie the yink and the holy gose
+beer_name,1640,aslan k?lsch,aslan kölsch
+beer_name,1408,k?lsch 151,kölsch 151
+beer_name,2204,post time k?lsch,post time kölsch
+beer_name,1802,"you're my boy, blue",you're my boy blue
+beer_name,2654,32°/50° k?lsch,32°/50° kölsch
+beer_name,129,heiner brau k?lsch,heiner brau kölsch
+beer_name,1804,mj?llnir,mjöllnir
+beer_name,1452,laimas k?lsch style ale,laimas kölsch style ale
+beer_name,2309,sunbru k?lsch,sunbru kölsch
+beer_name,178,sunbru k?lsch,sunbru kölsch
+beer_name,1034,cabrillo k?lsch,cabrillo kölsch
+beer_name,2142,screamin??pumpkin,screamin�?pumpkin
+beer_name,1615,the 12th can??american pale ale (apa),the 12th can�?american pale ale (apa)
+beer_name,195,lancaster german style k?lsch,lancaster german style kölsch
+beer_name,1081,occidental k?lsch,occidental kölsch
+beer_name,1796,the crowler??,the crowler�?
+beer_name,1087,side kick k?lsch,side kick kölsch
+beer_name,1760,greybeard??ipa,greybeard�?ipa
+beer_name,92,colorado k?lsch,colorado kölsch
+beer_name,105,k?ld lager (2010),köld lager (2010)
+beer_name,936,loafin br?u,loafin bräu
+style,2217,k?lsch,kölsch
+style,1535,k?lsch,kölsch
+style,550,k?lsch,kölsch
+style,1640,k?lsch,kölsch
+style,1579,m?rzen / oktoberfest,märzen / oktoberfest
+style,1401,k?lsch,kölsch
+style,1408,k?lsch,kölsch
+style,1613,m?rzen / oktoberfest,märzen / oktoberfest
+style,1281,m?rzen / oktoberfest,märzen / oktoberfest
+style,2204,k?lsch,kölsch
+style,2654,k?lsch,kölsch
+style,427,k?lsch,kölsch
+style,2055,k?lsch,kölsch
+style,2019,k?lsch,kölsch
+style,2079,m?rzen / oktoberfest,märzen / oktoberfest
+style,2011,m?rzen / oktoberfest,märzen / oktoberfest
+style,2438,k?lsch,kölsch
+style,129,k?lsch,kölsch
+style,681,k?lsch,kölsch
+style,1311,k?lsch,kölsch
+style,1452,k?lsch,kölsch
+style,1968,k?lsch,kölsch
+style,2659,k?lsch,kölsch
+style,2309,k?lsch,kölsch
+style,178,k?lsch,kölsch
+style,1300,k?lsch,kölsch
+style,1034,k?lsch,kölsch
+style,930,m?rzen / oktoberfest,märzen / oktoberfest
+style,539,m?rzen / oktoberfest,märzen / oktoberfest
+style,2461,m?rzen / oktoberfest,märzen / oktoberfest
+style,1567,m?rzen / oktoberfest,märzen / oktoberfest
+style,1380,k?lsch,kölsch
+style,1313,m?rzen / oktoberfest,märzen / oktoberfest
+style,769,k?lsch,kölsch
+style,192,k?lsch,kölsch
+style,989,m?rzen / oktoberfest,märzen / oktoberfest
+style,2383,m?rzen / oktoberfest,märzen / oktoberfest
+style,1458,m?rzen / oktoberfest,märzen / oktoberfest
+style,1235,k?lsch,kölsch
+style,195,k?lsch,kölsch
+style,475,k?lsch,kölsch
+style,1816,k?lsch,kölsch
+style,1626,m?rzen / oktoberfest,märzen / oktoberfest
+style,2662,k?lsch,kölsch
+style,1617,m?rzen / oktoberfest,märzen / oktoberfest
+style,314,m?rzen / oktoberfest,märzen / oktoberfest
+style,1081,k?lsch,kölsch
+style,696,k?lsch,kölsch
+style,1087,k?lsch,kölsch
+style,417,m?rzen / oktoberfest,märzen / oktoberfest
+style,1992,m?rzen / oktoberfest,märzen / oktoberfest
+style,2373,m?rzen / oktoberfest,märzen / oktoberfest
+style,1552,k?lsch,kölsch
+style,1864,k?lsch,kölsch
+style,1995,m?rzen / oktoberfest,märzen / oktoberfest
+style,307,m?rzen / oktoberfest,märzen / oktoberfest
+style,166,m?rzen / oktoberfest,märzen / oktoberfest
+style,1798,k?lsch,kölsch
+style,1482,m?rzen / oktoberfest,märzen / oktoberfest
+style,1969,k?lsch,kölsch
+style,369,m?rzen / oktoberfest,märzen / oktoberfest
+style,92,k?lsch,kölsch
+style,1357,m?rzen / oktoberfest,märzen / oktoberfest
+style,650,k?lsch,kölsch
+style,456,m?rzen / oktoberfest,märzen / oktoberfest
+style,1410,k?lsch,kölsch
+style,874,m?rzen / oktoberfest,märzen / oktoberfest
+style,526,m?rzen / oktoberfest,märzen / oktoberfest
+style,2035,k?lsch,kölsch
+style,1042,m?rzen / oktoberfest,märzen / oktoberfest
+style,1645,m?rzen / oktoberfest,märzen / oktoberfest
+style,1514,k?lsch,kölsch
+brewery_id,1502,154,0
+brewery_id,173,368,189
+brewery_id,2518,267,67
+brewery_id,2216,27,0
+brewery_id,515,533,0
+brewery_id,2675,1,0
+brewery_id,2674,1,0
+brewery_id,2403,117,189
+brewery_id,2402,117,0
+brewery_id,1921,270,0
+brewery_id,523,171,0
+brewery_id,410,542,0
+brewery_id,1639,353,0
+brewery_id,1409,413,0
+brewery_id,702,360,0
+brewery_id,1876,286,0
+brewery_id,2005,251,0
+brewery_id,2189,116,0
+brewery_id,1963,258,0
+brewery_id,2435,103,189
+brewery_id,1902,75,0
+brewery_id,1900,278,0
+brewery_id,1154,463,189
+brewery_id,1712,336,0
+brewery_id,168,336,0
+brewery_id,1898,112,0
+brewery_id,1897,112,0
+brewery_id,1847,294,0
+brewery_id,2449,95,12
+brewery_id,1025,380,189
+brewery_id,937,380,0
+brewery_id,1547,382,457
+brewery_id,1408,414,382
+brewery_id,1607,364,0
+brewery_id,89,364,0
+brewery_id,1548,107,0
+brewery_id,1281,300,0
+brewery_id,470,219,0
+brewery_id,2637,10,0
+brewery_id,2636,10,0
+brewery_id,2598,10,0
+brewery_id,2597,10,0
+brewery_id,2548,10,0
+brewery_id,2542,10,0
+brewery_id,2541,10,0
+brewery_id,2504,10,0
+brewery_id,2500,10,0
+brewery_id,2499,10,0
+brewery_id,2498,10,0
+brewery_id,2481,10,0
+brewery_id,2476,10,0
+brewery_id,2467,10,0
+brewery_id,2466,10,0
+brewery_id,2465,10,0
+brewery_id,2433,10,0
+brewery_id,2418,10,0
+brewery_id,2416,10,0
+brewery_id,2382,10,0
+brewery_id,2381,10,0
+brewery_id,2290,10,0
+brewery_id,2241,10,0
+brewery_id,2240,10,0
+brewery_id,2137,10,0
+brewery_id,2101,10,0
+brewery_id,2092,10,0
+brewery_id,2091,10,0
+brewery_id,2086,10,0
+brewery_id,2023,10,0
+brewery_id,2006,10,0
+brewery_id,1997,10,0
+brewery_id,1977,10,0
+brewery_id,1976,10,0
+brewery_id,1974,10,0
+brewery_id,1973,10,0
+brewery_id,1959,10,0
+brewery_id,1958,10,0
+brewery_id,1949,10,0
+brewery_id,1947,10,0
+brewery_id,1785,10,0
+brewery_id,1651,10,0
+brewery_id,1443,10,0
+brewery_id,1352,10,0
+brewery_id,1266,10,0
+brewery_id,1178,10,0
+brewery_id,1136,10,0
+brewery_id,1044,10,0
+brewery_id,1033,10,0
+brewery_id,1031,10,0
+brewery_id,909,10,0
+brewery_id,873,10,0
+brewery_id,860,10,0
+brewery_id,677,10,0
+brewery_id,671,10,0
+brewery_id,670,10,0
+brewery_id,669,10,0
+brewery_id,627,10,0
+brewery_id,385,10,0
+brewery_id,384,10,0
+brewery_id,921,493,0
+brewery_id,648,493,0
+brewery_id,26,530,0
+brewery_id,2607,24,0
+brewery_id,2606,24,0
+brewery_id,790,155,0
+brewery_id,1928,267,0
+brewery_id,784,504,0
+brewery_id,782,504,189
+brewery_id,530,179,0
+brewery_id,2094,222,0
+brewery_id,1940,222,0
+brewery_id,2056,236,0
+brewery_id,1726,141,0
+brewery_id,2338,145,0
+brewery_id,2351,139,0
+brewery_id,1337,139,0
+brewery_id,542,212,0
+brewery_id,1092,227,0
+brewery_id,186,227,0
+brewery_id,1735,333,0
+brewery_id,1886,283,0
+brewery_id,1213,453,0
+brewery_id,1159,453,0
+brewery_id,947,453,0
+brewery_id,1944,263,0
+brewery_id,1943,263,0
+brewery_id,1504,170,189
+brewery_id,1453,405,0
+brewery_id,2191,201,0
+brewery_id,1662,256,0
+brewery_id,351,256,0
+brewery_id,2659,4,0
+brewery_id,2309,160,0
+brewery_id,1635,160,0
+brewery_id,1585,160,0
+brewery_id,178,160,189
+brewery_id,2525,66,0
+brewery_id,858,460,0
+brewery_id,857,460,0
+brewery_id,1698,240,0
+brewery_id,1000,478,0
+brewery_id,312,478,0
+brewery_id,311,478,0
+brewery_id,309,478,0
+brewery_id,2198,196,189
+brewery_id,2201,88,0
+brewery_id,477,536,0
+brewery_id,2126,213,0
+brewery_id,1990,165,0
+brewery_id,2644,6,457
+brewery_id,2642,6,0
+brewery_id,1028,365,0
+brewery_id,864,365,0
+brewery_id,863,365,457
+brewery_id,2375,124,0
+brewery_id,1270,343,0
+brewery_id,2059,234,0
+brewery_id,1558,234,0
+brewery_id,2179,204,0
+brewery_id,1893,280,0
+brewery_id,499,198,0
+brewery_id,1555,277,0
+brewery_id,2671,2,0
+brewery_id,1405,416,0
+brewery_id,2453,92,457
+brewery_id,688,92,189
+brewery_id,1254,32,0
+brewery_id,2060,233,0
+brewery_id,1068,125,0
+brewery_id,1193,458,0
+brewery_id,85,510,0
+brewery_id,59,84,0
+brewery_id,1396,218,0
+brewery_id,1832,298,0
+brewery_id,1687,298,0
+brewery_id,574,268,0
+brewery_id,2581,41,0
+brewery_id,1309,430,189
+brewery_id,1571,377,456
+brewery_id,2311,158,0
+brewery_id,1153,158,0
+brewery_id,355,158,0
+brewery_id,511,534,0
+brewery_id,73,534,0
+brewery_id,1626,356,0
+brewery_id,1717,317,457
+brewery_id,686,299,0
+brewery_id,33,375,0
+brewery_id,1236,448,0
+brewery_id,1986,254,0
+brewery_id,1985,254,0
+brewery_id,2185,203,0
+brewery_id,1506,393,189
+brewery_id,587,223,0
+brewery_id,586,223,0
+brewery_id,434,223,0
+brewery_id,2531,65,189
+brewery_id,172,284,0
+brewery_id,1052,326,457
+brewery_id,2345,143,0
+brewery_id,1775,143,0
+brewery_id,1093,143,0
+brewery_id,580,143,0
+brewery_id,746,387,457
+brewery_id,1707,82,0
+brewery_id,952,82,0
+brewery_id,40,410,0
+brewery_id,2041,241,0
+brewery_id,1622,359,0
+brewery_id,541,529,0
+brewery_id,128,442,189
+brewery_id,2192,200,0
+brewery_id,1720,148,0
+brewery_id,1487,301,0
+brewery_id,1486,301,0
+brewery_id,508,301,0
+brewery_id,1530,390,0
+brewery_id,1526,390,0
+brewery_id,6,166,0
+brewery_id,4,166,0
+brewery_id,805,503,166
+brewery_id,804,503,166
+brewery_id,803,503,166
+brewery_id,787,503,166
+brewery_id,786,503,166
+brewery_id,785,503,166
+brewery_id,745,503,166
+brewery_id,744,503,166
+brewery_id,743,503,166
+brewery_id,742,503,166
+brewery_id,741,503,166
+brewery_id,734,503,166
+brewery_id,733,503,166
+brewery_id,1175,389,0
+brewery_id,1908,275,261
+brewery_id,1268,441,0
+brewery_id,697,441,0
+brewery_id,1043,307,0
+brewery_id,1931,266,189
+brewery_id,1061,470,0
+brewery_id,1384,355,0
+brewery_id,1797,310,0
+brewery_id,479,314,0
+brewery_id,1589,370,0
+brewery_id,1461,135,0
+brewery_id,188,135,0
+brewery_id,1290,128,0
+brewery_id,1091,128,0
+brewery_id,339,487,0
+brewery_id,219,386,189
+brewery_id,2074,229,189
+brewery_id,2599,30,0
+brewery_id,2073,30,0
+brewery_id,2063,30,0
+brewery_id,1995,30,0
+brewery_id,1934,30,0
+brewery_id,1324,428,189
+brewery_id,1077,428,0
+brewery_id,53,428,0
+brewery_id,975,385,0
+brewery_id,160,551,0
+brewery_id,1608,46,0
+brewery_id,1591,46,0
+brewery_id,1387,46,0
+brewery_id,424,46,457
+brewery_id,774,264,189
+brewery_id,68,264,0
+brewery_id,2305,163,371
+brewery_id,24,371,0
+brewery_id,407,191,0
+brewery_id,402,191,0
+brewery_id,1160,309,457
+brewery_id,879,309,0
+brewery_id,445,498,189
+brewery_id,2270,131,0
+brewery_id,2122,131,0
+brewery_id,2121,131,0
+brewery_id,1357,131,0
+brewery_id,1410,412,457
+brewery_id,925,412,0
+brewery_id,637,412,0
+brewery_id,2352,138,58
+brewery_id,2000,25,0
+brewery_id,1314,25,189
+brewery_id,2409,61,0
+brewery_id,663,449,0
+brewery_id,2555,45,0
+brewery_id,1196,45,0
+brewery_id,827,480,0
+brewery_id,2155,210,0
+brewery_id,1914,272,189
+brewery_id,1198,457,189
+brewery_id,1945,262,0
+brewery_id,2347,142,0
+brewery_id,1913,273,0
+brewery_id,1754,152,0
+brewery_id,1027,474,0
+brewery_id,1936,265,0
+brewery_id,2588,38,0
+brewery_id,1284,74,0
+brewery_id,1170,435,0
+brewery_id,1089,159,189
+brewery_id,582,71,0
+brewery_id,1853,51,0
+brewery_id,79,51,0
+brewery_id,2223,94,0
+brewery_id,2340,132,189
+brewery_id,2572,47,0
+brewery_id,1836,296,0
+brewery_name,2403,alameda brewing,empty
+brewery_name,2449,blackrocks brewery,0
+brewery_name,1408,blue mountain brewery,0
+brewery_name,2637,brewery vivant,brewey vivant
+brewery_name,2636,brewery vivant,brewey vivant
+brewery_name,2598,brewery vivant,brewery viant
+brewery_name,2597,brewery vivant,rewery vivant
+brewery_name,2548,brewery vivant,brewery viant
+brewery_name,2542,brewery vivant,brewey vivant
+brewery_name,2541,brewery vivant,brewery viant
+brewery_name,2504,brewery vivant,brewery viant
+brewery_name,2500,brewery vivant,brewey vivant
+brewery_name,2499,brewery vivant,brewery viant
+brewery_name,2498,brewery vivant,brewery viant
+brewery_name,2481,brewery vivant,brewery viant
+brewery_name,2476,brewery vivant,brewery viant
+brewery_name,2467,brewery vivant,brewery viant
+brewery_name,2466,brewery vivant,brewery viant
+brewery_name,2465,brewery vivant,brewery viant
+brewery_name,2433,brewery vivant,brewey vivant
+brewery_name,2418,brewery vivant,brewery viant
+brewery_name,2416,brewery vivant,brewery viant
+brewery_name,2382,brewery vivant,brewery viant
+brewery_name,2381,brewery vivant,brewery viant
+brewery_name,2290,brewery vivant,brewery viant
+brewery_name,2241,brewery vivant,brewery viant
+brewery_name,2240,brewery vivant,brewery viant
+brewery_name,2101,brewery vivant,brewery viant
+brewery_name,2092,brewery vivant,brewery viant
+brewery_name,2091,brewery vivant,brewery viant
+brewery_name,2086,brewery vivant,brewey vivant
+brewery_name,2023,brewery vivant,brewey vivant
+brewery_name,2006,brewery vivant,brewery viant
+brewery_name,1997,brewery vivant,brewery viant
+brewery_name,1977,brewery vivant,brewery viant
+brewery_name,1976,brewery vivant,brewey vivant
+brewery_name,1974,brewery vivant,brewery viant
+brewery_name,1973,brewery vivant,brewery viant
+brewery_name,1959,brewery vivant,brewery viant
+brewery_name,1958,brewery vivant,brewery viant
+brewery_name,1949,brewery vivant,brewery viant
+brewery_name,1947,brewery vivant,brewery viant
+brewery_name,1785,brewery vivant,brewery viant
+brewery_name,1651,brewery vivant,brewery viant
+brewery_name,1443,brewery vivant,brewey vivant
+brewery_name,1352,brewery vivant,brewery viant
+brewery_name,1267,brewery vivant,brewery viant
+brewery_name,1266,brewery vivant,brewery viant
+brewery_name,1178,brewery vivant,bprewery vivant
+brewery_name,1136,brewery vivant,brewery viant
+brewery_name,1044,brewery vivant,brewery viant
+brewery_name,1033,brewery vivant,brewey vivant
+brewery_name,1031,brewery vivant,brewery viant
+brewery_name,909,brewery vivant,brewery vivafnt
+brewery_name,873,brewery vivant,brewery vvant
+brewery_name,860,brewery vivant,brewery viant
+brewery_name,677,brewery vivant,brewervy vivant
+brewery_name,671,brewery vivant,brewery viant
+brewery_name,670,brewery vivant,brewery viant
+brewery_name,669,brewery vivant,bryewery vivant
+brewery_name,627,brewery vivant,brewery viant
+brewery_name,387,brewery vivant,brewery viant
+brewery_name,385,brewery vivant,brewery viant
+brewery_name,384,brewery vivant,brewery viant
+brewery_name,1943,denver beer company,denver beer scompany
+brewery_name,1504,everybody's brewing,empty
+brewery_name,2198,goose island brewery company,empty
+brewery_name,1784,iron hill brewery & restaurant,iron hill berwery & restaurant
+brewery_name,1309,lost rhino brewing company,empty
+brewery_name,1571,lucette brewing company,0
+brewery_name,1984,meckley's cidery,meckley''s mcidery
+brewery_name,2236,modern monks brewery,empty
+brewery_name,1621,noda brewing company,oda brewing company
+brewery_name,805,oskar blues brewery,0
+brewery_name,804,oskar blues brewery,0
+brewery_name,803,oskar blues brewery,0
+brewery_name,787,oskar blues brewery,0
+brewery_name,786,oskar blues brewery,0
+brewery_name,785,oskar blues brewery,0
+brewery_name,745,oskar blues brewery,0
+brewery_name,744,oskar blues brewery,0
+brewery_name,743,oskar blues brewery,0
+brewery_name,742,oskar blues brewery,0
+brewery_name,741,oskar blues brewery,0
+brewery_name,734,oskar blues brewery,0
+brewery_name,733,oskar blues brewery,0
+brewery_name,1931,peak organic brewing company,0
+brewery_name,1437,pine street brewery,pine stdreet brewery
+brewery_name,2307,right brain brewery,ight brain brewery
+brewery_name,2305,sly fox brewing company,0
+brewery_name,1410,straight to ale,empty
+brewery_name,2352,summit brewing company,0
+brewery_name,2445,tr?egs brewing company,tröegs brewing company
+brewery_name,2444,tr?egs brewing company,tröegs brewing company
+brewery_name,2203,tr?egs brewing company,tröegs brewing company
+brewery_name,1510,tr?egs brewing company,tröegs brewing company
+brewery_name,1509,tr?egs brewing company,tröegs brewing company
+brewery_name,2417,"woodstock inn, station & brewery",woodstock inn station & brewery
+brewery_name,2306,"woodstock inn, station & brewery",woodstock inn station & brewery
+city,2402,portland,empty
+city,410,hayward,empty
+city,2548,grand rapids,grand rapisd
+city,2504,grand rapids,gradn rapids
+city,2499,grand rapids,garnd rapids
+city,2241,grand rapids,grand rapitds
+city,2006,grand rapids,grad rapids
+city,1734,diamond springs,empty
+city,1944,denver,denvaer
+city,1107,jacksonville beach,jacksonvilsle beach
+city,2339,loveland,empty
+city,109,eau claire,empty
+city,1912,charlottesville,empty
+city,1026,minnetonka,empty
+state,1920,ak,aak
+state,1875,al,arl
+state,1343,az,xaz
+state,1317,ma,empty
+state,921,ak,ka
+state,920,ak,ka
+state,919,ak,ka
+state,648,ak,ka
+state,1927,ma,am
+state,784,nc,enc
+state,1650,ar,r
+state,1337,ar,r
+state,1336,ar,r
+state,1885,ks,kns
+state,1213,ak,ka
+state,1159,ak,axk
+state,947,ak,ka
+state,929,ak,axk
+state,2309,az,za
+state,1635,az,za
+state,1616,az,za
+state,1585,az,za
+state,358,az,za
+state,179,az,za
+state,178,az,za
+state,1000,al,acl
+state,312,al,l
+state,311,al,acl
+state,309,al,la
+state,308,al,acl
+state,823,pa,ap
+state,2408,md,dm
+state,1193,ak,ka
+state,1187,ak,ka
+state,349,ak,ka
+state,348,ak,ka
+state,2311,az,z
+state,1153,az,za
+state,355,az,za
+state,125,az,z
+state,586,ak,ka
+state,2413,ca,a
+state,1410,al,l
+state,925,al,la
+state,637,al,l
+state,641,co,o

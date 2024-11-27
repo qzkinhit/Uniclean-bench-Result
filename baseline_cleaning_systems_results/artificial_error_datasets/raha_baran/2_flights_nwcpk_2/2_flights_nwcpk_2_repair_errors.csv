@@ -1,0 +1,29 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+act_dep_time,5,empty,11:05 am,12:41 pm
+act_dep_time,1206,0:30 pm,04:12 pm,05:30 pm
+act_dep_time,1255,02:4 pm,01:19 pm,02:04 pm
+act_dep_time,2073,empty,07:22 am,08:00 am
+act_dep_time,2340,empty,01:19 pm,02:04 pm
+sched_arr_time,18,11:0 am,10:45 am,11:10 am
+sched_arr_time,135,11:05 bam,08:00 am,11:05 am
+sched_arr_time,323,11:05 m,08:00 am,11:05 am
+sched_arr_time,529,11:10 m,10:45 am,11:10 am
+sched_arr_time,959,empty,08:00 am,11:05 am
+sched_arr_time,1395,8:27 am,05:15 pm,08:27 am
+act_arr_time,215,1a0:04 am,100:4 am,10:04 am
+act_arr_time,306,10:40 am,100:4 am,10:04 am
+act_arr_time,404,1004 am,100:4 am,10:04 am
+act_arr_time,502,10:04o am,100:4 am,10:04 am
+act_arr_time,694,1:004 am,100:4 am,10:04 am
+act_arr_time,775,10:4 am,100:4 am,10:04 am
+act_arr_time,876,10:04 ma,100:4 am,10:04 am
+act_arr_time,1040,10x:04 am,100:4 am,10:04 am
+act_arr_time,1290,10:4 am,100:4 am,10:04 am
+act_arr_time,1388,01:04 am,100:4 am,10:04 am
+act_arr_time,1554,10:0 am,100:4 am,10:04 am
+act_arr_time,1621,0:04 am,100:4 am,10:04 am
+act_arr_time,1924,10h:04 am,100:4 am,10:04 am
+act_arr_time,2015,10:04 ma,100:4 am,10:04 am
+act_arr_time,2115,10:i04 am,100:4 am,10:04 am
+act_arr_time,2220,1p0:04 am,100:4 am,10:04 am
+act_arr_time,2303,0:04 am,100:4 am,10:04 am

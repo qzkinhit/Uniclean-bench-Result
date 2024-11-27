@@ -1,0 +1,56 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/1_hospital/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/1_hospital/noise_with_correct_primary_key/dirty_mixed_0.5/dirty_hospitals_mix_0.5.csv
+Running bigdansing with dirty file: Data/1_hospital/noise_with_correct_primary_key/dirty_mixed_0.5/dirty_hospitals_mix_0.5.csv
+Start Blocking
+  0%|                                                              | 0/15 [00:00<?, ?it/s] 40%|█████████████████████▌                                | 6/15 [00:00<00:00, 31.00it/s] 87%|█████████████████████████████████████████████▉       | 13/15 [00:00<00:00, 31.82it/s] 87%|█████████████████████████████████████████████▉       | 13/15 [00:20<00:00, 31.82it/s]100%|█████████████████████████████████████████████████████| 15/15 [01:26<00:00,  8.78s/it]100%|█████████████████████████████████████████████████████| 15/15 [01:26<00:00,  5.77s/it]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                              | 0/15 [00:00<?, ?it/s]  7%|███▌                                                  | 1/15 [00:03<00:52,  3.78s/it] 13%|███████▏                                              | 2/15 [00:07<00:47,  3.68s/it] 20%|██████████▊                                           | 3/15 [00:14<01:02,  5.22s/it] 27%|██████████████▍                                       | 4/15 [00:21<01:07,  6.12s/it] 33%|██████████████████                                    | 5/15 [00:26<00:55,  5.56s/it] 40%|█████████████████████▌                                | 6/15 [00:33<00:55,  6.20s/it] 47%|█████████████████████████▏                            | 7/15 [00:39<00:47,  5.89s/it] 53%|████████████████████████████▊                         | 8/15 [00:43<00:37,  5.38s/it] 60%|████████████████████████████████▍                     | 9/15 [00:47<00:30,  5.03s/it] 67%|███████████████████████████████████▎                 | 10/15 [00:53<00:26,  5.25s/it] 73%|██████████████████████████████████████▊              | 11/15 [00:58<00:20,  5.05s/it] 80%|██████████████████████████████████████████▍          | 12/15 [01:02<00:14,  4.82s/it] 87%|█████████████████████████████████████████████▉       | 13/15 [01:09<00:10,  5.48s/it] 93%|█████████████████████████████████████████████████▍   | 14/15 [01:25<00:08,  8.71s/it]100%|█████████████████████████████████████████████████████| 15/15 [02:01<00:00, 16.92s/it]100%|█████████████████████████████████████████████████████| 15/15 [02:01<00:00,  8.10s/it]
+Finish Detectings
+Initial cells to repair: 6223
+Processing loop - sizebefore: 6223, sizeafter: 0
+Current MVC size: 456
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                              | 0/15 [00:00<?, ?it/s]  7%|███▌                                                  | 1/15 [00:03<00:54,  3.89s/it] 13%|███████▏                                              | 2/15 [00:07<00:50,  3.87s/it] 20%|██████████▊                                           | 3/15 [00:14<01:00,  5.08s/it] 27%|██████████████▍                                       | 4/15 [00:20<01:02,  5.66s/it] 33%|██████████████████                                    | 5/15 [00:24<00:50,  5.04s/it] 40%|█████████████████████▌                                | 6/15 [00:30<00:48,  5.43s/it] 47%|█████████████████████████▏                            | 7/15 [00:34<00:38,  4.85s/it] 53%|████████████████████████████▊                         | 8/15 [00:38<00:31,  4.47s/it] 60%|████████████████████████████████▍                     | 9/15 [00:42<00:26,  4.36s/it] 67%|███████████████████████████████████▎                 | 10/15 [00:47<00:23,  4.62s/it] 73%|██████████████████████████████████████▊              | 11/15 [00:51<00:17,  4.39s/it] 80%|██████████████████████████████████████████▍          | 12/15 [00:55<00:12,  4.16s/it] 87%|█████████████████████████████████████████████▉       | 13/15 [01:01<00:09,  4.82s/it] 93%|█████████████████████████████████████████████████▍   | 14/15 [01:15<00:07,  7.67s/it]100%|█████████████████████████████████████████████████████| 15/15 [01:48<00:00, 15.22s/it]100%|█████████████████████████████████████████████████████| 15/15 [01:48<00:00,  7.23s/it]
+/home/qzk/.local/lib/python3.8/site-packages/numpy/lib/function_base.py:518: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/home/qzk/.local/lib/python3.8/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/home/qzk/.local/lib/python3.8/site-packages/numpy/lib/function_base.py:518: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/home/qzk/.local/lib/python3.8/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+===============================================
+Results saved to results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/repaired_1_hospital_nwcpk_050.csv
+BigDansing finished in 324.53712344169617 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/repaired_1_hospital_nwcpk_050.csv
+差异文件已保存到:
+results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/1_hospital_nwcpk_050_clean_vs_dirty.csv
+results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/1_hospital_nwcpk_050_dirty_vs_cleaned.csv
+results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/1_hospital_nwcpk_050_clean_vs_cleaned.csv
+修复准确率: 0.38084632516703787, 修复召回率: 0.9715909090909091, F1值: 0.5471999999595397
+========================================
+EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/1_hospital_nwcpk_050_edr_evaluation.txt
+错误减少率 (EDR): -0.6022727272727273
+========================================
+混合距离结果已保存到: results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/1_hospital_nwcpk_050_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.04392241058028205
+========================================
+R-EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05/1_hospital_nwcpk_050_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.08024691358024691
+========================================
+测试结果:
+Accuracy: 0.38084632516703787
+Recall: 0.9715909090909091
+F1 Score: 0.5471999999595397
+EDR: -0.6022727272727273
+Hybrid Distance: 0.04392241058028205
+R-EDR: -0.08024691358024691
+time(s): 324.53712344169617
+speed: 32.45371234416962 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/nwcpk/Repaired_res/1_hospital_nwcpk_05

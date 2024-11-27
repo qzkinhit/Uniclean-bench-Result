@@ -1,0 +1,99 @@
+Attribute,Index,Clean Value,Cleaned Value
+HospitalName,8,callahan eye foundation hospital,callahan eye foundation hospiatl
+HospitalName,13,helen keller memorial hospital,helen keller memoriatl hospital
+HospitalName,14,helen keller memorial hospital,helen keller memorial hospiatl
+HospitalName,117,mizell memorial hospital,callahan eye foundation hospital
+HospitalName,118,mizell memorial hospital,callahan eye foundation hospital
+HospitalName,119,mizell memorial hospital,callahan eye foundation hospital
+HospitalName,164,hartselle medical center,hartselle medcial center
+HospitalName,195,st vincents east,callahan eye foundation hospital
+HospitalName,196,st vincents east,callahan eye foundation hospital
+HospitalName,197,st vincents east,callahan eye foundation hospital
+HospitalName,198,st vincents east,callahan eye foundation hospital
+HospitalName,199,st vincents east,callahan eye foundation hospital
+HospitalName,208,st vincents east,st vincents xeast
+HospitalName,217,st vincents east,callahan eye foundation hospital
+HospitalName,218,st vincents east,callahan eye foundation hospital
+HospitalName,219,st vincents east,callahan eye foundation hospital
+HospitalName,229,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,230,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,231,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,243,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,244,dekalb regional medical center,callahan eye foundation hospital
+HospitalName,319,stringfellow memorial hospital,stringfegllow memorial hospital
+HospitalName,455,helen keller memorial hospital,helen keller memorial hsopital
+HospitalName,456,helen keller memorial hospital,helen keller memoiral hospital
+HospitalName,457,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,458,helen keller memorial hospital,helen keller memorial hosjpital
+HospitalName,459,helen keller memorial hospital,helen keller memorial hosiptal
+HospitalName,874,marion regional medical center,marion regoinal medical center
+HospitalName,875,marion regional medical center,marion regional mediacl center
+HospitalName,910,riverview regional medical center,riverviewr egional medical center
+HospitalName,977,medical center enterprise,medicail center enterprise
+Address1,214,50 medical park east drive,05 medical park east drive
+Address1,303,1720 university blvd,1720 university bvd
+Address1,304,1720 university blvd,1720 university lvd
+Address1,305,1720 university blvd,1720 university xblvd
+Address1,354,1201 7th street se,201 pine street northwest
+ZipCode,304,35233,3533
+ZipCode,305,35233,35233***
+ZipCode,306,35233,3z5233
+PhoneNumber,19,2563864556,2563864565
+HospitalOwner,18,government - hospital district or authority,governmnt - hospital district or authority
+HospitalOwner,33,government - hospital district or authority,government - hopital district or authority
+HospitalOwner,464,government - hospital district or authority,government - hospital distric tor authority
+HospitalOwner,465,government - hospital district or authority,government - hospital districtor authority
+HospitalOwner,466,government - hospital district or authority,government - hosiptal district or authority
+HospitalOwner,669,government - state,overnment - state
+Condition,88,surgical infection prevention,surgical infection uprevention
+Condition,222,heart attack,heart attck
+Condition,256,pneumonia,pneumonai
+Condition,488,surgical infection prevention,surgical inefection prevention
+Condition,495,heart attack,heart attak
+Condition,515,surgical infection prevention,surgcial infection prevention
+Condition,574,heart failure,eart failure
+Condition,630,pneumonia,vpneumonia
+Condition,631,pneumonia,neumonia
+Condition,688,surgical infection prevention,surgical infectino prevention
+Condition,770,surgical infection prevention,surgical infectionp revention
+Condition,798,surgical infection prevention,surgical infectio prevention
+Condition,823,surgical infection prevention,surgicall infection prevention
+Condition,848,surgical infection prevention,surgical infeciton prevention
+Condition,852,surgical infection prevention,surgical infection prevnetion
+Condition,873,surgical infection prevention,usrgical infection prevention
+Condition,898,surgical infection prevention,surgical infecton prevention
+Condition,926,surgical infection prevention,surgica infection prevention
+Condition,959,heart attack,heart atack
+MeasureName,6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair rmoval cream c not a razor)
+MeasureName,102,heart failure patients given discharge instructions,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,103,heart failure patients given an evaluation of left ventricular systolic (lvs) function,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,104,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,105,heart failure patients given smoking cessation advice/counseling,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,106,pneumonia patients assessed and given pneumococcal vaccination,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,107,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,108,pneumonia patients given smoking cessation advice/counseling,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,160,pneumonia patients given the most appropriate initial antibiotic(s),pneumoia patients given the most appropriate initial antibiotic(s)
+MeasureName,189,surgery patients who were given the  right kind  of antibiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infcetion
+MeasureName,245,heart attack patients given aspirin at arrival,heart attack patients given aspirin at arrial
+MeasureName,270,heart attack patients given aspirin at arrival,heart attack patiets given aspirin at arrival
+MeasureName,314,heart attack patients given aspirin at arrival,heart attackb patients given aspirin at arrival
+MeasureName,455,pneumonia patients given smoking cessation advice/counseling,pneumonia patients given smoking cessaton advice/counseling
+MeasureName,567,heart attack patients given aspirin at arrival,heart attack patients givn aspirin at arrival
+MeasureName,717,heart attack patients given aspirin at arrival,heart attack patients given aspirin atarrival
+MeasureName,803,heart attack patients given aspirin at arrival,heart attack patients given aspirini at arrival
+MeasureName,853,heart attack patients given aspirin at arrival,heart attac kpatients given aspirin at arrival
+MeasureName,926,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),surgery patients whose preventive antibiotics were stopped at the right time (within 24 horus after surgery)
+MeasureName,956,heart attack patients given aspirin at arrival,heart ttack patients given aspirin at arrival
+Stateavg,5,al_scip-inf-4,al_scip-nf-4
+Stateavg,36,al_pn-7,al_pn7-
+Stateavg,87,al_scip-card-2,pal_scip-card-2
+Stateavg,112,al_scip-card-2,al_sicp-card-2
+Stateavg,137,al_scip-card-2,l_scip-card-2
+Stateavg,138,al_scip-inf-1,al_scip-itnf-1
+Stateavg,162,al_scip-card-2,al_scip-wcard-2
+Stateavg,187,al_scip-card-2,al_scip-qcard-2
+Stateavg,212,al_scip-card-2,a_scip-card-2
+Stateavg,237,al_scip-card-2,la_scip-card-2
+Stateavg,433,ak_hf-1,akhf-1
+Stateavg,783,al_ami-7a,al_mai-7a
+Stateavg,840,al_pn-3b,alb_pn-3b

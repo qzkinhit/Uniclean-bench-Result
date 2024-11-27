@@ -1,0 +1,1422 @@
+Attribute,Index,Dirty Value,Cleaned Value
+ProviderNumber,1,10018,10010
+ProviderNumber,2,10018,10010
+ProviderNumber,3,10018,10010
+ProviderNumber,4,10018,10010
+ProviderNumber,5,10018,10010
+ProviderNumber,6,10018,10010
+ProviderNumber,7,10018,10010
+ProviderNumber,8,10018,10010
+ProviderNumber,9,10019,0
+ProviderNumber,10,10019,10010
+ProviderNumber,11,10019,10010
+ProviderNumber,12,10019,10010
+ProviderNumber,13,10019,10010
+ProviderNumber,14,10019,10010
+ProviderNumber,15,10019,10010
+ProviderNumber,16,10019,10010
+ProviderNumber,17,10019,10010
+ProviderNumber,18,10019,0
+ProviderNumber,19,10019,0
+ProviderNumber,35,10001,0
+ProviderNumber,36,10001,0
+ProviderNumber,37,10001,0
+ProviderNumber,38,10001,0
+ProviderNumber,39,10001,0
+ProviderNumber,40,10001,0
+ProviderNumber,41,10001,0
+ProviderNumber,42,10001,0
+ProviderNumber,43,10001,0
+ProviderNumber,44,10001,0
+ProviderNumber,75,10006,10010
+ProviderNumber,76,10006,10010
+ProviderNumber,77,10006,10010
+ProviderNumber,78,10006,10010
+ProviderNumber,79,10006,10010
+ProviderNumber,80,10006,10010
+ProviderNumber,81,10006,10010
+ProviderNumber,82,10006,10010
+ProviderNumber,117,10007,0
+ProviderNumber,136,10008,0
+ProviderNumber,142,10008,10010
+ProviderNumber,143,10008,10010
+ProviderNumber,144,10008,10010
+ProviderNumber,145,10009,10010
+ProviderNumber,146,10009,10010
+ProviderNumber,147,10009,10010
+ProviderNumber,148,10009,10010
+ProviderNumber,149,10009,10010
+ProviderNumber,152,10009,0
+ProviderNumber,165,10009,10010
+ProviderNumber,166,10009,10010
+ProviderNumber,167,10009,10010
+ProviderNumber,168,10009,10010
+ProviderNumber,169,10009,10010
+ProviderNumber,177,10010,0
+ProviderNumber,186,10010,0
+ProviderNumber,191,10010,0
+ProviderNumber,192,10010,0
+ProviderNumber,193,10010,0
+ProviderNumber,194,10010,0
+ProviderNumber,202,10011,0
+ProviderNumber,228,10012,0
+ProviderNumber,250,10015,10010
+ProviderNumber,251,10015,10010
+ProviderNumber,252,10015,10010
+ProviderNumber,253,10015,10010
+ProviderNumber,254,10015,10010
+ProviderNumber,255,10015,10010
+ProviderNumber,256,10015,10010
+ProviderNumber,257,10015,10010
+ProviderNumber,274,10016,10018
+ProviderNumber,294,10016,0
+ProviderNumber,295,10018,10010
+ProviderNumber,296,10018,10010
+ProviderNumber,297,10018,10010
+ProviderNumber,298,10018,10010
+ProviderNumber,299,10018,10010
+ProviderNumber,300,10018,10010
+ProviderNumber,301,10018,10010
+ProviderNumber,302,10018,10010
+ProviderNumber,303,10018,10010
+ProviderNumber,305,10018,10010
+ProviderNumber,306,10018,10010
+ProviderNumber,307,10018,10010
+ProviderNumber,308,10018,10010
+ProviderNumber,309,10018,10010
+ProviderNumber,310,10018,10010
+ProviderNumber,311,10018,10010
+ProviderNumber,337,10055,0
+ProviderNumber,351,10056,0
+ProviderNumber,371,10086,0
+ProviderNumber,450,20017,0
+ProviderNumber,453,10019,0
+ProviderNumber,454,10019,0
+ProviderNumber,455,10019,0
+ProviderNumber,458,10019,0
+ProviderNumber,459,10019,0
+ProviderNumber,460,10019,0
+ProviderNumber,461,10019,0
+ProviderNumber,462,10019,0
+ProviderNumber,463,10019,0
+ProviderNumber,464,10019,0
+ProviderNumber,465,10019,0
+ProviderNumber,466,10019,0
+ProviderNumber,524,10023,0
+ProviderNumber,546,10024,0
+ProviderNumber,562,10024,0
+ProviderNumber,565,10024,0
+ProviderNumber,580,10025,0
+ProviderNumber,626,10029,0
+ProviderNumber,665,10032,0
+ProviderNumber,703,10034,0
+ProviderNumber,709,10034,0
+ProviderNumber,716,10034,0
+ProviderNumber,718,10035,0
+ProviderNumber,799,10039,0
+ProviderNumber,874,10044,0
+ProviderNumber,931,10047,10018
+ProviderNumber,933,10047,0
+HospitalName,1,callahan eye foundation hospital,0
+HospitalName,2,callahan eye foundation hospital,0
+HospitalName,3,callahan eye foundation hospital,0
+HospitalName,4,callahan eye foundation hospital,0
+HospitalName,5,callahan eye foundation hospital,empty
+HospitalName,6,callahan eye foundation hospital,0
+HospitalName,7,callahan eye foundation hospital,0
+HospitalName,8,callahan eye foundation hospital,empty
+HospitalName,9,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,10,callahan eye foundation hospital,helen keller meomrial hospital
+HospitalName,11,callahan eye foundation hospital,helen keller memorial hospital
+HospitalName,12,callahan eye foundation hospital,helen keller meomrial hospital
+HospitalName,13,callahan eye foundation hospital,helen keller meomrial hospital
+HospitalName,14,callahan eye foundation hospital,helen keller meomrial hospital
+HospitalName,15,callahan eye foundation hospital,heeln keller memorial hospital
+HospitalName,16,callahan eye foundation hospital,heeln keller memorial hospital
+HospitalName,17,callahan eye foundation hospital,heeln keller memorial hospital
+HospitalName,18,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,19,helen keller memorial hospnital,helen keller memorial hospital
+HospitalName,20,southeast alabama medical center,0
+HospitalName,24,southeast alabama medical center,0
+HospitalName,26,southeast alabama medical center,0
+HospitalName,28,southeast alabama medical center,0
+HospitalName,33,southeast alabama medical center,0
+HospitalName,35,southeast alyabama medical center,southeast alabama medical center
+HospitalName,36,southeast alabamamedical center,southeast alabama medical center
+HospitalName,37,souhteast alabama medical center,southeast alabama medical center
+HospitalName,38,southeast alabaa medical center,southeast alabama medical center
+HospitalName,39,southeast alabam amedical center,southeast alabama medical center
+HospitalName,40,southeast alabama medical cefnter,southeast alabama medical center
+HospitalName,41,southeast alabama medical ceynter,southeast alabama medical center
+HospitalName,42,sotheast alabama medical center,southeast alabama medical center
+HospitalName,43,southeast alabama medical centelr,southeast alabama medical center
+HospitalName,44,southest alabama medical center,southeast alabama medical center
+HospitalName,49,marshall medical center south,0
+HospitalName,57,marshall medical center south,0
+HospitalName,59,marshall medical center south,0
+HospitalName,75,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,76,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,77,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,78,callahan eye foundation hospital,0
+HospitalName,79,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,80,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,81,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,82,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,85,eliza coffee memorial hospital,0
+HospitalName,91,eliza coffee memorial hospital,0
+HospitalName,94,eliza coffee memorial hospital,0
+HospitalName,95,mizell memorial hospital,0
+HospitalName,96,mizell memorial hospital,0
+HospitalName,97,mizell memorial hospital,0
+HospitalName,98,mizell memorial hospital,0
+HospitalName,104,mizell memorial hospital,0
+HospitalName,111,mizell memorial hospital,0
+HospitalName,112,mizell memorial hospital,0
+HospitalName,116,mizell memorial hospital,0
+HospitalName,117,empty,mizell memorial hospital
+HospitalName,121,crenshaw community hospital,crenhsaw community hospital
+HospitalName,132,crenshaw community hospital,0
+HospitalName,136,crenhsaw community hospital,crenshaw community hospital
+HospitalName,142,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,143,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,144,callahan eye foundation hospital,crenshaw community hospital
+HospitalName,145,callahan eye foundation hospital,0
+HospitalName,146,callahan eye foundation hospital,0
+HospitalName,147,callahan eye foundation hospital,0
+HospitalName,148,callahan eye foundation hospital,0
+HospitalName,149,callahan eye foundation hospital,0
+HospitalName,152,empty,hartselle medical center
+HospitalName,157,hartselle medical center,0
+HospitalName,164,hartselle medical center,0
+HospitalName,165,callahan eye foundation hospital,0
+HospitalName,166,callahan eye foundation hospital,hartselle medical center
+HospitalName,167,callahan eye foundation hospital,0
+HospitalName,168,callahan eye foundation hospital,0
+HospitalName,169,callahan eye foundation hospital,hartselle medical center
+HospitalName,177,empty,callahan eye foundation hospital
+HospitalName,186,marshall medical center north,callahan eye foundation hospital
+HospitalName,191,marshall medical center north,callahan eye foundation hospital
+HospitalName,192,marshall medical center north,callahan eye foundation hospital
+HospitalName,193,marshall medical center north,callahan eye foundation hospital
+HospitalName,194,marshall medical center north,callahan eye foundation hospital
+HospitalName,202,empty,st vincents east
+HospitalName,205,st vincents east,0
+HospitalName,209,st vincents east,0
+HospitalName,213,st vincents east,0
+HospitalName,215,st vincents east,0
+HospitalName,216,st vincents east,0
+HospitalName,228,dekalb regional medicla center,dekalb regional medical center
+HospitalName,229,dekalb regional medical center,0
+HospitalName,230,dekalb regional medical center,0
+HospitalName,231,dekalb regional medical center,dekalb regional medicla center
+HospitalName,233,dekalb regional medical center,0
+HospitalName,243,dekalb regional medical center,0
+HospitalName,244,dekalb regional medical center,dekalb regional medicla center
+HospitalName,245,southwest alabama medical center,0
+HospitalName,250,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,251,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,252,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,253,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,254,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,255,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,256,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,257,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,270,shelby baptist medical center,shelby bpatist medical center
+HospitalName,271,shelby baptist medical center,shelby bpatist medical center
+HospitalName,274,empty,shelby bpatist medical center
+HospitalName,293,shelby baptist medical center,0
+HospitalName,294,shelby bpatist medical center,shelby baptist medical center
+HospitalName,295,callahan eye foundation hospital,0
+HospitalName,296,callahan eye foundation hospital,0
+HospitalName,297,callahan eye foundation hospital,0
+HospitalName,298,callahan eye foundation hospital,0
+HospitalName,299,callahan eye foundation hospital,0
+HospitalName,300,callahan eye foundation hospital,0
+HospitalName,301,callahan eye foundation hospital,empty
+HospitalName,302,callahan eye foundation hospital,0
+HospitalName,303,callahan eye foundation hospital,0
+HospitalName,304,empty,0
+HospitalName,305,callahan eye foundation hospital,0
+HospitalName,306,callahan eye foundation hospital,0
+HospitalName,307,callahan eye foundation hospital,0
+HospitalName,308,callahan eye foundation hospital,0
+HospitalName,309,callahan eye foundation hospital,0
+HospitalName,310,callahan eye foundation hospital,empty
+HospitalName,311,callahan eye foundation hospital,0
+HospitalName,312,stringfellow memorial hospital,0
+HospitalName,313,stringfellow memorial hospital,0
+HospitalName,314,stringfellow memorial hospital,0
+HospitalName,315,stringfellow memorial hospital,0
+HospitalName,316,stringfellow memorial hospital,0
+HospitalName,318,stringfellow memorial hospital,0
+HospitalName,319,stringfellow memorial hospital,0
+HospitalName,320,stringfellow memorial hospital,0
+HospitalName,329,stringfellow memorial hospital,0
+HospitalName,331,stringfellow memorial hospital,0
+HospitalName,334,flowers hospital,0
+HospitalName,335,flowers hospital,0
+HospitalName,337,empty,flowers hospital
+HospitalName,351,empty,st vincents hospital
+HospitalName,360,northwest medical center,0
+HospitalName,371,nortwhest medical center,northwest medical center
+HospitalName,376,northwest medical center,0
+HospitalName,381,univ of south alabama medical center,0
+HospitalName,385,univ of south alabama medical center,0
+HospitalName,388,univ of south alabama medical center,0
+HospitalName,390,univ of south alabama medical center,0
+HospitalName,399,prattville baptist hospital,0
+HospitalName,408,prattville baptist hospital,0
+HospitalName,411,prattville baptist hospital,0
+HospitalName,414,empty,russellville hospital
+HospitalName,427,coosa valley medical center,0
+HospitalName,428,coosa valley medical center,0
+HospitalName,429,coosa valley medical center,0
+HospitalName,430,coosa valley medical center,0
+HospitalName,442,alaska regional hospital,0
+HospitalName,445,alaska regional hospital,0
+HospitalName,447,alaska regional hospital,0
+HospitalName,450,empty,alaska regional hospital
+HospitalName,453,helen keller memorial hopital,helen keller meomrial hospital
+HospitalName,454,helen keller emorial hospital,helen keller memorial hospital
+HospitalName,455,helen keller mermorial hospital,helen keller meomrial hospital
+HospitalName,458,heeln keller memorial hospital,helen keller meomrial hospital
+HospitalName,459,helen keller memorial hospital,helen keller meomrial hospital
+HospitalName,460,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,461,helen keller memorial hospital,helen keller meomrial hospital
+HospitalName,462,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,463,helen keller memorial hospital,helen keller meomrial hospital
+HospitalName,464,helen keller memorial hospital,heeln keller memorial hospital
+HospitalName,465,helen keller memorial hospital,helen keller meomrial hospital
+HospitalName,466,helen keller memorial hospital,helen keller meomrial hospital
+HospitalName,473,dale medical center,0
+HospitalName,475,dale medical center,0
+HospitalName,480,dale medical center,0
+HospitalName,482,dale medical center,0
+HospitalName,494,cherokee medical center,0
+HospitalName,497,cherokee medical center,0
+HospitalName,501,cherokee medical center,0
+HospitalName,505,cherokee medical center,0
+HospitalName,506,cherokee medical center,0
+HospitalName,517,baptist medical center south,baptist medical centler south
+HospitalName,518,baptist medical center south,baptist medical centler south
+HospitalName,521,baptist medical center south,baptist medical centler south
+HospitalName,524,baptist medical centler south,baptist medical center south
+HospitalName,528,baptist medical center south,0
+HospitalName,531,baptist medical center south,0
+HospitalName,534,baptist medical center south,baptist medical centler south
+HospitalName,536,baptist medical center south,baptist medical centler south
+HospitalName,537,baptist medical center south,0
+HospitalName,546,empty,jackson hospital & clinic inc
+HospitalName,562,empty,jackson hospital & clinic inc
+HospitalName,564,jackson hospital & clinic inc,jackson ospital & clinic inc
+HospitalName,565,jackson ospital & clinic inc,jackson hospital & clinic inc
+HospitalName,567,g h lanier memorial hospital,0
+HospitalName,571,g h lanier memorial hospital,0
+HospitalName,580,empty,g h lanier memorial hospital
+HospitalName,583,g h lanier memorial hospital,0
+HospitalName,597,elba general hospital,0
+HospitalName,599,elba general hospital,0
+HospitalName,607,elba general hospital,0
+HospitalName,626,east alabamam edical center and snf,east alabama medical center and snf
+HospitalName,629,east alabama medical center and snf,0
+HospitalName,637,east alabama medical center and snf,0
+HospitalName,641,east alabama medical center and snf,0
+HospitalName,644,wedowee hospital,0
+HospitalName,645,wedowee hospital,0
+HospitalName,664,wedowee hospital,0
+HospitalName,665,empty,wedowee hospital
+HospitalName,676,university of alabama hospital,0
+HospitalName,681,university of alabama hospital,0
+HospitalName,685,university of alabama hospital,0
+HospitalName,695,community hospital inc,0
+HospitalName,703,community hospitazl inc,community hospital inc
+HospitalName,707,community hospital inc,0
+HospitalName,709,community hospitl inc,community hospital inc
+HospitalName,711,community hospital inc,0
+HospitalName,716,ommunity hospital inc,community hospital inc
+HospitalName,717,cullman regional medical center,cullman regionalmedical center
+HospitalName,718,cullman regionalmedical center,0
+HospitalName,720,cullman regional medical center,cullman regionalmedical center
+HospitalName,725,cullman regional medical center,cullman regionalmedical center
+HospitalName,726,cullman regional medical center,cullman regionalmedical center
+HospitalName,739,cullman regional medical center,0
+HospitalName,741,cullman regional medical center,0
+HospitalName,742,andalusia regional hospital,0
+HospitalName,747,andalusia regional hospital,0
+HospitalName,751,andalusia regional hospital,0
+HospitalName,752,andalusia regional hospital,0
+HospitalName,769,stringfellow memorial hospital,0
+HospitalName,780,huntsville hospital,0
+HospitalName,781,huntsville hospital,0
+HospitalName,792,huntsville hospital,0
+HospitalName,796,huntsville hospital,0
+HospitalName,799,empty,huntsville hospital
+HospitalName,800,huntsville hospital,0
+HospitalName,803,gadsden regional medical center,0
+HospitalName,805,gadsden regional medical center,0
+HospitalName,814,gadsden regional medical center,0
+HospitalName,818,gadsden regional medical center,0
+HospitalName,821,gadsden regional medical center,0
+HospitalName,835,chilton medical center,0
+HospitalName,840,chilton medical center,0
+HospitalName,844,chilton medical center,0
+HospitalName,845,chilton medical center,0
+HospitalName,851,chilton medical center,0
+HospitalName,863,marion regional medical center,0
+HospitalName,865,marion regional medical center,maroin regional medical center
+HospitalName,866,marion regional medical center,maroin regional medical center
+HospitalName,874,maroin regional medical center,marion regional medical center
+HospitalName,880,fayette medical center,0
+HospitalName,882,fayette medical center,0
+HospitalName,884,fayette medical center,0
+HospitalName,892,fayette medical center,0
+HospitalName,899,fayette medical center,0
+HospitalName,900,fayette medical center,0
+HospitalName,903,riverview regional medical center,0
+HospitalName,908,riverview regional medical center,0
+HospitalName,909,riverview regional medical center,0
+HospitalName,922,riverview regional medical center,0
+HospitalName,928,riverview regional medical center,0
+HospitalName,931,empty,georgiana hospital
+HospitalName,933,empty,georgiana hospital
+HospitalName,935,georgiana hospital,0
+HospitalName,953,georgiana hospital,0
+HospitalName,957,medical center enterprise,0
+HospitalName,965,medical center enterprise,0
+HospitalName,967,medical center enterprise,0
+HospitalName,968,medical center enterprise,0
+HospitalName,969,medical center enterprise,0
+HospitalName,970,medical center enterprise,0
+HospitalName,976,medical center enterprise,0
+HospitalName,994,st vincents blount,0
+HospitalName,998,st vincents blount,0
+HospitalName,1000,st vincents blount,0
+Address1,1,1720 university blvd,8000 alabama highway 69
+Address1,2,1720 university blvd,8000 alabama highway 69
+Address1,3,1720 university blvd,8000 alabama highway 69
+Address1,4,1720 university blvd,8000 alabama highway 69
+Address1,5,1720 university blvd,8000 alabama highway 69
+Address1,6,1720 university blvd,8000 alabama highway 69
+Address1,7,1720 university blvd,8000 alabama highway 69
+Address1,8,1720 university blvd,8000 alabama highway 69
+Address1,9,1300 south montgomery avenue,300 south montgomery avenue
+Address1,10,1300 south montgomery avenue,8000 alabama highway 69
+Address1,11,1300 south montgomery avenue,8000 alabama highway 69
+Address1,12,1300 south montgomery avenue,8000 alabama highway 69
+Address1,13,1300 south montgomery avenue,8000 alabama highway 69
+Address1,14,1300 south montgomery avenue,8000 alabama highway 69
+Address1,15,1300 south montgomery avenue,8000 alabama highway 69
+Address1,16,1300 south montgomery avenue,8000 alabama highway 69
+Address1,17,1300 south montgomery avenue,8000 alabama highway 69
+Address1,18,1300 south montgomery avenue,300 south montgomery avenue
+Address1,49,2550 u s highway 431 north,2505 u s highway 431 north
+Address1,75,205 marengo street,8000 alabama highway 69
+Address1,76,205 marengo street,8000 alabama highway 69
+Address1,77,205 marengo street,8000 alabama highway 69
+Address1,78,205 marengo street,8000 alabama highway 69
+Address1,79,205 marengo street,8000 alabama highway 69
+Address1,80,205 marengo street,8000 alabama highway 69
+Address1,81,205 marengo street,8000 alabama highway 69
+Address1,82,205 marengo street,8000 alabama highway 69
+Address1,91,empty,205 marengo street
+Address1,94,205 qmarengo street,205 marengo street
+Address1,104,empty,702 n main st
+Address1,121,101 hopital circle,101 hospital circle
+Address1,142,101 hospital circle,8000 alabama highway 69
+Address1,143,101 hospital circle,8000 alabama highway 69
+Address1,144,101 hospital circle,8000 alabama highway 69
+Address1,145,201 pine street northwest,8000 alabama highway 69
+Address1,146,201 pine street northwest,8000 alabama highway 69
+Address1,147,201 pine street northwest,8000 alabama highway 69
+Address1,148,201 pine street northwest,8000 alabama highway 69
+Address1,149,201 pine street northwest,8000 alabama highway 69
+Address1,165,201 pine street northwest,8000 alabama highway 69
+Address1,166,201 pine street northwest,8000 alabama highway 69
+Address1,167,201 pine street northwest,8000 alabama highway 69
+Address1,168,201 pine street northwest,8000 alabama highway 69
+Address1,169,201 pine street northwest,8000 alabama highway 69
+Address1,183,empty,8000 alabama highway 69
+Address1,213,50 medcal park east drive,50 medical park east drive
+Address1,244,200 med center driev,200 med center drive
+Address1,250,33700 highway 43,8000 alabama highway 69
+Address1,251,33700 highway 43,8000 alabama highway 69
+Address1,252,33700 highway 43,8000 alabama highway 69
+Address1,253,empty,8000 alabama highway 69
+Address1,254,33700 highway 43,8000 alabama highway 69
+Address1,255,33700 highway 43,8000 alabama highway 69
+Address1,256,33700 highway 43,8000 alabama highway 69
+Address1,257,33700 highway 43,8000 alabama highway 69
+Address1,295,empty,8000 alabama highway 69
+Address1,296,1720 university blvd,8000 alabama highway 69
+Address1,297,1720 university blvd,8000 alabama highway 69
+Address1,298,1720 university blvd,8000 alabama highway 69
+Address1,299,1720 university blvd,8000 alabama highway 69
+Address1,300,1720 university blvd,8000 alabama highway 69
+Address1,301,1720 university blvd,8000 alabama highway 69
+Address1,302,1720 university blvd,8000 alabama highway 69
+Address1,303,1720 university blvd,8000 alabama highway 69
+Address1,305,1720 university blvd,8000 alabama highway 69
+Address1,306,1720 university blvd,8000 alabama highway 69
+Address1,307,1720 university blvd,8000 alabama highway 69
+Address1,308,1720 university blvd,8000 alabama highway 69
+Address1,309,1720 university blvd,8000 alabama highway 69
+Address1,310,1720 university blvd,8000 alabama highway 69
+Address1,311,1720 university blvd,8000 alabama highway 69
+Address1,388,2451 fillingimstreet,2451 fillingim street
+Address1,428,empty,315 w hickory st
+Address1,445,2801 debar road,2801 debarr road
+Address1,451,po box 287,o box 287
+Address1,460,1300 south montgomery avnue,300 south montgomery avenue
+Address1,480,empty,126 hospital ave
+Address1,536,2105 east south bkoulevard,2105 east south boulevard
+Address1,544,1725pine street,1725 pine street
+Address1,597,987 draytpon street,987 drayton street
+Address1,645,209 north main svtreet,209 north main street
+Address1,676,empty,619 south 19th street
+Address1,720,1912 alabama hihgway 157,1912 alabama highway 157
+Address1,742,empty,849 south three notch street
+Address1,805,1007 goodyear lavenue,1007 goodyear avenue
+Address1,821,1007 goodyexar avenue,1007 goodyear avenue
+Address1,840,empty,1010 lay dam road
+Address1,851,1010 lay dam roda,1010 lay dam road
+Address1,864,empty,1256 military street south
+Address1,865,1256 military street esouth,1256 military street south
+Address1,892,empty,1653 temple avenue north
+Address1,900,1653 teple avenue north,1653 temple avenue north
+Address1,908,600 sotuh third street,600 south third street
+Address1,909,empty,600 south third street
+Address1,928,empty,600 south third street
+Address1,967,400 n edward street,400 n edwards street
+Address1,1000,empty,150 gilbreath drive
+City,1,birmingham,guntersville
+City,2,birimngham,guntersville
+City,3,birmignham,guntersville
+City,4,birminghham,guntersville
+City,5,birmingmham,guntersville
+City,6,birimngham,guntersville
+City,7,birmingham,guntersville
+City,8,brmingham,guntersville
+City,10,sheffield,guntersville
+City,11,sheffield,guntersville
+City,12,sheffield,guntersville
+City,13,sheffield,guntersville
+City,14,sheffield,guntersville
+City,15,sheffield,guntersville
+City,16,sheffield,guntersville
+City,17,sheffield,guntersville
+City,20,birmingham,dothan
+City,26,empty,dothan
+City,28,empty,dothan
+City,33,othan,dothan
+City,39,dothan,0
+City,63,boaz,0
+City,75,florence,guntersville
+City,76,florence,guntersville
+City,77,florence,guntersville
+City,78,florence,guntersville
+City,79,florence,guntersville
+City,80,florence,guntersville
+City,81,florence,guntersville
+City,82,florence,guntersville
+City,94,flornce,florence
+City,100,opp,0
+City,129,luveren,luverne
+City,142,luverne,guntersville
+City,143,luverne,guntersville
+City,144,luverne,guntersville
+City,145,hartselle,guntersville
+City,146,hartselle,guntersville
+City,147,hartselle,guntersville
+City,148,hartselle,guntersville
+City,149,hartselle,guntersville
+City,165,hartselle,guntersville
+City,166,hartselle,guntersville
+City,167,empty,guntersville
+City,168,hartselle***,guntersville
+City,169,hartselle,guntersville
+City,186,guntersville,0
+City,216,empty,birmingham
+City,229,empty,fort payne
+City,230,fort payne,frot payne
+City,231,fort payne,0
+City,233,frot payne,fort payne
+City,245,thomasvialle,thomasville
+City,250,thomasville,guntersville
+City,251,thomasville,guntersville
+City,252,thomasville,guntersville
+City,253,thomasville,guntersville
+City,254,thomasville,guntersville
+City,255,thomasville,guntersville
+City,256,thomasville,guntersville
+City,257,thomasville,guntersville
+City,270,alaaster,alabaster
+City,271,alabaster,0
+City,272,alabaster,0
+City,273,alabaster,0
+City,274,alabaster,birmingham
+City,275,alabaster,0
+City,276,alabaster,0
+City,278,alabaster,0
+City,292,alabaster,0
+City,293,birmingham,0
+City,294,birmingham,0
+City,295,birmingham,guntersville
+City,296,birmingham,guntersville
+City,297,birmingham,guntersville
+City,298,birmingham,guntersville
+City,299,birmingham,guntersville
+City,300,birmingham,guntersville
+City,301,birmingham,guntersville
+City,302,birmingham,guntersville
+City,303,birmingham,guntersville
+City,305,birmingham,guntersville
+City,306,birmingham,guntersville
+City,307,birmingham,guntersville
+City,308,birmingham,guntersville
+City,309,birmingham,guntersville
+City,310,birmingham,guntersville
+City,311,birmingham,guntersville
+City,312,birmingham,anniston
+City,313,birmingham,anniston
+City,314,birmingham,anniston
+City,315,birmingham,anniston
+City,316,birmingham,anniston
+City,318,annisotn,anniston
+City,341,dothan,0
+City,376,empty,0
+City,379,winfield,0
+City,381,empty,mobile
+City,388,mobile,empty
+City,390,empty,mobile
+City,427,empty,sylacauga
+City,430,empty,sylacauga
+City,462,shfefield,sheffield
+City,475,empty,ozark
+City,479,ozark,0
+City,501,empty,centre
+City,503,centre,0
+City,528,montgobmery,montgomery
+City,531,montgomvery,montgomery
+City,554,montgomery,0
+City,597,eldba,elba
+City,604,elba,0
+City,673,birmingham,0
+City,674,birmingham,0
+City,712,tallassuee,tallassee
+City,722,cullman,0
+City,726,culnlman,cullman
+City,729,cullman,0
+City,747,andalusa,andalusia
+City,769,empty,anniston
+City,791,huntsville,0
+City,803,empty,gadsden
+City,814,gqadsden,gadsden
+City,833,clanton,0
+City,835,lanton,clanton
+City,846,clanton,0
+City,855,hamilton,0
+City,857,hamilton,0
+City,863,empty,hamilton
+City,957,enterprise,0
+City,961,enterprise,0
+City,968,enterprise,0
+City,970,enterprise,0
+City,976,empty,enterprise
+City,994,oneonta,0
+City,998,oeonta,oneonta
+City,1000,empty,oneonta
+State,24,la,al
+State,57,empty,al
+State,112,xal,al
+State,129,empty,al
+State,132,l,al
+State,184,l,al
+State,230,empty,al
+State,243,la,al
+State,270,la,al
+State,329,empty,al
+State,331,ral,al
+State,339,ahl,al
+State,360,l,al
+State,382,empty,al
+State,409,la,al
+State,411,ajl,al
+State,430,la,al
+State,497,la,al
+State,505,empty,al
+State,506,la,al
+State,599,empty,al
+State,637,empty,al
+State,739,empty,al
+State,741,empty,al
+State,752,empty,al
+State,780,empty,al
+State,800,empty,al
+State,802,l,al
+State,818,empty,al
+State,895,empty,al
+State,968,aal,al
+State,970,empty,al
+ZipCode,1,35233,35976
+ZipCode,2,35233,35976
+ZipCode,3,empty,35976
+ZipCode,4,35233,35976
+ZipCode,5,35233,35976
+ZipCode,6,35233,35976
+ZipCode,7,35233,35976
+ZipCode,8,35233,35976
+ZipCode,10,35660,35976
+ZipCode,11,35660,35976
+ZipCode,12,35660,35976
+ZipCode,13,35660,35976
+ZipCode,14,35660,35976
+ZipCode,15,35660,35976
+ZipCode,16,35660,35976
+ZipCode,17,35660,35976
+ZipCode,19,35660,0
+ZipCode,57,empty,35957
+ZipCode,61,35957,0
+ZipCode,75,35631,35976
+ZipCode,76,35631,35976
+ZipCode,77,35631,35976
+ZipCode,78,35631,35976
+ZipCode,79,35631,35976
+ZipCode,80,35631,35976
+ZipCode,81,35631,35976
+ZipCode,82,35631,35976
+ZipCode,87,35631,0
+ZipCode,95,35233,36467
+ZipCode,96,35233,36467
+ZipCode,97,35233,36467
+ZipCode,98,35233,36467
+ZipCode,116,empty,36467
+ZipCode,142,36049,35976
+ZipCode,143,36049,35976
+ZipCode,144,36049,35976
+ZipCode,145,35640,35976
+ZipCode,146,35640,35976
+ZipCode,147,35640,35976
+ZipCode,148,35640,35976
+ZipCode,149,35640,35976
+ZipCode,164,empty,35640
+ZipCode,165,35640,35976
+ZipCode,166,35640,35976
+ZipCode,167,35640,35976
+ZipCode,168,35640,35976
+ZipCode,169,35640,35976
+ZipCode,182,j35976,35976
+ZipCode,184,35976,0
+ZipCode,205,empty,35235
+ZipCode,216,35235,0
+ZipCode,227,35968,0
+ZipCode,231,empty,35968
+ZipCode,250,36784,35976
+ZipCode,251,36784,35976
+ZipCode,252,36784,35976
+ZipCode,253,36784,35976
+ZipCode,254,36784,35976
+ZipCode,255,36784,35976
+ZipCode,256,empty,35976
+ZipCode,257,36784,35976
+ZipCode,271,empty,35007
+ZipCode,295,35233,35976
+ZipCode,296,35233,35976
+ZipCode,297,35233,35976
+ZipCode,298,35233,35976
+ZipCode,299,35j233,35976
+ZipCode,300,a35233,35976
+ZipCode,301,35x233,35976
+ZipCode,302,35233***,35976
+ZipCode,303,3523o3,35976
+ZipCode,305,5233,35976
+ZipCode,306,empty,35976
+ZipCode,307,35233,35976
+ZipCode,308,35233,35976
+ZipCode,309,35233,35976
+ZipCode,310,35233,35976
+ZipCode,311,35233,35976
+ZipCode,363,35594,0
+ZipCode,388,36617,0
+ZipCode,399,empty,36067
+ZipCode,400,36067,0
+ZipCode,408,30667,36067
+ZipCode,427,5150,35150
+ZipCode,466,35660,0
+ZipCode,473,empty,36360
+ZipCode,475,36360,6360
+ZipCode,482,6360,36360
+ZipCode,514,35960,0
+ZipCode,521,empty,36116
+ZipCode,530,36116,0
+ZipCode,534,31616,36116
+ZipCode,547,31606,36106
+ZipCode,564,36016,36106
+ZipCode,571,empty,36854
+ZipCode,585,36854,0
+ZipCode,590,36854,0
+ZipCode,600,36323,0
+ZipCode,610,36323,0
+ZipCode,613,36323,0
+ZipCode,629,36810,36801
+ZipCode,641,empty,36801
+ZipCode,644,6278,36278
+ZipCode,648,36278,0
+ZipCode,684,35233,0
+ZipCode,695,empty,36078
+ZipCode,705,36078,3608
+ZipCode,707,3078,36078
+ZipCode,710,36078,3608
+ZipCode,711,3608,36078
+ZipCode,735,35058,0
+ZipCode,751,3640,36420
+ZipCode,818,3v5903,35903
+ZipCode,822,35903,0
+ZipCode,851,3545,35045
+ZipCode,861,35570,0
+ZipCode,864,35570,0
+ZipCode,868,35570,0
+ZipCode,882,3b5555,35555
+ZipCode,935,empty,36033
+ZipCode,940,36033,0
+ZipCode,953,empty,36033
+ZipCode,954,36033,0
+ZipCode,994,5121,35121
+CountyName,20,houston,jefferson
+CountyName,32,hoston,houston
+CountyName,39,ouston,houston
+CountyName,63,empty,marshall
+CountyName,81,empty,lauderdale
+CountyName,100,empty,covington
+CountyName,186,arshall,marshall
+CountyName,230,empty,de kalb
+CountyName,231,empty,de kalb
+CountyName,271,shelyb,shelby
+CountyName,272,shelbvy,shelby
+CountyName,273,shlby,shelby
+CountyName,274,sheby,shelby
+CountyName,275,sheflby,shelby
+CountyName,276,szhelby,shelby
+CountyName,278,empty,helby
+CountyName,292,helby,shelby
+CountyName,293,shelby,jefferson
+CountyName,294,shelby,jefferson
+CountyName,312,calhoun,jefferson
+CountyName,313,calhoun,jefferson
+CountyName,314,calhoun,jefferson
+CountyName,315,calhoun,jefferson
+CountyName,316,calhoun,jefferson
+CountyName,341,houton,houston
+CountyName,379,empty,marion
+CountyName,384,empty,mobile
+CountyName,388,empty,mobile
+CountyName,479,dael,dale
+CountyName,503,empty,cherokee
+CountyName,537,empty,montgomery
+CountyName,554,empty,montgomery
+CountyName,604,cofefe,coffee
+CountyName,673,jfeferson,jefferson
+CountyName,674,empty,jefferson
+CountyName,722,cullmn,cullman
+CountyName,729,cullzman,cullman
+CountyName,791,madisn,madison
+CountyName,833,empty,chilton
+CountyName,846,empty,chilton
+CountyName,855,matrion,marion
+CountyName,857,empty,marion
+CountyName,957,cofjfee,coffee
+CountyName,961,empty,coffee
+CountyName,968,cofkfee,coffee
+CountyName,970,coffee***,coffee
+CountyName,994,blonut,blount
+PhoneNumber,1,2053258100,2565718000
+PhoneNumber,2,2053258100,2565718000
+PhoneNumber,3,2053258100,2565718000
+PhoneNumber,4,2053258100,2565718000
+PhoneNumber,5,2053258100,2565718000
+PhoneNumber,6,2053258100,2565718000
+PhoneNumber,7,2053258100,2565718000
+PhoneNumber,8,2053258100,2565718000
+PhoneNumber,9,2563864556,256384556
+PhoneNumber,10,2563864556,2565718000
+PhoneNumber,11,2563864556,2565718000
+PhoneNumber,12,2563864556,2565718000
+PhoneNumber,13,2563864556,2565718000
+PhoneNumber,14,2563864556,2565718000
+PhoneNumber,15,2563864556,2565718000
+PhoneNumber,16,2563864556,2565718000
+PhoneNumber,17,2563864556,2565718000
+PhoneNumber,18,2563864556,256384556
+PhoneNumber,57,2565938310,0
+PhoneNumber,59,empty,2565938310
+PhoneNumber,75,empty,2565718000
+PhoneNumber,76,2567688400,2565718000
+PhoneNumber,77,2567688400,2565718000
+PhoneNumber,78,2567688400,2565718000
+PhoneNumber,79,2567688400,2565718000
+PhoneNumber,80,2567688400,2565718000
+PhoneNumber,81,2567688400,2565718000
+PhoneNumber,82,2567688400,2565718000
+PhoneNumber,85,empty,2567688400
+PhoneNumber,112,3344933541,0
+PhoneNumber,121,3343k353374,3343353374
+PhoneNumber,129,3343353374,0
+PhoneNumber,132,3343353374,0
+PhoneNumber,142,3343353374,2565718000
+PhoneNumber,143,3343353374,2565718000
+PhoneNumber,144,3343353374,2565718000
+PhoneNumber,145,2567736511,2565718000
+PhoneNumber,146,2567736511,2565718000
+PhoneNumber,147,2567736511,2565718000
+PhoneNumber,148,2567736511,2565718000
+PhoneNumber,149,2567736511,2565718000
+PhoneNumber,165,2567736511,2565718000
+PhoneNumber,166,2567736511,2565718000
+PhoneNumber,167,2567736511,2565718000
+PhoneNumber,168,2567736511,2565718000
+PhoneNumber,169,2567736511,2565718000
+PhoneNumber,184,2565718000,0
+PhoneNumber,215,empty,2058383122
+PhoneNumber,250,3346366221,2565718000
+PhoneNumber,251,3346366221,2565718000
+PhoneNumber,252,3346366221,2565718000
+PhoneNumber,253,3346366221,2565718000
+PhoneNumber,254,3346366221,2565718000
+PhoneNumber,255,3346366221,2565718000
+PhoneNumber,256,3346366221,2565718000
+PhoneNumber,257,3346366221,2565718000
+PhoneNumber,295,2053258100,2565718000
+PhoneNumber,296,2053258100,2565718000
+PhoneNumber,297,2053258100,2565718000
+PhoneNumber,298,2053258100,2565718000
+PhoneNumber,299,2053258100,2565718000
+PhoneNumber,300,2053258100,2565718000
+PhoneNumber,301,2053258100,2565718000
+PhoneNumber,302,2053258100,2565718000
+PhoneNumber,303,2053258100,2565718000
+PhoneNumber,305,2053258100,2565718000
+PhoneNumber,306,2053258100,2565718000
+PhoneNumber,307,2053258100,2565718000
+PhoneNumber,308,2053258100,2565718000
+PhoneNumber,309,2053258100,2565718000
+PhoneNumber,310,2053258100,2565718000
+PhoneNumber,311,2053258100,2565718000
+PhoneNumber,334,3347935000***,3347935000
+PhoneNumber,335,334793500,3347935000
+PhoneNumber,385,empty,2514717110
+PhoneNumber,429,empty,2562495000
+PhoneNumber,445,h9072761131,9072761131
+PhoneNumber,447,empty,9072761131
+PhoneNumber,462,256386556,256384556
+PhoneNumber,537,empty,3342882100
+PhoneNumber,552,empty,3342938000
+PhoneNumber,567,empty,3347561400
+PhoneNumber,583,empty,3347561400
+PhoneNumber,627,334493411,3347493411
+PhoneNumber,664,empty,2563572111
+PhoneNumber,685,empty,2059344011
+PhoneNumber,725,256732000,2567372000
+PhoneNumber,781,empty,2562651000
+PhoneNumber,792,562651000,2562651000
+PhoneNumber,796,2562561000,2562651000
+PhoneNumber,814,254944000,2564944000
+PhoneNumber,840,205u7552500,2057552500
+PhoneNumber,899,empty,2059325966
+PhoneNumber,903,i2565435200,2565435200
+PhoneNumber,957,empty,3343470584
+PhoneNumber,965,empty,3343470584
+HospitalOwner,1,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,2,voluntary non-pofit - private,government - hospital district or authority
+HospitalOwner,3,voluntary nno-profit - private,government - hospital district or authority
+HospitalOwner,4,voluntary non-profit  -private,government - hospital district or authority
+HospitalOwner,5,voluntary non-porfit - private,government - hospital district or authority
+HospitalOwner,6,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,7,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,8,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,24,government - hospital district or authority,0
+HospitalOwner,57,government - hospital district or authority,0
+HospitalOwner,75,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,76,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,77,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,78,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,79,empty,government - hospital district or authority
+HospitalOwner,80,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,81,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,82,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,85,volutary non-profit - other,voluntary non-profit - other
+HospitalOwner,111,empty,voluntary non-profit - private
+HospitalOwner,112,voluntary non-profit - private,0
+HospitalOwner,127,empty,government - federal
+HospitalOwner,129,government - federal,0
+HospitalOwner,132,government - federal,0
+HospitalOwner,142,government - federal,government - hospital district or authority
+HospitalOwner,143,government - federal,government - hospital district or authority
+HospitalOwner,144,government - federal,government - hospital district or authority
+HospitalOwner,145,proprietary,government - hospital district or authority
+HospitalOwner,146,propreitary,government - hospital district or authority
+HospitalOwner,147,proprietary,government - hospital district or authority
+HospitalOwner,148,proprietary,government - hospital district or authority
+HospitalOwner,149,proprietary,government - hospital district or authority
+HospitalOwner,157,empty,proprietary
+HospitalOwner,165,proprietary,government - hospital district or authority
+HospitalOwner,166,proprietary,government - hospital district or authority
+HospitalOwner,167,proprietary,government - hospital district or authority
+HospitalOwner,168,proprietary,government - hospital district or authority
+HospitalOwner,169,proprietary,government - hospital district or authority
+HospitalOwner,184,government - hospital district or authority,0
+HospitalOwner,209,empty,voluntary non-profit - private
+HospitalOwner,230,voluntary non-profit - church,0
+HospitalOwner,243,voluntary non-profit - church,0
+HospitalOwner,250,government - federal,government - hospital district or authority
+HospitalOwner,251,government - federal,government - hospital district or authority
+HospitalOwner,252,government - federal,government - hospital district or authority
+HospitalOwner,253,government - federal,government - hospital district or authority
+HospitalOwner,254,government - federal,government - hospital district or authority
+HospitalOwner,255,government - federal,government - hospital district or authority
+HospitalOwner,256,government - federal,government - hospital district or authority
+HospitalOwner,257,government - federal,government - hospital district or authority
+HospitalOwner,270,voluntary non-profit - church,0
+HospitalOwner,295,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,296,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,297,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,298,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,299,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,300,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,301,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,302,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,303,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,305,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,306,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,307,voluntary non-profit - private,government - hospital district or authority
+HospitalOwner,308,voluntaryn on-profit - private,government - hospital district or authority
+HospitalOwner,309,voluntary non-profit - primvate,government - hospital district or authority
+HospitalOwner,310,voluntayr non-profit - private,government - hospital district or authority
+HospitalOwner,311,voluntary non-rofit - private,government - hospital district or authority
+HospitalOwner,319,rpoprietary,proprietary
+HospitalOwner,320,empty,proprietary
+HospitalOwner,329,proprietary,0
+HospitalOwner,331,proprietary,0
+HospitalOwner,339,proprietary,0
+HospitalOwner,360,proprietary,0
+HospitalOwner,382,government - state,0
+HospitalOwner,409,voluntary non-profit - private,0
+HospitalOwner,411,voluntary non-profit - private,0
+HospitalOwner,430,voluntary non-profit - other,0
+HospitalOwner,442,empty,proprietary
+HospitalOwner,494,voluntary non-profit - priate,voluntary non-profit - private
+HospitalOwner,497,voluntary non-profit - private,0
+HospitalOwner,505,voluntary non-profit - private,0
+HospitalOwner,506,voluntary non-profit - private,0
+HospitalOwner,517,empty,voluntary non-profit - church
+HospitalOwner,518,voluntary non-profit - chruch,voluntary non-profit - church
+HospitalOwner,552,voluntry non-profit - private,voluntary non-profit - private
+HospitalOwner,599,voluntary non-profit - other,0
+HospitalOwner,607,empty,voluntary non-profit - other
+HospitalOwner,637,government - hospital district or authority,0
+HospitalOwner,681,government - sitate,government - state
+HospitalOwner,694,voluntary naon-profit - private,voluntary non-profit - private
+HospitalOwner,705,empty,voluntary non-profit - private
+HospitalOwner,717,overnment - hospital district or authority,government - hospital district or authority
+HospitalOwner,726,government - hospital distric tor authority,government - hospital district or authority
+HospitalOwner,739,government - hospital district or authority,0
+HospitalOwner,741,government - hospital district or authority,0
+HospitalOwner,752,proprietary,0
+HospitalOwner,780,government - hospital district or authority,0
+HospitalOwner,800,government - hospital district or authority,0
+HospitalOwner,802,government - hospital district or authority,0
+HospitalOwner,818,proprietary,0
+HospitalOwner,844,empty,voluntary non-profit - private
+HospitalOwner,845,empty,voluntary non-profit - private
+HospitalOwner,866,empty,voluntary non-profit - private
+HospitalOwner,880,empty,voluntary non-profit - other
+HospitalOwner,884,empty,voluntary non-profit - other
+HospitalOwner,895,voluntary non-profit - other,0
+HospitalOwner,922,empty,proprietary
+HospitalOwner,968,proprietary,0
+HospitalOwner,969,proprieary,proprietary
+HospitalOwner,970,proprietary,0
+EmergencyService,2,es,yes
+EmergencyService,4,ys,yes
+EmergencyService,5,ywes,yes
+EmergencyService,6,es,yes
+EmergencyService,7,yses,yes
+EmergencyService,8,eys,yes
+EmergencyService,19,empty,yexs
+EmergencyService,61,empty,yes
+EmergencyService,81,es,yes
+EmergencyService,87,empty,yes
+EmergencyService,95,no,yes
+EmergencyService,96,no,yes
+EmergencyService,97,no,yes
+EmergencyService,98,no,yes
+EmergencyService,168,empty,yes
+EmergencyService,184,eys,yes
+EmergencyService,216,empty,yes
+EmergencyService,227,es,yes
+EmergencyService,288,empty,yes
+EmergencyService,295,yse,yes
+EmergencyService,363,empty,yes
+EmergencyService,388,yse,yes
+EmergencyService,400,yse,yes
+EmergencyService,466,yexs,yes
+EmergencyService,475,es,yes
+EmergencyService,514,empty,yes
+EmergencyService,530,es,yes
+EmergencyService,554,empty,yes
+EmergencyService,585,hyes,yes
+EmergencyService,590,ys,yes
+EmergencyService,600,es,yes
+EmergencyService,610,eys,yes
+EmergencyService,613,empty,yes
+EmergencyService,632,es,yes
+EmergencyService,648,empty,no
+EmergencyService,684,yegs,yes
+EmergencyService,705,on,no
+EmergencyService,710,on,no
+EmergencyService,735,ryes,yes
+EmergencyService,758,on,no
+EmergencyService,822,es,yes
+EmergencyService,861,empty,yes
+EmergencyService,864,empty,yes
+EmergencyService,868,empty,yes
+EmergencyService,940,empty,no
+EmergencyService,954,empty,no
+Condition,22,hear attack,heart attack
+Condition,31,pnemuonia,pneumonia
+Condition,47,ehart attack,heart attack
+Condition,72,heart attakc,heart attack
+Condition,97,heart attak,heart attack
+Condition,109,peumonia,pneumonia
+Condition,185,neumonia,pneumonia
+Condition,337,pneuonia,pneumonia
+Condition,398,hart attack,heart attack
+Condition,402,heart faliure,heart failure
+Condition,434,hewart failure,heart failure
+Condition,458,pneuomnia,pneumonia
+Condition,652,haert failure,heart failure
+Condition,670,hart attack,heart attack
+Condition,673,heart atack,heart attack
+Condition,695,hieart attack,heart attack
+Condition,720,heart attcak,heart attack
+Condition,730,neumonia,pneumonia
+Condition,743,heart atxtack,heart attack
+Condition,745,hzeart attack,heart attack
+Condition,755,pneufmonia,pneumonia
+Condition,781,mheart attack,heart attack
+Condition,806,hear attack,heart attack
+Condition,831,heaart attack,heart attack
+Condition,856,heart attakc,heart attack
+Condition,874,surgical infeciton prevention,surgical infection prevention
+Condition,881,heart attiack,heart attack
+Condition,909,heat attack,heart attack
+Condition,915,heart failuer,heart failure
+Condition,934,hert attack,heart attack
+Condition,959,hear attack,heart attack
+Condition,984,heart attakc,heart attack
+Condition,988,hleart failure,heart failure
+MeasureCode,2,scip-inf-1,0
+MeasureCode,9,ami-1,0
+MeasureCode,22,ami-3,0
+MeasureCode,31,pn-2,0
+MeasureCode,45,ami-1,0
+MeasureCode,47,ami-3,0
+MeasureCode,50,ami-7a,0
+MeasureCode,55,hf-4,0
+MeasureCode,58,pn-4,0
+MeasureCode,61,pn-7,0
+MeasureCode,72,ami-3,0
+MeasureCode,81,pn-2,0
+MeasureCode,97,ami-3,0
+MeasureCode,106,pn-2,0
+MeasureCode,108,pn-4,0
+MeasureCode,109,pn-5c,0
+MeasureCode,123,ami-4,0
+MeasureCode,144,scip-vte-2,0
+MeasureCode,146,ami-2,pn-2
+MeasureCode,166,scip-inf-4,0
+MeasureCode,168,scip-vte-1,0
+MeasureCode,185,pn-6,0
+MeasureCode,191,scip-inf-4,0
+MeasureCode,195,ami-1,0
+MeasureCode,199,ami-5,scip-card-2
+MeasureCode,200,ami-7a,ami-5
+MeasureCode,201,ami-8a,ami-5
+MeasureCode,202,hf-1,ami-5
+MeasureCode,203,hf-2,ami-5
+MeasureCode,204,hf-3,ami-5
+MeasureCode,205,hf-4,ami-5
+MeasureCode,206,pn-2,ami-5
+MeasureCode,207,pn-3b,ami-5
+MeasureCode,208,pn-4,ami-5
+MeasureCode,209,pn-5c,ami-5
+MeasureCode,210,pn-6,ami-5
+MeasureCode,211,pn-7,scip-card-2
+MeasureCode,213,scip-inf-1,scip-card-2
+MeasureCode,214,scip-inf-2,scip-card-2
+MeasureCode,215,scip-inf-3,scip-card-2
+MeasureCode,216,scip-inf-4,scip-card-2
+MeasureCode,220,ami-1,0
+MeasureCode,245,ami-1,0
+MeasureCode,246,ami-2,0
+MeasureCode,248,ami-4,0
+MeasureCode,250,ami-7a,0
+MeasureCode,251,ami-8a,0
+MeasureCode,252,hf-1,pn-2
+MeasureCode,255,hf-4,0
+MeasureCode,270,ami-1,0
+MeasureCode,295,ami-1,0
+MeasureCode,297,ami-3,0
+MeasureCode,305,hf-4,pn-2
+MeasureCode,314,ami-1,0
+MeasureCode,337,pn-4,0
+MeasureCode,347,scip-vte-1,0
+MeasureCode,349,ami-1,0
+MeasureCode,355,ami-1,0
+MeasureCode,362,hf-1,0
+MeasureCode,376,scip-inf-4,0
+MeasureCode,377,scip-inf-6,0
+MeasureCode,379,scip-vte-2,0
+MeasureCode,380,ami-1,0
+MeasureCode,382,ami-3,0
+MeasureCode,383,ami-4,0
+MeasureCode,393,ami-2,0
+MeasureCode,398,ami-8a,0
+MeasureCode,402,hf-4,0
+MeasureCode,403,pn-2,0
+MeasureCode,415,ami-1,0
+MeasureCode,433,hf-1,0
+MeasureCode,434,hf-2,0
+MeasureCode,435,hf-3,0
+MeasureCode,436,hf-4,0
+MeasureCode,437,pn-2,0
+MeasureCode,438,pn-3b,0
+MeasureCode,439,pn-4,0
+MeasureCode,440,pn-5c,0
+MeasureCode,441,pn-6,0
+MeasureCode,442,pn-7,0
+MeasureCode,443,scip-card-2,0
+MeasureCode,444,scip-inf-1,0
+MeasureCode,445,scip-inf-2,0
+MeasureCode,446,scip-inf-3,0
+MeasureCode,447,scip-inf-4,0
+MeasureCode,448,scip-inf-6,0
+MeasureCode,449,scip-vte-1,0
+MeasureCode,450,scip-vte-2,0
+MeasureCode,451,ami-1,0
+MeasureCode,452,ami-2,0
+MeasureCode,453,pn-2,0
+MeasureCode,454,pn-3b,0
+MeasureCode,458,pn-7,0
+MeasureCode,461,scip-inf-2,0
+MeasureCode,467,ami-1,0
+MeasureCode,469,ami-3,0
+MeasureCode,471,ami-5,0
+MeasureCode,472,ami-7a,pn-2
+MeasureCode,483,pn-7,0
+MeasureCode,492,ami-1,0
+MeasureCode,497,ami-7a,0
+MeasureCode,514,scip-inf-6,0
+MeasureCode,517,ami-1,0
+MeasureCode,538,scip-inf-4,0
+MeasureCode,542,ami-1,0
+MeasureCode,567,ami-1,0
+MeasureCode,581,pn-5c,scip-inf-4
+MeasureCode,592,ami-1,0
+MeasureCode,617,ami-1,0
+MeasureCode,620,ami-4,0
+MeasureCode,626,hf-3,0
+MeasureCode,639,scip-inf-6,pn-2
+MeasureCode,648,ami-8a,0
+MeasureCode,652,hf-4,0
+MeasureCode,660,scip-inf-1,0
+MeasureCode,670,ami-4,0
+MeasureCode,672,ami-7a,0
+MeasureCode,673,ami-8a,0
+MeasureCode,676,hf-3,0
+MeasureCode,686,scip-inf-2,0
+MeasureCode,692,ami-1,0
+MeasureCode,695,ami-4,0
+MeasureCode,701,hf-3,0
+MeasureCode,720,ami-4,0
+MeasureCode,727,hf-4,scip-inf-6
+MeasureCode,730,pn-4,0
+MeasureCode,731,pn-5c,0
+MeasureCode,743,ami-2,0
+MeasureCode,745,ami-4,0
+MeasureCode,748,ami-8a,0
+MeasureCode,755,pn-4,ami-2
+MeasureCode,758,pn-7,hf-4
+MeasureCode,778,ami-1,0
+MeasureCode,781,ami-4,0
+MeasureCode,783,ami-7a,0
+MeasureCode,787,hf-3,0
+MeasureCode,799,scip-inf-4,0
+MeasureCode,800,scip-inf-6,0
+MeasureCode,806,ami-4,0
+MeasureCode,820,scip-card-2,0
+MeasureCode,831,ami-4,0
+MeasureCode,856,ami-4,0
+MeasureCode,864,pn-2,pn-5c
+MeasureCode,874,scip-inf-4,0
+MeasureCode,881,ami-4,0
+MeasureCode,909,ami-4,0
+MeasureCode,914,hf-2,0
+MeasureCode,915,hf-3,0
+MeasureCode,918,pn-3b,0
+MeasureCode,931,ami-1,0
+MeasureCode,934,ami-4,0
+MeasureCode,943,pn-3b,0
+MeasureCode,947,pn-7,0
+MeasureCode,951,scip-inf-3,0
+MeasureCode,953,scip-inf-6,0
+MeasureCode,959,ami-4,0
+MeasureCode,964,hf-2,0
+MeasureCode,982,ami-2,pn-2
+MeasureCode,984,ami-4,0
+MeasureCode,988,hf-1,0
+MeasureName,2,surgery patients who wree given an antibiotic at the right time (within one hour before surgery) to help prevent infection,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+MeasureName,9,heart attyack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,45,heart attack pastients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,55,heart failure patients given smolking cessation advice/counseling,heart failure patients given smoking cessation advice/counseling
+MeasureName,58,pneumonia patzients given smoking cessation advice/counseling,pneumonia patients given smoking cessation advice/counseling
+MeasureName,61,pneumonia patients assessed and given influenaz vaccination,pneumonia patients assessed and given influenza vaccination
+MeasureName,81,pneumonia patiyents assessed and given pneumococcal vaccination,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,106,pneumonia patients assessed and given pneumococcl vaccination,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,146,empty,heart attack patients given aspirin at discharge
+MeasureName,166,empty,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,191,empty,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,195,heanrt attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,199,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given beta blocker at discharge
+MeasureName,200,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,201,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given pci within 90 minutes of arrival
+MeasureName,202,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given discharge instructions
+MeasureName,203,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,204,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,205,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given smoking cessation advice/counseling
+MeasureName,206,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,207,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,208,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given smoking cessation advice/counseling
+MeasureName,209,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,210,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given the most appropriate initial antibiotic(s)
+MeasureName,211,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients assessed and given influenza vaccination
+MeasureName,213,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+MeasureName,214,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,215,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,216,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,220,hear tattack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,252,empty,heart failure patients given discharge instructions
+MeasureName,270,heart attack pateints given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,295,heart attack patients givn aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,305,empty,heart failure patients given smoking cessation advice/counseling
+MeasureName,314,heart attack patients given aspirin at rrival,heart attack patients given aspirin at arrival
+MeasureName,349,heaort attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,362,heart failure ptaients given discharge instructions,heart failure patients given discharge instructions
+MeasureName,379,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent bloo clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,380,heart attack patgients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,382,heart attack patients given ace inhibitor or arb for left ventriculoar systolic dysfunction (lvsd),heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,393,heart tatack patients given aspirin at discharge,heart attack patients given aspirin at discharge
+MeasureName,415,heart attack ptaients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,451,ehart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,453,empty,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,461,surgery patients who were gvien the  right kind  of antibiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,467,empty,heart attack patients given aspirin at arrival
+MeasureName,469,ehart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,471,heart attack patients given beta bolcker at discharge,heart attack patients given beta blocker at discharge
+MeasureName,472,empty,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,497,heart attack patients given fibrinolytic medication within 30 minutes olf arrival,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,514,surgery patients needing hair removed from the surgical aroea before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,517,heart attack patient sgiven aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,542,heart attack patients given aspirin at rrival,heart attack patients given aspirin at arrival
+MeasureName,581,empty,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,592,heart attack patents given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,617,heart attack patients given aspriin at arrival,heart attack patients given aspirin at arrival
+MeasureName,639,empty,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,648,heart attack patients given pciw ithin 90 minutes of arrival,heart attack patients given pci within 90 minutes of arrival
+MeasureName,660,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infetcion,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+MeasureName,692,heart attapck patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,727,empty,heart failure patients given smoking cessation advice/counseling
+MeasureName,731,empty,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,755,empty,pneumonia patients given smoking cessation advice/counseling
+MeasureName,758,empty,pneumonia patients assessed and given influenza vaccination
+MeasureName,778,heart attack patinets given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,799,empty,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,820,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the perfiod just before and after their surgery,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,831,heart attack patients given smokifng cessation advice/counseling,heart attack patients given smoking cessation advice/counseling
+MeasureName,864,empty,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,918,pneumonia patients whose initial emergency room blood culture was performed prior dto the administration of the first hospital dose of antibiotics,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,931,heart attack patiesnts given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,943,pneumonia patients whose iintial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,982,empty,heart attack patients given aspirin at discharge
+Stateavg,31,l_pn-2,al_pn-2
+Stateavg,50,ral_ami-7a,al_ami-7a
+Stateavg,108,al_pxn-4,al_pn-4
+Stateavg,123,empty,al_ami-4
+Stateavg,144,al_sip-vte-2,al_scip-vte-2
+Stateavg,168,empty,al_scip-vte-1
+Stateavg,195,al_mai-1,al_ami-1
+Stateavg,220,al_aim-1,al_ami-1
+Stateavg,245,yal_ami-1,al_ami-1
+Stateavg,246,alami-2,al_ami-2
+Stateavg,248,al_ai-4,al_ami-4
+Stateavg,250,alj_ami-7a,al_ami-7a
+Stateavg,251,al_ami8a,al_ami-8a
+Stateavg,255,empty,al_hf-4
+Stateavg,270,al_ami1-,al_ami-1
+Stateavg,295,al_mai-1,al_ami-1
+Stateavg,297,al_amim-3,al_ami-3
+Stateavg,314,ala_mi-1,al_ami-1
+Stateavg,347,al_scip-vtve-1,al_scip-vte-1
+Stateavg,349,al_mi-1,al_ami-1
+Stateavg,355,al_ai-1,al_ami-1
+Stateavg,376,empty,al_scip-inf-4
+Stateavg,377,al_scip-ifnf-6,al_scip-inf-6
+Stateavg,380,al_ami1-,al_ami-1
+Stateavg,383,alx_ami-4,al_ami-4
+Stateavg,403,empty,ak_pn-2
+Stateavg,415,empty,al_ami-1
+Stateavg,433,ak_hf-1,al_hf-1
+Stateavg,434,ak_hf-2,al_hf-2
+Stateavg,435,ak_hf-3,al_hf-3
+Stateavg,436,ak_hf-4,al_hf-4
+Stateavg,437,ak_pn-2,al_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6
+Stateavg,442,ak_pn-7,al_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1
+Stateavg,452,k_ami-2,al_ami-2
+Stateavg,454,alp_n-3b,al_pn-3b
+Stateavg,467,la_ami-1,al_ami-1
+Stateavg,483,empty,al_pn-7
+Stateavg,492,al_mi-1,al_ami-1
+Stateavg,517,a_lami-1,al_ami-1
+Stateavg,538,empty,al_scip-inf-4
+Stateavg,542,al_mi-1,al_ami-1
+Stateavg,567,al_aqmi-1,al_ami-1
+Stateavg,592,al_sami-1,al_ami-1
+Stateavg,617,al_ai-1,al_ami-1
+Stateavg,620,empty,al_ami-4
+Stateavg,626,empty,al_hf-3
+Stateavg,672,empty,al_ami-7a
+Stateavg,676,ial_hf-3,al_hf-3
+Stateavg,686,al_scipinf-2,al_scip-inf-2
+Stateavg,701,alhf-3,al_hf-3
+Stateavg,720,empty,al_ami-4
+Stateavg,748,empty,al_ami-8a
+Stateavg,783,empty,al_ami-7a
+Stateavg,787,al_hf3-,al_hf-3
+Stateavg,800,al_scip-oinf-6,al_scip-inf-6
+Stateavg,914,al_hf-j2,al_hf-2
+Stateavg,934,al_aemi-4,al_ami-4
+Stateavg,947,empty,al_pn-7
+Stateavg,951,al_scipz-inf-3,al_scip-inf-3
+Stateavg,953,empty,al_scip-inf-6
+Stateavg,964,empty,al_hf-2

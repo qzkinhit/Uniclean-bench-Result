@@ -1,0 +1,72 @@
+Attribute,Index,Dirty Value,Clean Value
+sched_dep_time,78,empty,11:05 am
+sched_dep_time,117,06:59 ma,06:59 am
+sched_dep_time,179,empty,06:00 am
+sched_dep_time,215,0n6:59 am,06:59 am
+sched_dep_time,306,0:59 am,06:59 am
+sched_dep_time,335,empty,06:00 am
+sched_dep_time,338,u07:10 am,07:10 am
+sched_dep_time,404,06:59 m,06:59 am
+sched_dep_time,407,empty,01:30 pm
+sched_dep_time,448,empty,11:25 pm
+sched_dep_time,458,empty,10:45 am
+sched_dep_time,502,06:95 am,06:59 am
+sched_dep_time,591,4:16 pm,04:16 pm
+sched_dep_time,598,1:55 pm,11:55 pm
+sched_dep_time,748,07:55 ma,07:55 am
+sched_dep_time,771,01:2 pm,01:29 pm
+sched_dep_time,929,empty,11:35 am
+sched_dep_time,991,06:40 m,06:40 am
+sched_dep_time,1049,08e:20 pm,08:20 pm
+sched_dep_time,1112,empty,03:35 pm
+sched_dep_time,1117,empty,01:55 pm
+sched_dep_time,1121,04:5 5pm,04:55 pm
+sched_dep_time,1140,0:735 am,07:35 am
+sched_dep_time,1174,08:41 ma,08:41 am
+sched_dep_time,1275,h04:55 pm,04:55 pm
+sched_dep_time,1374,04:55 pym,04:55 pm
+sched_dep_time,1471,empty,07:00 am
+sched_dep_time,1539,4:55 pm,04:55 pm
+sched_dep_time,1613,04:55d pm,04:55 pm
+sched_dep_time,1633,empty,08:35 am
+sched_dep_time,1648,empty,01:33 pm
+sched_dep_time,1700,0455 pm,04:55 pm
+sched_dep_time,1754,02:55 mp,02:55 pm
+sched_dep_time,1780,02:30p m,02:30 pm
+sched_dep_time,1809,40:55 pm,04:55 pm
+sched_dep_time,1909,045:5 pm,04:55 pm
+sched_dep_time,2001,4:55 pm,04:55 pm
+sched_dep_time,2013,empty,09:00 pm
+sched_dep_time,2031,0w7:15 am,07:15 am
+sched_dep_time,2101,i04:55 pm,04:55 pm
+sched_dep_time,2109,empty,12:15 pm
+sched_dep_time,2141,11:5 am,11:35 am
+sched_dep_time,2188,empty,07:53 am
+sched_dep_time,2206,0:455 pm,04:55 pm
+sched_dep_time,2250,empty,10:40 am
+sched_dep_time,2294,04d:55 pm,04:55 pm
+sched_dep_time,2317,11:5l5 am,11:55 am
+sched_dep_time,2365,empty,02:55 pm
+act_dep_time,180,08:4 0am,08:40 am
+act_dep_time,306,07:2 2am,07:22 am
+act_dep_time,440,06:54 ma,06:54 am
+act_dep_time,502,70:22 am,07:22 am
+act_dep_time,601,08:25 mp,08:25 pm
+act_dep_time,1583,0:657 am,06:57 am
+act_dep_time,2001,05:80 pm,05:08 pm
+act_dep_time,2053,06:54 ma,06:54 am
+act_dep_time,2077,06:08 ma,06:08 am
+sched_arr_time,176,01:17 mp,01:17 pm
+sched_arr_time,561,01:17 mp,01:17 pm
+sched_arr_time,1874,01:16 mp,01:16 pm
+sched_arr_time,2066,01:16 mp,01:16 pm
+act_arr_time,54,11:5 8am,11:58 am
+act_arr_time,434,063:6 pm,06:36 pm
+act_arr_time,969,30:14 pm,03:14 pm
+act_arr_time,1282,0:304 pm,03:04 pm
+act_arr_time,1290,100:4 am,10:04 am
+act_arr_time,1554,10:04 ma,10:04 am
+act_arr_time,1709,10:04 ma,10:04 am
+act_arr_time,1823,01:04 am,10:04 am
+act_arr_time,2086,0:542 pm,05:42 pm
+act_arr_time,2303,10:40 am,10:04 am

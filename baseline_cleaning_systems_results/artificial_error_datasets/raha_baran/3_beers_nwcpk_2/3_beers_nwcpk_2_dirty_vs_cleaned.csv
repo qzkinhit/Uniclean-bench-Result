@@ -1,0 +1,59 @@
+Attribute,Index,Dirty Value,Cleaned Value
+beer_name,1615,the 12th can�?american pale ale (apa),the 12th can??american pale ale (apa)
+abv,2685,0.125,0.099
+abv,2574,0.1,0
+abv,2621,0.12,0.099
+abv,2565,0.128,0.099
+abv,2306,0.028,0.065
+brewery_name,1785,brewer vivant,brewery vivant
+brewery_name,670,brewer vivant,brewery vivant
+brewery_name,1210,despchutes brewery,deschutes brewery
+city,2500,grand mrapids,grand rapids
+city,2499,rand rapids,grand rapids
+city,2498,grand apids,grand rapids
+city,2416,rgand rapids,grand rapids
+city,2137,bgrand rapids,grand rapids
+city,2092,rand rapids,grand rapids
+city,2023,rand rapids,grand rapids
+city,1974,gran drapids,grand rapids
+city,1785,grandr apids,grand rapids
+city,1267,gran drapids,grand rapids
+city,627,rand rapids,grand rapids
+city,385,lgrand rapids,grand rapids
+city,384,grand arpids,grand rapids
+city,2369,st mary's,danville
+city,2233,st mary's,export
+city,2231,st mary's,export
+city,13,zbrooklyn center,vadnais heights
+state,1800,lf,fl
+state,2466,jmi,mi
+state,921,dak,ak
+state,1301,d,ny
+state,311,l,ny
+state,2642,clo,co
+state,539,ai,ia
+state,2461,rmi,ri
+state,2140,myi,mi
+state,1753,iil,il
+state,729,n,ny
+state,465,dtx,tx
+state,2667,qca,ca
+state,2664,vca,ca
+state,2278,iw,wi
+state,1495,zca,ac
+state,1906,y,ny
+state,1669,oar,or
+state,742,oc,co
+state,1437,xca,ca
+state,1759,c,ny
+state,1086,x,ny
+state,2514,cmd,md
+state,2580,em,me
+state,1878,pna,pa
+state,1867,cxa,ca
+state,1865,cfa,ca
+state,2115,wci,wi
+state,874,uin,in
+state,2034,coa,ca
+state,114,cn,nc
+state,1823,t,ny

@@ -1,0 +1,11 @@
+Attribute: id, MSE: nan, Jaccard: 0.0
+Attribute: beer_name, MSE: nan, Jaccard: 0.018916595012897663
+Attribute: style, MSE: nan, Jaccard: 0.03883495145631066
+Attribute: ounces, MSE: nan, Jaccard: 0.0
+Attribute: abv, MSE: 0.0, Jaccard: 0.0
+Attribute: ibu, MSE: 0.0, Jaccard: 0.0
+Attribute: brewery_id, MSE: nan, Jaccard: 0.06397935579887282
+Attribute: brewery_name, MSE: nan, Jaccard: 0.026461542830058193
+Attribute: city, MSE: nan, Jaccard: 0.002849740932642564
+Attribute: state, MSE: nan, Jaccard: 0.1947172480555146
+加权混合距离: 0.017287971704314824

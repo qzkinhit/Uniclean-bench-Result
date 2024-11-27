@@ -1,0 +1,25 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+gender,1911,nan,f,m
+gender,14285,nan,m,f
+gender,16405,nan,f,m
+gender,17083,nan,m,f
+gender,19075,nan,m,f
+city,5705,nan,baltimore,washington
+city,6660,nan,winterport,washington
+city,16198,nan,baltimore,colts neck
+state,162,nan,sd,pr
+state,1504,nan,rp,ri
+state,2379,nan,md,pa
+state,3491,nan,sd,nh
+state,7967,nan,ldc,dc
+state,9264,nan,tc,ct
+state,11015,nan,mja,ma
+state,12354,nan,cmd,md
+state,13967,nan,ed,de
+state,15562,nan,ar,me
+state,18727,nan,md,ny
+singleexemp,17074,nan,0,1000
+marriedexemp,9180,nan,0,4800
+childexemp,6683,nan,0,1000
+childexemp,7474,nan,0,1500
+childexemp,11250,nan,0,1000

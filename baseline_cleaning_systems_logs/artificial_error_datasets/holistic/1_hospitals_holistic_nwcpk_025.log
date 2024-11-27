@@ -1,0 +1,13 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/1_hospitals/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/1_hospitals/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_hospitals_mix_0.25.csv
+Running holistic with dirty file: Data/1_hospitals/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_hospitals_mix_0.25.csv
+
+  0%|          | 0/15 [00:00<?, ?it/s]
+  7%|▋         | 1/15 [00:01<00:20,  1.45s/it]
+ 13%|█▎        | 2/15 [00:02<00:17,  1.38s/it]
+ 20%|██        | 3/15 [00:04<00:17,  1.49s/it]
+ 27%|██▋       | 4/15 [00:05<00:15,  1.43s/it]
+ 33%|███▎      | 5/15 [00:07<00:14,  1.48s/it]
+ 40%|████      | 6/15 [00:09<00:14,  1.60s/it]

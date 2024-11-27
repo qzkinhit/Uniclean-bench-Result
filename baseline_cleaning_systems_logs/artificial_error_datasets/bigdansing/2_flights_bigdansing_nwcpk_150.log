@@ -1,0 +1,48 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/noise_with_correct_primary_key/dirty_mixed_1.5/dirty_flights_mix_1.5.csv
+Running bigdansing with dirty file: Data/2_flights/noise_with_correct_primary_key/dirty_mixed_1.5/dirty_flights_mix_1.5.csv
+Start Blocking
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 50%|███████████████████████████▌                           | 3/6 [00:00<00:00, 14.61it/s]100%|███████████████████████████████████████████████████████| 6/6 [00:00<00:00, 12.96it/s]100%|███████████████████████████████████████████████████████| 6/6 [00:00<00:00, 13.17it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:08<00:44,  8.84s/it] 33%|██████████████████▎                                    | 2/6 [00:17<00:35,  8.85s/it] 50%|███████████████████████████▌                           | 3/6 [00:26<00:26,  8.84s/it] 67%|████████████████████████████████████▋                  | 4/6 [00:35<00:17,  8.86s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [00:44<00:09,  9.09s/it]100%|███████████████████████████████████████████████████████| 6/6 [00:59<00:00, 10.92s/it]100%|███████████████████████████████████████████████████████| 6/6 [00:59<00:00,  9.90s/it]
+Finish Detectings
+Initial cells to repair: 7595
+Processing loop - sizebefore: 7595, sizeafter: 0
+Current MVC size: 1100
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:09<00:45,  9.07s/it] 33%|██████████████████▎                                    | 2/6 [00:18<00:37,  9.42s/it] 50%|███████████████████████████▌                           | 3/6 [00:27<00:27,  9.12s/it] 67%|████████████████████████████████████▋                  | 4/6 [00:36<00:17,  8.93s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [00:45<00:09,  9.10s/it]100%|███████████████████████████████████████████████████████| 6/6 [01:00<00:00, 10.99s/it]100%|███████████████████████████████████████████████████████| 6/6 [01:00<00:00, 10.03s/it]
+===============================================
+Results saved to results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/repaired_2_flights_nwcpk_150.csv
+BigDansing finished in 135.99723839759827 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/repaired_2_flights_nwcpk_150.csv
+差异文件已保存到:
+results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/2_flights_nwcpk_150_clean_vs_dirty.csv
+results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/2_flights_nwcpk_150_dirty_vs_cleaned.csv
+results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/2_flights_nwcpk_150_clean_vs_cleaned.csv
+修复准确率: 0.2918181818181818, 修复召回率: 0.7413394919168591, F1值: 0.4187866927187608
+========================================
+EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/2_flights_nwcpk_150_edr_evaluation.txt
+错误减少率 (EDR): -0.8799076212471132
+========================================
+混合距离结果已保存到: results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/2_flights_nwcpk_150_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.0527279644893371
+========================================
+R-EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15/2_flights_nwcpk_150_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.29110512129380056
+========================================
+测试结果:
+Accuracy: 0.2918181818181818
+Recall: 0.7413394919168591
+F1 Score: 0.4187866927187608
+EDR: -0.8799076212471132
+Hybrid Distance: 0.0527279644893371
+R-EDR: -0.29110512129380056
+time(s): 135.99723839759827
+speed: 5.723789494848412 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/nwcpk/Repaired_res/2_flights_nwcpk_15

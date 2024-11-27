@@ -1,0 +1,447 @@
+Attribute,Index,Dirty Value,Cleaned Value
+ProviderNumber,9,10019,10018
+ProviderNumber,10,10019,10018
+ProviderNumber,11,10019,10018
+ProviderNumber,12,10019,10018
+ProviderNumber,46,10005,10018
+ProviderNumber,47,10005,10018
+ProviderNumber,60,10005,10018
+ProviderNumber,189,10010,10005
+ProviderNumber,212,10011,10018
+ProviderNumber,213,10011,10018
+ProviderNumber,214,10011,10018
+ProviderNumber,215,10011,10018
+ProviderNumber,216,10011,10018
+ProviderNumber,257,10015,10018
+ProviderNumber,258,10015,10018
+ProviderNumber,482,10021,10005
+ProviderNumber,665,10032,10005
+ProviderNumber,890,10045,10005
+Address1,9,1300 south montgomery avenue,1720 university blvd
+Address1,10,1300 south montgomery avenue,1720 university blvd
+Address1,11,1300 south montgomery avenue,1720 university blvd
+Address1,12,1300 south montgomery avenue,1720 university blvd
+Address1,46,2505 u s highway 431 north,1720 university blvd
+Address1,47,2505 u s highway 431 north,1720 university blvd
+Address1,60,2505 u s highway 431 north,1720 university blvd
+Address1,180,empty,8000 alabama highway 69
+Address1,189,8000 alabama highway 69,2505 u s highway 431 north
+Address1,212,50 medical park east drive,1720 university blvd
+Address1,213,50 medical park east drive,1720 university blvd
+Address1,214,50 medical park east drive,1720 university blvd
+Address1,215,50 medical park east drive,1720 university blvd
+Address1,216,50 medical park east drive,1720 university blvd
+Address1,251,33m700 highway 43,33700 highway 43
+Address1,257,33700 highway 43,1720 university blvd
+Address1,258,33700 highway 43,1720 university blvd
+Address1,300,1720 universityj blvd,1720 university blvd
+Address1,301,720 university blvd,1720 university blvd
+Address1,368,1530k u s highway 43,1530 u s highway 43
+Address1,399,124 s memoprial dr,124 s memorial dr
+Address1,408,124 sh memorial dr,124 s memorial dr
+Address1,440,2081 debarr road,2801 debarr road
+Address1,482,126 hospital ave,2505 u s highway 431 north
+Address1,502,empty,400 northwood dr
+Address1,526,empty,2105 east south boulevard
+Address1,665,209 north main street,2505 u s highway 431 north
+Address1,765,849 south three notch treet,849 south three notch street
+Address1,774,301 east1 8th st,301 east 18th st
+Address1,778,empty,101 sivley rd
+Address1,819,empty,1007 goodyear avenue
+Address1,890,1653 temple avenue north,2505 u s highway 431 north
+Address1,982,150 gilbreath drive,150 gilbreathd rive
+Address1,983,150 gilbreath drive,150 gilbreathd rive
+Address1,984,150 gilbreath drive,150 gilbreathd rive
+Address1,985,150 gilbreath drive,150 gilbreathd rive
+Address1,986,150 gilbreath drive,150 gilbreathd rive
+Address1,987,150 gilbreath drive,150 gilbreathd rive
+Address1,988,150 gilbreath drive,150 gilbreathd rive
+Address1,989,150 gilbreath drive,150 gilbreathd rive
+Address1,990,150 gilbreath drive,150 gilbreathd rive
+Address1,991,150 gilbreath drive,150 gilbreathd rive
+Address1,992,150 gilbreath drive,150 gilbreathd rive
+Address1,993,150 gilbreath drive,150 gilbreathd rive
+Address1,994,150 gilbreath drive,150 gilbreathd rive
+Address1,995,150 gilbreath drive,150 gilbreathd rive
+Address1,996,150 gilbreath drive,150 gilbreathd rive
+Address1,997,150 gilbreath drive,150 gilbreathd rive
+Address1,998,150 gilbreath drive,150 gilbreathd rive
+Address1,999,150 gilbreath drive,150 gilbreathd rive
+Address1,1000,150 gilbreath drive,150 gilbreathd rive
+City,9,sheffield,birmingham
+City,10,sheffield,birmingham
+City,11,sheffield,birmingham
+City,12,sheffield,birmingham
+City,35,dyothan,dothan
+City,46,boaz,birmingham
+City,47,boaz,birmingham
+City,60,boaz,birmingham
+City,169,empty,hartselle
+City,185,birmingham,guntersville
+City,189,guntersville,boaz
+City,208,empty,birmingham
+City,257,thomasville,birmingham
+City,258,thomasville,birmingham
+City,426,sylaacuga,sylacauga
+City,465,shefftield,sheffield
+City,466,shefield,sheffield
+City,482,ozark,boaz
+City,488,empty,ozark
+City,665,wedowee,boaz
+City,693,empty,tallassee
+City,890,fayette,boaz
+City,958,empty,enterprise
+State,132,empty,al
+State,152,l,al
+State,284,empty,al
+State,310,l,al
+State,311,abl,al
+State,350,la,al
+State,384,l,al
+State,559,la,al
+State,569,empty,al
+State,587,empty,al
+State,737,la,al
+State,762,l,al
+State,772,empty,al
+ZipCode,9,35660,35233
+ZipCode,10,35660,35233
+ZipCode,11,35660,35233
+ZipCode,12,35660,35233
+ZipCode,16,35660***,35660
+ZipCode,17,35x660,35660
+ZipCode,46,35957,35233
+ZipCode,47,35957,35233
+ZipCode,60,35957,35233
+ZipCode,92,empty,35631
+ZipCode,97,36467,35233
+ZipCode,98,36467,35233
+ZipCode,99,36467,35233
+ZipCode,100,36467,35233
+ZipCode,101,36467,35233
+ZipCode,102,36467,35233
+ZipCode,103,36467,35233
+ZipCode,104,36467,35233
+ZipCode,105,36467,35233
+ZipCode,106,36467,35233
+ZipCode,108,36467,35233
+ZipCode,109,36467,35233
+ZipCode,110,36467,35233
+ZipCode,111,36467,35233
+ZipCode,112,36467,35233
+ZipCode,113,36467,35233
+ZipCode,114,36467,35233
+ZipCode,115,36467,35233
+ZipCode,116,36467,35233
+ZipCode,117,36467,35233
+ZipCode,118,36467,35233
+ZipCode,119,36467,35233
+ZipCode,184,3597t6,35976
+ZipCode,189,35976,35957
+ZipCode,212,35235,35233
+ZipCode,213,35235,35233
+ZipCode,214,35235,35233
+ZipCode,215,35235,35233
+ZipCode,216,35235,35233
+ZipCode,226,empty,35968
+ZipCode,257,36784,35233
+ZipCode,258,36784,35233
+ZipCode,347,3630g5,36305
+ZipCode,482,36360,35957
+ZipCode,609,empty,36323
+ZipCode,626,36081,36801
+ZipCode,665,36278,35957
+ZipCode,680,3233,35233
+ZipCode,804,35903,3a5903
+ZipCode,805,35903,3a5903
+ZipCode,806,35903,3a5903
+ZipCode,807,35903,3a5903
+ZipCode,808,35903,3a5903
+ZipCode,809,35903,3a5903
+ZipCode,810,35903,3a5903
+ZipCode,811,35903,3a5903
+ZipCode,812,35903,3a5903
+ZipCode,813,35903,3a5903
+ZipCode,814,35903,3a5903
+ZipCode,815,35903,3a5903
+ZipCode,816,35903,3a5903
+ZipCode,817,35903,3a5903
+ZipCode,818,35903,3a5903
+ZipCode,819,35903,3a5903
+ZipCode,820,35903,3a5903
+ZipCode,821,35903,3a5903
+ZipCode,822,35903,3a5903
+ZipCode,823,35903,3a5903
+ZipCode,824,35903,3a5903
+ZipCode,825,35903,3a5903
+ZipCode,826,35903,3a5903
+ZipCode,827,35903,3a5903
+ZipCode,871,empty,35570
+ZipCode,890,35555,35957
+ZipCode,942,6033,36033
+ZipCode,958,3630,36330
+ZipCode,985,empty,35121
+CountyName,46,marshall,jefferson
+CountyName,47,marshall,jefferson
+CountyName,60,marshall,jefferson
+CountyName,71,lauderdale,luderdale
+CountyName,72,lauderdale,luderdale
+CountyName,73,lauderdale,luderdale
+CountyName,74,lauderdale,luderdale
+CountyName,75,lauderdale,luderdale
+CountyName,76,lauderdale,luderdale
+CountyName,77,lauderdale,luderdale
+CountyName,78,lauderdale,luderdale
+CountyName,79,lauderdale,luderdale
+CountyName,80,lauderdale,luderdale
+CountyName,81,lauderdale,luderdale
+CountyName,82,lauderdale,luderdale
+CountyName,83,lauderdale,luderdale
+CountyName,84,lauderdale,luderdale
+CountyName,85,lauderdale,luderdale
+CountyName,86,lauderdale,luderdale
+CountyName,87,lauderdale,luderdale
+CountyName,88,lauderdale,luderdale
+CountyName,89,lauderdale,luderdale
+CountyName,90,lauderdale,luderdale
+CountyName,91,lauderdale,luderdale
+CountyName,92,lauderdale,luderdale
+CountyName,93,lauderdale,luderdale
+CountyName,94,lauderdale,luderdale
+CountyName,187,marshall,jefferson
+CountyName,197,jefferrson,jefferson
+CountyName,257,clarke,jefferson
+CountyName,258,clarke,jefferson
+CountyName,273,shelbzy,shelby
+CountyName,276,empty,shelby
+CountyName,292,shejlby,shelby
+CountyName,356,marion,mlarion
+CountyName,357,marion,mlarion
+CountyName,358,marion,mlarion
+CountyName,359,marion,mlarion
+CountyName,360,marion,mlarion
+CountyName,361,marion,mlarion
+CountyName,362,marion,mlarion
+CountyName,363,marion,mlarion
+CountyName,364,marion,mlarion
+CountyName,365,marion,mlarion
+CountyName,366,marion,mlarion
+CountyName,367,marion,mlarion
+CountyName,368,marion,mlarion
+CountyName,369,marion,mlarion
+CountyName,370,marion,mlarion
+CountyName,371,marion,mlarion
+CountyName,372,marion,mlarion
+CountyName,373,marion,mlarion
+CountyName,374,marion,mlarion
+CountyName,375,marion,mlarion
+CountyName,376,marion,mlarion
+CountyName,377,marion,mlarion
+CountyName,378,marion,mlarion
+CountyName,379,marion,mlarion
+CountyName,474,empty,dale
+CountyName,482,dale,marshall
+CountyName,484,empty,dale
+CountyName,517,montgomery,mongomery
+CountyName,518,montgomery,mongomery
+CountyName,519,montgomery,mongomery
+CountyName,520,montgomery,mongomery
+CountyName,521,montgomery,mongomery
+CountyName,522,montgomery,mongomery
+CountyName,523,montgomery,mongomery
+CountyName,524,montgomery,mongomery
+CountyName,525,montgomery,mongomery
+CountyName,526,montgomery,mongomery
+CountyName,527,montgomery,mongomery
+CountyName,528,montgomery,mongomery
+CountyName,529,montgomery,mongomery
+CountyName,530,montgomery,mongomery
+CountyName,531,montgomery,mongomery
+CountyName,532,montgomery,mongomery
+CountyName,533,montgomery,mongomery
+CountyName,534,montgomery,mongomery
+CountyName,535,montgomery,mongomery
+CountyName,536,montgomery,mongomery
+CountyName,537,montgomery,mongomery
+CountyName,538,montgomery,mongomery
+CountyName,539,montgomery,mongomery
+CountyName,540,montgomery,mongomery
+CountyName,541,montgomery,mongomery
+CountyName,542,montgomery,mongomery
+CountyName,543,montgomery,mongomery
+CountyName,544,montgomery,mongomery
+CountyName,545,montgomery,mongomery
+CountyName,546,montgomery,mongomery
+CountyName,547,montgomery,mongomery
+CountyName,548,montgomery,mongomery
+CountyName,549,montgomery,mongomery
+CountyName,550,montgomery,mongomery
+CountyName,551,montgomery,mongomery
+CountyName,552,montgomery,mongomery
+CountyName,553,montgomery,mongomery
+CountyName,554,montgomery,mongomery
+CountyName,555,montgomery,mongomery
+CountyName,557,montgomery,mongomery
+CountyName,558,empty,mongomery
+CountyName,559,montgomery,mongomery
+CountyName,560,montgomery,mongomery
+CountyName,561,montgomery,mongomery
+CountyName,562,montgomery,mongomery
+CountyName,563,montgomery,mongomery
+CountyName,564,montgomery,mongomery
+CountyName,565,montgomery,mongomery
+CountyName,566,montgomery,mongomery
+CountyName,665,randolph,marshall
+CountyName,890,fayette,marshall
+PhoneNumber,9,2563864556,2053258100
+PhoneNumber,10,2563864556,2053258100
+PhoneNumber,11,2563864556,2053258100
+PhoneNumber,12,2563864556,2053258100
+PhoneNumber,39,334793n8701,3347938701
+PhoneNumber,46,2565938310,2053258100
+PhoneNumber,47,2565938310,2053258100
+PhoneNumber,60,2565938310,2053258100
+PhoneNumber,189,2565718000,2565938310
+PhoneNumber,212,2058383122,2053258100
+PhoneNumber,213,2058383122,2053258100
+PhoneNumber,214,2058383122,2053258100
+PhoneNumber,215,2058383122,2053258100
+PhoneNumber,216,2058383122,2053258100
+PhoneNumber,257,3346366221,2053258100
+PhoneNumber,258,3346366221,2053258100
+PhoneNumber,465,2563864565,2563864556
+PhoneNumber,466,5263864556,2563864556
+PhoneNumber,482,3347742601,2565938310
+PhoneNumber,502,empty,2569275531
+PhoneNumber,536,334882100,3342882100
+PhoneNumber,597,empty,3348972257
+PhoneNumber,665,2563572111,2565938310
+PhoneNumber,754,empty,3342228466
+PhoneNumber,890,2059325966,2565938310
+PhoneNumber,900,20593v25966,2059325966
+PhoneNumber,977,empty,3343470584
+HospitalOwner,5,empty,voluntary non-profit - private
+HospitalOwner,9,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,10,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,11,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,12,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,46,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,47,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,60,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,257,government - federal,voluntary non-profit - private
+HospitalOwner,258,government - federal,voluntary non-profit - private
+HospitalOwner,337,empty,proprietary
+HospitalOwner,339,prorpietary,proprietary
+HospitalOwner,356,proprietray,proprietary
+HospitalOwner,392,empty,government - state
+HospitalOwner,465,government - hospital district or auhtority,government - hospital district or authority
+HospitalOwner,466,government - hospital district or authoritsy,government - hospital district or authority
+HospitalOwner,485,empty,government - hospital district or authority
+HospitalOwner,493,voluntary non-profit  private,voluntary non-profit - private
+HospitalOwner,557,empty,voluntary non-profit - private
+HospitalOwner,665,government - local,government - hospital district or authority
+HospitalOwner,890,voluntary non-profit - other,government - hospital district or authority
+HospitalOwner,909,poprietary,proprietary
+HospitalOwner,954,voluntary noon-profit - private,voluntary non-profit - private
+EmergencyService,95,no,yes
+EmergencyService,96,no,yes
+EmergencyService,97,no,yes
+EmergencyService,98,no,yes
+EmergencyService,99,no,yes
+EmergencyService,100,no,yes
+EmergencyService,101,no,yes
+EmergencyService,102,no,yes
+EmergencyService,103,no,yes
+EmergencyService,104,no,yes
+EmergencyService,105,no,yes
+EmergencyService,106,no,yes
+EmergencyService,108,no,yes
+EmergencyService,109,no,yes
+EmergencyService,110,no,yes
+EmergencyService,111,no,yes
+EmergencyService,112,no,yes
+EmergencyService,113,no,yes
+EmergencyService,114,no,yes
+EmergencyService,115,no,yes
+EmergencyService,116,no,yes
+EmergencyService,117,no,yes
+EmergencyService,118,no,yes
+EmergencyService,119,no,yes
+EmergencyService,133,empty,yes
+EmergencyService,135,empty,yes
+EmergencyService,180,eys,yes
+EmergencyService,249,empty,yes
+EmergencyService,285,eys,yes
+EmergencyService,335,eys,yes
+EmergencyService,339,es,yes
+EmergencyService,459,yses,yes
+EmergencyService,460,ryes,yes
+EmergencyService,665,no,yes
+EmergencyService,697,empty,no
+EmergencyService,920,empty,yes
+EmergencyService,926,yse,yes
+Condition,77,heartfailure,heart failure
+Condition,94,surgical infection preveniton,surgical infection prevention
+Condition,290,surgical infection prevntion,surgical infection prevention
+Condition,376,surgical infection prevetnion,surgical infection prevention
+Condition,410,surgical infexction prevention,surgical infection prevention
+Condition,444,surgical infection prjevention,surgical infection prevention
+Condition,460,surgical infection prevntion,surgical infection prevention
+Condition,485,surgical infection preventino,surgical infection prevention
+Condition,510,surgical infection preventionn,surgical infection prevention
+MeasureName,45,heart attack aptients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,109,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,110,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients given the most appropriate initial antibiotic(s)
+MeasureName,111,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients assessed and given influenza vaccination
+MeasureName,113,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+MeasureName,114,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,120,empty,heart attack patients given aspirin at arrival
+MeasureName,125,empty,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,173,empty,heart attack patients given smoking cessation advice/counseling
+MeasureName,256,pneumonia patients assessed and give pneumococcal vaccination,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,275,heart attack patisents given fibrinolytic medication within 30 minutes of arrival,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,322,heart failure patients given anr evaluation of left ventricular systolic (lvs) function,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,327,empty,pneumonia patients given smoking cessation advice/counseling
+MeasureName,380,heart attack patietns given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,391,pneumonia patients assessedand given pneumococcal vaccination,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,399,heart failure patients given discharge instructiovns,heart failure patients given discharge instructions
+MeasureName,451,hart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,517,heart attack patients fgiven aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,592,hart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,619,empty,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,995,pneumonia patients given initial antibiotic(s) within 6 hours after rarival,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+Stateavg,191,empty,al_scip-inf-4
+Stateavg,344,al_scoip-inf-3,al_scip-inf-3
+Stateavg,352,empty,al_ami-4
+Stateavg,375,al_scip-inf-k3,al_scip-inf-3
+Stateavg,412,alh_scip-inf-3,al_scip-inf-3
+Stateavg,422,alhf-1,al_hf-1
+Stateavg,433,ak_hf-1,al_hf-1
+Stateavg,434,ak_hf-2,al_hf-2
+Stateavg,435,ak_hf-3,al_hf-3
+Stateavg,436,ak_hf-4,al_hf-4
+Stateavg,437,ak_pn-2,al_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6
+Stateavg,442,ak_pn-7,al_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1
+Stateavg,452,ak_ami-2,al_ami-2
+Stateavg,462,al_scip-infz-3,al_scip-inf-3
+Stateavg,487,al_scip-inf3-,al_scip-inf-3
+Stateavg,522,empty,al_ami-7a
+Stateavg,739,al_sciap-inf-6,al_scip-inf-6
+Stateavg,740,al_sci-pvte-1,al_scip-vte-1
+Stateavg,818,empty,al_pn-6
+Stateavg,833,hal_ami-7a,al_ami-7a
+Stateavg,893,al_p-6,al_pn-6
+Stateavg,974,empty,al_scip-inf-1

@@ -1,0 +1,61 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,170,callahan eye foundation hospital,marshall medical center north
+HospitalName,171,callahan eye foundation hospital,marshall medical center north
+HospitalName,172,callahan eye foundation hospital,marshall medical center north
+HospitalName,173,callahan eye foundation hospital,marshall medical center north
+HospitalName,174,callahan eye foundation hospital,marshall medical center north
+HospitalName,175,callahan eye foundation hospital,marshall medical center north
+HospitalName,176,callahan eye foundation hospital,marshall medical center north
+HospitalName,178,callahan eye foundation hospital,marshall medical center north
+HospitalName,179,callahan eye foundation hospital,marshall medical center north
+HospitalName,180,callahan eye foundation hospital,marshall medical center north
+HospitalName,181,callahan eye foundation hospital,marshall medical center north
+HospitalName,185,callahan eye foundation hospital,marshall medical center north
+HospitalName,187,callahan eye foundation hospital,marshall medical center north
+HospitalName,188,callahan eye foundation hospital,marshall medical center north
+HospitalName,189,callahan eye foundation hospital,marshall medical center north
+HospitalName,190,callahan eye foundation hospital,marshall medical center north
+HospitalName,456,helen keller meomrial hospital,helen keller memorial hospital
+HospitalName,457,helen keller meomrial hospital,helen keller memorial hospital
+Address1,35,empty,1108 ross clark circle
+Address1,41,1108 ross clatrk circle,1108 ross clark circle
+Address1,44,empty,1108 ross clark circle
+Address1,452,o box 287,po box 287
+Address1,459,1300s outh montgomery avenue,1300 south montgomery avenue
+Address1,461,300 south montgomery avenue,1300 south montgomery avenue
+Address1,462,1300 soutwh montgomery avenue,1300 south montgomery avenue
+Address1,463,300 south montgomery avenue,1300 south montgomery avenue
+Address1,464,1300 south mongomery avenue,1300 south montgomery avenue
+Address1,465,1300 south montogmery avenue,1300 south montgomery avenue
+Address1,466,1300 south mntgomery avenue,1300 south montgomery avenue
+City,465,sheffeld,sheffield
+City,466,sheffifeld,sheffield
+State,3,la,al
+State,4,fal,al
+State,5,l,al
+State,6,l,al
+State,7,l,al
+State,9,aml,al
+State,295,la,al
+State,296,dal,al
+State,297,la,al
+State,303,la,al
+State,452,k,ak
+State,458,la,al
+State,518,empty,al
+State,903,atl,al
+ZipCode,304,3533,35233
+PhoneNumber,459,2563864l556,2563864556
+PhoneNumber,460,256384556,2563864556
+PhoneNumber,461,2568364556,2563864556
+PhoneNumber,462,256386556,2563864556
+PhoneNumber,463,256384556,2563864556
+PhoneNumber,464,2563846556,2563864556
+PhoneNumber,465,256864556,2563864556
+PhoneNumber,466,2563846556,2563864556
+HospitalOwner,136,govrnment - federal,government - federal
+HospitalOwner,191,government - hosfpital district or authority,government - hospital district or authority
+HospitalOwner,413,propritary,proprietary
+HospitalOwner,580,empty,voluntary non-profit - other
+HospitalOwner,799,government - ospital district or authority,government - hospital district or authority
+EmergencyService,935,empty,no

@@ -1,0 +1,201 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,9,nan,helen keller memorial hospital
+HospitalName,10,nan,helen keller memorial hospital
+HospitalName,81,nan,eliza coffee memorial hospital
+HospitalName,240,nan,callahan eye foundation hospital
+HospitalName,344,nan,flowers hospital
+HospitalName,359,nan,northwest medical center
+HospitalName,374,nan,northwest medical center
+HospitalName,422,nan,coosa valley medical center
+HospitalName,759,nan,andalusia regional hospital
+HospitalName,799,nan,huntsville hospital
+HospitalName,871,nan,marion regional medical center
+HospitalName,946,nan,georgiana hospital
+Address1,5,nan,1720 university blvd
+Address1,28,1108 ross clark crcle,1108 ross clark circle
+Address1,59,2505 u s khighway 431 north,2505 u s highway 431 north
+Address1,69,2505 u s highwday 431 north,2505 u s highway 431 north
+Address1,142,nan,101 hospital circle
+Address1,394,nan,124 s memorial dr
+Address1,424,nan,315 w hickory st
+Address1,512,400 northwooddr,400 northwood dr
+Address1,530,nan,2105 east south boulevard
+Address1,537,nan,2105 east south boulevard
+Address1,692,805 friendshp road,805 friendship road
+Address1,696,nan,805 friendship road
+Address1,730,nan,1912 alabama highway 157
+Address1,762,49 south three notch street,849 south three notch street
+Address1,775,nan,101 sivley rd
+Address1,847,1010 layf dam road,1010 lay dam road
+Address1,940,nan,515 miranda st
+Address1,959,nan,400 n edwards street
+Address1,977,nan,400 n edwards street
+City,42,nan,dothan
+City,73,nan,florence
+City,120,lpuverne,luverne
+City,231,nan,fort payne
+City,347,nan,dothan
+City,389,nan,mobile
+City,461,nan,sheffield
+City,473,nan,ozark
+City,569,vallye,valley
+City,606,eclba,elba
+City,607,elab,elba
+City,680,birminghaqm,birmingham
+City,685,nan,birmingham
+City,702,nan,tallassee
+City,705,nan,tallassee
+City,747,andaulsia,andalusia
+City,788,huntysville,huntsville
+City,932,nan,georgiana
+City,950,nan,georgiana
+City,954,georgaina,georgiana
+State,75,nan,al
+State,123,nan,al
+State,187,nan,al
+State,188,nan,al
+State,189,nan,al
+State,239,nan,al
+State,292,nan,al
+State,414,nan,al
+State,478,nan,al
+State,784,nan,al
+State,899,nan,al
+State,989,nan,al
+ZipCode,58,nan,35957
+ZipCode,81,nan,35631
+ZipCode,87,nan,35631
+ZipCode,130,3604t9,36049
+ZipCode,160,35a640,35640
+ZipCode,247,367w84,36784
+ZipCode,361,nan,35594
+ZipCode,405,nan,36067
+ZipCode,442,nan,99508
+ZipCode,497,o35960,35960
+ZipCode,556,nan,36106
+ZipCode,564,36016,36106
+ZipCode,603,nan,36323
+ZipCode,638,63801,36801
+ZipCode,656,36287,36278
+ZipCode,658,i36278,36278
+ZipCode,725,5058,35058
+ZipCode,739,nan,35058
+ZipCode,746,nan,36420
+ZipCode,773,nan,36201
+ZipCode,785,35810,35801
+ZipCode,916,53901,35901
+ZipCode,967,nan,36330
+CountyName,18,jfferson,jefferson
+CountyName,60,nan,marshall
+CountyName,88,nan,lauderdale
+CountyName,122,cernshaw,crenshaw
+CountyName,133,nan,crenshaw
+CountyName,135,nan,crenshaw
+CountyName,152,omrgan,morgan
+CountyName,186,nan,marshall
+CountyName,216,nan,jefferson
+CountyName,267,nan,clarke
+CountyName,282,sheby,shelby
+CountyName,283,tshelby,shelby
+CountyName,284,shebly,shelby
+CountyName,285,shelyb,shelby
+CountyName,286,helby,shelby
+CountyName,335,nan,houston
+CountyName,359,nan,marion
+CountyName,364,maroin,marion
+CountyName,391,nan,mobile
+CountyName,483,dae,dale
+CountyName,494,cherokee***,cherokee
+CountyName,572,hambers,chambers
+CountyName,734,cullmna,cullman
+CountyName,746,covinton,covington
+CountyName,749,nan,covington
+CountyName,857,nan,marion
+CountyName,888,afyette,fayette
+CountyName,930,eowah,etowah
+PhoneNumber,233,nan,2568453150
+PhoneNumber,277,nan,2056208100
+PhoneNumber,424,nan,2562495000
+PhoneNumber,439,nan,9072761131
+PhoneNumber,519,nan,3342882100
+PhoneNumber,637,nan,3347493411
+PhoneNumber,681,nan,2059344011
+PhoneNumber,719,nan,2567372000
+PhoneNumber,738,nan,2567372000
+PhoneNumber,813,nan,2564944000
+PhoneNumber,829,nan,2057552500
+PhoneNumber,879,2059352966,2059325966
+PhoneNumber,913,nan,2565435200
+HospitalOwner,21,nan,government - hospital district or authority
+HospitalOwner,119,voluntary non-pmrofit - private,voluntary non-profit - private
+HospitalOwner,157,nan,proprietary
+HospitalOwner,225,nan,voluntary non-profit - church
+HospitalOwner,310,nan,voluntary non-profit - private
+HospitalOwner,337,nan,proprietary
+HospitalOwner,341,nan,proprietary
+HospitalOwner,504,nan,voluntary non-profit - private
+HospitalOwner,757,nan,proprietary
+HospitalOwner,760,nan,proprietary
+HospitalOwner,922,nan,proprietary
+HospitalOwner,941,nan,voluntary non-profit - private
+HospitalOwner,988,nan,voluntary non-profit - private
+EmergencyService,28,nan,yes
+EmergencyService,116,nan,no
+EmergencyService,125,ys,yes
+EmergencyService,159,nan,yes
+EmergencyService,233,yse,yes
+EmergencyService,253,es,yes
+EmergencyService,323,nan,yes
+EmergencyService,338,es,yes
+EmergencyService,347,nan,yes
+EmergencyService,429,nan,no
+EmergencyService,481,yse,yes
+EmergencyService,507,yeos,yes
+EmergencyService,579,nan,yes
+EmergencyService,585,yecs,yes
+EmergencyService,603,es,yes
+EmergencyService,613,es,yes
+EmergencyService,665,nan,no
+EmergencyService,672,ys,yes
+EmergencyService,673,yehs,yes
+EmergencyService,674,es,yes
+EmergencyService,675,yse,yes
+EmergencyService,676,ywes,yes
+EmergencyService,677,es,yes
+EmergencyService,720,yles,yes
+EmergencyService,814,nan,yes
+EmergencyService,832,ytes,yes
+EmergencyService,837,nan,yes
+EmergencyService,874,nan,yes
+EmergencyService,974,nan,yes
+EmergencyService,975,es,yes
+Condition,52,heart fialure,heart failure
+Condition,95,heat attack,heart attack
+Condition,175,heart attak,heart attack
+Condition,240,surical infection prevention,surgical infection prevention
+Condition,248,heart attack***,heart attack
+Condition,310,peumonia,pneumonia
+MeasureName,26,nan,heart attack patients given pci within 90 minutes of arrival
+MeasureName,58,nan,pneumonia patients given smoking cessation advice/counseling
+MeasureName,158,nan,pneumonia patients given smoking cessation advice/counseling
+MeasureName,320,nan,heart attack patients given pci within 90 minutes of arrival
+MeasureName,418,nan,heart attack patients given smoking cessation advice/counseling
+MeasureName,529,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,533,nan,pneumonia patients assessed and given influenza vaccination
+MeasureName,591,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,702,nan,heart failure patients given smoking cessation advice/counseling
+MeasureName,814,nan,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,834,nan,heart attack patients given pci within 90 minutes of arrival
+MeasureName,879,nan,heart attack patients given aspirin at discharge
+Stateavg,24,nan,al_ami-5
+Stateavg,152,nan,al_hf-1
+Stateavg,236,nan,al_pn-7
+Stateavg,513,nan,al_scip-inf-4
+Stateavg,619,nan,al_ami-3
+Stateavg,672,nan,al_ami-7a
+Stateavg,745,nan,al_ami-4
+Stateavg,796,nan,al_scip-inf-1
+Stateavg,803,nan,al_ami-1
+Stateavg,811,nan,al_hf-2
+Stateavg,826,nan,al_scip-vte-1
+Stateavg,912,nan,al_ami-8a

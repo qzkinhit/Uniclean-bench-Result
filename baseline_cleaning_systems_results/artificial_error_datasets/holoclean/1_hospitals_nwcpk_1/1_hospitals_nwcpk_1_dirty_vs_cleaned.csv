@@ -1,0 +1,177 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,90,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,149,nan,hartselle medical center
+HospitalName,216,nan,st vincents east
+HospitalName,272,nan,shelby baptist medical center
+HospitalName,276,nan,shelby baptist medical center
+HospitalName,446,nan,alaska regional hospital
+HospitalName,594,nan,elba general hospital
+HospitalName,618,nan,east alabama medical center and snf
+HospitalName,719,nan,cullman regional medical center
+HospitalName,870,nan,marion regional medical center
+HospitalName,888,nan,fayette medical center
+Address1,100,nan,702 n main st
+Address1,147,nan,201 pine street northwest
+Address1,162,201 pine srteet northwest,201 pine street northwest
+Address1,209,50 medical park eats drive,50 medical park east drive
+Address1,219,nan,50 medical park east drive
+Address1,234,200 med center drie,200 med center drive
+Address1,270,nan,1000 first street north
+Address1,314,nan,301 east 18th st
+Address1,395,nan,124 s memorial dr
+Address1,462,1300 south montgomery vaenue,1300 south montgomery avenue
+Address1,475,126 hospitalave,126 hospital ave
+Address1,557,1725 pine stret,1725 pine street
+Address1,641,2000 pepperel lparkway,2000 pepperell parkway
+Address1,706,805 frinedship road,805 friendship road
+Address1,717,nan,1912 alabama highway 157
+Address1,758,nan,849 south three notch street
+Address1,766,849 south three notchp street,849 south three notch street
+Address1,768,nan,301 east 18th st
+Address1,773,nan,301 east 18th st
+Address1,787,11 sivley rd,101 sivley rd
+Address1,890,1653 tempe avenue north,1653 temple avenue north
+Address1,958,40j0 n edwards street,400 n edwards street
+Address1,960,400 n edwrads street,400 n edwards street
+City,70,floernce,florence
+City,108,nan,opp
+City,132,nan,luverne
+City,145,nan,hartselle
+City,157,nan,hartselle
+City,442,ancohrage,anchorage
+City,559,nan,montgomery
+City,633,poelika,opelika
+City,639,nan,opelika
+City,665,nan,wedowee
+City,744,nan,andalusia
+City,829,nan,clanton
+City,864,nan,hamilton
+City,989,oneotna,oneonta
+State,121,nan,al
+State,146,la,al
+State,152,l,al
+State,204,nan,al
+State,246,la,al
+State,259,nan,al
+State,305,la,al
+State,306,acl,al
+State,307,l,al
+State,308,l,al
+State,309,aal,al
+State,362,l,al
+State,403,anl,al
+State,521,nan,al
+State,542,nan,al
+State,591,l,al
+State,645,nan,al
+State,739,nan,al
+State,903,nan,al
+State,960,nan,al
+State,972,la,al
+State,992,nan,al
+ZipCode,4,nan,35233
+ZipCode,74,35361,35631
+ZipCode,104,3667,36467
+ZipCode,200,nan,35235
+ZipCode,239,35986,35968
+ZipCode,244,nan,35968
+ZipCode,280,350h07,35007
+ZipCode,370,nan,35594
+ZipCode,385,nan,36617
+ZipCode,532,nan,36116
+ZipCode,553,nan,36106
+ZipCode,698,nan,36078
+ZipCode,869,nan,35570
+ZipCode,883,3555c5,35555
+ZipCode,899,nan,35555
+CountyName,230,nan,de kalb
+CountyName,241,de kaalb,de kalb
+CountyName,282,shlby,shelby
+CountyName,283,selby,shelby
+CountyName,284,shelbby,shelby
+CountyName,285,eshelby,shelby
+CountyName,286,helby,shelby
+CountyName,288,nan,shelby
+CountyName,321,nan,calhoun
+CountyName,323,calhun,calhoun
+CountyName,403,nan,autauga
+CountyName,406,nan,autauga
+CountyName,417,talladeega,talladega
+CountyName,424,nan,talladega
+CountyName,568,nan,chambers
+CountyName,595,cffee,coffee
+CountyName,602,nan,coffee
+CountyName,620,lee***,lee
+CountyName,657,randolqph,randolph
+CountyName,708,nan,elmore
+CountyName,756,ovington,covington
+CountyName,837,nan,chilton
+PhoneNumber,26,nan,3347938701
+PhoneNumber,37,nan,3347938701
+PhoneNumber,70,nan,2567688400
+PhoneNumber,80,nan,2567688400
+PhoneNumber,143,nan,3343353374
+PhoneNumber,186,nan,2565718000
+PhoneNumber,217,nan,2058383122
+PhoneNumber,221,256845310,2568453150
+PhoneNumber,255,nan,3346366221
+PhoneNumber,348,nan,3347935000
+PhoneNumber,397,343614267,3343614267
+PhoneNumber,450,nan,9072761131
+PhoneNumber,649,256f3572111,2563572111
+PhoneNumber,653,263572111,2563572111
+PhoneNumber,791,256265100m0,2562651000
+PhoneNumber,794,256265100x0,2562651000
+PhoneNumber,857,205921620u0,2059216200
+PhoneNumber,954,3343762d205,3343762205
+HospitalOwner,167,nan,proprietary
+HospitalOwner,250,nan,government - federal
+HospitalOwner,273,nan,voluntary non-profit - church
+HospitalOwner,304,nan,voluntary non-profit - private
+HospitalOwner,306,nan,voluntary non-profit - private
+HospitalOwner,460,nan,government - hospital district or authority
+HospitalOwner,736,nan,government - hospital district or authority
+HospitalOwner,815,nan,proprietary
+HospitalOwner,827,nan,proprietary
+HospitalOwner,906,prporietary,proprietary
+HospitalOwner,996,nan,voluntary non-profit - private
+EmergencyService,25,nan,yes
+EmergencyService,127,es,yes
+EmergencyService,157,nan,yes
+EmergencyService,369,myes,yes
+EmergencyService,462,es,yes
+EmergencyService,470,es,yes
+EmergencyService,475,ys,yes
+EmergencyService,493,eys,yes
+EmergencyService,495,nan,yes
+EmergencyService,595,yles,yes
+EmergencyService,599,nan,yes
+EmergencyService,651,nan,no
+EmergencyService,671,nan,yes
+EmergencyService,728,es,yes
+EmergencyService,760,nan,no
+EmergencyService,768,nan,yes
+EmergencyService,849,nan,yes
+EmergencyService,880,yzes,yes
+EmergencyService,910,yeps,yes
+EmergencyService,974,nan,yes
+MeasureName,388,nan,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,465,nan,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+MeasureName,554,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,604,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,665,nan,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+MeasureName,828,nan,heart attack patients given aspirin at arrival
+MeasureName,880,nan,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,945,nan,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,963,nan,heart failure patients given discharge instructions
+MeasureName,993,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+Stateavg,92,nan,al_scip-inf-6
+Stateavg,181,nan,al_pn-2
+Stateavg,225,nan,al_ami-7a
+Stateavg,339,nan,al_pn-6
+Stateavg,629,nan,al_pn-3b
+Stateavg,732,nan,al_pn-6
+Stateavg,807,nan,al_ami-5
+Stateavg,844,nan,al_pn-7
+Stateavg,847,nan,al_scip-inf-2
+Stateavg,860,nan,al_hf-1

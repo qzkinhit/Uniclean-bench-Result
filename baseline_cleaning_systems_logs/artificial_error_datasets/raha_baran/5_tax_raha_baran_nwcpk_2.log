@@ -1,0 +1,120 @@
+------------------------------------------------------------------------
+---------------------Initialize the Dataset Object----------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+--------------------Initialize Error Corrector Models-------------------
+------------------------------------------------------------------------
+The error corrector models are initialized.
+------------------------------------------------------------------------
+--------------Iterative Tuple Sampling, Labeling, and Learning----------
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 1606.
+1681593 pairs of (a data error, a potential correction) are featurized.
+68% (1605 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 4677.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 8082.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 5557.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 2637.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 6107.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 5124.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 3393.
+1681593 pairs of (a data error, a potential correction) are featurized.
+79% (1861 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 8478.
+1681717 pairs of (a data error, a potential correction) are featurized.
+83% (1954 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 9928.
+1681717 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 2641.
+1681717 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 1536.
+1683275 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 4762.
+1684885 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 2639.
+1686437 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 428.
+1686437 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 6368.
+1687508 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 4389.
+1687508 pairs of (a data error, a potential correction) are featurized.
+83% (1958 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 9682.
+1687508 pairs of (a data error, a potential correction) are featurized.
+87% (2050 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 5076.
+1687508 pairs of (a data error, a potential correction) are featurized.
+89% (2105 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+The error corrector models are updated with new labeled tuple 1861.
+1687508 pairs of (a data error, a potential correction) are featurized.
+89% (2105 / 2352) of data errors are corrected.
+------------------------------------------------------------------------
+Repaired data saved to results/raha_baran/nwcpk/results-5_tax_nwcpk_2/repaired_5_tax_nwcpk_2.csv
+===============================================
+测评性能开始：
+差异文件已保存到:
+results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_clean_vs_dirty.csv
+results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_dirty_vs_cleaned.csv
+results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_unrepaired.csv
+修复准确率: 0.6921615201900237, 修复召回率: 0.40082530949105916, F1值: 0.5076655051800332
+========================================
+EDR 结果已保存到: results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_edr_evaluation.txt
+错误减少率 (EDR): 0.40082530949105916
+========================================
+混合距离结果已保存到: results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.10628403952513199
+========================================
+R-EDR 结果已保存到: results/raha_baran/nwcpk/results-5_tax_nwcpk_2/5_tax_nwcpk_2_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): 0.3492635024549918
+========================================
+测试结果:
+Accuracy: 0.6921615201900237
+Recall: 0.40082530949105916
+F1 Score: 0.5076655051800332
+EDR: 0.40082530949105916
+Hybrid Distance: 0.10628403952513199
+R-EDR: 0.3492635024549918
+time(s): 4278.521826267242
+speed: 42.78521826267242 seconds/100num
+测评结束，详细测评日志见：results/raha_baran/nwcpk/results-5_tax_nwcpk_2/all_compute_5_tax_nwcpk_2.txt

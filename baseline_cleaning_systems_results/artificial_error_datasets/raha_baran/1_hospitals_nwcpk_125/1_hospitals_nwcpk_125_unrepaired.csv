@@ -1,0 +1,158 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,2,callahan eye foundatio hospital,callahan eye foundation hospital
+HospitalName,5,cayllahan eye foundation hospital,callahan eye foundation hospital
+HospitalName,6,callahan eye foundation hosfpital,callahan eye foundation hospital
+HospitalName,8,callahan eye foundation hospoital,callahan eye foundation hospital
+HospitalName,32,southeast alabama mbedical center,southeast alabama medical center
+HospitalName,87,eliza coffee memoribal hospital,eliza coffee memorial hospital
+HospitalName,96,mizell memorial hosprital,mizell memorial hospital
+HospitalName,209,st vncents east,st vincents east
+HospitalName,236,dekalb reginal medical center,dekalb regional medical center
+HospitalName,301,callahan eye foundation hospitla,callahan eye foundation hospital
+HospitalName,302,callahan eye founation hospital,callahan eye foundation hospital
+HospitalName,303,callahan eye foundtaion hospital,callahan eye foundation hospital
+HospitalName,304,callahan eye foundatyion hospital,callahan eye foundation hospital
+HospitalName,305,callahan eye foundtaion hospital,callahan eye foundation hospital
+HospitalName,331,strigfellow memorial hospital,stringfellow memorial hospital
+HospitalName,370,northwest meical center,northwest medical center
+HospitalName,446,alasika regional hospital,alaska regional hospital
+HospitalName,455,helen keller memdorial hospital,helen keller memorial hospital
+HospitalName,465,helen keller memorial hospigtal,helen keller memorial hospital
+HospitalName,466,helen keller memorial hospiatl,helen keller memorial hospital
+HospitalName,482,dale medical cpenter,dale medical center
+HospitalName,484,dale medical centre,dale medical center
+HospitalName,520,bapptist medical center south,baptist medical center south
+HospitalName,603,elba general hosital,elba general hospital
+HospitalName,695,communityx hospital inc,community hospital inc
+HospitalName,849,chilton medical pcenter,chilton medical center
+HospitalName,971,mqedical center enterprise,medical center enterprise
+Address1,5,empty,1720 university blvd
+Address1,28,1108 ross clark crcle,1108 ross clark circle
+Address1,142,empty,101 hospital circle
+Address1,394,empty,124 s memorial dr
+Address1,424,empty,315 w hickory st
+Address1,530,empty,2105 east south boulevard
+Address1,537,empty,2105 east south boulevard
+Address1,692,805 friendshp road,805 friendship road
+Address1,693,805 friendship roda,805 friendship road
+Address1,696,empty,805 friendship road
+Address1,730,empty,1912 alabama highway 157
+Address1,775,empty,101 sivley rd
+Address1,847,1010 layf dam road,1010 lay dam road
+Address1,940,empty,515 miranda st
+Address1,959,empty,400 n edwards street
+Address1,977,empty,400 n edwards street
+City,42,empty,dothan
+City,73,empty,florence
+City,120,lpuverne,luverne
+City,231,empty,fort payne
+City,276,birmingham,alabaster
+City,277,birmingham,alabaster
+City,278,birmingham,alabaster
+City,279,birmingham,alabaster
+City,280,birmingham,alabaster
+City,281,birmingham,alabaster
+City,347,empty,dothan
+City,389,empty,mobile
+City,461,empty,sheffield
+City,473,empty,ozark
+City,685,empty,birmingham
+City,702,empty,tallassee
+City,705,empty,tallassee
+City,747,andaulsia,andalusia
+City,932,empty,georgiana
+City,950,empty,georgiana
+ZipCode,95,35233,36467
+ZipCode,96,35233,36467
+ZipCode,97,35233,36467
+ZipCode,98,35233,36467
+ZipCode,99,35233,36467
+ZipCode,100,35233,36467
+ZipCode,339,33605,36305
+ZipCode,564,36016,36106
+ZipCode,638,63801,36801
+ZipCode,656,36287,36278
+ZipCode,785,35810,35801
+ZipCode,916,53901,35901
+CountyName,18,jfferson,jefferson
+CountyName,122,cernshaw,crenshaw
+CountyName,152,omrgan,morgan
+CountyName,274,selby,shelby
+CountyName,282,sheby,shelby
+CountyName,283,tshelby,shelby
+CountyName,284,shebly,shelby
+CountyName,285,shelyb,shelby
+CountyName,286,helby,shelby
+CountyName,364,maroin,marion
+CountyName,483,dae,dale
+CountyName,494,cherokee***,cherokee
+CountyName,572,hambers,chambers
+CountyName,734,cullmna,cullman
+CountyName,746,covinton,covington
+CountyName,888,afyette,fayette
+CountyName,930,eowah,etowah
+PhoneNumber,125,3343353347,3343353374
+PhoneNumber,459,2568364556,2563864556
+PhoneNumber,460,2568364556,2563864556
+PhoneNumber,879,2059352966,2059325966
+HospitalOwner,21,empty,government - hospital district or authority
+HospitalOwner,157,empty,proprietary
+HospitalOwner,225,empty,voluntary non-profit - church
+HospitalOwner,310,empty,voluntary non-profit - private
+HospitalOwner,337,empty,proprietary
+HospitalOwner,341,empty,proprietary
+HospitalOwner,504,empty,voluntary non-profit - private
+HospitalOwner,673,government - stte,government - state
+HospitalOwner,757,empty,proprietary
+HospitalOwner,760,empty,proprietary
+HospitalOwner,922,empty,proprietary
+HospitalOwner,941,empty,voluntary non-profit - private
+HospitalOwner,988,empty,voluntary non-profit - private
+Condition,248,heart attack***,heart attack
+Condition,957,heart attack***,heart attack
+MeasureName,26,empty,heart attack patients given pci within 90 minutes of arrival
+MeasureName,58,empty,pneumonia patients given smoking cessation advice/counseling
+MeasureName,145,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given aspirin at arrival
+MeasureName,146,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given aspirin at discharge
+MeasureName,147,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,148,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given smoking cessation advice/counseling
+MeasureName,149,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given beta blocker at discharge
+MeasureName,150,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,151,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart attack patients given pci within 90 minutes of arrival
+MeasureName,152,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given discharge instructions
+MeasureName,153,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,154,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,155,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,heart failure patients given smoking cessation advice/counseling
+MeasureName,156,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,158,empty,pneumonia patients given smoking cessation advice/counseling
+MeasureName,320,empty,heart attack patients given pci within 90 minutes of arrival
+MeasureName,415,heart attack pateints given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,418,empty,heart attack patients given smoking cessation advice/counseling
+MeasureName,451,heart attack pateints given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,529,empty,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,533,empty,pneumonia patients assessed and given influenza vaccination
+MeasureName,591,empty,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,702,empty,heart failure patients given smoking cessation advice/counseling
+MeasureName,814,empty,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,834,empty,heart attack patients given pci within 90 minutes of arrival
+MeasureName,879,empty,heart attack patients given aspirin at discharge
+Stateavg,47,al_azmi-3,al_ami-3
+Stateavg,72,al_pami-3,al_ami-3
+Stateavg,73,val_ami-4,al_ami-4
+Stateavg,79,wal_hf-3,al_hf-3
+Stateavg,97,alami-3,al_ami-3
+Stateavg,122,alami-3,al_ami-3
+Stateavg,213,la_scip-inf-1,al_scip-inf-1
+Stateavg,392,a_pn-3b,al_pn-3b
+Stateavg,582,la_pn-6,al_pn-6
+Stateavg,699,al_h-f1,al_hf-1
+Stateavg,750,al_h-2,al_hf-2
+Stateavg,814,a_lpn-2,al_pn-2
+Stateavg,831,al_aim-4,al_ami-4
+Stateavg,856,al_ami4-,al_ami-4
+Stateavg,881,a_ami-4,al_ami-4
+Stateavg,909,alami-4,al_ami-4
+Stateavg,934,abl_ami-4,al_ami-4
+Stateavg,959,alami-4,al_ami-4
+Stateavg,964,al_hfl-2,al_hf-2
+Stateavg,984,al_aimi-4,al_ami-4

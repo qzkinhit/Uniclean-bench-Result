@@ -1,0 +1,74 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+City,195,birmingham,empty,birmingham
+City,196,birmingham,empty,birmingham
+City,197,birmingham,empty,birmingham
+City,198,birmingham,empty,birmingham
+City,199,birmingham,empty,birmingham
+City,200,birmingham,empty,birmingham
+City,201,birmingham,empty,birmingham
+City,202,birmingham,empty,birmingham
+City,203,birmingham,empty,birmingham
+City,204,birmingham,empty,birmingham
+City,205,birmingham,empty,birmingham
+City,206,birmingham,empty,birmingham
+City,207,birmingham,empty,birmingham
+City,208,birmingham,empty,birmingham
+City,209,birmingham,empty,birmingham
+City,210,birmingham,empty,birmingham
+City,211,birmingham,empty,birmingham
+City,212,birmingham,empty,birmingham
+City,213,birmingham,empty,birmingham
+City,214,birmingham,empty,birmingham
+City,215,birmingham,empty,birmingham
+City,217,birmingham,empty,birmingham
+City,218,birmingham,empty,birmingham
+City,219,birmingham,empty,birmingham
+State,452,k,al,ak
+ZipCode,851,3545,35233,35045
+CountyName,231,empty,jefferson,de kalb
+CountyName,517,montgomery,etowah,montgomery
+CountyName,519,montgomery,lauderdale,montgomery
+CountyName,520,montgomery,jefferson,montgomery
+CountyName,523,montgomery,coffee,montgomery
+CountyName,526,montgomery,marion,montgomery
+CountyName,527,montgomery,covington,montgomery
+CountyName,528,montgomery,calhoun,montgomery
+CountyName,529,montgomery,blount,montgomery
+CountyName,530,montgomery,dale,montgomery
+CountyName,531,montgomery,covington,montgomery
+CountyName,532,montgomery,elmore,montgomery
+CountyName,534,montgomery,autauga,montgomery
+CountyName,540,montgomery,shelby,montgomery
+CountyName,541,montgomery,shelby,montgomery
+CountyName,543,montgomery,houston,montgomery
+CountyName,544,montgomery,clarke,montgomery
+CountyName,545,montgomery,elmore,montgomery
+CountyName,548,montgomery,marion,montgomery
+CountyName,552,montgomery,autauga,montgomery
+CountyName,554,empty,jefferson,montgomery
+CountyName,555,montgomery,blount,montgomery
+CountyName,557,montgomery,marion,montgomery
+CountyName,558,montgomery,houston,montgomery
+CountyName,563,montgomery,houston,montgomery
+CountyName,566,montgomery,etowah,montgomery
+CountyName,617,lee,houston,lee
+CountyName,619,lee,coffee,lee
+CountyName,627,lee,covington,lee
+CountyName,628,lee,etowah,lee
+CountyName,630,lee,marion,lee
+CountyName,631,lee,etowah,lee
+CountyName,632,lee,marshall,lee
+CountyName,633,lee,autauga,lee
+CountyName,634,lee,shelyb,lee
+CountyName,640,lee,jefferson,lee
+CountyName,641,lee,jefferson,lee
+Condition,434,hewart failure,heart attack,heart failure
+Condition,673,heart atack,pneumonia,heart attack
+Condition,730,neumonia,surgical infection prevention,pneumonia
+Condition,755,pneufmonia,birmingham,pneumonia
+Condition,781,mheart attack,pneumonia,heart attack
+Condition,988,hleart failure,pneumonia,heart failure
+MeasureName,379,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent bloo clots after certain types of surgery,patients who got treatment at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,461,surgery patients who were gvien the  right kind  of antibiotic to help prevent infection,surgery patients who were given the right kind of antibiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+Stateavg,347,al_scip-vtve-1,al_scip-vte-2,al_scip-vte-1
+Stateavg,517,a_lami-1,al_ami-2,al_ami-1

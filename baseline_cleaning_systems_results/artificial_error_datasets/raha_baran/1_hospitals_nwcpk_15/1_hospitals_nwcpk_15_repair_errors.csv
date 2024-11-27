@@ -1,0 +1,62 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+HospitalName,1,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,2,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,3,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,4,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,5,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,6,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,7,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,8,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,295,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,296,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,297,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,298,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,299,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,300,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,301,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,302,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,303,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,304,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,305,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,306,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,307,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,308,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,309,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,310,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,311,callahan eye foundation hospital,helen keller memorial hospital,callahan eye foundation hospital
+HospitalOwner,162,propiretary,government - hospital district or authority,proprietary
+HospitalOwner,164,prporietary,government - hospital district or authority,proprietary
+HospitalOwner,351,voluntary non-profit - othre,government - hospital district or authority,voluntary non-profit - other
+HospitalOwner,373,proprietanry,government - hospital district or authority,proprietary
+HospitalOwner,547,voluntary non-profit - pirvate,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,566,voluntary non-proft - private,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,836,voluntaryf non-profit - private,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,864,voluntary non-profit -z private,government - hospital district or authority,voluntary non-profit - private
+HospitalOwner,929,proprietry,government - hospital district or authority,proprietary
+HospitalOwner,956,proprietayr,government - hospital district or authority,proprietary
+HospitalOwner,999,voluntary no-profit - private,government - hospital district or authority,voluntary non-profit - private
+EmergencyService,97,empty,yes,no
+EmergencyService,432,empty,yes,no
+EmergencyService,702,empty,yes,no
+Condition,30,heardt failure,surgical infection prevention,heart failure
+Condition,46,heart atatck,surgical infection prevention,heart attack
+Condition,96,heatr attack,surgical infection prevention,heart attack
+Condition,146,haert attack,surgical infection prevention,heart attack
+Condition,171,heart tatack,surgical infection prevention,heart attack
+Condition,221,heartattack,surgical infection prevention,heart attack
+Condition,246,hert attack,surgical infection prevention,heart attack
+Condition,271,eart attack,surgical infection prevention,heart attack
+Condition,317,heat attack,surgical infection prevention,heart attack
+Condition,350,hdeart attack,surgical infection prevention,heart attack
+Condition,356,heart atatack,surgical infection prevention,heart attack
+Condition,381,heart attakc,surgical infection prevention,heart attack
+Condition,493,headrt attack,surgical infection prevention,heart attack
+Condition,548,heart aattack,surgical infection prevention,heart attack
+Condition,757,pneumnia,surgical infection prevention,pneumonia
+Condition,934,heart adttack,surgical infection prevention,heart attack
+Condition,936,hart attack,surgical infection prevention,heart attack
+MeasureName,89,surgery patients who were given the  right kind  of antibiotic to help pevent infection,surgery patients who were given the right kind of antibiotic to help prevent infection,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+MeasureName,244,patients who ogt treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,348,patients who got treatment  at the right time (within 24 hours before or after their surgery) t ohelp prevent blood clots after certain types of surgery,patients who got treatment at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,450,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help preent blood clots after certain types of surgery,patients who got treatment at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+Stateavg,443,ak_scip-card-2,al_scip-card-2,ak_scip-card-2

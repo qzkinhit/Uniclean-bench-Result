@@ -1,0 +1,23 @@
+Attribute,Index,Clean Value,Cleaned Value
+HospitalName,305,callahan eye foundation hospital,callahan eye foundation hspital
+HospitalName,306,callahan eye foundation hospital,callahan eye fuondation hospital
+HospitalName,314,stringfellow memorial hospital,stringfellow meumorial hospital
+State,443,ak,al
+ZipCode,296,35233,32533
+PhoneNumber,3,2053258100,2035258100
+HospitalOwner,21,government - hospital district or authority,government - hospital district or auhtority
+EmergencyService,992,yes,yse
+Condition,41,surgical infection prevention,surgical infection prevefntion
+Condition,66,surgical infection prevention,surgical infectin prevention
+Condition,239,surgical infection prevention,surgicla infection prevention
+Condition,255,heart failure,hart failure
+Condition,820,surgical infection prevention,syurgical infection prevention
+MeasureName,39,surgery patients who were given the  right kind  of antibiotic to help prevent infection,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,40,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,60,pneumonia patients given the most appropriate initial antibiotic(s),pneumonia patents given the most appropriate initial antibiotic(s)
+MeasureName,567,heart attack patients given aspirin at arrival,heart attack patients given taspirin at arrival
+MeasureName,848,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),surgery patients whose preventive antibiotics were stopped at the right time (withni 24 hours after surgery)
+MeasureName,956,heart attack patients given aspirin at arrival,heart attack patients gven aspirin at arrival
+Stateavg,597,al_ami-7a,al_mi-7a
+Stateavg,779,al_ami-2,al_mi-2
+Stateavg,804,al_ami-2,al_mai-2

@@ -1,0 +1,64 @@
+Attribute,Index,Dirty Value,Clean Value
+HospitalName,458,helen eller memorial hospital,helen keller memorial hospital
+HospitalName,459,helen keller mmeorial hospital,helen keller memorial hospital
+Address1,2,1720 universityk blvd,1720 university blvd
+Address1,4,1720 uniersity blvd,1720 university blvd
+Address1,303,17s20 university blvd,1720 university blvd
+Address1,307,1720 university bmlvd,1720 university blvd
+Address1,308,1720 universty blvd,1720 university blvd
+Address1,309,1720 nuiversity blvd,1720 university blvd
+Address1,310,1720 universityc blvd,1720 university blvd
+Address1,311,1720 univerity blvd,1720 university blvd
+Address1,504,400 nworthwood dr,400 northwood dr
+City,15,sheffiled,sheffield
+City,28,dthan,dothan
+City,37,dohan,dothan
+City,302,empty,birmingham
+City,460,sheffeild,sheffield
+City,461,sheffiedl,sheffield
+City,462,sheffnield,sheffield
+City,463,shfeffield,sheffield
+City,464,shfefield,sheffield
+City,465,sheffeild,sheffield
+City,466,heffield,sheffield
+State,6,l,al
+State,7,fal,al
+State,8,l,al
+State,295,ail,al
+State,296,abl,al
+State,297,l,al
+State,298,la,al
+State,300,empty,al
+State,354,la,al
+State,425,l,al
+State,462,empty,al
+ZipCode,38,3z6302,36302
+ZipCode,39,6302,36302
+ZipCode,41,6302,36302
+ZipCode,43,6302,36302
+ZipCode,762,empty,36420
+CountyName,452,bthel,bethel
+PhoneNumber,182,256578000,2565718000
+PhoneNumber,296,empty,2053258100
+PhoneNumber,354,empty,2563412000
+PhoneNumber,460,263864556,2563864556
+PhoneNumber,461,256386456,2563864556
+PhoneNumber,462,256364556,2563864556
+PhoneNumber,463,256384556,2563864556
+PhoneNumber,464,2563864a556,2563864556
+PhoneNumber,465,25638645g56,2563864556
+PhoneNumber,466,256864556,2563864556
+PhoneNumber,780,empty,2562651000
+HospitalOwner,2,empty,voluntary non-profit - private
+HospitalOwner,14,government - hospirtal district or authority,government - hospital district or authority
+HospitalOwner,21,empty,government - hospital district or authority
+HospitalOwner,27,govrnment - hospital district or authority,government - hospital district or authority
+HospitalOwner,162,propiretary,proprietary
+HospitalOwner,460,government - hospital district or authoriyt,government - hospital district or authority
+HospitalOwner,461,government - hospital district or authoriyt,government - hospital district or authority
+HospitalOwner,462,government - hospital district r authority,government - hospital district or authority
+HospitalOwner,463,governemnt - hospital district or authority,government - hospital district or authority
+HospitalOwner,464,government - hospital disrtict or authority,government - hospital district or authority
+HospitalOwner,465,government - hosptial district or authority,government - hospital district or authority
+HospitalOwner,929,proprietry,proprietary
+EmergencyService,371,empty,yes

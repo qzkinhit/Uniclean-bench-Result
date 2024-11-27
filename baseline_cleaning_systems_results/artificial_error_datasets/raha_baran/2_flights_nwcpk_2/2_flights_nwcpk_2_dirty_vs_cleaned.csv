@@ -1,0 +1,230 @@
+Attribute,Index,Dirty Value,Cleaned Value
+sched_dep_time,603,06:59 ma,06:59 am
+sched_dep_time,2220,06:59 ma,06:59 am
+sched_dep_time,2303,06:59 ma,06:59 am
+sched_dep_time,2360,06:59 ma,06:59 am
+act_dep_time,5,empty,11:05 am
+act_dep_time,86,empty,02:26 pm
+act_dep_time,192,empty,03:36 pm
+act_dep_time,215,n07:22 am,07:22 am
+act_dep_time,226,02:5 pm,02:55 pm
+act_dep_time,277,empty,08:04 am
+act_dep_time,306,07:22 ma,07:22 am
+act_dep_time,412,empty,01:32 pm
+act_dep_time,436,07i:39 am,07:39 am
+act_dep_time,502,07:2z2 am,07:22 am
+act_dep_time,596,empty,01:31 pm
+act_dep_time,601,empty,08:25 pm
+act_dep_time,616,empty,07:22 am
+act_dep_time,622,04:1 pm,04:12 pm
+act_dep_time,694,c07:22 am,07:22 am
+act_dep_time,760,empty,06:55 pm
+act_dep_time,775,0722 am,07:22 am
+act_dep_time,794,07:2b2 am,07:22 am
+act_dep_time,876,07:2 am,07:22 am
+act_dep_time,910,empty,07:39 am
+act_dep_time,956,20:55 pm,02:55 pm
+act_dep_time,995,0f6:30 pm,06:30 pm
+act_dep_time,1040,07:l22 am,07:22 am
+act_dep_time,1119,empty,06:56 am
+act_dep_time,1135,0:22 am,07:22 am
+act_dep_time,1206,0:30 pm,04:12 pm
+act_dep_time,1245,20:48 pm,02:48 pm
+act_dep_time,1255,02:4 pm,01:19 pm
+act_dep_time,1276,empty,07:39 am
+act_dep_time,1306,empty,07:22 am
+act_dep_time,1365,empty,03:36 pm
+act_dep_time,1388,07:22a m,07:22 am
+act_dep_time,1456,01:31 pgm,01:31 pm
+act_dep_time,1472,11:05a m,11:05 am
+act_dep_time,1554,07:2u2 am,07:22 am
+act_dep_time,1621,0:22 am,07:22 am
+act_dep_time,1635,0:412 pm,04:12 pm
+act_dep_time,1647,08:04c am,08:04 am
+act_dep_time,1709,7:22 am,07:22 am
+act_dep_time,1730,empty,03:27 pm
+act_dep_time,1823,07:22 am***,07:22 am
+act_dep_time,1866,empty,06:30 pm
+act_dep_time,1924,07:2v2 am,07:22 am
+act_dep_time,1942,0w3:36 pm,03:36 pm
+act_dep_time,2015,70:22 am,07:22 am
+act_dep_time,2073,empty,07:22 am
+act_dep_time,2089,08:2 pm,08:25 pm
+act_dep_time,2115,07:22 am***,07:22 am
+act_dep_time,2133,empty,08:04 am
+act_dep_time,2163,empty,03:27 pm
+act_dep_time,2220,07:22am,07:22 am
+act_dep_time,2285,empty,03:36 pm
+act_dep_time,2303,07:22p am,07:22 am
+act_dep_time,2340,empty,01:19 pm
+act_dep_time,2357,4:25 pm,04:25 pm
+act_dep_time,2360,07:2l2 am,07:22 am
+sched_arr_time,18,11:0 am,10:45 am
+sched_arr_time,25,0315 pm,03:15 pm
+sched_arr_time,45,06:30 mpm,06:30 pm
+sched_arr_time,48,empty,03:30 pm
+sched_arr_time,53,empty,09:25 am
+sched_arr_time,86,empty,06:15 pm
+sched_arr_time,98,empty,07:53 pm
+sched_arr_time,135,11:05 bam,08:00 am
+sched_arr_time,240,empty,06:40 pm
+sched_arr_time,254,v09:54 am,09:54 am
+sched_arr_time,293,7:30 am,07:30 am
+sched_arr_time,298,empty,06:44 pm
+sched_arr_time,323,11:05 m,08:00 am
+sched_arr_time,330,empty,04:49 pm
+sched_arr_time,364,empty,09:20 am
+sched_arr_time,374,01:4 pm,01:45 pm
+sched_arr_time,434,07:t05 pm,07:05 pm
+sched_arr_time,448,empty,06:55 am
+sched_arr_time,529,11:10 m,10:45 am
+sched_arr_time,538,empty,09:40 am
+sched_arr_time,717,empty,08:00 am
+sched_arr_time,757,g05:15 pm,05:15 pm
+sched_arr_time,763,empty,07:30 am
+sched_arr_time,764,empty,09:35 am
+sched_arr_time,846,02:0 pm,02:00 pm
+sched_arr_time,882,empty,05:11 am
+sched_arr_time,918,empty,09:21 am
+sched_arr_time,921,empty,07:03 pm
+sched_arr_time,932,empty,03:15 pm
+sched_arr_time,958,empty,02:15 pm
+sched_arr_time,959,empty,08:00 am
+sched_arr_time,1048,empty,01:40 pm
+sched_arr_time,1080,empty,11:19 am
+sched_arr_time,1086,01:6 pm,01:16 pm
+sched_arr_time,1095,empty,03:50 pm
+sched_arr_time,1104,0:19 pm,03:19 pm
+sched_arr_time,1118,2:18 pm,12:18 pm
+sched_arr_time,1175,10:s30 pm,10:30 pm
+sched_arr_time,1186,02:45p m,02:45 pm
+sched_arr_time,1198,02:59 upm,02:59 pm
+sched_arr_time,1215,empty,11:53 am
+sched_arr_time,1220,05:w25 pm,05:25 pm
+sched_arr_time,1233,1:19 am,11:19 am
+sched_arr_time,1268,empty,09:10 pm
+sched_arr_time,1342,9:55 am,09:55 am
+sched_arr_time,1372,07:g30 am,07:30 am
+sched_arr_time,1395,8:27 am,05:15 pm
+sched_arr_time,1439,1:16 pm,01:16 pm
+sched_arr_time,1448,01:x16 pm,01:16 pm
+sched_arr_time,1496,05r:25 pm,05:25 pm
+sched_arr_time,1608,empty,01:45 pm
+sched_arr_time,1610,empty,02:25 pm
+sched_arr_time,1611,07:30 sam,07:30 am
+sched_arr_time,1656,empty,05:11 am
+sched_arr_time,1661,empty,07:53 pm
+sched_arr_time,1693,empty,07:25 pm
+sched_arr_time,1709,empty,10:34 am
+sched_arr_time,1717,empty,11:35 am
+sched_arr_time,1753,empty,11:45 am
+sched_arr_time,1754,empty,05:00 pm
+sched_arr_time,1774,01:16 pmm,01:16 pm
+sched_arr_time,1816,empty,04:31 pm
+sched_arr_time,1821,empty,12:15 am
+sched_arr_time,1823,empty,10:34 am
+sched_arr_time,1854,07:45 m,07:45 am
+sched_arr_time,1874,01:16p m,01:16 pm
+sched_arr_time,1925,empty,11:50 am
+sched_arr_time,1938,0i2:15 pm,02:15 pm
+sched_arr_time,1966,01:16p m,01:16 pm
+sched_arr_time,1984,empty,03:19 pm
+sched_arr_time,2010,empty,04:17 pm
+sched_arr_time,2019,04:48 m,04:48 pm
+sched_arr_time,2044,empty,06:17 pm
+sched_arr_time,2050,empty,03:30 pm
+sched_arr_time,2095,0p9:10 pm,09:10 pm
+sched_arr_time,2122,empty,06:40 pm
+sched_arr_time,2171,1:16 pm,01:16 pm
+sched_arr_time,2235,empty,05:55 pm
+sched_arr_time,2251,07:45 acm,07:45 am
+sched_arr_time,2286,1035 am,10:35 am
+sched_arr_time,2311,empty,11:35 am
+sched_arr_time,2373,empty,12:55 pm
+act_arr_time,21,02g:46 pm,02:46 pm
+act_arr_time,63,05:26 m,05:26 am
+act_arr_time,71,1:40 pm,01:40 pm
+act_arr_time,109,empty,03:04 pm
+act_arr_time,140,empty,08:06 am
+act_arr_time,151,empty,09:32 am
+act_arr_time,164,empty,06:28 pm
+act_arr_time,206,empty,10:47 am
+act_arr_time,215,1a0:04 am,100:4 am
+act_arr_time,218,empty,03:50 pm
+act_arr_time,220,08:45am,08:45 am
+act_arr_time,266,empty,09:45 am
+act_arr_time,306,10:40 am,100:4 am
+act_arr_time,343,empty,10:30 pm
+act_arr_time,366,empty,10:27 am
+act_arr_time,404,1004 am,100:4 am
+act_arr_time,410,0u5:11 am,05:11 am
+act_arr_time,482,empty,08:53 pm
+act_arr_time,486,empty,07:51 am
+act_arr_time,502,10:04o am,100:4 am
+act_arr_time,556,empty,07:39 pm
+act_arr_time,694,1:004 am,100:4 am
+act_arr_time,701,6:40 pm,06:40 pm
+act_arr_time,725,0:40 am,07:40 am
+act_arr_time,775,10:4 am,100:4 am
+act_arr_time,830,09:45a m,09:45 am
+act_arr_time,874,12:15 lam,12:15 am
+act_arr_time,876,10:04 ma,100:4 am
+act_arr_time,889,11:56 oam,11:56 am
+act_arr_time,894,11:0 am,11:01 am
+act_arr_time,949,06:4t0 pm,06:40 pm
+act_arr_time,1036,empty,05:50 am
+act_arr_time,1039,empty,11:50 pm
+act_arr_time,1040,10x:04 am,100:4 am
+act_arr_time,1046,08:4 am,08:45 am
+act_arr_time,1075,empty,09:43 am
+act_arr_time,1081,0:55 am,06:55 am
+act_arr_time,1084,empty,06:28 pm
+act_arr_time,1136,empty,11:44 am
+act_arr_time,1141,empty,05:11 am
+act_arr_time,1142,empty,06:40 pm
+act_arr_time,1148,empty,11:56 am
+act_arr_time,1190,empty,05:34 pm
+act_arr_time,1208,empty,04:44 pm
+act_arr_time,1211,empty,11:06 am
+act_arr_time,1254,empty,11:56 am
+act_arr_time,1274,09:31 m,09:31 am
+act_arr_time,1290,10:4 am,100:4 am
+act_arr_time,1297,empty,06:40 pm
+act_arr_time,1357,empty,03:21 pm
+act_arr_time,1388,01:04 am,100:4 am
+act_arr_time,1398,04:44p m,04:44 pm
+act_arr_time,1489,empty,10:29 pm
+act_arr_time,1498,06:55 am***,06:55 am
+act_arr_time,1554,10:0 am,100:4 am
+act_arr_time,1588,empty,10:30 pm
+act_arr_time,1601,9:05 am,09:05 am
+act_arr_time,1621,0:04 am,100:4 am
+act_arr_time,1623,empty,05:42 pm
+act_arr_time,1769,empty,06:55 am
+act_arr_time,1859,empty,09:32 am
+act_arr_time,1861,9:28 am,09:28 am
+act_arr_time,1871,05r:26 am,05:26 am
+act_arr_time,1887,empty,11:01 am
+act_arr_time,1918,empty,04:17 pm
+act_arr_time,1924,10h:04 am,100:4 am
+act_arr_time,1965,09s:14 am,09:14 am
+act_arr_time,1988,empty,08:03 pm
+act_arr_time,2015,10:04 ma,100:4 am
+act_arr_time,2060,11:21q am,11:21 am
+act_arr_time,2063,05:2u6 am,05:26 am
+act_arr_time,2065,empty,09:14 am
+act_arr_time,2080,empty,10:56 am
+act_arr_time,2099,empty,07:51 am
+act_arr_time,2115,10:i04 am,100:4 am
+act_arr_time,2117,0:13 am,09:13 am
+act_arr_time,2133,empty,11:01 am
+act_arr_time,2185,10:6 am,10:56 am
+act_arr_time,2187,empty,03:30 pm
+act_arr_time,2213,empty,04:23 pm
+act_arr_time,2220,1p0:04 am,100:4 am
+act_arr_time,2248,empty,05:26 pm
+act_arr_time,2303,0:04 am,100:4 am
+act_arr_time,2313,empty,03:13 pm
+act_arr_time,2342,empty,02:50 pm
+act_arr_time,2358,empty,12:15 am
+act_arr_time,2360,10:40 am,10:04 am

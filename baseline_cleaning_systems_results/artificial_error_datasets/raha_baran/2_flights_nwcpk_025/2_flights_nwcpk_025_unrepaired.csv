@@ -1,0 +1,55 @@
+Attribute,Index,Dirty Value,Clean Value
+sched_dep_time,6,1:125 pm,11:25 pm
+sched_dep_time,220,073:5 am,07:35 am
+sched_dep_time,593,empty,10:25 am
+sched_dep_time,640,empty,11:25 pm
+sched_dep_time,694,06:59 m,06:59 am
+sched_dep_time,775,06:y59 am,06:59 am
+sched_dep_time,794,empty,06:59 am
+sched_dep_time,810,empty,07:15 am
+sched_dep_time,876,0q6:59 am,06:59 am
+sched_dep_time,1037,04:2 5pm,04:25 pm
+sched_dep_time,1040,06r:59 am,06:59 am
+sched_dep_time,1109,empty,07:10 pm
+sched_dep_time,1486,2:30 pm,02:30 pm
+sched_dep_time,1543,080:0 pm,08:00 pm
+sched_dep_time,1628,025:5 pm,02:55 pm
+sched_dep_time,1913,08:00p m,08:00 pm
+sched_dep_time,1951,0:10 am,07:10 am
+act_dep_time,144,empty,11:55 am
+act_dep_time,237,03:36 mp,03:36 pm
+act_dep_time,605,empty,02:26 pm
+act_dep_time,684,10:20 ma,10:20 am
+act_dep_time,817,empty,07:58 pm
+act_dep_time,830,empty,07:25 am
+act_dep_time,862,05:08 mp,05:08 pm
+act_dep_time,1058,empty,01:19 pm
+act_dep_time,1063,03:z31 pm,03:31 pm
+act_dep_time,1121,05:08 mp,05:08 pm
+act_dep_time,1275,0508 pm,05:08 pm
+act_dep_time,1374,5:08 pm,05:08 pm
+act_dep_time,1454,01:1 pm,01:19 pm
+act_dep_time,1527,11:a05 am,11:05 am
+act_dep_time,1539,050:8 pm,05:08 pm
+act_dep_time,1871,e12:41 am,12:41 am
+act_dep_time,2109,12:41 spm,12:41 pm
+sched_arr_time,84,empty,03:19 pm
+sched_arr_time,436,empty,10:45 am
+sched_arr_time,486,empty,07:30 am
+sched_arr_time,508,0b5:11 am,05:11 am
+sched_arr_time,655,01:17 pvm,01:17 pm
+sched_arr_time,730,094:0 am,09:40 am
+sched_arr_time,1021,0225 pm,02:25 pm
+sched_arr_time,1158,08:0 0am,08:00 am
+sched_arr_time,1539,empty,08:05 pm
+sched_arr_time,1660,04:00pm,04:00 pm
+sched_arr_time,1779,02:i20 pm,02:20 pm
+sched_arr_time,1801,10:v35 am,10:35 am
+sched_arr_time,1895,08:56 mp,08:56 pm
+sched_arr_time,2066,empty,01:16 pm
+sched_arr_time,2076,01:17 mp,01:17 pm
+sched_arr_time,2129,04:5 pm,04:05 pm
+sched_arr_time,2152,01:17 tpm,01:17 pm
+sched_arr_time,2181,01:17u pm,01:17 pm
+sched_arr_time,2193,08:22 zpm,08:22 pm
+sched_arr_time,2268,1:17 pm,01:17 pm

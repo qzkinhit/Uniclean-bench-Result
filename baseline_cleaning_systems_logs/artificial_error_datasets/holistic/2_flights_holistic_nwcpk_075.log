@@ -1,0 +1,60 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/2_flights/noise_with_correct_primary_key/dirty_mixed_0.75/dirty_flights_mix_0.75.csv
+Running holistic with dirty file: Data/2_flights/noise_with_correct_primary_key/dirty_mixed_0.75/dirty_flights_mix_0.75.csv
+
+  0%|          | 0/6 [00:00<?, ?it/s]
+ 17%|█▋        | 1/6 [00:09<00:46,  9.24s/it]
+ 33%|███▎      | 2/6 [00:18<00:37,  9.33s/it]
+ 50%|█████     | 3/6 [00:29<00:29,  9.68s/it]
+ 67%|██████▋   | 4/6 [00:37<00:18,  9.11s/it]
+ 83%|████████▎ | 5/6 [00:46<00:09,  9.22s/it]
+100%|██████████| 6/6 [00:58<00:00,  9.94s/it]
+
+  0%|                                                               | 0/5 [00:00<?, ?it/s]
+ 20%|██████████▊                                           | 1/5 [05:42<22:49, 342.41s/it]
+ 40%|█████████████████████▌                                | 2/5 [11:28<17:10, 343.42s/it]
+ 60%|████████████████████████████████▍                     | 3/5 [17:09<11:25, 342.71s/it]
+ 80%|███████████████████████████████████████████▏          | 4/5 [22:50<05:42, 342.15s/it]
+100%|██████████████████████████████████████████████████████| 5/5 [28:34<00:00, 342.89s/it]
+
+  0%|                                                               | 0/5 [00:00<?, ?it/s]
+ 20%|██████████▊                                           | 1/5 [05:40<22:43, 340.76s/it]
+ 40%|█████████████████████▌                                | 2/5 [11:23<17:04, 341.47s/it]
+ 60%|████████████████████████████████▍                     | 3/5 [17:06<11:23, 341.69s/it]
+ 80%|███████████████████████████████████████████▏          | 4/5 [22:45<05:40, 340.98s/it]
+100%|██████████████████████████████████████████████████████| 5/5 [28:26<00:00, 340.90s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/repaired_2_flights_nwcpk_075.csv
+holistic finished in 3500.6984503269196 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/repaired_2_flights_nwcpk_075.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_unrepaired.csv
+修复准确率: 0.3105590062111801, 修复召回率: 0.9852216748768473, F1值: 0.4722550176731175
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_edr_evaluation.txt
+错误减少率 (EDR): -1.1970443349753694
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.016407742822612075
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07/2_flights_nwcpk_075_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.6043956043956044
+========================================
+测试结果:
+Accuracy: 0.3105590062111801
+Recall: 0.9852216748768473
+F1 Score: 0.4722550176731175
+EDR: -1.1970443349753694
+Hybrid Distance: 0.016407742822612075
+R-EDR: -0.6043956043956044
+time(s): 3500.6984503269196
+speed: 147.3357933639276 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/2_flights_nwcpk_07

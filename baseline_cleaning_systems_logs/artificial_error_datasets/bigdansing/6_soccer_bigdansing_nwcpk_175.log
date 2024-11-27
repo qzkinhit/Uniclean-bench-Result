@@ -1,0 +1,50 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_2k/subset_directly_extract_soccer_2k_clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_2k/noise_with_correct_primary_key/dirty_mixed_1.75/dirty_soccer_mix_1.75.csv
+Running bigdansing with dirty file: Data/6_soccer/subset_directly_extract_soccer_2k/noise_with_correct_primary_key/dirty_mixed_1.75/dirty_soccer_mix_1.75.csv
+Start Blocking
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 67%|████████████████████████████████████▋                  | 4/6 [01:57<00:58, 29.29s/it] 83%|█████████████████████████████████████████████         | 5/6 [09:01<02:13, 133.36s/it]100%|██████████████████████████████████████████████████████| 6/6 [14:49<00:00, 192.02s/it]100%|██████████████████████████████████████████████████████| 6/6 [14:49<00:00, 148.33s/it]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:03<00:17,  3.58s/it] 33%|██████████████████▎                                    | 2/6 [00:07<00:14,  3.59s/it] 50%|███████████████████████████▌                           | 3/6 [00:10<00:10,  3.63s/it] 67%|████████████████████████████████████▋                  | 4/6 [01:47<01:20, 40.49s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [02:14<00:35, 35.56s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:44<00:00, 53.88s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:44<00:00, 37.35s/it]
+Finish Detectings
+Initial cells to repair: 11229
+Processing loop - sizebefore: 11229, sizeafter: 0
+Current MVC size: 1382
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:03<00:16,  3.22s/it] 33%|██████████████████▎                                    | 2/6 [00:06<00:12,  3.22s/it] 50%|███████████████████████████▌                           | 3/6 [00:09<00:09,  3.27s/it] 67%|████████████████████████████████████▋                  | 4/6 [01:30<01:07, 33.94s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [01:55<00:30, 30.59s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:25<00:00, 50.74s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:25<00:00, 34.20s/it]
+===============================================
+Results saved to results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/repaired_6_soccer_nwcpk_175.csv
+BigDansing finished in 1330.6690356731415 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/repaired_6_soccer_nwcpk_175.csv
+差异文件已保存到:
+results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_clean_vs_dirty.csv
+results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_dirty_vs_cleaned.csv
+results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_unrepaired.csv
+修复准确率: 0.26483357452966716, 修复召回率: 0.5865384615384616, F1值: 0.36490528410469647
+========================================
+EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_edr_evaluation.txt
+错误减少率 (EDR): -0.8653846153846154
+========================================
+混合距离结果已保存到: results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.11806660711680211
+========================================
+R-EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17/6_soccer_nwcpk_175_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.05018587360594796
+========================================
+测试结果:
+Accuracy: 0.26483357452966716
+Recall: 0.5865384615384616
+F1 Score: 0.36490528410469647
+EDR: -0.8653846153846154
+Hybrid Distance: 0.11806660711680211
+R-EDR: -0.05018587360594796
+time(s): 1330.6690356731415
+speed: 66.53345178365707 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/nwcpk/Repaired_res/6_soccer_nwcpk_17

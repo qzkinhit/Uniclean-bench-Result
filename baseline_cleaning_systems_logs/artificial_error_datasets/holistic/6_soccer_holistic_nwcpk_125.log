@@ -1,0 +1,46 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_1k/subset_directly_extract_soccer_1k_clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_1k/noise_with_correct_primary_key/dirty_mixed_1.25/dirty_soccer_mix_1.25.csv
+Running holistic with dirty file: Data/6_soccer/subset_directly_extract_soccer_1k/noise_with_correct_primary_key/dirty_mixed_1.25/dirty_soccer_mix_1.25.csv
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:00<00:01,  3.15it/s] 33%|███▎      | 2/6 [00:00<00:01,  3.74it/s] 50%|█████     | 3/6 [00:00<00:00,  3.73it/s] 67%|██████▋   | 4/6 [00:01<00:00,  4.09it/s] 83%|████████▎ | 5/6 [00:01<00:00,  4.10it/s]100%|██████████| 6/6 [00:01<00:00,  4.06it/s]100%|██████████| 6/6 [00:01<00:00,  3.94it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:28<01:53, 28.37s/it] 40%|██████████████████████                                 | 2/5 [00:58<01:28, 29.58s/it] 60%|█████████████████████████████████                      | 3/5 [01:27<00:58, 29.15s/it] 80%|████████████████████████████████████████████           | 4/5 [02:07<00:33, 33.58s/it]100%|███████████████████████████████████████████████████████| 5/5 [02:57<00:00, 39.55s/it]100%|███████████████████████████████████████████████████████| 5/5 [02:57<00:00, 35.59s/it]
+Finish Detectings
+Finish Repairing
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:29<01:56, 29.06s/it] 40%|██████████████████████                                 | 2/5 [00:58<01:28, 29.45s/it] 60%|█████████████████████████████████                      | 3/5 [01:28<00:58, 29.49s/it] 80%|████████████████████████████████████████████           | 4/5 [02:14<00:36, 36.10s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:14<00:00, 44.69s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:14<00:00, 38.89s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/repaired_6_soccer_nwcpk_125.csv
+holistic finished in 374.4562704563141 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/repaired_6_soccer_nwcpk_125.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_unrepaired.csv
+修复准确率: 0.34627831715210355, 修复召回率: 0.5194174757281553, F1值: 0.4155339805345243
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_edr_evaluation.txt
+错误减少率 (EDR): -0.4029126213592233
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.08500530849729065
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12/6_soccer_nwcpk_125_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.09239130434782608
+========================================
+测试结果:
+Accuracy: 0.34627831715210355
+Recall: 0.5194174757281553
+F1 Score: 0.4155339805345243
+EDR: -0.4029126213592233
+Hybrid Distance: 0.08500530849729065
+R-EDR: -0.09239130434782608
+time(s): 374.4562704563141
+speed: 37.44562704563141 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_12

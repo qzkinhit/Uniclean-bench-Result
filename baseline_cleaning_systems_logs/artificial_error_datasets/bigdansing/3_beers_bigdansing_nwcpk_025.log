@@ -1,0 +1,48 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/3_beers/clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/3_beers/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_beers_mix_0.25.csv
+Running bigdansing with dirty file: Data/3_beers/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_beers_mix_0.25.csv
+Start Blocking
+  0%|                                                               | 0/5 [00:00<?, ?it/s]100%|███████████████████████████████████████████████████████| 5/5 [00:00<00:00, 21.97it/s]100%|███████████████████████████████████████████████████████| 5/5 [00:00<00:00, 21.78it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:03<00:13,  3.40s/it] 40%|██████████████████████                                 | 2/5 [00:07<00:10,  3.54s/it] 60%|█████████████████████████████████                      | 3/5 [00:10<00:07,  3.57s/it] 80%|████████████████████████████████████████████           | 4/5 [00:14<00:03,  3.57s/it]100%|███████████████████████████████████████████████████████| 5/5 [00:16<00:00,  3.18s/it]100%|███████████████████████████████████████████████████████| 5/5 [00:16<00:00,  3.34s/it]
+Finish Detectings
+Initial cells to repair: 1024
+Processing loop - sizebefore: 1024, sizeafter: 0
+Current MVC size: 144
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:03<00:13,  3.48s/it] 40%|██████████████████████                                 | 2/5 [00:07<00:10,  3.51s/it] 60%|█████████████████████████████████                      | 3/5 [00:10<00:07,  3.53s/it] 80%|████████████████████████████████████████████           | 4/5 [00:14<00:03,  3.53s/it]100%|███████████████████████████████████████████████████████| 5/5 [00:16<00:00,  3.14s/it]100%|███████████████████████████████████████████████████████| 5/5 [00:16<00:00,  3.31s/it]
+===============================================
+Results saved to results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/repaired_3_beers_nwcpk_025.csv
+BigDansing finished in 36.873966693878174 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/repaired_3_beers_nwcpk_025.csv
+差异文件已保存到:
+results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/3_beers_nwcpk_025_clean_vs_dirty.csv
+results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/3_beers_nwcpk_025_dirty_vs_cleaned.csv
+results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/3_beers_nwcpk_025_clean_vs_cleaned.csv
+修复准确率: 0.3541666666666667, 修复召回率: 0.7727272727272727, F1值: 0.48571428567118363
+========================================
+EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/3_beers_nwcpk_025_edr_evaluation.txt
+错误减少率 (EDR): -0.6363636363636364
+========================================
+混合距离结果已保存到: results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/3_beers_nwcpk_025_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.005111919253671188
+========================================
+R-EDR 结果已保存到: results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02/3_beers_nwcpk_025_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): 0.0
+========================================
+测试结果:
+Accuracy: 0.3541666666666667
+Recall: 0.7727272727272727
+F1 Score: 0.48571428567118363
+EDR: -0.6363636363636364
+Hybrid Distance: 0.005111919253671188
+R-EDR: 0.0
+time(s): 36.873966693878174
+speed: 1.5300401117791773 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/nwcpk/Repaired_res/3_beers_nwcpk_02

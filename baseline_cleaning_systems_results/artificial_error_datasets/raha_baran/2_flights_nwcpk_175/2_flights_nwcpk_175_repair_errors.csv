@@ -1,0 +1,6 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+sched_dep_time,870,1215 pm,10:40 am,12:15 pm
+sched_dep_time,2187,01:0 0pm,01:05 pm,01:00 pm
+sched_arr_time,186,empty,07:03 pm,06:15 pm
+sched_arr_time,984,empty,11:35 am,10:35 am
+act_arr_time,862,0:55 pm,02:55 pm,07:55 pm

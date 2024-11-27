@@ -1,0 +1,161 @@
+Attribute,Index,Dirty Value,Cleaned Value
+beer_name,1615,the 12th can�?american pale ale (apa),the 12th can??american pale ale (apa)
+beer_name,1087,side kick kölsch,side kick k?lsch
+style,2217,kölsch,k?lsch
+style,1535,kölsch,k?lsch
+style,550,kölsch,k?lsch
+style,1640,kölsch,k?lsch
+style,1401,kölsch,k?lsch
+style,1408,kölsch,k?lsch
+style,2204,kölsch,k?lsch
+style,2654,kölsch,k?lsch
+style,427,kölsch,k?lsch
+style,2210,empty,eaty
+style,2055,kölsch,k?lsch
+style,2019,kölsch,k?lsch
+style,2438,kölsch,k?lsch
+style,129,kölsch,k?lsch
+style,681,kölsch,k?lsch
+style,1311,kölsch,k?lsch
+style,1452,kölsch,k?lsch
+style,1968,kölsch,k?lsch
+style,2659,kölsch,k?lsch
+style,2309,kölsch,k?lsch
+style,1635,empty,eaty
+style,178,kölsch,k?lsch
+style,2527,empty,eaty
+style,1300,kölsch,k?lsch
+style,1034,kölsch,k?lsch
+style,1380,kölsch,k?lsch
+style,769,kölsch,k?lsch
+style,192,kölsch,k?lsch
+style,1235,kölsch,k?lsch
+style,195,kölsch,k?lsch
+style,475,kölsch,k?lsch
+style,2584,gose,american ipa
+style,1816,kölsch,k?lsch
+style,1359,shandy,s?andy
+style,2662,kölsch,k?lsch
+style,1081,kölsch,k?lsch
+style,1790,empty,eaty
+style,696,kölsch,k?lsch
+style,1087,kölsch,k?lsch
+style,2580,gose,american pale ale (apa)
+style,1552,kölsch,k?lsch
+style,1864,kölsch,k?lsch
+style,1798,kölsch,k?lsch
+style,1969,kölsch,k?lsch
+style,92,kölsch,k?lsch
+style,650,kölsch,k?lsch
+style,1410,kölsch,k?lsch
+style,2035,kölsch,k?lsch
+style,1732,shandy,s?andy
+style,1027,shandy,s?andy
+style,1514,kölsch,k?lsch
+abv,2621,0.12,0.099
+brewery_name,173,empty,21st amendment brewery
+brewery_name,2403,empty,alameda brewing
+brewery_name,2435,empty,beer works brewery
+brewery_name,1154,empty,big bend brewing company
+brewery_name,1025,empty,blue blood brewing company
+brewery_name,1547,empty,blue mountain brewery
+brewery_name,782,empty,carolina beer & beverage
+brewery_name,1504,empty,everybody's brewing
+brewery_name,178,empty,four peaks brewing company
+brewery_name,2644,empty,great divide brewing company
+brewery_name,863,empty,great river brewery
+brewery_name,2453,empty,jackie o's pub & brewery
+brewery_name,688,empty,jackie o's pub & brewery
+brewery_name,1309,empty,lost rhino brewing company
+brewery_name,1717,empty,marshall wharf brewing company
+brewery_name,1506,empty,miami brewing company
+brewery_name,2531,empty,mikerphone brewing
+brewery_name,2236,empty,blue blood brewing company
+brewery_name,1052,empty,4 hands brewing company
+brewery_name,746,empty,natian brewery
+brewery_name,128,empty,o'fallon brewery
+brewery_name,1931,empty,peak organic brewing company
+brewery_name,219,empty,revolution brewing
+brewery_name,2074,empty,rochester mills brewing company
+brewery_name,1324,empty,4 hands brewing company
+brewery_name,424,empty,sixpoint craft ales
+brewery_name,774,empty,ska brewing company
+brewery_name,1160,empty,sockeye brewing company
+brewery_name,445,empty,sprecher brewing company
+brewery_name,1410,empty,straight to ale
+brewery_name,1314,empty,sun king brewing company
+brewery_name,1914,empty,the alchemist
+brewery_name,1198,empty,the black tooth brewing company
+brewery_name,1089,empty,utah brewers cooperative
+brewery_name,2340,empty,weston brewing company
+state,2216,iin,oh
+state,1920,aak,ak
+state,1875,arl,al
+state,1343,xaz,az
+state,1898,bca,ca
+state,1897,ac,ca
+state,1847,bco,co
+state,1607,tu,ut
+state,648,ayk,ak
+state,2606,rin,in
+state,790,ro,or
+state,1927,am,ma
+state,784,enc,nc
+state,1940,j,nj
+state,2056,av,va
+state,2338,dma,ma
+state,1650,r,ar
+state,1337,ra,ar
+state,1336,r,ar
+state,2145,sd,co
+state,1804,sd,il
+state,1602,sd,co
+state,1301,sd,co
+state,542,sd,ca
+state,272,sd,co
+state,271,sd,co
+state,2078,dc,in
+state,1809,dc,co
+state,1263,dc,co
+state,1092,dc,co
+state,851,dc,co
+state,186,dc,co
+state,185,dc,mi
+state,184,dc,co
+state,1885,kns,ks
+state,1722,nd,co
+state,1435,nd,in
+state,1434,nd,co
+state,2191,ior,or
+state,311,aql,mi
+state,308,acl,mi
+state,2201,li,il
+state,2642,cvo,co
+state,864,ai,ia
+state,2314,wv,co
+state,2313,wv,co
+state,2059,mga,ma
+state,2179,chi,hi
+state,1555,mqn,mn
+state,823,ap,pa
+state,2408,dm,co
+state,1068,utx,tx
+state,1986,i,mi
+state,2345,fri,ri
+state,1093,mri,ri
+state,1530,wea,wa
+state,1061,x,tx
+state,479,smo,mo
+state,1461,oc,co
+state,188,oc,co
+state,339,aw,wa
+state,2073,anz,az
+state,68,dco,co
+state,2121,wni,wi
+state,1357,wgi,wi
+state,1196,rks,ks
+state,1936,nnm,nm
+state,641,o,co
+state,2588,ntx,tx
+state,2223,h,oh
+state,2572,nbh,nh

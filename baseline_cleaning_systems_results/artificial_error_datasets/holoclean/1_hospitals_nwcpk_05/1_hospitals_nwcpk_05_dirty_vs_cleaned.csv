@@ -1,0 +1,89 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,59,nan,marshall medical center south
+HospitalName,189,nan,marshall medical center north
+HospitalName,482,nan,dale medical center
+HospitalName,665,nan,wedowee hospital
+HospitalName,890,nan,fayette medical center
+Address1,180,nan,8000 alabama highway 69
+Address1,251,33m700 highway 43,33700 highway 43
+Address1,368,1530k u s highway 43,1530 u s highway 43
+Address1,399,124 s memoprial dr,124 s memorial dr
+Address1,408,124 sh memorial dr,124 s memorial dr
+Address1,440,2081 debarr road,2801 debarr road
+Address1,502,nan,400 northwood dr
+Address1,526,nan,2105 east south boulevard
+Address1,765,849 south three notch treet,849 south three notch street
+Address1,774,301 east1 8th st,301 east 18th st
+Address1,778,nan,101 sivley rd
+Address1,819,nan,1007 goodyear avenue
+Address1,981,150 gilbreathd rive,150 gilbreath drive
+City,35,dyothan,dothan
+City,169,nan,hartselle
+City,185,birmingham,guntersville
+City,208,nan,birmingham
+City,426,sylaacuga,sylacauga
+City,488,nan,ozark
+City,693,nan,tallassee
+City,958,nan,enterprise
+State,132,nan,abl
+State,284,nan,abl
+State,569,nan,abl
+State,587,nan,abl
+State,772,nan,abl
+ZipCode,92,nan,35631
+ZipCode,226,nan,35968
+ZipCode,609,nan,36323
+ZipCode,626,36081,36801
+ZipCode,871,nan,35570
+ZipCode,942,6033,36033
+ZipCode,985,nan,35121
+CountyName,70,luderdale,lauderdale
+CountyName,197,jefferrson,jefferson
+CountyName,273,shelbzy,shelby
+CountyName,276,nan,shelby
+CountyName,292,shejlby,shelby
+CountyName,355,mlarion,marion
+CountyName,474,nan,dale
+CountyName,484,nan,dale
+CountyName,556,mongomery,montgomery
+CountyName,558,nan,montgomery
+CountyName,727,nan,cullman
+PhoneNumber,39,334793n8701,3347938701
+PhoneNumber,107,nan,3344933541
+PhoneNumber,502,nan,2569275531
+PhoneNumber,536,334882100,3342882100
+PhoneNumber,597,nan,3348972257
+PhoneNumber,754,nan,3342228466
+PhoneNumber,900,20593v25966,2059325966
+PhoneNumber,977,nan,3343470584
+HospitalOwner,5,nan,voluntary non-profit - private
+HospitalOwner,337,nan,proprietary
+HospitalOwner,356,proprietray,proprietary
+HospitalOwner,392,nan,government - state
+HospitalOwner,485,nan,government - hospital district or authority
+HospitalOwner,493,voluntary non-profit  private,voluntary non-profit - private
+HospitalOwner,557,nan,voluntary non-profit - private
+HospitalOwner,909,poprietary,proprietary
+HospitalOwner,954,voluntary noon-profit - private,voluntary non-profit - private
+EmergencyService,133,nan,yes
+EmergencyService,135,nan,yes
+EmergencyService,180,eys,yes
+EmergencyService,249,nan,yes
+EmergencyService,285,eys,yes
+EmergencyService,335,eys,yes
+EmergencyService,339,es,yes
+EmergencyService,459,yses,yes
+EmergencyService,460,ryes,yes
+EmergencyService,697,nan,no
+EmergencyService,920,nan,yes
+EmergencyService,926,yse,yes
+MeasureName,120,nan,heart attack patients given aspirin at arrival
+MeasureName,125,nan,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,173,nan,heart attack patients given smoking cessation advice/counseling
+MeasureName,327,nan,pneumonia patients given smoking cessation advice/counseling
+MeasureName,619,nan,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+Stateavg,191,nan,al_scip-inf-4
+Stateavg,352,nan,al_ami-4
+Stateavg,522,nan,al_ami-7a
+Stateavg,818,nan,al_pn-6
+Stateavg,974,nan,al_scip-inf-1

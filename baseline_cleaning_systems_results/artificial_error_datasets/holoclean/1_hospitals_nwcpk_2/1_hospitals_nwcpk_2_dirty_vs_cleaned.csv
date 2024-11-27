@@ -1,0 +1,315 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,8,nan,callahan eye foundation hospital
+HospitalName,21,nan,flowers hospital
+HospitalName,105,nan,mizell memorial hospital
+HospitalName,150,nan,hartselle medical center
+HospitalName,159,nan,hartselle medical center
+HospitalName,170,nan,marshall medical center north
+HospitalName,173,nan,marshall medical center north
+HospitalName,291,nan,shelby baptist medical center
+HospitalName,311,nan,callahan eye foundation hospital
+HospitalName,340,nan,flowers hospital
+HospitalName,443,nan,alaska regional hospital
+HospitalName,467,nan,dale medical center
+HospitalName,634,nan,east alabama medical center and snf
+HospitalName,636,nan,east alabama medical center and snf
+HospitalName,747,nan,andalusia regional hospital
+HospitalName,769,stringfellow memorial hopsital,stringfellow memorial hospital
+HospitalName,825,nan,gadsden regional medical center
+HospitalName,834,nan,chilton medical center
+HospitalName,859,nan,marion regional medical center
+HospitalName,894,nan,fayette medical center
+HospitalName,979,nan,medical center enterprise
+Address1,59,2550 u s highway 431 north,2505 u s highway 431 north
+Address1,67,2505 u s higway 431 north,2505 u s highway 431 north
+Address1,123,101 hospital circale,101 hospital circle
+Address1,143,011 hospital circle,101 hospital circle
+Address1,150,nan,201 pine street northwest
+Address1,192,8000 alabmaa highway 69,8000 alabama highway 69
+Address1,224,nan,200 med center drive
+Address1,243,200 med cente rdrive,200 med center drive
+Address1,255,nan,33700 highway 43
+Address1,266,33700 thighway 43,33700 highway 43
+Address1,302,nan,1720 university blvd
+Address1,317,nan,301 east 18th st
+Address1,338,nan,4370 west main street
+Address1,346,nan,4370 west main street
+Address1,374,1530 u sh ighway 43,1530 u s highway 43
+Address1,435,2801 debarr rsoad,2801 debarr road
+Address1,459,nan,1300 south montgomery avenue
+Address1,483,nan,126 hospital ave
+Address1,495,400 nortwood dr,400 northwood dr
+Address1,503,nan,400 northwood dr
+Address1,569,4800 4m8th st,4800 48th st
+Address1,577,nan,4800 48th st
+Address1,581,nan,4800 48th st
+Address1,591,nan,4800 48th st
+Address1,661,nan,209 north main street
+Address1,705,805 friedship road,805 friendship road
+Address1,707,nan,805 friendship road
+Address1,713,nan,805 friendship road
+Address1,779,101 sivgley rd,101 sivley rd
+Address1,803,nan,1007 goodyear avenue
+Address1,819,nan,1007 goodyear avenue
+Address1,820,nan,1007 goodyear avenue
+Address1,827,1007 gooyear avenue,1007 goodyear avenue
+Address1,832,1010 lay damr oad,1010 lay dam road
+Address1,984,nan,150 gilbreath drive
+Address1,987,150 gilbreath dive,150 gilbreath drive
+Address1,995,150 iglbreath drive,150 gilbreath drive
+City,40,nan,dothan
+City,65,nan,boaz
+City,250,nan,thomasville
+City,290,nan,alabaster
+City,293,nan,alabaster
+City,300,nan,birmingham
+City,307,nan,birmingham
+City,421,nan,sylacauga
+City,446,nan,anchorage
+City,543,nan,montgomery
+City,554,nan,montgomery
+City,579,nan,valley
+City,596,nan,elba
+City,609,nan,elba
+City,610,nan,elba
+City,664,nan,wedowee
+City,671,nan,birmingham
+City,700,nan,tallassee
+City,702,nan,tallassee
+City,816,nan,gadsden
+State,52,l,al
+State,64,l,al
+State,104,nan,al
+State,116,nan,al
+State,122,l,al
+State,128,nan,al
+State,154,nan,al
+State,305,nan,al
+State,316,la,al
+State,366,gal,al
+State,373,nan,al
+State,380,la,al
+State,450,nan,ak
+State,474,l,al
+State,507,nan,al
+State,518,nan,al
+State,564,nan,al
+State,599,l,al
+State,618,nan,al
+State,644,akl,al
+State,652,nan,al
+State,713,nan,al
+State,723,l,al
+State,782,nan,al
+State,783,nan,al
+State,869,l,al
+State,911,l,al
+State,921,nan,al
+State,940,nan,al
+State,973,nan,al
+State,984,nan,al
+State,995,nan,al
+ZipCode,21,nan,36302
+ZipCode,70,5631,35631
+ZipCode,90,nan,35631
+ZipCode,118,nan,36467
+ZipCode,183,nan,35976
+ZipCode,221,nan,35968
+ZipCode,267,nan,36784
+ZipCode,281,nan,35007
+ZipCode,282,5007,35007
+ZipCode,300,nan,35233
+ZipCode,348,nan,36305
+ZipCode,382,nan,36617
+ZipCode,388,nan,36617
+ZipCode,390,nan,36617
+ZipCode,391,nan,36617
+ZipCode,437,99580,99508
+ZipCode,445,nan,99508
+ZipCode,492,nan,35960
+ZipCode,499,nan,35960
+ZipCode,523,nan,36116
+ZipCode,558,nan,36106
+ZipCode,607,33623,36323
+ZipCode,651,6278,36278
+ZipCode,663,nan,36278
+ZipCode,714,30678,36078
+ZipCode,740,5058,35058
+ZipCode,754,3g6420,36420
+ZipCode,794,53801,35801
+ZipCode,795,35a801,35801
+ZipCode,891,y35555,35555
+ZipCode,895,35555***,35555
+ZipCode,910,3501,35901
+ZipCode,973,nan,36330
+CountyName,54,marrshall,marshall
+CountyName,80,nan,lauderdale
+CountyName,105,nan,covington
+CountyName,107,ocvington,covington
+CountyName,124,cernshaw,crenshaw
+CountyName,140,crensahw,crenshaw
+CountyName,231,nan,de kalb
+CountyName,248,nan,clarke
+CountyName,260,nan,clarke
+CountyName,265,carke,clarke
+CountyName,269,nan,clarke
+CountyName,290,nan,shelby
+CountyName,310,nan,jefferson
+CountyName,429,talladegfa,talladega
+CountyName,430,talladeag,talladega
+CountyName,504,nan,cherokee
+CountyName,549,nan,montgomery
+CountyName,550,mongomery,montgomery
+CountyName,593,nan,coffee
+CountyName,595,cofee,coffee
+CountyName,611,nan,coffee
+CountyName,616,nan,coffee
+CountyName,648,nan,randolph
+CountyName,663,ranodlph,randolph
+CountyName,683,jefzferson,jefferson
+CountyName,690,jfeferson,jefferson
+CountyName,763,nan,covington
+CountyName,824,nan,etowah
+CountyName,840,chliton,chilton
+CountyName,859,nan,marion
+CountyName,884,nan,fayette
+CountyName,887,fayegtte,fayette
+CountyName,917,towah,etowah
+CountyName,925,nan,etowah
+CountyName,938,nan,butler
+CountyName,948,butlre,butler
+CountyName,962,cfofee,coffee
+CountyName,974,coffele,coffee
+CountyName,977,cowffee,coffee
+CountyName,981,blout,blount
+PhoneNumber,2,nan,2053258100
+PhoneNumber,34,nan,3347938701
+PhoneNumber,53,nan,2565938310
+PhoneNumber,103,nan,3344933541
+PhoneNumber,178,nan,2565718000
+PhoneNumber,340,nan,3347935000
+PhoneNumber,375,nan,2054877736
+PhoneNumber,386,514717110,2514717110
+PhoneNumber,392,2514177110,2514717110
+PhoneNumber,419,nan,2562495000
+PhoneNumber,455,nan,2563864556
+PhoneNumber,505,nan,2569275531
+PhoneNumber,555,3342938000***,3342938000
+PhoneNumber,662,2563572111***,2563572111
+PhoneNumber,676,nan,2059344011
+PhoneNumber,718,2567372000***,2567372000
+PhoneNumber,755,nan,3342228466
+PhoneNumber,757,nan,3342228466
+PhoneNumber,760,nan,3342228466
+PhoneNumber,764,nan,3342228466
+PhoneNumber,765,nan,3342228466
+PhoneNumber,766,nan,3342228466
+PhoneNumber,781,256265100,2562651000
+PhoneNumber,787,256t2651000,2562651000
+PhoneNumber,789,2566251000,2562651000
+PhoneNumber,801,nan,2562651000
+PhoneNumber,934,nan,3343762205
+PhoneNumber,963,3343407584,3343470584
+PhoneNumber,1000,nan,2052743000
+HospitalOwner,43,nan,government - hospital district or authority
+HospitalOwner,103,nan,voluntary non-profit - private
+HospitalOwner,196,nan,voluntary non-profit - private
+HospitalOwner,225,nan,voluntary non-profit - church
+HospitalOwner,243,nan,voluntary non-profit - church
+HospitalOwner,244,nan,voluntary non-profit - church
+HospitalOwner,304,nan,voluntary non-profit - private
+HospitalOwner,312,nan,proprietary
+HospitalOwner,333,nan,proprietary
+HospitalOwner,369,nan,proprietary
+HospitalOwner,435,nan,proprietary
+HospitalOwner,456,nan,government - hospital district or authority
+HospitalOwner,503,nan,voluntary non-profit - private
+HospitalOwner,508,nan,voluntary non-profit - private
+HospitalOwner,639,nan,government - hospital district or authority
+HospitalOwner,670,nan,government - state
+HospitalOwner,750,nan,proprietary
+HospitalOwner,786,nan,government - hospital district or authority
+HospitalOwner,799,nan,government - hospital district or authority
+HospitalOwner,834,nan,voluntary non-profit - private
+EmergencyService,18,ys,yes
+EmergencyService,61,nan,yes
+EmergencyService,66,yse,yes
+EmergencyService,108,nan,no
+EmergencyService,188,nan,yes
+EmergencyService,222,nan,yes
+EmergencyService,302,nan,yes
+EmergencyService,325,nan,yes
+EmergencyService,329,es,yes
+EmergencyService,344,nan,yes
+EmergencyService,355,ys,yes
+EmergencyService,407,yse,yes
+EmergencyService,415,nan,no
+EmergencyService,445,nan,yes
+EmergencyService,493,nan,yes
+EmergencyService,557,nan,yes
+EmergencyService,575,nan,yes
+EmergencyService,743,nan,no
+EmergencyService,835,nan,yes
+EmergencyService,838,eys,yes
+EmergencyService,839,nan,yes
+EmergencyService,883,pyes,yes
+EmergencyService,888,es,yes
+EmergencyService,916,nan,yes
+EmergencyService,931,nan,no
+EmergencyService,933,nan,no
+EmergencyService,935,nan,no
+EmergencyService,968,eys,yes
+EmergencyService,975,ys,yes
+EmergencyService,981,nan,yes
+EmergencyService,989,yse,yes
+Condition,18,herat failure,heart failure
+Condition,103,hdeart failure,heart failure
+Condition,131,pneumonica,pneumonia
+Condition,133,neumonia,pneumonia
+Condition,360,hearkt attack,heart attack
+Condition,379,surgicayl infection prevention,surgical infection prevention
+Condition,381,heart attack***,heart attack
+Condition,424,hekart failure,heart failure
+Condition,562,surgical inefction prevention,surgical infection prevention
+Condition,596,heart atack,heart attack
+Condition,709,surgical infection revention,surgical infection prevention
+MeasureName,30,nan,heart failure patients given smoking cessation advice/counseling
+MeasureName,151,nan,heart attack patients given pci within 90 minutes of arrival
+MeasureName,171,nan,heart attack patients given aspirin at discharge
+MeasureName,186,nan,pneumonia patients assessed and given influenza vaccination
+MeasureName,246,nan,heart attack patients given aspirin at discharge
+MeasureName,269,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,291,nan,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,384,nan,heart attack patients given beta blocker at discharge
+MeasureName,391,nan,pneumonia patients assessed and given pneumococcal vaccination
+MeasureName,442,nan,pneumonia patients assessed and given influenza vaccination
+MeasureName,479,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,493,nan,heart attack patients given aspirin at discharge
+MeasureName,537,nan,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+MeasureName,572,nan,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+MeasureName,594,nan,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,654,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,691,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,792,nan,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,895,nan,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,903,nan,children who received reliever medication while hospitalized for asthma
+Stateavg,59,nan,al_pn-5c
+Stateavg,91,nan,al_scip-inf-4
+Stateavg,185,nan,al_pn-6
+Stateavg,207,nan,al_pn-3b
+Stateavg,258,nan,al_pn-4
+Stateavg,307,nan,al_pn-3b
+Stateavg,450,nan,al_scip-vte-2
+Stateavg,563,nan,al_scip-inf-4
+Stateavg,609,nan,al_scip-card-2
+Stateavg,646,nan,al_ami-5
+Stateavg,662,nan,al_scip-inf-3
+Stateavg,693,nan,al_ami-2
+Stateavg,708,nan,al_pn-7
+Stateavg,720,nan,al_ami-4
+Stateavg,838,nan,al_hf-4
+Stateavg,840,nan,al_pn-3b
+Stateavg,861,nan,al_hf-2
+Stateavg,895,nan,al_scip-card-2
+Stateavg,927,nan,al_scip-inf-4
+Stateavg,978,nan,al_scip-inf-6

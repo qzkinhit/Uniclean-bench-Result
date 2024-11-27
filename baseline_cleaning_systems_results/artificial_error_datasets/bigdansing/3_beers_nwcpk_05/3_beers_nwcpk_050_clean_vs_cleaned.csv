@@ -1,0 +1,167 @@
+Attribute,Index,Clean Value,Cleaned Value
+brewery_id,1502,154,90
+brewery_id,2518,267,67
+brewery_id,2679,1,0
+brewery_id,2678,1,0
+brewery_id,2677,1,0
+brewery_id,2676,1,0
+brewery_id,2675,1,0
+brewery_id,2674,1,0
+brewery_id,2207,193,0
+brewery_id,2040,193,0
+brewery_id,979,374,0
+brewery_id,2058,235,0
+brewery_id,1401,34,0
+brewery_id,1711,336,0
+brewery_id,2412,112,0
+brewery_id,2449,95,12
+brewery_id,1408,414,382
+brewery_id,1727,107,0
+brewery_id,2636,10,0
+brewery_id,2598,10,0
+brewery_id,2597,10,0
+brewery_id,2548,10,0
+brewery_id,2542,10,0
+brewery_id,2541,10,0
+brewery_id,1947,10,0
+brewery_id,1785,10,0
+brewery_id,1651,10,0
+brewery_id,1443,10,0
+brewery_id,1352,10,0
+brewery_id,1267,10,0
+brewery_id,1266,10,0
+brewery_id,1178,10,0
+brewery_id,1136,10,0
+brewery_id,1044,10,0
+brewery_id,1033,10,0
+brewery_id,1031,10,0
+brewery_id,756,437,0
+brewery_id,2606,24,0
+brewery_id,791,155,0
+brewery_id,2257,178,90
+brewery_id,2227,192,254
+brewery_id,2338,145,0
+brewery_id,659,515,90
+brewery_id,1689,63,0
+brewery_id,2029,247,0
+brewery_id,1213,453,515
+brewery_id,2025,57,0
+brewery_id,1888,57,0
+brewery_id,358,160,0
+brewery_id,1489,240,0
+brewery_id,1109,464,0
+brewery_id,1000,478,0
+brewery_id,477,536,0
+brewery_id,476,536,0
+brewery_id,2648,6,254
+brewery_id,517,365,254
+brewery_id,1379,234,0
+brewery_id,769,234,0
+brewery_id,2393,80,0
+brewery_id,1904,140,0
+brewery_id,2038,242,0
+brewery_id,1571,377,456
+brewery_id,1231,161,0
+brewery_id,33,375,0
+brewery_id,1984,254,90
+brewery_id,776,284,254
+brewery_id,2280,134,0
+brewery_id,2279,134,0
+brewery_id,419,540,0
+brewery_id,768,507,0
+brewery_id,132,507,0
+brewery_id,2331,150,0
+brewery_id,1431,148,0
+brewery_id,805,503,166
+brewery_id,804,503,166
+brewery_id,803,503,166
+brewery_id,787,503,166
+brewery_id,786,503,166
+brewery_id,785,503,166
+brewery_id,745,503,166
+brewery_id,744,503,166
+brewery_id,743,503,166
+brewery_id,742,503,166
+brewery_id,741,503,166
+brewery_id,734,503,166
+brewery_id,733,503,166
+brewery_id,1908,275,261
+brewery_id,1760,324,0
+brewery_id,335,548,0
+brewery_id,64,548,0
+brewery_id,1091,128,0
+brewery_id,609,44,0
+brewery_id,1880,43,0
+brewery_id,124,30,0
+brewery_id,814,385,0
+brewery_id,1388,46,0
+brewery_id,2305,163,371
+brewery_id,2386,119,0
+brewery_id,2365,131,0
+brewery_id,2352,138,58
+brewery_id,2001,25,0
+brewery_id,1229,449,0
+brewery_id,623,449,0
+brewery_id,1433,409,0
+brewery_id,2640,7,0
+brewery_id,1659,190,0
+brewery_id,1438,190,254
+brewery_id,1171,435,0
+brewery_id,2506,71,0
+brewery_id,1376,185,0
+brewery_id,2572,47,254
+brewery_id,2571,47,0
+brewery_id,928,424,0
+brewery_name,2449,Blackrocks Brewery,0
+brewery_name,1408,Blue Mountain Brewery,0
+brewery_name,668,Butcher's Brewing,Butchre''s Brewing
+brewery_name,1108,Good Life Brewing Company,Good Life Brewing Companhy
+brewery_name,1571,Lucette Brewing Company,0
+brewery_name,408,Mother Earth Brewing Company,Mother Earth Brewing Compalny
+brewery_name,805,Oskar Blues Brewery,0
+brewery_name,804,Oskar Blues Brewery,0
+brewery_name,803,Oskar Blues Brewery,0
+brewery_name,787,Oskar Blues Brewery,0
+brewery_name,786,Oskar Blues Brewery,0
+brewery_name,785,Oskar Blues Brewery,0
+brewery_name,745,Oskar Blues Brewery,0
+brewery_name,744,Oskar Blues Brewery,0
+brewery_name,743,Oskar Blues Brewery,0
+brewery_name,742,Oskar Blues Brewery,0
+brewery_name,741,Oskar Blues Brewery,0
+brewery_name,734,Oskar Blues Brewery,0
+brewery_name,733,Oskar Blues Brewery,0
+brewery_name,2305,Sly Fox Brewing Company,0
+brewery_name,2352,Summit Brewing Company,0
+brewery_name,2455,The Lion Brewery,empty
+brewery_name,2572,White Birch Brewing,empty
+brewery_name,2417,"Woodstock Inn, Station & Brewery",Woodstock Inn Station & Brewery
+brewery_name,2306,"Woodstock Inn, Station & Brewery",Woodstock Inn Station & Brewery
+beer_name,1738,"the Kimmie, the Yink and the Holy Gose",the Kimmie the Yink and the Holy Gose
+beer_name,1802,"You're My Boy, Blue",You're My Boy Blue
+city,1583,Dunedin,empty
+city,1322,Boulder,empty
+city,129,Covington,empty
+city,2029,Athens,Athqens
+city,1759,Black Mountain,Black Mountian
+city,64,Prescott,empty
+city,433,Greenville,empty
+state,2207,OK,K
+state,2040,OK,KO
+state,2039,OK,K
+state,2412,CA,AC
+state,1898,CA,AC
+state,1897,CA,AC
+state,1896,CA,AC
+state,1383,CO,O
+state,476,AZ,ZA
+state,143,AZ,ZA
+state,142,AZ,ZA
+state,2038,TX,empty
+state,768,AZ,ZA
+state,625,AZ,ZA
+state,326,AZ,ZA
+state,132,AZ,ZA
+state,131,AZ,ZA
+state,64,AZ,Z
+state,1432,MT,TM

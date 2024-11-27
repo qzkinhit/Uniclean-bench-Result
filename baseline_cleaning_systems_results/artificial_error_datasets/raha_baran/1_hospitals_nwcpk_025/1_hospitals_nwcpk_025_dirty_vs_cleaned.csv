@@ -1,0 +1,7 @@
+Attribute,Index,Dirty Value,Cleaned Value
+State,354,empty,al
+State,443,empty,al
+HospitalOwner,45,empty,government - hospital district or authority
+HospitalOwner,207,empty,voluntary non-profit - private
+EmergencyService,579,ymes,yes
+EmergencyService,992,yse,yes

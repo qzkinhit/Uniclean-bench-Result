@@ -1,0 +1,146 @@
+Attribute,Index,Dirty Value,Cleaned Value
+HospitalName,15,nan,helen keller memorial hospital
+HospitalName,77,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,78,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,79,callahan eye foundation hospital,eliza coffee memorial hospital
+HospitalName,193,callahan eye foundation hospital,marshall medical center north
+HospitalName,194,callahan eye foundation hospital,marshall medical center north
+HospitalName,245,callahan eye foundation hospital,southwest alabama medical center
+HospitalName,411,nan,prattville baptist hospital
+HospitalName,429,nan,coosa valley medical center
+HospitalName,435,nan,alaska regional hospital
+HospitalName,483,ale medical center,dale medical center
+HospitalName,767,stringfellow memoial hospital,stringfellow memorial hospital
+HospitalName,933,nan,georgiana hospital
+HospitalName,959,nan,medical center enterprise
+HospitalName,983,nan,st vincents blount
+Address1,55,2505 u s highway 431 norh,2505 u s highway 431 north
+Address1,59,nan,2505 u s highway 431 north
+Address1,279,1000 first street nkorth,1000 first street north
+Address1,354,nan,201 pine street northwest
+Address1,388,nan,2451 fillingim street
+Address1,403,124 s memorival dr,124 s memorial dr
+Address1,499,nan,400 northwood dr
+Address1,507,nan,400 northwood dr
+Address1,541,2105 east souh boulevard,2105 east south boulevard
+Address1,652,nan,209 north main street
+Address1,943,515 misranda st,515 miranda st
+Address1,980,400 n ewards street,400 n edwards street
+Address1,997,nan,150 gilbreath drive
+City,19,nan,sheffield
+City,33,dodthan,dothan
+City,146,nan,hartselle
+City,164,nan,hartselle
+City,262,birmingham,thomasville
+City,263,birmingham,thomasville
+City,264,birmingham,thomasville
+City,332,othan,dothan
+City,386,nan,mobile
+City,460,shefield,sheffield
+City,461,sheffiedl,sheffield
+City,462,sheffeld,sheffield
+City,620,nan,opelika
+City,649,nan,wedowee
+City,746,nan,andalusia
+City,781,hunsville,huntsville
+City,797,uhntsville,huntsville
+State,10,ajl,al
+State,11,ual,al
+State,12,cal,al
+State,46,nan,al
+State,149,nan,al
+State,183,nan,al
+State,255,la,al
+State,593,l,al
+State,684,l,al
+State,748,la,al
+State,754,nan,al
+State,808,la,al
+State,867,nan,al
+State,905,la,al
+State,917,l,al
+State,963,nan,al
+State,976,nan,al
+ZipCode,82,nan,35631
+ZipCode,114,nan,36467
+ZipCode,115,3467,36467
+ZipCode,189,nan,35976
+ZipCode,202,nan,35235
+ZipCode,317,nan,36201
+ZipCode,390,nan,36617
+ZipCode,443,9950k8,99508
+ZipCode,542,3610f6,36106
+ZipCode,641,36810,36801
+ZipCode,683,nan,35233
+ZipCode,787,358t01,35801
+CountyName,8,nan,jefferson
+CountyName,34,houstno,houston
+CountyName,86,laduerdale,lauderdale
+CountyName,277,sehlby,shelby
+CountyName,281,shebly,shelby
+CountyName,282,shebly,shelby
+CountyName,283,shelyb,shelby
+CountyName,365,nan,marion
+CountyName,369,marino,marion
+CountyName,641,nan,lee
+CountyName,672,jefqferson,jefferson
+CountyName,674,nan,jefferson
+CountyName,768,alhoun,calhoun
+CountyName,779,nan,madison
+CountyName,785,nan,madison
+CountyName,796,madson,madison
+CountyName,920,nan,etowah
+PhoneNumber,56,nan,2565938310
+PhoneNumber,105,nan,3344933541
+PhoneNumber,216,nan,2058383122
+PhoneNumber,326,nan,2562358900
+PhoneNumber,337,nan,3347935000
+PhoneNumber,453,2568364556,2563864556
+PhoneNumber,454,256386455s6,2563864556
+PhoneNumber,624,nan,3347493411
+PhoneNumber,653,25q63572111,2563572111
+PhoneNumber,661,nan,2563572111
+PhoneNumber,727,5267372000,2567372000
+PhoneNumber,970,3343470854,3343470584
+HospitalOwner,61,nan,government - hospital district or authority
+HospitalOwner,64,government - hospital district or autohrity,government - hospital district or authority
+HospitalOwner,164,nan,proprietary
+HospitalOwner,404,nan,voluntary non-profit - private
+HospitalOwner,412,nan,voluntary non-profit - private
+HospitalOwner,506,nan,voluntary non-profit - private
+HospitalOwner,509,voluntray non-profit - private,voluntary non-profit - private
+HospitalOwner,617,nan,government - hospital district or authority
+HospitalOwner,688,nan,government - state
+HospitalOwner,841,volnutary non-profit - private,voluntary non-profit - private
+HospitalOwner,947,voluntary on-profit - private,voluntary non-profit - private
+HospitalOwner,969,propriyetary,proprietary
+EmergencyService,159,nan,yes
+EmergencyService,174,es,yes
+EmergencyService,292,nan,yes
+EmergencyService,350,yecs,yes
+EmergencyService,387,nan,yes
+EmergencyService,467,yevs,yes
+EmergencyService,468,nan,yes
+EmergencyService,489,yeps,yes
+EmergencyService,541,es,yes
+EmergencyService,588,es,yes
+EmergencyService,647,nan,no
+EmergencyService,678,nan,yes
+EmergencyService,679,vyes,yes
+EmergencyService,680,yehs,yes
+EmergencyService,797,ynes,yes
+EmergencyService,830,nan,yes
+MeasureName,21,nan,heart attack patients given aspirin at discharge
+MeasureName,207,nan,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,269,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,377,nan,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,607,nan,pneumonia patients given the most appropriate initial antibiotic(s)
+MeasureName,955,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+MeasureName,980,nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+Stateavg,105,nan,al_hf-4
+Stateavg,240,nan,al_scip-inf-3
+Stateavg,257,nan,al_pn-3b
+Stateavg,532,nan,al_pn-6
+Stateavg,548,nan,al_ami-8a
+Stateavg,570,nan,al_ami-4
+Stateavg,959,nan,al_ami-4

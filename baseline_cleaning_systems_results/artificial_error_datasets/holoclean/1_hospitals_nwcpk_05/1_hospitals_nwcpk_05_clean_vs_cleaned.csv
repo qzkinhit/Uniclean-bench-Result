@@ -1,0 +1,94 @@
+Attribute,Index,Clean Value,Cleaned Value
+HospitalName,9,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,10,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,11,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,12,helen keller memorial hospital,callahan eye foundation hospital
+HospitalName,26,southeast alabama medical center,southeast alabama emdical center
+HospitalName,46,marshall medical center south,callahan eye foundation hospital
+HospitalName,47,marshall medical center south,callahan eye foundation hospital
+HospitalName,60,marshall medical center south,callahan eye foundation hospital
+HospitalName,107,mizell memorial hospital,mizell mmeorial hospital
+HospitalName,187,marshall medical center north,marshall medical centernorth
+HospitalName,212,st vincents east,callahan eye foundation hospital
+HospitalName,213,st vincents east,callahan eye foundation hospital
+HospitalName,214,st vincents east,callahan eye foundation hospital
+HospitalName,215,st vincents east,callahan eye foundation hospital
+HospitalName,216,st vincents east,callahan eye foundation hospital
+HospitalName,257,southwest alabama medical center,callahan eye foundation hospital
+HospitalName,258,southwest alabama medical center,callahan eye foundation hospital
+HospitalName,295,callahan eye foundation hospital,callahan eyhe foundation hospital
+HospitalName,296,callahan eye foundation hospital,callahan eye founadtion hospital
+HospitalName,297,callahan eye foundation hospital,callahan eye foutndation hospital
+HospitalName,298,callahan eye foundation hospital,callaha eye foundation hospital
+HospitalName,299,callahan eye foundation hospital,cllahan eye foundation hospital
+HospitalName,357,northwest medical center,nothwest medical center
+HospitalName,799,huntsville hospital,xhuntsville hospital
+HospitalName,857,marion regional medical center,marion regional medical centre
+Address1,300,1720 university blvd,1720 universityj blvd
+Address1,301,1720 university blvd,720 university blvd
+City,187,guntersville,birmingham
+City,298,birmingham,birmingam
+City,465,sheffield,shefftield
+City,466,sheffield,shefield
+State,132,al,abl
+State,152,al,l
+State,284,al,abl
+State,310,al,l
+State,311,al,abl
+State,350,al,la
+State,384,al,l
+State,559,al,la
+State,569,al,abl
+State,587,al,abl
+State,737,al,la
+State,762,al,l
+State,772,al,abl
+ZipCode,16,35660,35660***
+ZipCode,17,35660,35x660
+ZipCode,95,36467,35233
+ZipCode,96,36467,35233
+ZipCode,184,35976,3597t6
+ZipCode,347,36305,3630g5
+ZipCode,680,35233,3233
+ZipCode,803,35903,3a5903
+ZipCode,958,36330,3630
+PhoneNumber,465,2563864556,2563864565
+PhoneNumber,466,2563864556,5263864556
+HospitalOwner,339,proprietary,prorpietary
+HospitalOwner,465,government - hospital district or authority,government - hospital district or auhtority
+HospitalOwner,466,government - hospital district or authority,government - hospital district or authoritsy
+Condition,77,heart failure,heartfailure
+Condition,94,surgical infection prevention,surgical infection preveniton
+Condition,290,surgical infection prevention,surgical infection prevntion
+Condition,376,surgical infection prevention,surgical infection prevetnion
+Condition,410,surgical infection prevention,surgical infexction prevention
+Condition,444,surgical infection prevention,surgical infection prjevention
+Condition,460,surgical infection prevention,surgical infection prevntion
+Condition,485,surgical infection prevention,surgical infection preventino
+Condition,510,surgical infection prevention,surgical infection preventionn
+MeasureName,45,heart attack patients given aspirin at arrival,heart attack aptients given aspirin at arrival
+MeasureName,109,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,110,pneumonia patients given the most appropriate initial antibiotic(s),surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,111,pneumonia patients assessed and given influenza vaccination,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,113,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,114,surgery patients who were given the  right kind  of antibiotic to help prevent infection,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+MeasureName,256,pneumonia patients assessed and given pneumococcal vaccination,pneumonia patients assessed and give pneumococcal vaccination
+MeasureName,275,heart attack patients given fibrinolytic medication within 30 minutes of arrival,heart attack patisents given fibrinolytic medication within 30 minutes of arrival
+MeasureName,322,heart failure patients given an evaluation of left ventricular systolic (lvs) function,heart failure patients given anr evaluation of left ventricular systolic (lvs) function
+MeasureName,380,heart attack patients given aspirin at arrival,heart attack patietns given aspirin at arrival
+MeasureName,391,pneumonia patients assessed and given pneumococcal vaccination,pneumonia patients assessedand given pneumococcal vaccination
+MeasureName,399,heart failure patients given discharge instructions,heart failure patients given discharge instructiovns
+MeasureName,451,heart attack patients given aspirin at arrival,hart attack patients given aspirin at arrival
+MeasureName,517,heart attack patients given aspirin at arrival,heart attack patients fgiven aspirin at arrival
+MeasureName,592,heart attack patients given aspirin at arrival,hart attack patients given aspirin at arrival
+MeasureName,995,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,pneumonia patients given initial antibiotic(s) within 6 hours after rarival
+Stateavg,344,al_scip-inf-3,al_scoip-inf-3
+Stateavg,375,al_scip-inf-3,al_scip-inf-k3
+Stateavg,412,al_scip-inf-3,alh_scip-inf-3
+Stateavg,422,al_hf-1,alhf-1
+Stateavg,462,al_scip-inf-3,al_scip-infz-3
+Stateavg,487,al_scip-inf-3,al_scip-inf3-
+Stateavg,739,al_scip-inf-6,al_sciap-inf-6
+Stateavg,740,al_scip-vte-1,al_sci-pvte-1
+Stateavg,833,al_ami-7a,hal_ami-7a
+Stateavg,893,al_pn-6,al_p-6
