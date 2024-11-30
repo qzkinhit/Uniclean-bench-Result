@@ -41,35 +41,31 @@ Results saved to results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/repaired_
 holistic finished in 41261.12467002869 seconds.
 测评性能开始：
 没有指定错误比例，仅进行原数据集的空值替换，不添加错误
-已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/repaired_4_rayyan_nwcpk_025.csv
-Traceback (most recent call last):
-  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 2656, in get_loc
-    return self._engine.get_loc(key)
-  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'index'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "CleanerRunScript/run_holistic/run_holistic_base.py", line 171, in <module>
-    main()
-  File "CleanerRunScript/run_holistic/run_holistic_base.py", line 137, in main
-    index_attribute=index_attribute, mse_attributes=mse_attributes)
-  File "/home/qzk/MDCBaseline/CleanerRunScript/run_holistic/../../util/getScore.py", line 31, in calculate_all_metrics
-    index_attribute=index_attribute, relax=relax)
-  File "/home/qzk/MDCBaseline/CleanerRunScript/run_holistic/../../util/getScore.py", line 140, in calculate_accuracy_and_recall
-    clean = clean.set_index(index_attribute, drop=False)
-  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/frame.py", line 4178, in set_index
-    level = frame[col]._values
-  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/frame.py", line 2927, in __getitem__
-    indexer = self.columns.get_loc(key)
-  File "/home/qzk/MDCBaseline/baseline_env/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 2658, in get_loc
-    return self._engine.get_loc(self._maybe_cast_indexer(key))
-  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 1601, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 1608, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'index'
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_1/repaired_4_rayyan_nwcpk_025.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_unrepaired.csv
+修复准确率: 0.0033589251439539347, 修复召回率: 0.4666666666666667, F1值: 0.006669842780858237
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_edr_evaluation.txt
+错误减少率 (EDR): -137.86666666666667
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.03165226005374857
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02/4_rayyan_nwcpk_025_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -46.666666666666664
+========================================
+测试结果:
+Accuracy: 0.0033589251439539347
+Recall: 0.4666666666666667
+F1 Score: 0.006669842780858237
+EDR: -137.86666666666667
+Hybrid Distance: 0.03165226005374857
+R-EDR: -46.666666666666664
+time(s): 30621.217421531677
+speed: 3062.121742153168 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/4_rayyan_nwcpk_02

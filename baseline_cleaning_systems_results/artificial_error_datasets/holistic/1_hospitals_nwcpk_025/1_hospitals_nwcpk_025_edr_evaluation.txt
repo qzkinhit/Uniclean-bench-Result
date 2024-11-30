@@ -8,7 +8,7 @@ Distance (Repaired to Clean): 14
 ========================================
 Attribute: HospitalName
 Distance (Dirty to Clean): 14
-Distance (Repaired to Clean): 34
+Distance (Repaired to Clean): 36
 ========================================
 Attribute: Address1
 Distance (Dirty to Clean): 7
@@ -79,5 +79,5 @@ Distance (Dirty to Clean): 5
 Distance (Repaired to Clean): 20
 ========================================
 总的脏数据到干净数据距离: 83
-总的修复后数据到干净数据距离: 161
-错误减少率 (EDR): -0.9397590361445783
+总的修复后数据到干净数据距离: 163
+错误减少率 (EDR): -0.963855421686747

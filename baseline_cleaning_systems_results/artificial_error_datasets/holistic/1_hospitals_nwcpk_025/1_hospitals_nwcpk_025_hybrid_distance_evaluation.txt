@@ -1,6 +1,6 @@
 Attribute: index, MSE: nan, Jaccard: 0.0
 Attribute: ProviderNumber, MSE: nan, Jaccard: 0.03831909937888189
-Attribute: HospitalName, MSE: nan, Jaccard: 0.07251604187774396
+Attribute: HospitalName, MSE: nan, Jaccard: 0.09359457671957683
 Attribute: Address1, MSE: nan, Jaccard: 0.011083333333333334
 Attribute: Address2, MSE: nan, Jaccard: nan
 Attribute: Address3, MSE: nan, Jaccard: nan
@@ -19,4 +19,4 @@ Attribute: MeasureName, MSE: nan, Jaccard: 0.0
 Attribute: Score, MSE: nan, Jaccard: 0.0
 Attribute: Sample, MSE: nan, Jaccard: 0.0
 Attribute: Stateavg, MSE: nan, Jaccard: 0.4271864619445652
-加权混合距离: 0.023874789936232058
+加权混合距离: 0.024460304792949635
