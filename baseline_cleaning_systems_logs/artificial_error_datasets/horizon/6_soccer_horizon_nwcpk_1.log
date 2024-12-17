@@ -1,0 +1,53 @@
+û  ָ                 ԭ   ݼ  Ŀ ֵ 滻      Ӵ   
+ ѽ ע       ļ    浽: Data/6_soccer/clean_index.csv
+û  ָ                 ԭ   ݼ  Ŀ ֵ 滻      Ӵ   
+ ѽ ע       ļ    浽: Data/6_soccer/noise_with_correct_primary_key/dirty_mixed_1/dirty_soccer_mix_1.csv
+Running Horizon with dirty file: Data/6_soccer/noise_with_correct_primary_key/dirty_mixed_1/dirty_soccer_mix_1.csv
+[['manager'], ['city'], ['season'], ['team'], ['stadium'], ['name'], ['surname'], ['birthplace'], ['birthyear'], ['position']]
+{0: {3}, 1: {4}, 2: {9, 3, 4}, 3: {4}, 4: set(), 5: {8, 9, 6, 7}, 6: set(), 7: set(), 8: set(), 9: set()}
+[0, 1, 2, 5, 3, 8, 9, 6, 7, 4]
+{'manager': 0, 'city': 1, 'season': 2, 'team': 3, 'stadium': 4, 'name': 5, 'surname': 6, 'birthplace': 7, 'birthyear': 8, 'position': 9}
+0 3
+1 4
+2 3
+2 4
+2 9
+3 4
+5 6
+5 7
+5 8
+5 9
+===============================================
+Results saved to results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_repaired.csv
+Horizon finished in 1335.2085049152374 seconds.
+       ܿ ʼ  
+û  ָ                 ԭ   ݼ  Ŀ ֵ 滻      Ӵ   
+ ѽ ע       ļ    浽: results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_repaired.csv
+     ļ  ѱ  浽:
+results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_clean_vs_dirty.csv
+results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_dirty_vs_cleaned.csv
+results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_clean_vs_cleaned.csv
+ ޸          ļ  ѱ  浽: results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_repair_errors.csv
+δ ޸     Ӧ   ޸      ļ  ѱ  浽: results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_unrepaired.csv
+ ޸ ׼ȷ  : 0.09461653988449187,  ޸  ٻ   : 0.6531523937963587, F1ֵ: 0.16528907989214756
+========================================
+EDR     ѱ  浽: results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_edr_evaluation.txt
+          (EDR): -5.278152393796359
+========================================
+  Ͼ      ѱ  浽: results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_hybrid_distance_evaluation.txt
+  Ͼ    (Hybrid Distance): 0.08282127435572097
+========================================
+R-EDR     ѱ  浽: results/horizon/nwcpk\6_soccer_nwcpk_1\6_soccer_nwcpk_1_record_based_edr_evaluation.txt
+      Ŀ Ĵ         (R-EDR): -4.234731084776664
+========================================
+            ϸ      ־    results/horizon/nwcpk\6_soccer_nwcpk_1
+   Խ  :
+Accuracy: 0.09461653988449187
+Recall: 0.6531523937963587
+F1 Score: 0.16528907989214756
+EDR: -5.278152393796359
+Hybrid Distance: 0.08282127435572097
+R-EDR: -4.234731084776664
+time(s): 1335.2085049152374
+speed: 0.6676042524576187 seconds/100num
+            ϸ      ־    results/horizon/nwcpk\6_soccer_nwcpk_1
