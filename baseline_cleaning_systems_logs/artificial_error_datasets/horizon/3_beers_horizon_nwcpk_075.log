@@ -1,0 +1,51 @@
+/home/hit_lt/.virtualenvs/pythonProject/lib/python3.8/site-packages/sklearn/utils/multiclass.py:13: DeprecationWarning: Please use `spmatrix` from the `scipy.sparse` namespace, the `scipy.sparse.base` namespace is deprecated.
+  from scipy.sparse.base import spmatrix
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/3_beers/clean.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/3_beers/noise_with_correct_primary_key/dirty_mixed_0.75/dirty_beers_mix_0.75.csv
+Running Horizon with dirty file: Data/3_beers/noise_with_correct_primary_key/dirty_mixed_0.75/dirty_beers_mix_0.75.csv
+[['beer_name'], ['brewery_id', 'brewery_name'], ['city'], ['state']]
+{0: {1}, 1: {2, 3}, 2: set(), 3: set()}
+[0, 1, 2, 3]
+{'beer_name': 0, 'brewery_id': 1, 'brewery_name': 1, 'city': 2, 'state': 3}
+0 1
+1 1
+1 1
+1 1
+1 2
+1 3
+===============================================
+Results saved to results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_repaired.csv
+Horizon finished in 20.082662105560303 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_repaired.csv
+差异文件已保存到:
+results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_clean_vs_dirty.csv
+results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_dirty_vs_cleaned.csv
+results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_unrepaired.csv
+修复准确率: 0.3125, 修复召回率: 0.39325842696629215, F1值: 0.34825870641831635
+========================================
+EDR 结果已保存到: results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_edr_evaluation.txt
+错误减少率 (EDR): -0.4606741573033708
+========================================
+混合距离结果已保存到: results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.014192071901218961
+========================================
+R-EDR 结果已保存到: results/horizon/nwcpk/3_beers_nwcpk_075/3_beers_nwcpk_075_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.10416666666666667
+========================================
+测评结束，详细测评日志见：results/horizon/nwcpk/3_beers_nwcpk_075
+测试结果:
+Accuracy: 0.3125
+Recall: 0.39325842696629215
+F1 Score: 0.34825870641831635
+EDR: -0.4606741573033708
+Hybrid Distance: 0.014192071901218961
+R-EDR: -0.10416666666666667
+time(s): 20.082662105560303
+speed: 0.8333054815585188 seconds/100num
+测评结束，详细测评日志见：results/horizon/nwcpk/3_beers_nwcpk_075

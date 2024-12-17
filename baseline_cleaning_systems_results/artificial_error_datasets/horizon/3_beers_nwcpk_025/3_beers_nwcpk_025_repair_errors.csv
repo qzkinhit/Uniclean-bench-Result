@@ -1,0 +1,200 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+brewery_id,2540,62,1,62
+brewery_id,2539,62,1,62
+brewery_id,2678,1,107,1
+brewery_id,753,171,107,171
+brewery_id,1847,294,386,294
+brewery_id,2449,95,12,95
+brewery_id,1408,414,382,414
+brewery_id,1927,267,67,267
+brewery_id,2079,226,141,226
+brewery_id,2587,39,68,39
+brewery_id,539,365,141,365
+brewery_id,1351,423,3,423
+brewery_id,1834,297,166,297
+brewery_id,2383,120,141,120
+brewery_id,1571,377,456,377
+brewery_id,2069,184,82,184
+brewery_id,933,166,25,166
+brewery_id,661,166,25,166
+brewery_id,805,503,166,503
+brewery_id,804,503,166,503
+brewery_id,803,503,166,503
+brewery_id,787,503,166,503
+brewery_id,786,503,166,503
+brewery_id,785,503,166,503
+brewery_id,745,503,166,503
+brewery_id,744,503,166,503
+brewery_id,743,503,166,503
+brewery_id,742,503,166,503
+brewery_id,741,503,166,503
+brewery_id,734,503,166,503
+brewery_id,733,503,166,503
+brewery_id,1328,389,166,389
+brewery_id,1175,389,166,389
+brewery_id,1166,389,166,389
+brewery_id,1065,389,166,389
+brewery_id,1946,261,275,261
+brewery_id,1861,128,61,128
+brewery_id,710,386,10,386
+brewery_id,2580,42,41,42
+brewery_id,2373,43,141,43
+brewery_id,1995,30,141,30
+brewery_id,1768,183,107,183
+brewery_id,2353,137,107,137
+brewery_id,2305,163,371,163
+brewery_id,2405,115,60,115
+brewery_id,2352,138,58,138
+brewery_id,2421,108,103,108
+brewery_name,1847,black shirt brewing company,revolution brewing,black shirt brewing company
+brewery_name,1927,cape cod beer,3 daughters brewing,cape cod beer
+brewery_name,2079,chatham brewing,cigar city brewing company,chatham brewing
+brewery_name,2587,gonzo's biggdogg brewing,red shedman farm brewery and hop...,gonzo's biggdogg brewing
+brewery_name,539,great river brewery,cigar city brewing company,great river brewery
+brewery_name,1351,hess brewing company,mike hess brewing company,hess brewing company
+brewery_name,1834,hop farm brewing company,oskar blues brewery,hop farm brewing company
+brewery_name,2383,horny goat brew pub,cigar city brewing company,horny goat brew pub
+brewery_name,2069,oasis texas brewing company,new belgium brewing company,oasis texas brewing company
+brewery_name,933,oskar blues brewery,sun king brewing company,oskar blues brewery
+brewery_name,661,oskar blues brewery,sun king brewing company,oskar blues brewery
+brewery_name,1328,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1175,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1166,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1065,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1861,real ale brewing company,surly brewing company,real ale brewing company
+brewery_name,710,revolution brewing,brewery vivant,revolution brewing
+brewery_name,2580,rising tide brewing company,lost nation brewing,rising tide brewing company
+brewery_name,2373,rivertowne brewing company,cigar city brewing company,rivertowne brewing company
+brewery_name,1995,santan brewing company,cigar city brewing company,santan brewing company
+brewery_name,2405,smartmouth brewing company,4 hands brewing company,smartmouth brewing company
+brewery_name,2421,thomas hooker brewing company,beer works brewery,thomas hooker brewing company
+city,2678,louisville,eagle,louisville
+city,753,boonville,eagle,boonville
+city,1847,denver,paonia,denver
+city,1408,arrington,afton,arrington
+city,1927,hyannis,st petersburg,hyannis
+city,2079,chatham,tampa,chatham
+city,567,seattle,wa,seattle
+city,893,portland,potrland,portland
+city,673,seattle,wa,seattle
+city,1174,seattle,wa,seattle
+city,1116,seattle,wa,seattle
+city,994,seattle,wa,seattle
+city,901,seattle,wa,seattle
+city,875,seattle,wa,seattle
+city,858,seattle,wa,seattle
+city,857,seattle,wa,seattle
+city,2587,kalamazoo,mt. airy,kalamazoo
+city,539,davenport,tampa,davenport
+city,1857,seattle,wa,seattle
+city,1440,seattle,wa,seattle
+city,889,seattle,wa,seattle
+city,724,seattle,wa,seattle
+city,497,seattle,wa,seattle
+city,496,seattle,wa,seattle
+city,1834,pittsburgh,co,pittsburgh
+city,2383,milwaukee,tampa,milwaukee
+city,1571,menominee,menominie,menominee
+city,2069,austin,fort collins,austin
+city,2302,longmont,co,longmont
+city,1883,longmont,co,longmont
+city,1859,longmont,co,longmont
+city,1790,longmont,co,longmont
+city,1752,longmont,co,longmont
+city,1751,longmont,co,longmont
+city,1750,longmont,co,longmont
+city,1444,longmont,co,longmont
+city,1252,longmont,co,longmont
+city,1167,longmont,co,longmont
+city,993,longmont,co,longmont
+city,992,longmont,co,longmont
+city,955,longmont,co,longmont
+city,933,longmont,indianapolis,longmont
+city,892,longmont,co,longmont
+city,828,longmont,co,longmont
+city,806,longmont,co,longmont
+city,755,longmont,co,longmont
+city,754,longmont,co,longmont
+city,726,longmont,co,longmont
+city,720,longmont,co,longmont
+city,661,longmont,indianapolis,longmont
+city,585,longmont,co,longmont
+city,565,longmont,co,longmont
+city,391,longmont,co,longmont
+city,388,longmont,co,longmont
+city,8,longmont,co,longmont
+city,7,longmont,co,longmont
+city,6,longmont,co,longmont
+city,5,longmont,co,longmont
+city,4,longmont,co,longmont
+city,1,longmont,co,longmont
+city,805,lyons,co,lyons
+city,804,lyons,co,lyons
+city,803,lyons,co,lyons
+city,787,lyons,co,lyons
+city,786,lyons,co,lyons
+city,785,lyons,co,lyons
+city,745,lyons,co,lyons
+city,744,lyons,co,lyons
+city,743,lyons,co,lyons
+city,742,lyons,co,lyons
+city,741,lyons,co,lyons
+city,734,lyons,co,lyons
+city,733,lyons,co,lyons
+city,1328,brevard,co,brevard
+city,1175,brevard,co,brevard
+city,1166,brevard,co,brevard
+city,1065,brevard,co,brevard
+city,1946,waterbury,middlebury,waterbury
+city,1684,palisade,co,palisade
+city,927,empty,co,palisade
+city,399,seattle,wa,seattle
+city,82,seattle,wa,seattle
+city,1861,blanco,brooklyn center,blanco
+city,710,paonia,grand rapids,paonia
+city,2580,portland,east fairfield,portland
+city,2373,export,tampa,export
+city,1995,chandler,tampa,chandler
+city,1503,seattle,wa,seattle
+city,1466,seattle,wa,seattle
+city,1245,seattle,wa,seattle
+city,1416,seattle,wa,seattle
+city,1415,seattle,wa,seattle
+city,1768,columbus,eagle,columbus
+city,2353,ada,eagle,ada
+city,2305,phoenixville,pottstown,phoenixville
+city,2405,norfolk,saint louis,norfolk
+city,2352,st paul,st. paul,st paul
+city,2421,bloomfield,lowell,bloomfield
+city,1856,idaho sprxings,co,idaho springs
+city,736,idaho springs,co,idaho springs
+city,2235,seattle,wa,seattle
+city,1661,seattle,wa,seattle
+city,1660,seattle,wa,seattle
+city,1659,seattle,wa,seattle
+city,1438,seattle,wa,seattle
+city,1173,seattle,wa,seattle
+city,560,seattle,wa,seattle
+city,519,seattle,wa,seattle
+city,518,seattle,wa,seattle
+city,505,seattle,wa,seattle
+city,482,seattle,wa,seattle
+city,451,seattle,wa,seattle
+state,2449,ma,mi,ma
+state,1927,ma,fl,ma
+state,2079,ny,fl,ny
+state,2309,az,za,az
+state,1616,iaz,za,az
+state,178,az,za,az
+state,2587,mi,md,mi
+state,539,ia,fl,ia
+state,2383,wi,fl,wi
+state,933,co,in,co
+state,661,co,in,co
+state,1861,tx,mn,tx
+state,710,co,mi,co
+state,2580,me,vt,me
+state,2373,pa,fl,pa
+state,1995,az,fl,az
+state,2405,va,mo,va
+state,2421,ct,ma,ct

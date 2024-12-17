@@ -55,285 +55,283 @@ brewery_id,2421,108,103
 brewery_id,2560,51,166
 brewery_id,366,361,166
 brewery_id,807,424,166
-brewery_name,2540,Against The Grain Brewery,Against the Grain Brewery
-brewery_name,2539,Against The Grain Brewery,Against the Grain Brewery
-brewery_name,1221,empty,Anderson Valley Brewing Company
-brewery_name,1847,Black Shirt Brewing Company,Revolution Brewing
-brewery_name,1927,Cape Cod Beer,3 Daughters Brewing
-brewery_name,2079,Chatham Brewing,Cigar City Brewing Company
-brewery_name,2587,Gonzo's BiggDogg Brewing,Red Shedman Farm Brewery and Hop...
-brewery_name,539,Great River Brewery,Cigar City Brewing Company
-brewery_name,1351,Hess Brewing Company,Mike Hess Brewing Company
-brewery_name,1834,Hop Farm Brewing Company,Oskar Blues Brewery
-brewery_name,2396,empty,Hopworks Urban Brewery
-brewery_name,2395,empty,Hopworks Urban Brewery
-brewery_name,2383,Horny Goat Brew Pub,Cigar City Brewing Company
-brewery_name,2120,Martin House Brewing Compnay,Martin House Brewing Company
-brewery_name,2069,Oasis Texas Brewing Company,New Belgium Brewing Company
-brewery_name,933,Oskar Blues Brewery,Sun King Brewing Company
-brewery_name,661,Oskar Blues Brewery,Sun King Brewing Company
-brewery_name,1328,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1175,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1166,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1065,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1861,Real Ale Brewing Company,Surly Brewing Company
-brewery_name,710,Revolution Brewing,Brewery Vivant
-brewery_name,2580,Rising Tide Brewing Company,Lost Nation Brewing
-brewery_name,2373,Rivertowne Brewing Company,Cigar City Brewing Company
-brewery_name,1995,SanTan Brewing Company,Cigar City Brewing Company
-brewery_name,2405,Smartmouth Brewing Company,4 Hands Brewing Company
-brewery_name,2228,empty,Stevens Point Brewery
-brewery_name,2115,Sevens Point Brewery,Stevens Point Brewery
-brewery_name,2421,Thomas Hooker Brewing Company,Beer Works Brewery
-city,2681,Louiszville,Louisville
-city,2680,Luoisville,Louisville
-city,2679,Lousiville,Louisville
-city,2678,Lousville,Louisville
-city,2677,Louisvile,Louisville
-city,2676,Lousville,Louisville
-city,2675,oLuisville,Louisville
-city,2674,Louisvile,Louisville
-city,1579,empty,Fuquay-Varina
-city,1847,Denver,Paonia
-city,1408,Arrington,Afton
-city,1568,aJcksonville,Jacksonville
-city,1360,Eagle,CO
-city,2636,Gran Rapids,Grand Rapids
-city,2598,Gran Rapids,Grand Rapids
-city,2597,Garnd Rapids,Grand Rapids
-city,2548,Gramnd Rapids,Grand Rapids
-city,2542,Grand Rapizds,Grand Rapids
-city,2541,Grand Rapds,Grand Rapids
-city,2504,Grnad Rapids,Grand Rapids
-city,2500,Grnd Rapids,Grand Rapids
-city,2499,Gransd Rapids,Grand Rapids
-city,2498,Grand Rapds,Grand Rapids
-city,2023,Garnd Rapids,Grand Rapids
-city,1958,empty,Grand Rapids
-city,1651,rand Rapids,Grand Rapids
-city,921,empty,Anchorage
-city,2608,empty,Michigan City
-city,1927,Hyannis,St Petersburg
-city,2255,Pittsbroo,Pittsboro
-city,2079,Chatham,Tampa
-city,567,Seattle,WA
-city,1341,empty,Stevens Point
-city,2014,empty,Tampa
-city,1094,empty,Nantucket
-city,970,Ds Moines,Des Moines
-city,730,empty,Belmont
-city,1590,Buena Vista,CO
-city,1382,Buena Vista,CO
-city,1110,Buena Vista,CO
-city,1014,Buena Vista,CO
-city,911,Buena Vista,CO
-city,680,Buena Vistka,CO
-city,395,Buena Vista,CO
-city,673,Seattle,WA
-city,1174,Seattle,WA
-city,1116,Seattle,WA
-city,994,Seattle,WA
-city,901,Seattle,WA
-city,875,Seattle,WA
-city,858,Seattle,WA
-city,857,Seattle,WA
-city,2587,Kalamazoo,Mt. Airy
-city,143,Williams,CO
-city,539,Davenport,Tampa
-city,1857,Seattle,CO
-city,1440,Seattle,WA
-city,1016,Redlands,CO
-city,1340,empty,Boston
-city,889,Seattle,WA
-city,724,Seattle,WA
-city,497,Seattle,WA
-city,496,Seattle,WA
-city,1834,Pittsburgh,CO
-city,2399,Pomrtland,Portland
-city,1085,Portlad,Portland
-city,2383,Milwaukee,Tampa
-city,1686,empty,York
-city,1571,Menominee,Menominie
-city,1674,empty,Santee
-city,2268,Fort Woth,Fort Worth
-city,956,nUtica,Utica
-city,2667,San Diego,CO
-city,2530,Chciago,Chicago
-city,568,Woodbridge,CO
-city,914,Newburypnort,Newburyport
-city,2069,Austin,Fort Collins
-city,1081,empty,Portland
-city,2302,Longmont,CO
-city,1883,Longmont,CO
-city,1859,Longmont,CO
-city,1790,Longmont,CO
-city,1752,Longmont,CO
-city,1751,Longmont,CO
-city,1750,Longmont,CO
-city,1444,Longmont,CO
-city,1252,Longmont,CO
-city,1167,Longmont,CO
-city,993,Longmont,CO
-city,992,Longmont,CO
-city,955,Longmont,CO
-city,933,Longmont,Indianapolis
-city,892,Longmont,CO
-city,828,Longmont,CO
-city,806,Longmont,CO
-city,755,Longmont,CO
-city,754,Longmont,CO
-city,726,Longmont,CO
-city,720,Longmont,CO
-city,661,Longmont,Indianapolis
-city,585,Longmont,CO
-city,565,Longmont,CO
-city,391,Longmont,CO
-city,388,Longmont,CO
-city,8,Longmont,CO
-city,7,Longmont,CO
-city,6,Longmont,CO
-city,5,Longmont,CO
-city,4,Longmont,CO
-city,1,Longmont,CO
-city,805,Lyons,CO
-city,804,Lyons,CO
-city,803,Lyons,CO
-city,787,Lyons,CO
-city,786,Lyons,CO
-city,785,Lyons,CO
-city,745,Lyons,CO
-city,744,Lyons,CO
-city,743,Lyons,CO
-city,742,Lyons,CO
-city,741,Lyons,CO
-city,734,Lyons,CO
-city,733,Lyons,CO
-city,1328,Brevard,CO
-city,1175,Brevard,CO
-city,1166,Brevard,CO
-city,1065,Brevard,CO
-city,1946,Waterbury,Middlebury
-city,1636,Monument,CO
-city,399,Seattle,WA
-city,82,Seattle,WA
-city,2229,uFort Worth,Fort Worth
-city,1861,Blanco,Brooklyn Center
-city,2414,Denver,CO
-city,1581,Denver,CO
-city,1176,Denver,CO
-city,1006,empty,CO
-city,1005,Denver,CO
-city,636,Denver,CO
-city,710,Paonia,Grand Rapids
-city,2580,Portland,East Fairfield
-city,2373,Export,Tampa
-city,2599,Chandlexr,Chandler
-city,1995,Chandler,Tampa
-city,1503,Seattle,WA
-city,1466,Seattle,WA
-city,1245,Seattle,WA
-city,1416,Seattle,WA
-city,1415,Seattle,WA
-city,917,empty,Silverton
-city,1338,Chico,CO
-city,2305,Phoenixville,Pottstown
-city,2405,Norfolk,Saint Louis
-city,1181,Buoise,Boise
-city,1820,Chicago,CO
-city,2352,St Paul,St. Paul
-city,1656,Indianapois,Indianapolis
-city,18,empty,Brooklyn Center
-city,2638,Grand Rapids,CO
-city,1277,Traverses City,Traverse City
-city,2421,Bloomfield,Lowell
-city,2235,Seattle,WA
-city,1661,Seattle,WA
-city,1660,Seattle,WA
-city,1659,Seattle,WA
-city,1438,Seattle,WA
-city,1173,Seattle,WA
-city,560,Seattle,WA
-city,519,Seattle,WA
-city,518,Seattle,WA
-city,505,empty,WA
-city,482,Seattle,WA
-city,451,Seattle,WA
-city,1703,empty,St. John's
-city,2560,Boulder,CO
-city,366,Lake Barrington,CO
-city,807,Denver,CO
-state,2677,YK,KY
-state,1920,K,AK
-state,2577,A,CA
-state,77,A,CA
-state,1639,WA,WcA
-state,1638,WA,WcA
-state,2495,empty,MI
-state,2589,CO,O
-state,2546,CO,O
-state,108,CO,O
-state,107,CO,O
-state,106,CO,O
-state,1875,LA,AL
-state,1966,NM,MN
-state,2449,MA,MI
-state,937,E,NE
-state,1974,IM,MI
-state,384,empty,MI
-state,920,AeK,AK
-state,919,AmK,AK
-state,648,KA,AK
-state,38,RO,OR
-state,1927,MA,FL
-state,2079,NY,FL
-state,184,CD,DC
-state,2166,X,TX
-state,1159,KA,AK
-state,947,K,AK
-state,929,uAK,AK
-state,1887,empty,IL
-state,935,empty,IL
-state,2587,MI,MD
-state,312,AcL,AL
-state,311,L,AL
-state,539,IA,FL
-state,1351,A,CA
-state,2383,WI,FL
-state,1187,K,AK
-state,349,tAK,AK
-state,348,KA,AK
-state,1484,ePA,PA
-state,2197,empty,TX
-state,587,AjK,AK
-state,586,K,AK
-state,434,KA,AK
-state,2275,I,WI
-state,326,empty,AZ
-state,2345,I,RI
-state,42,TC,CT
-state,933,CO,IN
-state,661,CO,IN
-state,1532,empty,NC
-state,1759,C,NC
-state,1861,TX,MN
-state,2516,empty,MD
-state,710,CO,MI
-state,2580,ME,VT
-state,2373,PA,FL
-state,1995,AZ,FL
-state,1362,empty,CA
-state,212,CO,O
-state,161,CO,O
-state,2405,VA,MO
-state,856,empty,TX
-state,2271,empty,IL
-state,2122,empty,WI
-state,139,empty,WI
-state,925,LA,AL
-state,637,AoL,AL
-state,94,xMD,MD
-state,2421,CT,MA
-state,1912,VA,eVA
-state,2212,empty,TX
-state,1704,empty,MI
-state,2146,I,WI
+brewery_name,1221,empty,anderson valley brewing company
+brewery_name,1847,black shirt brewing company,revolution brewing
+brewery_name,1927,cape cod beer,3 daughters brewing
+brewery_name,2079,chatham brewing,cigar city brewing company
+brewery_name,2587,gonzo's biggdogg brewing,red shedman farm brewery and hop...
+brewery_name,539,great river brewery,cigar city brewing company
+brewery_name,1351,hess brewing company,mike hess brewing company
+brewery_name,1834,hop farm brewing company,oskar blues brewery
+brewery_name,2396,empty,hopworks urban brewery
+brewery_name,2395,empty,hopworks urban brewery
+brewery_name,2383,horny goat brew pub,cigar city brewing company
+brewery_name,2120,martin house brewing compnay,martin house brewing company
+brewery_name,2069,oasis texas brewing company,new belgium brewing company
+brewery_name,933,oskar blues brewery,sun king brewing company
+brewery_name,661,oskar blues brewery,sun king brewing company
+brewery_name,1328,oskar blues brewery (north carol...,oskar blues brewery
+brewery_name,1175,oskar blues brewery (north carol...,oskar blues brewery
+brewery_name,1166,oskar blues brewery (north carol...,oskar blues brewery
+brewery_name,1065,oskar blues brewery (north carol...,oskar blues brewery
+brewery_name,1861,real ale brewing company,surly brewing company
+brewery_name,710,revolution brewing,brewery vivant
+brewery_name,2580,rising tide brewing company,lost nation brewing
+brewery_name,2373,rivertowne brewing company,cigar city brewing company
+brewery_name,1995,santan brewing company,cigar city brewing company
+brewery_name,2405,smartmouth brewing company,4 hands brewing company
+brewery_name,2228,empty,stevens point brewery
+brewery_name,2115,sevens point brewery,stevens point brewery
+brewery_name,2421,thomas hooker brewing company,beer works brewery
+city,2681,louiszville,louisville
+city,2680,luoisville,louisville
+city,2679,lousiville,louisville
+city,2678,lousville,louisville
+city,2677,louisvile,louisville
+city,2676,lousville,louisville
+city,2675,oluisville,louisville
+city,2674,louisvile,louisville
+city,1579,empty,fuquay-varina
+city,1847,denver,paonia
+city,1408,arrington,afton
+city,1568,ajcksonville,jacksonville
+city,1360,eagle,co
+city,2636,gran rapids,grand rapids
+city,2598,gran rapids,grand rapids
+city,2597,garnd rapids,grand rapids
+city,2548,gramnd rapids,grand rapids
+city,2542,grand rapizds,grand rapids
+city,2541,grand rapds,grand rapids
+city,2504,grnad rapids,grand rapids
+city,2500,grnd rapids,grand rapids
+city,2499,gransd rapids,grand rapids
+city,2498,grand rapds,grand rapids
+city,2023,garnd rapids,grand rapids
+city,1958,empty,grand rapids
+city,1651,rand rapids,grand rapids
+city,921,empty,anchorage
+city,2608,empty,michigan city
+city,1927,hyannis,st petersburg
+city,2255,pittsbroo,pittsboro
+city,2079,chatham,tampa
+city,567,seattle,wa
+city,1341,empty,stevens point
+city,2014,empty,tampa
+city,1094,empty,nantucket
+city,970,ds moines,des moines
+city,730,empty,belmont
+city,1590,buena vista,co
+city,1382,buena vista,co
+city,1110,buena vista,co
+city,1014,buena vista,co
+city,911,buena vista,co
+city,680,buena vistka,co
+city,395,buena vista,co
+city,673,seattle,wa
+city,1174,seattle,wa
+city,1116,seattle,wa
+city,994,seattle,wa
+city,901,seattle,wa
+city,875,seattle,wa
+city,858,seattle,wa
+city,857,seattle,wa
+city,2587,kalamazoo,mt. airy
+city,143,williams,co
+city,539,davenport,tampa
+city,1857,seattle,co
+city,1440,seattle,wa
+city,1016,redlands,co
+city,1340,empty,boston
+city,889,seattle,wa
+city,724,seattle,wa
+city,497,seattle,wa
+city,496,seattle,wa
+city,1834,pittsburgh,co
+city,2399,pomrtland,portland
+city,1085,portlad,portland
+city,2383,milwaukee,tampa
+city,1686,empty,york
+city,1571,menominee,menominie
+city,1674,empty,santee
+city,2268,fort woth,fort worth
+city,956,nutica,utica
+city,2667,san diego,co
+city,2530,chciago,chicago
+city,568,woodbridge,co
+city,914,newburypnort,newburyport
+city,2069,austin,fort collins
+city,1081,empty,portland
+city,2302,longmont,co
+city,1883,longmont,co
+city,1859,longmont,co
+city,1790,longmont,co
+city,1752,longmont,co
+city,1751,longmont,co
+city,1750,longmont,co
+city,1444,longmont,co
+city,1252,longmont,co
+city,1167,longmont,co
+city,993,longmont,co
+city,992,longmont,co
+city,955,longmont,co
+city,933,longmont,indianapolis
+city,892,longmont,co
+city,828,longmont,co
+city,806,longmont,co
+city,755,longmont,co
+city,754,longmont,co
+city,726,longmont,co
+city,720,longmont,co
+city,661,longmont,indianapolis
+city,585,longmont,co
+city,565,longmont,co
+city,391,longmont,co
+city,388,longmont,co
+city,8,longmont,co
+city,7,longmont,co
+city,6,longmont,co
+city,5,longmont,co
+city,4,longmont,co
+city,1,longmont,co
+city,805,lyons,co
+city,804,lyons,co
+city,803,lyons,co
+city,787,lyons,co
+city,786,lyons,co
+city,785,lyons,co
+city,745,lyons,co
+city,744,lyons,co
+city,743,lyons,co
+city,742,lyons,co
+city,741,lyons,co
+city,734,lyons,co
+city,733,lyons,co
+city,1328,brevard,co
+city,1175,brevard,co
+city,1166,brevard,co
+city,1065,brevard,co
+city,1946,waterbury,middlebury
+city,1636,monument,co
+city,399,seattle,wa
+city,82,seattle,wa
+city,2229,ufort worth,fort worth
+city,1861,blanco,brooklyn center
+city,2414,denver,co
+city,1581,denver,co
+city,1176,denver,co
+city,1006,empty,co
+city,1005,denver,co
+city,636,denver,co
+city,710,paonia,grand rapids
+city,2580,portland,east fairfield
+city,2373,export,tampa
+city,2599,chandlexr,chandler
+city,1995,chandler,tampa
+city,1503,seattle,wa
+city,1466,seattle,wa
+city,1245,seattle,wa
+city,1416,seattle,wa
+city,1415,seattle,wa
+city,917,empty,silverton
+city,1338,chico,co
+city,2305,phoenixville,pottstown
+city,2405,norfolk,saint louis
+city,1181,buoise,boise
+city,1820,chicago,co
+city,2352,st paul,st. paul
+city,1656,indianapois,indianapolis
+city,18,empty,brooklyn center
+city,2638,grand rapids,co
+city,1277,traverses city,traverse city
+city,2421,bloomfield,lowell
+city,2235,seattle,wa
+city,1661,seattle,wa
+city,1660,seattle,wa
+city,1659,seattle,wa
+city,1438,seattle,wa
+city,1173,seattle,wa
+city,560,seattle,wa
+city,519,seattle,wa
+city,518,seattle,wa
+city,505,empty,wa
+city,482,seattle,wa
+city,451,seattle,wa
+city,1703,empty,st. john's
+city,2560,boulder,co
+city,366,lake barrington,co
+city,807,denver,co
+state,2677,yk,ky
+state,1920,k,ak
+state,2577,a,ca
+state,77,a,ca
+state,1639,wa,wca
+state,1638,wa,wca
+state,2495,empty,mi
+state,2589,co,o
+state,2546,co,o
+state,108,co,o
+state,107,co,o
+state,106,co,o
+state,1875,la,al
+state,1966,nm,mn
+state,2449,ma,mi
+state,937,e,ne
+state,1974,im,mi
+state,384,empty,mi
+state,920,aek,ak
+state,919,amk,ak
+state,648,ka,ak
+state,38,ro,or
+state,1927,ma,fl
+state,2079,ny,fl
+state,184,cd,dc
+state,2166,x,tx
+state,1159,ka,ak
+state,947,k,ak
+state,929,uak,ak
+state,1887,empty,il
+state,935,empty,il
+state,2587,mi,md
+state,312,acl,al
+state,311,l,al
+state,539,ia,fl
+state,1351,a,ca
+state,2383,wi,fl
+state,1187,k,ak
+state,349,tak,ak
+state,348,ka,ak
+state,1484,epa,pa
+state,2197,empty,tx
+state,587,ajk,ak
+state,586,k,ak
+state,434,ka,ak
+state,2275,i,wi
+state,326,empty,az
+state,2345,i,ri
+state,42,tc,ct
+state,933,co,in
+state,661,co,in
+state,1532,empty,nc
+state,1759,c,nc
+state,1861,tx,mn
+state,2516,empty,md
+state,710,co,mi
+state,2580,me,vt
+state,2373,pa,fl
+state,1995,az,fl
+state,1362,empty,ca
+state,212,co,o
+state,161,co,o
+state,2405,va,mo
+state,856,empty,tx
+state,2271,empty,il
+state,2122,empty,wi
+state,139,empty,wi
+state,925,la,al
+state,637,aol,al
+state,94,xmd,md
+state,2421,ct,ma
+state,1912,va,eva
+state,2212,empty,tx
+state,1704,empty,mi
+state,2146,i,wi

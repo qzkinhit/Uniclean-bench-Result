@@ -1,0 +1,339 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+brewery_id,2540,62,1,62
+brewery_id,2539,62,1,62
+brewery_id,1294,434,141,434
+brewery_id,1579,360,141,360
+brewery_id,2423,103,141,103
+brewery_id,1002,477,141,477
+brewery_id,1847,294,386,294
+brewery_id,2449,95,12,95
+brewery_id,1408,414,382,414
+brewery_id,1890,281,141,281
+brewery_id,2240,10,386,10
+brewery_id,1178,10,141,10
+brewery_id,538,530,141,530
+brewery_id,2252,182,141,182
+brewery_id,1927,267,67,267
+brewery_id,1649,350,141,350
+brewery_id,2079,226,141,226
+brewery_id,2587,39,68,39
+brewery_id,539,365,141,365
+brewery_id,989,479,141,479
+brewery_id,988,479,141,479
+brewery_id,1351,423,3,423
+brewery_id,1834,297,166,297
+brewery_id,2383,120,141,120
+brewery_id,2408,114,141,114
+brewery_id,1571,377,456,377
+brewery_id,962,485,141,485
+brewery_id,1047,448,141,448
+brewery_id,2361,134,141,134
+brewery_id,1952,260,141,260
+brewery_id,2069,184,82,184
+brewery_id,602,471,141,471
+brewery_id,933,166,25,166
+brewery_id,661,166,25,166
+brewery_id,805,503,166,503
+brewery_id,804,503,166,503
+brewery_id,803,503,141,503
+brewery_id,787,503,166,503
+brewery_id,786,503,166,503
+brewery_id,785,503,166,503
+brewery_id,745,503,166,503
+brewery_id,744,503,166,503
+brewery_id,743,503,166,503
+brewery_id,742,503,166,503
+brewery_id,741,503,166,503
+brewery_id,734,503,166,503
+brewery_id,733,503,166,503
+brewery_id,1328,389,166,389
+brewery_id,1175,389,166,389
+brewery_id,1166,389,166,389
+brewery_id,1065,389,166,389
+brewery_id,2559,52,141,52
+brewery_id,1760,324,141,324
+brewery_id,1861,128,61,128
+brewery_id,2580,42,41,42
+brewery_id,2373,43,141,43
+brewery_id,1995,30,141,30
+brewery_id,839,30,141,30
+brewery_id,2305,163,371,163
+brewery_id,2405,115,60,115
+brewery_id,2369,129,141,129
+brewery_id,2352,138,58,138
+brewery_id,2409,61,141,61
+brewery_id,102,45,141,45
+brewery_id,2421,108,103,108
+brewery_id,949,17,141,17
+brewery_id,1042,74,141,74
+brewery_id,346,522,141,522
+brewery_id,345,51,141,51
+brewery_id,2348,132,141,132
+brewery_name,1847,black shirt brewing company,revolution brewing,black shirt brewing company
+brewery_name,2240,brewery vivant,revolution brewing,brewery vivant
+brewery_name,1927,cape cod beer,3 daughters brewing,cape cod beer
+brewery_name,2079,chatham brewing,cigar city brewing company,chatham brewing
+brewery_name,2587,gonzo's biggdogg brewing,red shedman farm brewery and hop...,gonzo's biggdogg brewing
+brewery_name,539,great river brewery,cigar city brewing company,great river brewery
+brewery_name,1351,hess brewing company,mike hess brewing company,hess brewing company
+brewery_name,1834,hop farm brewing company,oskar blues brewery,hop farm brewing company
+brewery_name,2383,horny goat brew pub,cigar city brewing company,horny goat brew pub
+brewery_name,2069,oasis texas brewing company,new belgium brewing company,oasis texas brewing company
+brewery_name,933,oskar blues brewery,sun king brewing company,oskar blues brewery
+brewery_name,661,oskar blues brewery,sun king brewing company,oskar blues brewery
+brewery_name,1328,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1175,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1166,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1065,oskar blues brewery (north carol...,oskar blues brewery,oskar blues brewery (north carol...
+brewery_name,1861,real ale brewing company,surly brewing company,real ale brewing company
+brewery_name,2580,rising tide brewing company,lost nation brewing,rising tide brewing company
+brewery_name,2373,rivertowne brewing company,cigar city brewing company,rivertowne brewing company
+brewery_name,1995,santan brewing company,cigar city brewing company,santan brewing company
+brewery_name,2405,smartmouth brewing company,4 hands brewing company,smartmouth brewing company
+brewery_name,2421,thomas hooker brewing company,beer works brewery,thomas hooker brewing company
+city,1474,washougal,wa,washougal
+city,1473,wasfhougal,wa,washougal
+city,837,washougal,wa,washougal
+city,409,hayward,haywbard,hayward
+city,1294,cincinnati,tampa,cincinnati
+city,1579,fuquay-varina,tampa,fuquay-varina
+city,2423,lowell,tampa,lowell
+city,1002,sheffield,tampa,sheffield
+city,1847,denver,paonia,denver
+city,1408,arrington,afton,arrington
+city,1890,ridgefield park,tampa,ridgefield park
+city,2240,grandr apids,paonia,grand rapids
+city,1178,grand rapids,tampa,grand rapids
+city,538,reno,tampa,reno
+city,2252,oklahoma city,tampa,oklahoma city
+city,1927,hyannis,st petersburg,hyannis
+city,1649,san luis obispo,tampa,san luis obispo
+city,2079,chatham,tampa,chatham
+city,567,seattle,wa,seattle
+city,673,seattle,wa,seattle
+city,2477,denver,co,denver
+city,2008,denver,co,denver
+city,2004,denver,co,denver
+city,2003,empty,co,denver
+city,1174,seattle,wa,seattle
+city,1116,seattle,wa,seattle
+city,994,seattle,wa,seattle
+city,901,seattle,wa,seattle
+city,875,seattle,wa,seattle
+city,858,seattle,wa,seattle
+city,857,seattle,wa,seattle
+city,2587,kalamazoo,mt. airy,kalamazoo
+city,539,davenport,tampa,davenport
+city,1857,seattle,wa,seattle
+city,1440,seattle,wa,seattle
+city,989,halethorpe,tampa,halethorpe
+city,988,halethorpe,tampa,halethorpe
+city,2295,winsor,co,windsor
+city,2294,windsor,co,windsor
+city,889,seattle,wa,seattle
+city,724,seattle,wa,seattle
+city,497,seattle,wa,seattle
+city,496,seattle,wa,seattle
+city,1834,pittsburgh,co,pittsburgh
+city,2383,milwaukee,tampa,milwaukee
+city,2408,laurel,tampa,laurel
+city,1571,menominee,menominie,menominee
+city,962,portland,tampa,portland
+city,1047,half moon bay,tampa,half moon bay
+city,2361,monroe,tampa,monroe
+city,1952,mount pleasant,tampa,mount pleasant
+city,2069,austin,fort collins,austin
+city,602,spirit lake,tampa,spirit lake
+city,2302,longmont,co,longmont
+city,1883,longmont,co,longmont
+city,1859,longmont,co,longmont
+city,1790,longmont,co,longmont
+city,1752,longmont,co,longmont
+city,1751,longmont,co,longmont
+city,1750,longmont,co,longmont
+city,1444,longmont,co,longmont
+city,1252,longmont,co,longmont
+city,1167,longmont,co,longmont
+city,993,longmont,co,longmont
+city,992,longmont,co,longmont
+city,955,longmont,co,longmont
+city,933,longmont,indianapolis,longmont
+city,892,longmont,co,longmont
+city,828,longmont,co,longmont
+city,806,longmont,co,longmont
+city,755,longmont,co,longmont
+city,754,longmont,co,longmont
+city,726,longmont,co,longmont
+city,720,longmont,co,longmont
+city,661,longmont,indianapolis,longmont
+city,585,longmont,co,longmont
+city,565,longmont,co,longmont
+city,391,longmont,co,longmont
+city,388,longmont,co,longmont
+city,8,longmont,co,longmont
+city,7,longmont,co,longmont
+city,6,longmont,co,longmont
+city,5,longmont,co,longmont
+city,4,longmont,co,longmont
+city,1,longmont,co,longmont
+city,805,lyons,co,lyons
+city,804,lyons,co,lyons
+city,803,lyons,tampa,lyons
+city,787,lyons,co,lyons
+city,786,lyons,co,lyons
+city,785,lyons,co,lyons
+city,745,lyons,co,lyons
+city,744,lyons,co,lyons
+city,743,lyons,co,lyons
+city,742,lyons,co,lyons
+city,741,lyons,co,lyons
+city,734,lyons,co,lyons
+city,733,lyons,co,lyons
+city,1328,brevard,co,brevard
+city,1175,brevard,co,brevard
+city,1166,brevard,co,brevard
+city,1065,brevard,co,brevard
+city,2559,chicago,tampa,chicago
+city,1760,black mountain,tampa,black mountain
+city,399,seabttle,wa,seattle
+city,82,seattle,wa,seattle
+city,1861,blanco,brooklyn center,blanco
+city,2580,portland,east fairfield,portland
+city,2373,export,tampa,export
+city,1995,chanler,tampa,chandler
+city,839,chandler,tampa,chandler
+city,1503,seattle,wa,seattle
+city,1466,seattle,wa,seattle
+city,1245,seattle,wa,seattle
+city,1416,seattle,wa,seattle
+city,1415,seattle,wa,seattle
+city,1942,dfurango,co,durango
+city,1708,durango,co,durango
+city,1521,durango,co,durango
+city,1297,durango,co,durango
+city,1192,durango,co,durango
+city,1013,durango,co,durango
+city,774,durango,co,durango
+city,386,durango,co,durango
+city,70,durango,co,durango
+city,69,durango,co,durango
+city,68,durango,co,durango
+city,67,durango,co,durango
+city,2305,phoenixville,pottstown,phoenixville
+city,2405,norfolk,saint louis,norfolk
+city,2386,druango,co,durango
+city,92,durango,co,durango
+city,91,durango,co,durango
+city,90,durango,co,durango
+city,2369,st mary's,tampa,st mary's
+city,2352,st paul,st. paul,st paul
+city,2409,brooklyn center,tampa,brooklyn center
+city,102,manhattan,tampa,manhattan
+city,2421,bloomfield,lowell,bloomfield
+city,949,evansville,tampa,evansville
+city,2235,seattle,wa,seattle
+city,1661,seattle,wa,seattle
+city,1660,seattle,wa,seattle
+city,1659,seattle,wa,seattle
+city,1438,seattle,wa,seattle
+city,1173,seattle,wa,seattle
+city,560,seattle,wa,seattle
+city,519,seattle,wa,seattle
+city,518,seattle,wa,seattle
+city,505,seattle,wa,seattle
+city,482,seattle,wa,seattle
+city,451,seattle,wa,seattle
+city,1042,warrenville,tampa,warrenville
+city,346,santa cruz,tampa,santa cruz
+city,345,boulder,tampa,boulder
+city,2348,weston,tampa,weston
+state,1294,oh,fl,oh
+state,2546,co,oc,co
+state,146,co,oc,co
+state,108,co,oc,co
+state,107,co,oc,co
+state,106,co,oc,co
+state,1579,nc,fl,nc
+state,2423,ma,fl,ma
+state,1002,ma,fl,ma
+state,2412,ca,a,ca
+state,2449,ma,mi,ma
+state,1890,nj,fl,nj
+state,1522,co,oc,co
+state,193,co,oc,co
+state,83,empty,oc,co
+state,1178,mi,fl,mi
+state,538,nv,fl,nv
+state,2252,ok,fl,ok
+state,1927,ma,fl,ma
+state,1649,ca,fl,ca
+state,2079,ny,fl,ny
+state,1454,co,o,co
+state,1453,co,o,co
+state,1452,co,o,co
+state,1451,co,o,co
+state,2587,mi,md,mi
+state,477,az,za,az
+state,476,afz,za,az
+state,539,ia,fl,ia
+state,181,mt,tm,mt
+state,989,md,fl,md
+state,988,md,fl,md
+state,2383,wi,fl,wi
+state,2408,md,fl,md
+state,962,or,fl,or
+state,1008,ga,a,ga
+state,1047,ca,fl,ca
+state,2361,wi,fl,wi
+state,1952,mi,fl,mi
+state,768,az,za,az
+state,625,saz,za,az
+state,602,ia,fl,ia
+state,933,co,in,co
+state,661,co,in,co
+state,803,co,fl,co
+state,2559,il,fl,il
+state,1760,nc,fl,nc
+state,1861,tx,mn,tx
+state,2580,me,vt,me
+state,2373,pa,fl,pa
+state,2599,az,za,az
+state,2073,az,za,az
+state,1995,z,fl,az
+state,1934,axz,za,az
+state,1329,z,za,az
+state,1299,aqz,za,az
+state,1073,ajz,za,az
+state,852,z,za,az
+state,850,z,za,az
+state,839,zaz,fl,az
+state,777,aqz,za,az
+state,317,z,za,az
+state,285,empty,za,az
+state,124,avz,za,az
+state,2405,a,mo,va
+state,2369,pa,fl,pa
+state,2409,mn,fl,mn
+state,102,ks,fl,ks
+state,2421,ct,ma,ct
+state,949,in,fl,in
+state,1042,il,fl,il
+state,346,ca,fl,ca
+state,2565,co,oc,co
+state,2564,co,oc,co
+state,2563,co,oc,co
+state,2562,co,oc,co
+state,2560,co,oc,co
+state,1932,cio,oc,co
+state,1853,co,oc,co
+state,1315,co,oc,co
+state,907,co,oc,co
+state,906,co,oc,co
+state,683,co,oc,co
+state,614,co,oc,co
+state,466,co,oc,co
+state,444,co,oc,co
+state,345,co,fl,co
+state,80,co,oc,co
+state,79,co,oc,co
+state,2348,mo,fl,mo
