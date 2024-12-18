@@ -1,0 +1,364 @@
+Attribute,Index,Clean Value,Dirty Value
+beer_name,92,Kentucky K?lsch,Kentucky Kölsch
+beer_name,104,"the Kimmie, the Yink and the Holy Gose",the Kimmie the Yink and the Holy Gose
+beer_name,142,Aslan K?lsch,Aslan Kölsch
+beer_name,315,K?lsch 151,Kölsch 151
+beer_name,378,Post Time K?lsch,Post Time Kölsch
+beer_name,383,"You're My Boy, Blue",You're My Boy Blue
+beer_name,496,32°/50° K?lsch,32°/50° Kölsch
+beer_name,649,Heiner Brau K?lsch,Heiner Brau Kölsch
+beer_name,667,Mj?llnir,Mjöllnir
+beer_name,780,Laimas K?lsch Style Ale,Laimas Kölsch Style Ale
+beer_name,853,Sunbru K?lsch,Sunbru Kölsch
+beer_name,859,Sunbru K?lsch,Sunbru Kölsch
+beer_name,900,Cabrillo K?lsch,Cabrillo Kölsch
+beer_name,994,Screamin??Pumpkin,Screamin�?Pumpkin
+beer_name,1052,The 12th Can??American Pale Ale (APA),The 12th Can�?American Pale Ale (APA)
+beer_name,1191,Lancaster German Style K?lsch,Lancaster German Style Kölsch
+beer_name,1521,Occidental K?lsch,Occidental Kölsch
+beer_name,1555,The CROWLER??,The CROWLER�?
+beer_name,1619,Side Kick K?lsch,Side Kick Kölsch
+beer_name,1660,GreyBeard??IPA,GreyBeard�?IPA
+beer_name,1992,Colorado K?lsch,Colorado Kölsch
+beer_name,2117,K?ld Lager (2010),Köld Lager (2010)
+beer_name,2124,Loafin Br?u,Loafin Bräu
+style,56,K?lsch,Kölsch
+style,92,K?lsch,Kölsch
+style,139,K?lsch,Kölsch
+style,142,K?lsch,Kölsch
+style,169,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,185,K?lsch,Kölsch
+style,315,K?lsch,Kölsch
+style,339,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,362,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,378,K?lsch,Kölsch
+style,496,K?lsch,Kölsch
+style,548,K?lsch,Kölsch
+style,584,K?lsch,Kölsch
+style,586,K?lsch,Kölsch
+style,591,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,603,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,636,K?lsch,Kölsch
+style,649,K?lsch,Kölsch
+style,674,K?lsch,Kölsch
+style,680,K?lsch,Kölsch
+style,780,K?lsch,Kölsch
+style,794,K?lsch,Kölsch
+style,840,K?lsch,Kölsch
+style,853,K?lsch,Kölsch
+style,859,K?lsch,Kölsch
+style,882,K?lsch,Kölsch
+style,900,K?lsch,Kölsch
+style,936,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,975,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,983,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,985,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1022,K?lsch,Kölsch
+style,1025,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1027,K?lsch,Kölsch
+style,1029,K?lsch,Kölsch
+style,1042,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1099,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1148,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1149,K?lsch,Kölsch
+style,1191,K?lsch,Kölsch
+style,1202,K?lsch,Kölsch
+style,1248,K?lsch,Kölsch
+style,1261,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1341,K?lsch,Kölsch
+style,1401,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1430,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1521,K?lsch,Kölsch
+style,1611,K?lsch,Kölsch
+style,1619,K?lsch,Kölsch
+style,1725,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1733,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1745,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1777,K?lsch,Kölsch
+style,1786,K?lsch,Kölsch
+style,1790,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1814,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1906,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1922,K?lsch,Kölsch
+style,1926,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1942,K?lsch,Kölsch
+style,1989,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1992,K?lsch,Kölsch
+style,2005,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2010,K?lsch,Kölsch
+style,2011,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2022,K?lsch,Kölsch
+style,2059,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2066,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2158,K?lsch,Kölsch
+style,2241,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2343,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2398,K?lsch,Kölsch
+brewery_id,41,267,67
+brewery_name,66,Abita Brewing Company,Abitda Brewing Company
+brewery_name,76,Against the Grain Brewery,Against the Grain Brewevry
+brewery_name,123,Angry Orchard Cider Company,empty
+brewery_name,169,Aviator Brewing Company,empty
+brewery_name,215,Beer Works Brewery,empty
+brewery_name,245,Big Elm Brewing,empty
+brewery_name,270,Big Wood Brewery,Big Wood Breery
+brewery_name,301,Blue Blood Brewing Company,Bue Blood Brewing Company
+brewery_name,333,Bolero Snort Brewery,empty
+brewery_name,393,Brewery Vivant,rewery Vivant
+brewery_name,394,Brewery Vivant,Breiwery Vivant
+brewery_name,395,Brewery Vivant,Brewer Vivant
+brewery_name,396,Brewery Vivant,Brewery Vivsant
+brewery_name,397,Brewery Vivant,Brewoery Vivant
+brewery_name,398,Brewery Vivant,rewery Vivant
+brewery_name,399,Brewery Vivant,Bewery Vivant
+brewery_name,400,Brewery Vivant,Brewery Vivqant
+brewery_name,401,Brewery Vivant,Breweyr Vivant
+brewery_name,402,Brewery Vivant,Berwery Vivant
+brewery_name,403,Brewery Vivant,Brewoery Vivant
+brewery_name,432,Brewery Vivant,Brewery Viavant
+brewery_name,433,Brewery Vivant,Brewery pVivant
+brewery_name,434,Brewery Vivant,Brewery iVvant
+brewery_name,435,Brewery Vivant,empty
+brewery_name,436,Brewery Vivant,Brewery Vivatn
+brewery_name,437,Brewery Vivant,lBrewery Vivant
+brewery_name,438,Brewery Vivant,Brewery Vivatn
+brewery_name,439,Brewery Vivant,Breery Vivant
+brewery_name,440,Brewery Vivant,Brewery iVvant
+brewery_name,441,Brewery Vivant,Brewery Vivnt
+brewery_name,442,Brewery Vivant,Breweryy Vivant
+brewery_name,443,Brewery Vivant,Brewery Vivat
+brewery_name,444,Brewery Vivant,Brewey Vivant
+brewery_name,445,Brewery Vivant,rewery Vivant
+brewery_name,446,Brewery Vivant,Brewer Vivant
+brewery_name,447,Brewery Vivant,Brwewery Vivant
+brewery_name,448,Brewery Vivant,Bzrewery Vivant
+brewery_name,449,Brewery Vivant,Brewery Viant
+brewery_name,450,Brewery Vivant,Berwery Vivant
+brewery_name,464,Buckbean Brewing Company,empty
+brewery_name,499,COOP Ale Works,empty
+brewery_name,578,Central Coast Brewing Company,empty
+brewery_name,607,Cigar City Brewing Company,empty
+brewery_name,720,Destihl Brewery,Destihl Brwery
+brewery_name,764,Evil Czech Brewery,Evil Czech Brweery
+brewery_name,880,Fremont Brewing Company,Frsemont Brewing Company
+brewery_name,950,Great Divide Brewing Company,Greaat Divide Brewing Company
+brewery_name,979,Great River Brewery,Gerat River Brewery
+brewery_name,1035,Hawai'i Nui Brewing Co.,Hawai''i Ni Brewing Co.
+brewery_name,1042,Heavy Seas Beer,empty
+brewery_name,1043,Heavy Seas Beer,empty
+brewery_name,1132,Jailbreak Brewing Company,empty
+brewery_name,1138,James Page Brewing Company,James Pag Brewing Company
+brewery_name,1222,Long Trail Brewing Company,Long Trail Berwing Company
+brewery_name,1226,Lost Nation Brewing,Lost Nation Berwing
+brewery_name,1240,MacTarnahans Brewing Company,empty
+brewery_name,1305,Maui Brewing Company,MauiBrewing Company
+brewery_name,1316,Mavericks Beer Company,empty
+brewery_name,1362,Minhas Craft Brewery,empty
+brewery_name,1410,Mountain Town Brewing Company,empty
+brewery_name,1532,Okoboji Brewing Company,empty
+brewery_name,1587,Oskar Blues Brewery,empty
+brewery_name,1605,Otter Creek Brewing,Otter Creke Brewing
+brewery_name,1628,Perrin Brewing Company,Perirn Brewing Company
+brewery_name,1659,Pipeworks Brewing Company,empty
+brewery_name,1660,Pisgah Brewing Company,empty
+brewery_name,1731,Rhinegeist Brewery,hRinegeist Brewery
+brewery_name,1787,SanTan Brewing Company,SanTan Brewing Comany
+brewery_name,1799,SanTan Brewing Company,empty
+brewery_name,1913,Smartmouth Brewing Company,Smartmouth Bmrewing Company
+brewery_name,2025,Straub Brewery,empty
+brewery_name,2037,Sun King Brewing Company,Sun King BrewingC ompany
+brewery_name,2074,Surly Brewing Company,empty
+brewery_name,2103,TailGate Beer,TailGajte Beer
+brewery_name,2120,Tallgrass Brewing Company,empty
+brewery_name,2131,Telluride Brewing Company,Telluride Brexwing Company
+brewery_name,2163,The Lion Brewery,The Lion Brewrey
+brewery_name,2169,The Traveler Beer Company,Teh Traveler Beer Company
+brewery_name,2195,Tin Man Brewing Company,empty
+brewery_name,2214,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2215,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2216,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2217,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2218,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2241,Two Brothers Brewing Company,empty
+brewery_name,2270,Uncommon Brewers,empty
+brewery_name,2294,Upslope Brewing Company,empty
+brewery_name,2333,Warped Wing Brewing Company,Warped Wing bBrewing Company
+brewery_name,2342,Westbrook Brewing Company,Westbrook Brewing Compny
+brewery_name,2347,Weston Brewing Company,empty
+brewery_name,2394,"Woodstock Inn, Station & Brewery",Woodstock Inn Station & Brewery
+brewery_name,2395,"Woodstock Inn, Station & Brewery",Woodstock Inn Station & Brewery
+city,9,Gary,empty
+city,95,Washougal,Wasfhougal
+city,121,Hayward,Haywbard
+city,176,Bloomfield,Bwloomfield
+city,227,Duluth,empty
+city,295,Lincoln,empty
+city,301,Lincoln,Linconl
+city,354,Eagle,Eale
+city,373,Bozeman,Bozemn
+city,392,Grand Rapids,GrandR apids
+city,393,Grand Rapids,Grand aRpids
+city,394,Grand Rapids,Gkrand Rapids
+city,395,Grand Rapids,Grand apids
+city,396,Grand Rapids,Grand Rapis
+city,397,Grand Rapids,Gand Rapids
+city,398,Grand Rapids,Grand aRpids
+city,399,Grand Rapids,Grand Raids
+city,400,Grand Rapids,rGand Rapids
+city,401,Grand Rapids,rand Rapids
+city,402,Grand Rapids,Grand Rapis
+city,403,Grand Rapids,Grnad Rapids
+city,404,Grand Rapids,Gran Rapids
+city,405,Grand Rapids,Garnd Rapids
+city,406,Grand Rapids,Garand Rapids
+city,407,Grand Rapids,Grand aRpids
+city,408,Grand Rapids,Grand Rapilds
+city,409,Grand Rapids,Graand Rapids
+city,410,Grand Rapids,Grnad Rapids
+city,411,Grand Rapids,Grand aRpids
+city,412,Grand Rapids,GrandR apids
+city,413,Grand Rapids,Grad Rapids
+city,414,Grand Rapids,rand Rapids
+city,415,Grand Rapids,Grand Rapidfs
+city,416,Grand Rapids,GrandRapids
+city,417,Grand Rapids,rand Rapids
+city,447,Grand Rapids,GrandRapids
+city,448,Grand Rapids,Grnd Rapids
+city,449,Grand Rapids,Grand Rapis
+city,450,Grand Rapids,Grandd Rapids
+city,510,Ashland,empty
+city,558,Morganton,empty
+city,758,Denver,empty
+city,821,Pawtucket,empty
+city,826,Astoria,empty
+city,929,Aurora,empty
+city,930,Aurora,Akurora
+city,966,Davenport,Daveonport
+city,973,Davenport,empty
+city,978,Davenport,Davenpyort
+city,992,Birmingham,empty
+city,1020,Boston,empty
+city,1047,Windsor,Winsor
+city,1061,Springfield,Springifeld
+city,1071,Austin,Autsin
+city,1143,Kalona,empty
+city,1212,York,oYrk
+city,1239,Flagstaff,empty
+city,1278,Belfast,Belafst
+city,1306,Lahaina,Lahania
+city,1372,Monroe,empty
+city,1657,Bucryus,empty
+city,1658,Bucryus,Buciryus
+city,1677,Seattle,Seabttle
+city,1744,Export,empty
+city,1772,Lansdale,empty
+city,1790,Chandler,Chanler
+city,1801,Chandler,Chandlre
+city,1882,Durango,Dfurango
+city,1943,Southampton,empty
+city,1950,Hattiesburg,empty
+city,1991,Durango,Druango
+city,2023,Huntsville,hHuntsville
+city,2053,Indianapolis,Idianapolis
+city,2059,Indianapolis,empty
+city,2097,San Diego,empty
+city,2105,Manhattan,empty
+city,2128,Bridgman,empty
+city,2134,Evanston,empty
+city,2137,Richmond,Richmodn
+city,2156,Bronx,Brownx
+city,2167,Traverse City,Traverse Ciy
+city,2189,Evansville,Evnasville
+city,2260,Salt Lake City,empty
+city,2268,Santa Cruz,empty
+city,2304,Salt Lake City,nSalt Lake City
+city,2325,Westminster,Westinster
+city,2360,Portland,empty
+city,2374,Nellysford,empty
+city,2394,North Woodstock,empty
+state,36,CA,A
+state,86,OR,empty
+state,103,CA,A
+state,104,CA,A
+state,162,CO,OC
+state,176,CT,T
+state,189,MA,A
+state,242,CO,empty
+state,261,MT,empty
+state,278,CA,A
+state,279,CA,A
+state,280,CA,A
+state,291,MI,empty
+state,298,NE,empty
+state,338,CO,empty
+state,347,CO,empty
+state,380,CO,OC
+state,382,CO,empty
+state,390,MI,IM
+state,418,MI,MaI
+state,505,OR,empty
+state,550,NJ,empty
+state,599,FL,empty
+state,682,DC,C
+state,777,CO,O
+state,801,IL,empty
+state,826,OR,OhR
+state,878,WA,empty
+state,892,CA,A
+state,897,CA,empty
+state,899,CA,empty
+state,917,IL,L
+state,923,AZ,AfZ
+state,924,AZ,ZA
+state,925,AZ,ZA
+state,1017,VA,empty
+state,1031,MT,TM
+state,1061,OR,RO
+state,1073,TX,XT
+state,1124,PA,empty
+state,1175,AK,KA
+state,1199,PA,empty
+state,1214,NC,empty
+state,1221,VT,empty
+state,1242,GA,A
+state,1274,NM,empty
+state,1285,TX,X
+state,1318,MI,I
+state,1348,IL,LI
+state,1404,MO,empty
+state,1412,AZ,sAZ
+state,1413,AZ,ZA
+state,1414,AZ,ZA
+state,1415,AZ,ZA
+state,1430,RI,empty
+state,1575,CO,empty
+state,1655,MO,empty
+state,1669,AZ,ZA
+state,1789,AZ,ZA
+state,1790,AZ,Z
+state,1791,AZ,AxZ
+state,1792,AZ,Z
+state,1793,AZ,AqZ
+state,1794,AZ,AjZ
+state,1795,AZ,ZA
+state,1796,AZ,ZA
+state,1797,AZ,Z
+state,1798,AZ,Z
+state,1799,AZ,zAZ
+state,1800,AZ,AqZ
+state,1801,AZ,ZA
+state,1802,AZ,Z
+state,1803,AZ,ZA
+state,1804,AZ,empty
+state,1805,AZ,AvZ
+state,1900,PA,AP
+state,1914,VA,A
+state,1942,TX,empty
+state,1978,IL,empty
+state,1988,VA,AV
+state,2133,IL,empty
+state,2149,WY,WfY
+state,2154,NY,empty
+state,2283,CO,OC
+state,2285,CO,CiO
+state,2333,OH,HO

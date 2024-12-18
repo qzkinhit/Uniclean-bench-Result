@@ -1,0 +1,23 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+city,122,Hayward,Haywbard,Hayward
+city,1678,Seattle,Seabttle,Seattle
+state,277,CA,A,CA
+state,922,AZ,ZA,AZ
+state,923,AfZ,ZA,AZ
+state,1032,MT,TM,MT
+state,1411,AZ,ZA,AZ
+state,1412,sAZ,ZA,AZ
+state,1787,AZ,Z,AZ
+state,1788,AZ,Z,AZ
+state,1789,ZA,Z,AZ
+state,1791,AxZ,Z,AZ
+state,1793,AqZ,Z,AZ
+state,1794,AjZ,Z,AZ
+state,1795,ZA,Z,AZ
+state,1796,ZA,Z,AZ
+state,1799,zAZ,Z,AZ
+state,1800,AqZ,Z,AZ
+state,1801,ZA,Z,AZ
+state,1803,ZA,Z,AZ
+state,1804,empty,Z,AZ
+state,1805,AvZ,Z,AZ

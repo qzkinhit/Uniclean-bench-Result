@@ -1,0 +1,210 @@
+Attribute,Index,Clean Value,Dirty Value
+beer_name,92,Kentucky K?lsch,Kentucky Kölsch
+beer_name,104,"the Kimmie, the Yink and the Holy Gose",the Kimmie the Yink and the Holy Gose
+beer_name,142,Aslan K?lsch,Aslan Kölsch
+beer_name,315,K?lsch 151,Kölsch 151
+beer_name,378,Post Time K?lsch,Post Time Kölsch
+beer_name,383,"You're My Boy, Blue",You're My Boy Blue
+beer_name,496,32°/50° K?lsch,32°/50° Kölsch
+beer_name,649,Heiner Brau K?lsch,Heiner Brau Kölsch
+beer_name,667,Mj?llnir,Mjöllnir
+beer_name,780,Laimas K?lsch Style Ale,Laimas Kölsch Style Ale
+beer_name,853,Sunbru K?lsch,Sunbru Kölsch
+beer_name,859,Sunbru K?lsch,Sunbru Kölsch
+beer_name,900,Cabrillo K?lsch,Cabrillo Kölsch
+beer_name,994,Screamin??Pumpkin,Screamin�?Pumpkin
+beer_name,1052,The 12th Can??American Pale Ale (APA),The 12th Can�?American Pale Ale (APA)
+beer_name,1191,Lancaster German Style K?lsch,Lancaster German Style Kölsch
+beer_name,1521,Occidental K?lsch,Occidental Kölsch
+beer_name,1555,The CROWLER??,The CROWLER�?
+beer_name,1619,Side Kick K?lsch,Side Kick Kölsch
+beer_name,1660,GreyBeard??IPA,GreyBeard�?IPA
+beer_name,1992,Colorado K?lsch,Colorado Kölsch
+beer_name,2117,K?ld Lager (2010),Köld Lager (2010)
+beer_name,2124,Loafin Br?u,Loafin Bräu
+style,56,K?lsch,Kölsch
+style,92,K?lsch,Kölsch
+style,139,K?lsch,Kölsch
+style,142,K?lsch,Kölsch
+style,169,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,185,K?lsch,Kölsch
+style,315,K?lsch,Kölsch
+style,339,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,362,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,378,K?lsch,Kölsch
+style,496,K?lsch,Kölsch
+style,548,K?lsch,Kölsch
+style,584,K?lsch,Kölsch
+style,586,K?lsch,Kölsch
+style,591,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,603,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,636,K?lsch,Kölsch
+style,649,K?lsch,Kölsch
+style,674,K?lsch,Kölsch
+style,680,K?lsch,Kölsch
+style,780,K?lsch,Kölsch
+style,794,K?lsch,Kölsch
+style,840,K?lsch,Kölsch
+style,853,K?lsch,Kölsch
+style,859,K?lsch,Kölsch
+style,882,K?lsch,Kölsch
+style,900,K?lsch,Kölsch
+style,936,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,975,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,983,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,985,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1022,K?lsch,Kölsch
+style,1025,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1027,K?lsch,Kölsch
+style,1029,K?lsch,Kölsch
+style,1042,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1099,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1148,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1149,K?lsch,Kölsch
+style,1191,K?lsch,Kölsch
+style,1202,K?lsch,Kölsch
+style,1248,K?lsch,Kölsch
+style,1261,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1341,K?lsch,Kölsch
+style,1401,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1430,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1521,K?lsch,Kölsch
+style,1611,K?lsch,Kölsch
+style,1619,K?lsch,Kölsch
+style,1725,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1733,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1745,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1777,K?lsch,Kölsch
+style,1786,K?lsch,Kölsch
+style,1790,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1814,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1906,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1922,K?lsch,Kölsch
+style,1926,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1942,K?lsch,Kölsch
+style,1989,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,1992,K?lsch,Kölsch
+style,2005,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2010,K?lsch,Kölsch
+style,2011,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2022,K?lsch,Kölsch
+style,2059,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2066,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2158,K?lsch,Kölsch
+style,2241,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2343,M?rzen / Oktoberfest,Märzen / Oktoberfest
+style,2398,K?lsch,Kölsch
+brewery_id,41,267,67
+brewery_name,19,2 Towns Ciderhouse,empty
+brewery_name,77,Against the Grain Brewery,Against thej Grain Brewery
+brewery_name,78,Against the Grain Brewery,Againt the Grain Brewery
+brewery_name,79,Against the Grain Brewery,Against the Grain Breery
+brewery_name,80,Against the Grain Brewery,Againstthe Grain Brewery
+brewery_name,81,Against the Grain Brewery,Against the Grain Brewwery
+brewery_name,82,Against the Grain Brewery,Against thle Grain Brewery
+brewery_name,256,Big Sky Brewing Company,Big Sky rBewing Company
+brewery_name,390,Brewery Vivant,Breewery Vivant
+brewery_name,391,Brewery Vivant,Brewery Viavant
+brewery_name,392,Brewery Vivant,Breweryu Vivant
+brewery_name,393,Brewery Vivant,Breery Vivant
+brewery_name,394,Brewery Vivant,Brewery Vivatn
+brewery_name,395,Brewery Vivant,Breewry Vivant
+brewery_name,488,Butcher's Brewing,Butchre''s Brewing
+brewery_name,512,Caldera Brewing Company,Calderca Brewing Company
+brewery_name,519,Cambridge Brewing Company,empty
+brewery_name,532,Capital Brewery,empty
+brewery_name,651,Crabtree Brewing Company,empty
+brewery_name,655,Crazy Mountain Brewing Company,Crazy Mountain Brewing kCompany
+brewery_name,707,Denali Brewing Company,empty
+brewery_name,857,Four Peaks Brewing Company,our Peaks Brewing Company
+brewery_name,908,Good Life Brewing Company,Good Life Brewing Companhy
+brewery_name,951,Great Divide Brewing Company,empty
+brewery_name,976,Great River Brewery,empty
+brewery_name,1319,Meckley's Cidery,empty
+brewery_name,1359,Milwaukee Brewing Company,empty
+brewery_name,1407,Mother Earth Brewing Company,Mother Earth Brewing Compalny
+brewery_name,1527,Odyssey Beerwerks,Oyssey Beerwerks
+brewery_name,1723,Revolution Brewing Company,Revolution Brewig Company
+brewery_name,2041,Sun King Brewing Company,Sucn King Brewing Company
+brewery_name,2163,The Lion Brewery,empty
+brewery_name,2214,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2215,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2216,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2217,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2218,Tr?egs Brewing Company,Tröegs Brewing Company
+brewery_name,2227,Two Beers Brewing Company,Tow Beers Brewing Company
+brewery_name,2228,Two Beers Brewing Company,empty
+brewery_name,2354,White Birch Brewing,empty
+brewery_name,2394,"Woodstock Inn, Station & Brewery",Woodstock Inn Station & Brewery
+brewery_name,2395,"Woodstock Inn, Station & Brewery",Woodstock Inn Station & Brewery
+city,62,Dunedin,empty
+city,138,Boulder,empty
+city,174,Bloomfield,Bloomfild
+city,337,Eagle,agle
+city,428,Grand Rapids,rand Rapids
+city,429,Grand Rapids,Gran dRapids
+city,430,Grand Rapids,rGand Rapids
+city,431,Grand Rapids,Gand Rapids
+city,432,Grand Rapids,Grand Rapwids
+city,433,Grand Rapids,Grand Raids
+city,434,Grand Rapids,rand Rapids
+city,435,Grand Rapids,Gran Rapids
+city,436,Grand Rapids,Gand Rapids
+city,437,Grand Rapids,Gran Rapids
+city,438,Grand Rapids,Ggrand Rapids
+city,439,Grand Rapids,Gradnd Rapids
+city,624,Nantucket,Nntucket
+city,649,Covington,empty
+city,661,Athens,Athqens
+city,909,Birmingham,Birminghma
+city,1083,Portland,Portlnad
+city,1288,Fort Worth,empty
+city,1311,Lahaina,empty
+city,1367,Monroe,empty
+city,1368,Monroe,Moroe
+city,1510,Eugene,Eugne
+city,1661,Black Mountain,Black Mountian
+city,1669,Prescott,empty
+city,1688,Blanco,Blajnco
+city,2100,San Diego,empty
+city,2219,Greenville,empty
+city,2273,Baltimore,empty
+city,2355,Hooksett,empty
+city,2406,Denver,empty
+state,127,OK,KO
+state,128,OK,K
+state,149,OR,RO
+state,185,CA,empty
+state,278,CA,AC
+state,279,CA,AC
+state,280,CA,AC
+state,394,MI,empty
+state,459,NY,NwY
+state,478,IN,empty
+state,716,IL,empty
+state,719,IL,empty
+state,897,CA,empty
+state,921,CO,O
+state,923,AZ,jAZ
+state,924,AZ,ZA
+state,925,AZ,ZA
+state,1023,MA,empty
+state,1027,MA,empty
+state,1110,TX,ThX
+state,1112,TX,empty
+state,1412,AZ,ZA
+state,1413,AZ,ZA
+state,1414,AZ,Z
+state,1415,AZ,ZA
+state,1669,AZ,Z
+state,1748,PA,PgA
+state,1805,AZ,Z
+state,1843,ME,empty
+state,1867,NY,bNY
+state,1991,CO,OC
+state,1996,WI,IW
+state,2096,CA,empty
+state,2123,MT,TM
+state,2126,MI,empty
+state,2249,CT,TC
+state,2311,MI,IM

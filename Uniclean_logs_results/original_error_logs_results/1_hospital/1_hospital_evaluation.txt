@@ -1,0 +1,42 @@
+Attribute: index Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
+========================================
+Attribute: ProviderNumber Correctly repaired data: 28 Incorrectly repaired data: 0 Data that should be repaired: 28
+========================================
+Attribute: HospitalName Correctly repaired data: 24 Incorrectly repaired data: 0 Data that should be repaired: 24
+========================================
+Attribute: Address1 Correctly repaired data: 30 Incorrectly repaired data: 1 Data that should be repaired: 31
+========================================
+Attribute: Address2 Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
+========================================
+Attribute: Address3 Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
+========================================
+Attribute: City Correctly repaired data: 33 Incorrectly repaired data: 0 Data that should be repaired: 33
+========================================
+Attribute: State Correctly repaired data: 26 Incorrectly repaired data: 0 Data that should be repaired: 26
+========================================
+Attribute: ZipCode Correctly repaired data: 30 Incorrectly repaired data: 0 Data that should be repaired: 30
+========================================
+Attribute: CountyName Correctly repaired data: 39 Incorrectly repaired data: 0 Data that should be repaired: 39
+========================================
+Attribute: PhoneNumber Correctly repaired data: 34 Incorrectly repaired data: 0 Data that should be repaired: 34
+========================================
+Attribute: HospitalType Correctly repaired data: 31 Incorrectly repaired data: 1 Data that should be repaired: 32
+========================================
+Attribute: HospitalOwner Correctly repaired data: 27 Incorrectly repaired data: 0 Data that should be repaired: 27
+========================================
+Attribute: EmergencyService Correctly repaired data: 27 Incorrectly repaired data: 0 Data that should be repaired: 27
+========================================
+Attribute: Condition Correctly repaired data: 32 Incorrectly repaired data: 0 Data that should be repaired: 32
+========================================
+Attribute: MeasureCode Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 29
+========================================
+Attribute: MeasureName Correctly repaired data: 35 Incorrectly repaired data: 1 Data that should be repaired: 36
+========================================
+Attribute: Score Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 23
+========================================
+Attribute: Sample Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 31
+========================================
+Attribute: Stateavg Correctly repaired data: 26 Incorrectly repaired data: 20 Data that should be repaired: 27
+========================================
+Repair Accuracy: 0.9483146067415731
+Repair Recall: 0.8290766208251473

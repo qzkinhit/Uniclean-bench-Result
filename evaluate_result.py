@@ -439,7 +439,7 @@ def main():
     parser.add_argument('--dirty_path', type=str, default="./RealWorldDataSet/1_hospital/dirty_index.csv", help="Path to the dirty data CSV file.")
     parser.add_argument('--clean_path', type=str, default="./RealWorldDataSet/1_hospital/clean_index.csv", help="Path to the clean data CSV file.")
     parser.add_argument('--cleaned_path', type=str,default="./Uniclean_cleaned_data/1_hospital_cleaned_by_uniclean.csv", help="Path to the cleaned data CSV file.")
-    parser.add_argument('--output_path', type=str, default="./Uniclean_logs", help="Directory path to save the results (default: ./results).")
+    parser.add_argument('--output_path', type=str, default="./Uniclean_logs_results", help="Directory path to save the results (default: ./results).")
     parser.add_argument('--task_name', type=str, default="1_hospital", help="Task name for result files (default: data_cleaning_task).")
     parser.add_argument('--index_attribute', type=str, default='index', help="Attribute to use as index (default: index).")
     parser.add_argument('--mse_attributes', nargs='*', default=[], help="List of attributes to calculate MSE, if any.")

@@ -1,0 +1,19 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+brewery_name,145,Aspen Brewing Company,Aspe nBrewing Company,Aspen Brewing Company
+brewery_name,1143,Kalona Brewing Company,Kalona Brcewing Company,Kalona Brewing Company
+brewery_name,2071,Sunken City Brewing Company,kSunken City Brewing Company,Sunken City Brewing Company
+state,193,AZ,yAZ,AZ
+state,454,AK,AnK,AK
+state,456,KA,AnK,AK
+state,457,AmK,AnK,AK
+state,707,AK,K,AK
+state,709,KA,K,AK
+state,1002,WA,AW,WA
+state,1047,CO,OC,CO
+state,1175,AK,K,AK
+state,1177,KA,K,AK
+state,1179,empty,K,AK
+state,1331,AK,K,AK
+state,1334,KA,K,AK
+state,1741,CO,OC,CO
+state,2022,AL,LA,AL
