@@ -1,9 +1,0 @@
-1_hospital Evaluation Results:
-accuracy: 0.9483146067415731
-recall: 0.8290766208251473
-f1_score: 0.8846960167217136
-edr: 0.7838899803536346
-hybrid_distance: 0.052051708071570814
-r_edr: 0.7542997542997543
-Total Time: 108.115330875 seconds
-Cleaning Speed: 10.811533087499999 seconds/100 records

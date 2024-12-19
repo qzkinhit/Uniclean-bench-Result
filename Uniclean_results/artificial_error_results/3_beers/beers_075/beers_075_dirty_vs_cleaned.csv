@@ -1,0 +1,159 @@
+Attribute,Index,Dirty Value,Cleaned Value
+brewery_name,110,empty,Anderson Valley Brewing Company
+brewery_name,118,Anderson Vallsey Brewing Company,Anderson Valley Brewing Company
+brewery_name,231,Bent Paddle Brewnig Company,Bent Paddle Brewing Company
+brewery_name,243,Big Choice Bkrewing,Big Choice Brewing
+brewery_name,345,empty,Bonfire Brewing Company
+brewery_name,394,Brewery Vivat,Brewery Vivant
+brewery_name,395,Brewery Vivaknt,Brewery Vivant
+brewery_name,396,Brewery iVvant,Brewery Vivant
+brewery_name,397,BreweryV ivant,Brewery Vivant
+brewery_name,398,Brewery Vivjant,Brewery Vivant
+brewery_name,399,Brewer Vivant,Brewery Vivant
+brewery_name,400,Brewery Viovant,Brewery Vivant
+brewery_name,401,Brewer yVivant,Brewery Vivant
+brewery_name,402,BreweryVivant,Brewery Vivant
+brewery_name,442,iBrewery Vivant,Brewery Vivant
+brewery_name,443,Bewery Vivant,Brewery Vivant
+brewery_name,444,Brewery Vviant,Brewery Vivant
+brewery_name,445,Brewery Vivrant,Brewery Vivant
+brewery_name,446,Brewry Vivant,Brewery Vivant
+brewery_name,447,Breery Vivant,Brewery Vivant
+brewery_name,448,Berwery Vivant,Brewery Vivant
+brewery_name,449,Brewery Vivanht,Brewery Vivant
+brewery_name,450,Brewery Viavnt,Brewery Vivant
+brewery_name,707,Ddenali Brewing Company,Denali Brewing Company
+brewery_name,924,empty,Grand Canyon Brewing Company
+brewery_name,932,Great Crescen tBrewery,Great Crescent Brewery
+brewery_name,1000,Griffidn Claw Brewing Company,Griffin Claw Brewing Company
+brewery_name,1002,empty,Hale's Ales
+brewery_name,1014,empty,Hangar 24 Craft Brewery
+brewery_name,1080,empty,Hopworks Urban Brewery
+brewery_name,1081,empty,Hopworks Urban Brewery
+brewery_name,1104,Indeed Brewing Comjpany,Indeed Brewing Company
+brewery_name,1225,LostNation Brewing,Lost Nation Brewing
+brewery_name,1284,Martin House Brewing Compnay,Martin House Brewing Company
+brewery_name,1337,empty,Mike Hess Brewing Company
+brewery_name,1345,Mikerphone Brewnig,Mikerphone Brewing
+brewery_name,1465,empty,New England Brewing Company
+brewery_name,1553,empty,Oskar Blues Brewery
+brewery_name,1646,empty,Pikes Peak Brewing Company
+brewery_name,1850,empty,Sierra Nevada Brewing Company
+brewery_name,1857,Silverto nBrewery,Silverton Brewery
+brewery_name,1978,empty,Spiteful Brewing Company
+brewery_name,1998,empty,Stevens Point Brewery
+brewery_name,2003,Sevens Point Brewery,Stevens Point Brewery
+brewery_name,2187,hTunderhead Brewing Company,Thunderhead Brewing Company
+brewery_name,2284,empty,Upslope Brewing Company
+brewery_name,2309,Vander Mill fCiders,Vander Mill Ciders
+brewery_name,2368,empty,Wild Onion Brewing Company
+brewery_name,2407,empty,Wynkoop Brewing Company
+city,75,Louiszville,Louisville
+city,76,Luoisville,Louisville
+city,77,Lousiville,Louisville
+city,78,Lousville,Louisville
+city,79,Louisvile,Louisville
+city,80,Lousville,Louisville
+city,81,oLuisville,Louisville
+city,82,Louisvile,Louisville
+city,169,empty,Fuquay-Varina
+city,330,aJcksonville,Jacksonville
+city,390,Gran Rapids,Grand Rapids
+city,391,Gran Rapids,Grand Rapids
+city,392,Garnd Rapids,Grand Rapids
+city,393,Gramnd Rapids,Grand Rapids
+city,394,Grand Rapizds,Grand Rapids
+city,395,Grand Rapds,Grand Rapids
+city,396,Grnad Rapids,Grand Rapids
+city,397,Grnd Rapids,Grand Rapids
+city,398,Gransd Rapids,Grand Rapids
+city,399,Grand Rapds,Grand Rapids
+city,418,Garnd Rapids,Grand Rapids
+city,426,empty,Grand Rapids
+city,430,rand Rapids,Grand Rapids
+city,454,empty,Anchorage
+city,476,empty,Michigan City
+city,546,Pittsbroo,Pittsboro
+city,598,empty,Stevens Point
+city,600,empty,Tampa
+city,626,empty,Nantucket
+city,641,Ds Moines,Des Moines
+city,725,empty,Belmont
+city,749,Buena Vistka,Buena Vista
+city,1024,empty,Boston
+city,1077,Pomrtland,Portland
+city,1093,Portlad,Portland
+city,1212,empty,York
+city,1269,empty,Santee
+city,1282,Fort Woth,Fort Worth
+city,1296,nUtica,Utica
+city,1347,Chciago,Chicago
+city,1485,Newburypnort,Newburyport
+city,1521,empty,Portland
+city,1682,uFort Worth,Fort Worth
+city,1710,empty,Denver
+city,1787,Chandlexr,Chandler
+city,1833,empty,Silverton
+city,1931,Buoise,Boise
+city,2046,Indianapois,Indianapolis
+city,2079,empty,Brooklyn Center
+city,2167,Traverses City,Traverse City
+city,2233,empty,Seattle
+city,2265,empty,St. John's
+state,79,YK,KY
+state,90,K,AK
+state,99,A,CA
+state,118,A,CA
+state,142,WcA,WA
+state,153,empty,MI
+state,164,O,CO
+state,179,AL,LA
+state,200,NM,MN
+state,283,empty,CO
+state,303,E,NE
+state,381,empty,CO
+state,423,IM,MI
+state,450,empty,MI
+state,454,AK,AmK
+state,455,AeK,AmK
+state,457,KA,AmK
+state,516,RO,OR
+state,688,CD,DC
+state,698,X,TX
+state,707,AK,K
+state,708,KA,K
+state,710,uAK,K
+state,720,empty,IL
+state,800,empty,IL
+state,910,AcL,AL
+state,911,L,AL
+state,1044,A,CA
+state,1158,AK,K
+state,1160,tAK,K
+state,1161,KA,K
+state,1265,ePA,PA
+state,1283,empty,TX
+state,1333,AjK,AK
+state,1334,K,AK
+state,1335,KA,AK
+state,1372,I,WI
+state,1413,empty,AZ
+state,1421,I,RI
+state,1446,empty,CO
+state,1468,TC,CT
+state,1599,empty,NC
+state,1661,C,NC
+state,1694,empty,MD
+state,1810,empty,CA
+state,1857,O,CO
+state,1962,empty,TX
+state,1971,empty,IL
+state,2001,empty,WI
+state,2015,empty,WI
+state,2023,LA,AL
+state,2024,AoL,AL
+state,2153,xMD,MD
+state,2178,eVA,VA
+state,2223,empty,TX
+state,2264,empty,MI
+state,2385,I,WI

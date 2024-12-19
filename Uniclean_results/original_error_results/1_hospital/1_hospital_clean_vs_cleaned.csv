@@ -1,0 +1,111 @@
+Attribute,Index,Clean Value,Cleaned Value
+Address1,451,po box 287,poxboxx287
+Address1,452,po box 287,poxboxx287
+HospitalType,767,acute care hospitals,acutexcarexhospitals
+HospitalType,903,acute care hospitals,acutexcarexhospitals
+MeasureCode,98,ami-4,axi-4
+MeasureCode,102,hf-1,hfx1
+MeasureCode,109,pn-5c,pnx5c
+MeasureCode,121,ami-2,axi-2
+MeasureCode,178,hf-2,hf-x
+MeasureCode,191,scip-inf-4,scip-inx-4
+MeasureCode,265,scip-inf-3,scxp-xnf-3
+MeasureCode,350,ami-2,amix2
+MeasureCode,392,pn-3b,pn-xb
+MeasureCode,399,hf-1,hx-1
+MeasureCode,410,scip-inf-1,scipxinfx1
+MeasureCode,465,scip-vte-1,sxip-vte-1
+MeasureCode,496,ami-5,ami-x
+MeasureCode,581,pn-5c,px-5c
+MeasureCode,640,scip-vte-1,scip-vtx-1
+MeasureCode,649,hf-1,hfx1
+MeasureCode,674,hf-1,xf-1
+MeasureCode,677,hf-4,hfx4
+MeasureCode,692,ami-1,amix1
+MeasureCode,695,ami-4,amx-4
+MeasureCode,719,ami-3,amx-3
+MeasureCode,730,pn-4,px-4
+MeasureCode,736,scip-inf-2,scix-inf-2
+MeasureCode,750,hf-2,hx-2
+MeasureCode,775,cac-1,xax-1
+MeasureCode,789,pn-2,pn-x
+MeasureCode,843,pn-6,pnx6
+MeasureCode,866,pn-4,px-4
+MeasureCode,931,ami-1,amix1
+MeasureName,767,children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma
+MeasureName,903,children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma
+Score,121,100%,x00%
+Score,159,98%,9x%
+Score,164,57%,x7%
+Score,188,95%,95x
+Score,209,95%,x5%
+Score,238,97%,9x%
+Score,239,99%,xx%
+Score,253,89%,89x
+Score,257,96%,x6%
+Score,337,100%,x00%
+Score,379,95%,x5%
+Score,406,94%,x4%
+Score,412,100%,1xx%
+Score,427,97%,x7%
+Score,489,100%,1xx%
+Score,507,93%,93x
+Score,515,100%,1xx%
+Score,699,88%,xx%
+Score,712,100%,1xx%
+Score,719,67%,x7%
+Score,770,93%,x3%
+Score,861,80%,80x
+Score,889,85%,x5%
+Sample,18,37 patients,3x patients
+Sample,92,619 patients,619 paxienxs
+Sample,116,0 patients,0 patixnts
+Sample,134,21 patients,21 pxtients
+Sample,167,11 patients,xx patients
+Sample,171,6 patients,6xpatients
+Sample,225,1 patients,1 patiexts
+Sample,235,82 patients,82 patientx
+Sample,317,29 patients,29 xatients
+Sample,355,10 patients,1x patients
+Sample,414,125 patients,125 patixnts
+Sample,419,4 patients,4 xatients
+Sample,445,521 patients,521 patiexts
+Sample,463,0 patients,x patients
+Sample,483,62 patients,62 patientx
+Sample,497,0 patients,0 patxents
+Sample,503,44 patients,44 paxienxs
+Sample,524,257 patients,25x patients
+Sample,533,87 patients,87 patientx
+Sample,547,0 patients,x patients
+Sample,555,74 patients,74 patxents
+Sample,581,50 patients,50 pxtients
+Sample,589,172 patients,172 patxents
+Sample,669,87 patients,87 paxienxs
+Sample,674,618 patients,618 xatients
+Sample,777,193 patients,193 paxienxs
+Sample,846,4 patients,4 patiexts
+Sample,867,121 patients,121 patiexts
+Sample,873,15 patients,15 patiexts
+Sample,906,126 patients,126 patxents
+Sample,973,27 patients,27 paxienxs
+Stateavg,433,ak_hf-1,al_hf-1
+Stateavg,434,ak_hf-2,al_hf-2
+Stateavg,435,ak_hf-3,al_hf-3
+Stateavg,436,ak_hf-4,al_hf-4
+Stateavg,437,ak_pn-2,al_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6
+Stateavg,442,ak_pn-7,al_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1
+Stateavg,452,ak_ami-2,al_ami-2
+Stateavg,843,al_pn-6,al_pnx6

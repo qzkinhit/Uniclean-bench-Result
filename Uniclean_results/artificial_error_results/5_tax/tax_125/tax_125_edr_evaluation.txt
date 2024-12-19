@@ -1,0 +1,67 @@
+Attribute: index
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: fname
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 272
+========================================
+Attribute: lname
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 694
+========================================
+Attribute: gender
+Distance (Dirty to Clean): 7474
+Distance (Repaired to Clean): 0
+========================================
+Attribute: areacode
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: phone
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: city
+Distance (Dirty to Clean): 7395
+Distance (Repaired to Clean): 1188
+========================================
+Attribute: state
+Distance (Dirty to Clean): 9884
+Distance (Repaired to Clean): 0
+========================================
+Attribute: zip
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: maritalstatus
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: haschild
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: salary
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: rate
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: singleexemp
+Distance (Dirty to Clean): 7499
+Distance (Repaired to Clean): 3876
+========================================
+Attribute: marriedexemp
+Distance (Dirty to Clean): 7376
+Distance (Repaired to Clean): 3895
+========================================
+Attribute: childexemp
+Distance (Dirty to Clean): 7410
+Distance (Repaired to Clean): 3760
+========================================
+总的脏数据到干净数据距离: 47038
+总的修复后数据到干净数据距离: 13685
+错误减少率 (EDR): 0.7090650112674859
