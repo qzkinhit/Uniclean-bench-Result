@@ -1,0 +1,53 @@
+û  ָ                 ԭ   ݼ  Ŀ ֵ 滻      Ӵ   
+ ѽ ע       ļ    浽: Data/6_soccer/clean_index.csv
+û  ָ                 ԭ   ݼ  Ŀ ֵ 滻      Ӵ   
+ ѽ ע       ļ    浽: Data/6_soccer/dirty_index.csv
+Running Horizon with dirty file: Data/6_soccer/dirty_index.csv
+[['manager'], ['city'], ['season'], ['team'], ['stadium'], ['name'], ['birthyear'], ['birthplace'], ['position'], ['surname']]
+{0: {3}, 1: {4}, 2: {8, 3, 4}, 3: {4}, 4: set(), 5: {8, 9, 6, 7}, 6: set(), 7: set(), 8: set(), 9: set()}
+[0, 1, 2, 5, 3, 8, 9, 6, 7, 4]
+{'manager': 0, 'city': 1, 'season': 2, 'team': 3, 'stadium': 4, 'name': 5, 'birthyear': 6, 'birthplace': 7, 'position': 8, 'surname': 9}
+0 3
+1 4
+2 3
+2 4
+2 8
+3 4
+5 6
+5 7
+5 8
+5 9
+===============================================
+Results saved to results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_repaired.csv
+Horizon finished in 1347.7770178318024 seconds.
+       ܿ ʼ  
+û  ָ                 ԭ   ݼ  Ŀ ֵ 滻      Ӵ   
+ ѽ ע       ļ    浽: results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_repaired.csv
+     ļ  ѱ  浽:
+results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_clean_vs_dirty.csv
+results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_dirty_vs_cleaned.csv
+results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_clean_vs_cleaned.csv
+ ޸          ļ  ѱ  浽: results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_repair_errors.csv
+δ ޸     Ӧ   ޸      ļ  ѱ  浽: results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_unrepaired.csv
+ ޸ ׼ȷ  : 0.04110878920285126,  ޸  ٻ   : 0.31805981595092025, F1ֵ: 0.07280733191357767
+========================================
+EDR     ѱ  浽: results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_edr_evaluation.txt
+          (EDR): -7.075952198364008
+========================================
+  Ͼ      ѱ  浽: results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_hybrid_distance_evaluation.txt
+  Ͼ    (Hybrid Distance): 0.1294539016714373
+========================================
+R-EDR     ѱ  浽: results/horizon/6_soccer_200k_ori\6_soccer_200k_ori_record_based_edr_evaluation.txt
+      Ŀ Ĵ         (R-EDR): -4.371005879345604
+========================================
+            ϸ      ־    results/horizon/6_soccer_200k_ori
+   Խ  :
+Accuracy: 0.04110878920285126
+Recall: 0.31805981595092025
+F1 Score: 0.07280733191357767
+EDR: -7.075952198364008
+Hybrid Distance: 0.1294539016714373
+R-EDR: -4.371005879345604
+time(s): 1347.7770178318024
+speed: 0.6738885089159011 seconds/100num
+            ϸ      ־    results/horizon/6_soccer_200k_ori
