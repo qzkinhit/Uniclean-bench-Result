@@ -1,0 +1,663 @@
+Attribute,Index,Dirty Value,Cleaned Value
+ProviderNumber,14,1xx19,10019
+ProviderNumber,46,x0005,10005
+ProviderNumber,82,1000x,10006
+ProviderNumber,214,x00xx,10011
+ProviderNumber,246,10015,x00x5
+ProviderNumber,247,10015,x00x5
+ProviderNumber,248,10015,x00x5
+ProviderNumber,249,10015,x00x5
+ProviderNumber,250,10015,x00x5
+ProviderNumber,251,10015,x00x5
+ProviderNumber,252,10015,x00x5
+ProviderNumber,253,10015,x00x5
+ProviderNumber,254,1xx15,x00x5
+ProviderNumber,255,10015,x00x5
+ProviderNumber,256,10015,x00x5
+ProviderNumber,257,10015,x00x5
+ProviderNumber,258,10015,x00x5
+ProviderNumber,259,10015,x00x5
+ProviderNumber,260,10015,x00x5
+ProviderNumber,261,10015,x00x5
+ProviderNumber,262,10015,x00x5
+ProviderNumber,263,10015,x00x5
+ProviderNumber,264,10015,x00x5
+ProviderNumber,265,10015,x00x5
+ProviderNumber,266,10015,x00x5
+ProviderNumber,267,10015,x00x5
+ProviderNumber,268,10015,x00x5
+ProviderNumber,269,10015,x00x5
+ProviderNumber,274,1xx16,10016
+ProviderNumber,315,100x8,10038
+ProviderNumber,361,100x6,10086
+ProviderNumber,409,x0x08,10108
+ProviderNumber,560,1xx24,10024
+ProviderNumber,609,x0027,10027
+ProviderNumber,628,x0029,10029
+ProviderNumber,640,1xx29,10029
+ProviderNumber,646,1xx32,10032
+ProviderNumber,656,1xx32,10032
+ProviderNumber,705,100x4,10034
+ProviderNumber,722,100x5,10035
+ProviderNumber,725,1xx35,10035
+ProviderNumber,756,1xx36,10036
+ProviderNumber,781,1003x,10039
+ProviderNumber,790,1xx39,10039
+ProviderNumber,794,100x9,10039
+ProviderNumber,860,1xx44,10044
+ProviderNumber,879,1xx45,10045
+ProviderNumber,889,x0045,10045
+ProviderNumber,934,1xx47,10047
+ProviderNumber,958,10049,1004x
+ProviderNumber,959,10049,1004x
+ProviderNumber,960,10049,1004x
+ProviderNumber,961,10049,1004x
+ProviderNumber,962,10049,1004x
+ProviderNumber,964,10049,1004x
+ProviderNumber,965,10049,1004x
+ProviderNumber,966,10049,1004x
+ProviderNumber,967,10049,1004x
+ProviderNumber,968,10049,1004x
+ProviderNumber,969,10049,1004x
+ProviderNumber,970,10049,1004x
+ProviderNumber,971,10049,1004x
+ProviderNumber,972,10049,1004x
+ProviderNumber,973,10049,1004x
+ProviderNumber,974,10049,1004x
+ProviderNumber,975,10049,1004x
+ProviderNumber,976,10049,1004x
+ProviderNumber,977,10049,1004x
+ProviderNumber,978,10049,1004x
+ProviderNumber,979,10049,1004x
+ProviderNumber,980,10049,1004x
+Address1,58,2505xuxsxhighwayx431xnorth,2505 u s highway 431 north
+Address1,96,702 n main st,702xnxmainxst
+Address1,97,702 n main st,702xnxmainxst
+Address1,98,702 n main st,702xnxmainxst
+Address1,99,702 n main st,702xnxmainxst
+Address1,100,702 n main st,702xnxmainxst
+Address1,101,702 n main st,702xnxmainxst
+Address1,102,702 n main st,702xnxmainxst
+Address1,103,702 n main st,702xnxmainxst
+Address1,104,702 n main st,702xnxmainxst
+Address1,105,702 n main st,702xnxmainxst
+Address1,106,702 n main st,702xnxmainxst
+Address1,107,702 x maix st,702xnxmainxst
+Address1,108,702 n main st,702xnxmainxst
+Address1,109,702 n main st,702xnxmainxst
+Address1,110,702 n main st,702xnxmainxst
+Address1,111,702 n main st,702xnxmainxst
+Address1,112,702 n main st,702xnxmainxst
+Address1,113,702 n main st,702xnxmainxst
+Address1,114,702 n main st,702xnxmainxst
+Address1,115,702 n main st,702xnxmainxst
+Address1,116,702 n main st,702xnxmainxst
+Address1,117,702 n main st,702xnxmainxst
+Address1,118,702 n main st,702xnxmainxst
+Address1,119,702 n main st,702xnxmainxst
+Address1,162,201 pine sxreex norxhwesx,201 pine street northwest
+Address1,176,8000 alabama xigxway 69,8000 alabama highway 69
+Address1,261,33700 hxghway 43,33700 highway 43
+Address1,265,33700 highway x3,33700 highway 43
+Address1,276,1000 fixst stxeet noxth,1000 first street north
+Address1,296,1720 univxrsity blvd,1720 university blvd
+Address1,317,301xeastx18thxst,301 east 18th st
+Address1,335,4370xwestxmainxstreet,4370 west main street
+Address1,351,810 st vxncents drxve,810 st vincents drive
+Address1,364,1530xuxsxhighwayx43,1530 u s highway 43
+Address1,394,124xsxmemorialxdr,124 s memorial dr
+Address1,412,124 s mxmorial dr,124 s memorial dr
+Address1,416,315 w hickxry st,315 w hickory st
+Address1,432,315xwxhickoryxst,315 w hickory st
+Address1,452,poxboxx287,po box 287
+Address1,473,126xhospitalxave,126 hospital ave
+Address1,485,1x6 hospital ave,126 hospital ave
+Address1,653,209 xorth maix street,209 north main street
+Address1,737,1912xalabamaxhighwayx157,1912 alabama highway 157
+Address1,768,301 east 1xth st,301 east 18th st
+Address1,850,x0x0 lay dam road,1010 lay dam road
+Address1,858,1256 military street sxuth,1256 military street south
+Address1,916,600 souxh xhird sxreex,600 south third street
+Address1,935,515 miranda sx,515 miranda st
+Address1,936,515 miranxa st,515 miranda st
+Address1,946,515 mirxndx st,515 miranda st
+Address1,987,150 gilxreath drive,150 gilbreath drive
+City,4,birminghxm,birmingham
+City,8,birmingxam,birmingham
+City,11,sheffxeld,sheffield
+City,57,boxz,boaz
+City,80,fxorence,florence
+City,89,florxncx,florence
+City,94,flxrence,florence
+City,181,guntxrsvillx,guntersville
+City,208,birmixgham,birmingham
+City,213,bxrmxngham,birmingham
+City,229,fort payxe,fort payne
+City,313,anniston,axxistox
+City,314,anniston,axxistox
+City,315,anniston,axxistox
+City,316,anniston,axxistox
+City,317,anniston,axxistox
+City,318,anniston,axxistox
+City,319,anniston,axxistox
+City,320,anniston,axxistox
+City,321,anniston,axxistox
+City,322,anniston,axxistox
+City,323,anniston,axxistox
+City,324,anniston,axxistox
+City,325,anniston,axxistox
+City,326,anniston,axxistox
+City,327,anniston,axxistox
+City,328,anniston,axxistox
+City,329,anniston,axxistox
+City,330,anniston,axxistox
+City,331,anniston,axxistox
+City,368,winfielx,winfield
+City,438,anchoraxe,anchorage
+City,475,ozarx,ozark
+City,486,xzark,ozark
+City,518,montxomery,montgomery
+City,579,vallex,valley
+City,591,vxlley,valley
+City,602,exba,elba
+City,691,birminxham,birmingham
+City,697,tallaxxee,tallassee
+City,737,cuxxman,cullman
+City,757,andaluxia,andalusia
+City,767,anniston,axxistox
+City,768,anniston,axxistox
+City,769,anniston,axxistox
+City,770,anniston,axxistox
+City,771,anniston,axxistox
+City,772,anniston,axxistox
+City,773,annxston,axxistox
+City,774,anniston,axxistox
+City,822,gxdsden,gadsden
+City,856,hamilxon,hamilton
+City,896,faxette,fayette
+City,950,geoxgiana,georgiana
+City,961,enterprxse,enterprise
+City,969,xntxrprisx,enterprise
+City,986,onxonta,oneonta
+State,43,xl,al
+State,47,xl,al
+State,51,xl,al
+State,84,xl,al
+State,99,xl,al
+State,121,al,ax
+State,122,al,ax
+State,123,al,ax
+State,124,al,ax
+State,125,al,ax
+State,126,al,ax
+State,127,al,ax
+State,128,al,ax
+State,129,al,ax
+State,130,al,ax
+State,131,al,ax
+State,133,al,ax
+State,134,al,ax
+State,135,al,ax
+State,136,al,ax
+State,137,al,ax
+State,138,al,ax
+State,139,al,ax
+State,140,al,ax
+State,142,al,ax
+State,143,al,ax
+State,144,al,ax
+State,166,ax,al
+State,183,xl,al
+State,229,ax,al
+State,279,xl,al
+State,357,ax,al
+State,387,xl,al
+State,403,ax,al
+State,478,xl,al
+State,484,xl,al
+State,505,ax,al
+State,560,xl,al
+State,573,ax,al
+State,593,ax,al
+State,702,xl,al
+State,765,xl,al
+State,792,xl,al
+State,885,xl,al
+State,887,xl,al
+ZipCode,46,35957,x5957
+ZipCode,47,35957,x5957
+ZipCode,48,35957,x5957
+ZipCode,49,35957,x5957
+ZipCode,50,35957,x5957
+ZipCode,51,35957,x5957
+ZipCode,52,35957,x5957
+ZipCode,53,35957,x5957
+ZipCode,54,35957,x5957
+ZipCode,55,35957,x5957
+ZipCode,56,35957,x5957
+ZipCode,57,35957,x5957
+ZipCode,58,35957,x5957
+ZipCode,59,35957,x5957
+ZipCode,60,35957,x5957
+ZipCode,61,35957,x5957
+ZipCode,62,35957,x5957
+ZipCode,63,35957,x5957
+ZipCode,64,3595x,x5957
+ZipCode,65,35957,x5957
+ZipCode,66,35957,x5957
+ZipCode,67,35957,x5957
+ZipCode,68,35957,x5957
+ZipCode,69,35957,x5957
+ZipCode,71,3563x,35631
+ZipCode,94,3563x,35631
+ZipCode,138,36x49,36049
+ZipCode,140,360x9,36049
+ZipCode,150,3x640,35640
+ZipCode,158,3x640,35640
+ZipCode,197,3x23x,35235
+ZipCode,233,359x8,35968
+ZipCode,268,x6784,36784
+ZipCode,284,3x007,35007
+ZipCode,291,x5007,35007
+ZipCode,326,36x01,36201
+ZipCode,333,3x305,36305
+ZipCode,341,x6x05,36305
+ZipCode,367,3xx94,35594
+ZipCode,376,3xx94,35594
+ZipCode,407,3x0x7,36067
+ZipCode,421,x5150,35150
+ZipCode,429,3x1x0,35150
+ZipCode,491,x6x60,36360
+ZipCode,500,x5960,35960
+ZipCode,545,3x10x,36106
+ZipCode,680,3x233,35233
+ZipCode,686,x52xx,35233
+ZipCode,751,3642x,36420
+ZipCode,816,x590x,35903
+ZipCode,924,3590x,35901
+CountyName,68,mxrshxll,marshall
+CountyName,73,laudxrdalx,lauderdale
+CountyName,78,laudexdale,lauderdale
+CountyName,137,crxnshaw,crenshaw
+CountyName,217,jeffersxn,jefferson
+CountyName,222,dx kalb,de kalb
+CountyName,224,xe kalb,de kalb
+CountyName,228,dx kalb,de kalb
+CountyName,239,xe kalb,de kalb
+CountyName,253,xlarke,clarke
+CountyName,313,calhoxn,calhoun
+CountyName,325,caxhoun,calhoun
+CountyName,347,housxon,houston
+CountyName,416,tallaxega,talladega
+CountyName,457,jxffxrson,jefferson
+CountyName,458,xefferson,jefferson
+CountyName,466,jexxerson,jefferson
+CountyName,503,chxrokxx,cherokee
+CountyName,514,chxrokxx,cherokee
+CountyName,517,montgomery,monxgomery
+CountyName,518,montgomery,monxgomery
+CountyName,519,montgomery,monxgomery
+CountyName,520,montgomery,monxgomery
+CountyName,521,montgomery,monxgomery
+CountyName,522,montgomery,monxgomery
+CountyName,523,montgomery,monxgomery
+CountyName,524,montgomery,monxgomery
+CountyName,525,montgomery,monxgomery
+CountyName,526,montgomery,monxgomery
+CountyName,527,montgomery,monxgomery
+CountyName,529,montgomery,monxgomery
+CountyName,530,montgomery,monxgomery
+CountyName,531,montgomery,monxgomery
+CountyName,532,montgomery,monxgomery
+CountyName,533,montgomery,monxgomery
+CountyName,534,montgomery,monxgomery
+CountyName,535,montgomery,monxgomery
+CountyName,536,montgomery,monxgomery
+CountyName,537,montgomery,monxgomery
+CountyName,538,montgomery,monxgomery
+CountyName,539,montgomery,monxgomery
+CountyName,540,montgomery,monxgomery
+CountyName,541,montgomexy,monxgomery
+CountyName,542,montgomery,monxgomery
+CountyName,543,montgomery,monxgomery
+CountyName,544,montgomery,monxgomery
+CountyName,545,montgomery,monxgomery
+CountyName,546,montgomery,monxgomery
+CountyName,547,montgomery,monxgomery
+CountyName,548,montgomery,monxgomery
+CountyName,549,montgomery,monxgomery
+CountyName,550,montgomery,monxgomery
+CountyName,551,montgomery,monxgomery
+CountyName,553,montgomery,monxgomery
+CountyName,554,montgomery,monxgomery
+CountyName,555,montgomery,monxgomery
+CountyName,556,montgomery,monxgomery
+CountyName,557,montgomery,monxgomery
+CountyName,558,montgomery,monxgomery
+CountyName,559,montgomery,monxgomery
+CountyName,560,montgomery,monxgomery
+CountyName,561,montgomery,monxgomery
+CountyName,562,montgomery,monxgomery
+CountyName,563,montgomery,monxgomery
+CountyName,564,montgomery,monxgomery
+CountyName,565,montgomery,monxgomery
+CountyName,566,montgomery,monxgomery
+CountyName,579,xhambers,chambers
+CountyName,591,chaxbers,chambers
+CountyName,603,coffxx,coffee
+CountyName,634,xee,lee
+CountyName,673,jxffxrson,jefferson
+CountyName,690,jexxerson,jefferson
+CountyName,693,elmoxe,elmore
+CountyName,699,elxore,elmore
+CountyName,717,cullman,cxllman
+CountyName,718,cullman,cxllman
+CountyName,719,cullman,cxllman
+CountyName,720,cullman,cxllman
+CountyName,721,cullman,cxllman
+CountyName,722,cullman,cxllman
+CountyName,724,cullman,cxllman
+CountyName,725,cullman,cxllman
+CountyName,726,cullman,cxllman
+CountyName,727,cullman,cxllman
+CountyName,728,cullman,cxllman
+CountyName,729,cullman,cxllman
+CountyName,730,cullman,cxllman
+CountyName,732,cullman,cxllman
+CountyName,733,cullman,cxllman
+CountyName,734,cullman,cxllman
+CountyName,735,cullman,cxllman
+CountyName,736,cullman,cxllman
+CountyName,737,cullman,cxllman
+CountyName,738,cullman,cxllman
+CountyName,739,cullman,cxllman
+CountyName,740,cullman,cxllman
+CountyName,741,cullman,cxllman
+CountyName,753,coxington,covington
+CountyName,786,madisxn,madison
+CountyName,799,madisox,madison
+CountyName,918,etowxh,etowah
+CountyName,944,butxer,butler
+CountyName,967,cxffee,coffee
+PhoneNumber,25,334793870x,3347938701
+PhoneNumber,37,xx479x8701,3347938701
+PhoneNumber,58,2x6x938310,2565938310
+PhoneNumber,61,2x6x938310,2565938310
+PhoneNumber,66,2565x38310,2565938310
+PhoneNumber,102,3344x33541,3344933541
+PhoneNumber,218,2058x8x122,2058383122
+PhoneNumber,229,2568453x50,2568453150
+PhoneNumber,248,xx46x66221,3346366221
+PhoneNumber,262,334x3xx221,3346366221
+PhoneNumber,322,256235x900,2562358900
+PhoneNumber,343,xx479x5000,3347935000
+PhoneNumber,382,25x47x7xx0,2514717110
+PhoneNumber,387,25x47x7xx0,2514717110
+PhoneNumber,394,33x361x267,3343614267
+PhoneNumber,472,334774x601,3347742601
+PhoneNumber,518,3342882100,3342xx2100
+PhoneNumber,519,3342882100,3342xx2100
+PhoneNumber,520,3342882100,3342xx2100
+PhoneNumber,521,3342882100,3342xx2100
+PhoneNumber,522,3342882100,3342xx2100
+PhoneNumber,523,3342882100,3342xx2100
+PhoneNumber,524,3342882100,3342xx2100
+PhoneNumber,525,3342882100,3342xx2100
+PhoneNumber,526,3342882100,3342xx2100
+PhoneNumber,527,3342882100,3342xx2100
+PhoneNumber,528,3342882100,3342xx2100
+PhoneNumber,529,3342882100,3342xx2100
+PhoneNumber,530,3342882100,3342xx2100
+PhoneNumber,531,3342882100,3342xx2100
+PhoneNumber,532,3342882100,3342xx2100
+PhoneNumber,534,3342882100,3342xx2100
+PhoneNumber,535,3342882100,3342xx2100
+PhoneNumber,536,3342882100,3342xx2100
+PhoneNumber,537,3342882100,3342xx2100
+PhoneNumber,538,3342882100,3342xx2100
+PhoneNumber,539,3342882100,3342xx2100
+PhoneNumber,540,3342882100,3342xx2100
+PhoneNumber,541,3342882100,3342xx2100
+PhoneNumber,549,3342938xxx,3342938000
+PhoneNumber,562,33x2938000,3342938000
+PhoneNumber,563,3342938xxx,3342938000
+PhoneNumber,573,334x561400,3347561400
+PhoneNumber,594,33x8972257,3348972257
+PhoneNumber,668,2059344011,20593xx011
+PhoneNumber,669,2059344011,20593xx011
+PhoneNumber,670,2059344011,20593xx011
+PhoneNumber,671,2059344011,20593xx011
+PhoneNumber,672,2059344011,20593xx011
+PhoneNumber,673,2059344011,20593xx011
+PhoneNumber,674,2059344011,20593xx011
+PhoneNumber,675,2059344011,20593xx011
+PhoneNumber,676,2059344011,20593xx011
+PhoneNumber,677,2059344011,20593xx011
+PhoneNumber,678,2059344011,20593xx011
+PhoneNumber,679,2059344011,20593xx011
+PhoneNumber,680,2059344011,20593xx011
+PhoneNumber,681,2059344011,20593xx011
+PhoneNumber,682,2059344011,20593xx011
+PhoneNumber,683,2059344011,20593xx011
+PhoneNumber,684,2059344011,20593xx011
+PhoneNumber,685,2059344011,20593xx011
+PhoneNumber,686,2059344011,20593xx011
+PhoneNumber,687,2059344011,20593xx011
+PhoneNumber,688,2059344011,20593xx011
+PhoneNumber,689,2059344011,20593xx011
+PhoneNumber,690,2059344011,20593xx011
+PhoneNumber,691,2059344011,20593xx011
+PhoneNumber,700,334x836541,3342836541
+PhoneNumber,714,33x28365x1,3342836541
+PhoneNumber,752,334xxx8466,3342228466
+PhoneNumber,764,33422284xx,3342228466
+PhoneNumber,825,2564944xxx,2564944000
+PhoneNumber,856,x059x16x00,2059216200
+PhoneNumber,866,20x9216200,2059216200
+PhoneNumber,882,x0593x5966,2059325966
+PhoneNumber,884,x0593x5966,2059325966
+PhoneNumber,917,x565435x00,2565435200
+HospitalOwner,23,government - hospxtal dxstrxct or authorxty,government - hospital district or authority
+HospitalOwner,28,government - hospital xistrict or authority,government - hospital district or authority
+HospitalOwner,32,governmenx - hospixal disxricx or auxhorixy,government - hospital district or authority
+HospitalOwner,43,gxvernment - hxspital district xr authxrity,government - hospital district or authority
+HospitalOwner,114,volunxary non-profix - privaxe,voluntary non-profit - private
+HospitalOwner,158,pxopxietaxy,proprietary
+HospitalOwner,160,proxrietary,proprietary
+HospitalOwner,163,xroprietary,proprietary
+HospitalOwner,165,pxopxietaxy,proprietary
+HospitalOwner,217,volunxary non-profix - privaxe,voluntary non-profit - private
+HospitalOwner,219,voluntary nonxprofit x private,voluntary non-profit - private
+HospitalOwner,222,voluntaryxnon-profitx-xchurch,voluntary non-profit - church
+HospitalOwner,239,voxuntary non-profit - church,voluntary non-profit - church
+HospitalOwner,248,governxent - federal,government - federal
+HospitalOwner,314,prxprietary,proprietary
+HospitalOwner,333,proxrietary,proprietary
+HospitalOwner,357,prxprietary,proprietary
+HospitalOwner,450,proxrietary,proprietary
+HospitalOwner,457,gxvernment - hxspital district xr authxrity,government - hospital district or authority
+HospitalOwner,494,voluntaryxnon-profitx-xprivate,voluntary non-profit - private
+HospitalOwner,527,volxntary non-profit - chxrch,voluntary non-profit - church
+HospitalOwner,573,voluntary non-profit - otxer,voluntary non-profit - other
+HospitalOwner,745,prxprietary,proprietary
+HospitalOwner,785,goverxmext - hospital district or authority,government - hospital district or authority
+HospitalOwner,847,voluntaxy non-pxofit - pxivate,voluntary non-profit - private
+HospitalOwner,869,voluxtary xox-profit - private,voluntary non-profit - private
+HospitalOwner,873,voluntaxy non-pxofit - pxivate,voluntary non-profit - private
+EmergencyService,25,yxs,yes
+EmergencyService,44,yex,yes
+EmergencyService,52,yxs,yes
+EmergencyService,158,yxs,yes
+EmergencyService,319,xes,yes
+EmergencyService,328,yex,yes
+EmergencyService,333,yex,yes
+EmergencyService,351,yxs,yes
+EmergencyService,375,yex,yes
+EmergencyService,390,yxs,yes
+EmergencyService,411,yxs,yes
+EmergencyService,419,xo,no
+EmergencyService,493,yxs,yes
+EmergencyService,522,yxs,yes
+EmergencyService,537,yex,yes
+EmergencyService,565,xes,yes
+EmergencyService,580,xes,yes
+EmergencyService,588,xes,yes
+EmergencyService,629,yex,yes
+EmergencyService,654,xo,no
+EmergencyService,675,yex,yes
+EmergencyService,798,yxs,yes
+EmergencyService,810,xes,yes
+EmergencyService,867,yxs,yes
+EmergencyService,890,yex,yes
+EmergencyService,920,yex,yes
+EmergencyService,922,yxs,yes
+Condition,22,heart attaxk,heart attack
+Condition,23,hearx axxack,heart attack
+Condition,74,hearx axxack,heart attack
+Condition,128,heaxt failuxe,heart failure
+Condition,200,heaxt attack,heart attack
+Condition,226,hexrt attxck,heart attack
+Condition,230,heart faxlure,heart failure
+Condition,237,suxgical infection pxevention,surgical infection prevention
+Condition,240,surgxcal infectxon preventxon,surgical infection prevention
+Condition,257,xneumonia,pneumonia
+Condition,280,xeart failure,heart failure
+Condition,367,pnxumonia,pneumonia
+Condition,370,pnexmonia,pneumonia
+Condition,387,hxart failurx,heart failure
+Condition,401,hxart failurx,heart failure
+Condition,468,hexrt attxck,heart attack
+Condition,507,pneumonix,pneumonia
+Condition,556,pxeumoxia,pneumonia
+Condition,600,heart faixure,heart failure
+Condition,609,surgical ixfectiox prevextiox,surgical infection prevention
+Condition,632,pneumonxa,pneumonia
+Condition,680,xneumonia,pneumonia
+Condition,696,heart attaxk,heart attack
+Condition,699,hexrt fxilure,heart failure
+Condition,713,surgical infection xrevention,surgical infection prevention
+Condition,717,heartxattack,heart attack
+Condition,734,suxgical infection pxevention,surgical infection prevention
+Condition,781,heart attaxk,heart attack
+Condition,852,surgical infxction prxvxntion,surgical infection prevention
+Condition,870,surgical ixfectiox prevextiox,surgical infection prevention
+Condition,956,hexrt attxck,heart attack
+Condition,975,surgical xnfection prevention,surgical infection prevention
+MeasureName,37,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,62,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,87,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,95,xeart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival
+MeasureName,112,surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,120,heart attack patients given aspirin at arrivax,heart attack patients given aspirin at arrival
+MeasureName,137,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,146,heart attaxk patients given aspirin at disxharge,heart attack patients given aspirin at discharge
+MeasureName,162,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,187,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,211,pneumoniaxpatientsxassessedxandxgivenxinfluenzaxvaccination,pneumonia patients assessed and given influenza vaccination
+MeasureName,212,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,220,heartxattackxpatientsxgivenxaspirinxatxarrival,heart attack patients given aspirin at arrival
+MeasureName,237,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,257,pneumonxa patxents whose inxtxal emergency room blood culture was performed prxor to the admxnxstratxon of the fxrst hospxtal dose of antxbxotxcs,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,262,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,282,pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+MeasureName,287,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,291,all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,331,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,341,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,347,surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+MeasureName,372,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,381,heaxt attack patients given aspixin at dischaxge,heart attack patients given aspirin at discharge
+MeasureName,390,heart xailure patients given smoking cessation advice/counseling,heart failure patients given smoking cessation advice/counseling
+MeasureName,409,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,432,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,435,heart faxlure patxents gxven ace inhxbxtor or arb for left ventrxcular systolxc dysfunctxon (lvsd),heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,443,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,448,surgeryxpatientsxneedingxhairxremovedxfromxthexsurgicalxareaxbeforexsurgery& xwhoxhadxhairxremovedxusingxaxsaferxmethodx(electricxclippersxorxhairxremovalxcreamxï¿½cxnotxaxrazor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,459,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,474,heaxt failuxe patients given dischaxge instxuctions,heart failure patients given discharge instructions
+MeasureName,484,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,494,hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd),heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,508,pneumonix pxtients assessed xnd given influenzx vxccinxtion,pneumonia patients assessed and given influenza vaccination
+MeasureName,509,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,533,pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox,pneumonia patients assessed and given influenza vaccination
+MeasureName,534,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,542,hexrt attxck pxtients given aspirin xt arrivxl,heart attack patients given aspirin at arrival
+MeasureName,546,heaxt attack patients given beta blockex at dischaxge,heart attack patients given beta blocker at discharge
+MeasureName,559,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,563,allxheartxsurgeryxpatientsxwhosexbloodxsugarx(bloodxglucose)xisxkeptxunderxgoodxcontrolxinxthexdaysxrightxafterxsurgery,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,584,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,609,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,613,all heaxt suxgexy patients whose blood sugax (blood glucose) is kept undex good contxol in the days xight aftex suxgexy,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+MeasureName,634,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,651,heart failure patients given ace inhibitor or arb for left xentricular systolic dysfunction (lxsd),heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+MeasureName,652,heart faxlure patxents gxven smokxng cessatxon advxce/counselxng,heart failure patients given smoking cessation advice/counseling
+MeasureName,659,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,673,heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival,heart attack patients given pci within 90 minutes of arrival
+MeasureName,684,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,706,pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,707,pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s),pneumonia patients given the most appropriate initial antibiotic(s)
+MeasureName,709,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,714,surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+MeasureName,734,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,759,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,786,heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+MeasureName,795,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,803,heart attack patxents gxven aspxrxn at arrxval,heart attack patients given aspirin at arrival
+MeasureName,817,pneumonix pxtients given initixl antibiotic(s) within 6 hours after arrivxl,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+MeasureName,820,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,845,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,870,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,894,pneumonia patients assessed and given influenza vaxxination,pneumonia patients assessed and given influenza vaccination
+MeasureName,895,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,903,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma,children who received reliever medication while hospitalized for asthma
+MeasureName,916,hearx failure paxienxs given smoking cessaxion advice/counseling,heart failure patients given smoking cessation advice/counseling
+MeasureName,923,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,948,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,973,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,998,surgery pxtients who were txking hexrt drugs cxlled betx blockers before coming to the hospitxl who were kept on the betx blockers during the period just before xnd xfter their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+Stateavg,57,al_pn-xb,al_pn-3b
+Stateavg,70,al_amx-1,al_ami-1
+Stateavg,194,al_scix-vte-2,al_scip-vte-2
+Stateavg,214,al_sxip-inf-2,al_scip-inf-2
+Stateavg,245,ax_ami-1,al_ami-1
+Stateavg,249,xl_xmi-5,al_ami-5
+Stateavg,270,al_axi-1,al_ami-1
+Stateavg,335,al_pnx2,al_pn-2
+Stateavg,348,al_scipxvtex2,al_scip-vte-2
+Stateavg,371,alxpn-7,al_pn-7
+Stateavg,374,al_sxip-inf-2,al_scip-inf-2
+Stateavg,388,al_hx-2,al_hf-2
+Stateavg,433,ak_hf-1,al_hf-1
+Stateavg,434,ak_hf-2,al_hf-2
+Stateavg,435,ak_hf-3,al_hf-3
+Stateavg,436,ak_hf-4,al_hf-4
+Stateavg,437,ak_pn-2,al_pn-2
+Stateavg,438,ak_pn-3b,al_pn-3b
+Stateavg,439,ak_pn-4,al_pn-4
+Stateavg,440,ak_pn-5c,al_pn-5c
+Stateavg,441,ak_pn-6,al_pn-6
+Stateavg,442,ak_pn-7,al_pn-7
+Stateavg,443,ak_scip-card-2,al_scip-card-2
+Stateavg,444,ak_scip-inf-1,al_scip-inf-1
+Stateavg,445,ak_scip-inf-2,al_scip-inf-2
+Stateavg,446,ak_scip-inf-3,al_scip-inf-3
+Stateavg,447,ak_scip-inf-4,al_scip-inf-4
+Stateavg,448,ak_scip-inf-6,al_scip-inf-6
+Stateavg,449,ak_scip-vte-1,al_scip-vte-1
+Stateavg,450,ak_scip-vte-2,al_scip-vte-2
+Stateavg,451,ak_ami-1,al_ami-1
+Stateavg,452,ak_ami-2,al_ami-2
+Stateavg,478,ax_pn-2,al_pn-2
+Stateavg,556,al_pn-5x,al_pn-5c
+Stateavg,565,al_scipxvtex1,al_scip-vte-1
+Stateavg,568,xl_xmi-2,al_ami-2
+Stateavg,623,al_amix8a,al_ami-8a
+Stateavg,647,alxami-7a,al_ami-7a
+Stateavg,679,alxpn-3b,al_pn-3b
+Stateavg,722,al_amx-7a,al_ami-7a
+Stateavg,761,al_scipxinfx2,al_scip-inf-2
+Stateavg,765,al_scix-vte-1,al_scip-vte-1
+Stateavg,788,al_hf-x,al_hf-4
+Stateavg,797,xl_scip-inf-2,al_scip-inf-2
+Stateavg,828,xl_xmi-1,al_ami-1
+Stateavg,921,alxpn-6,al_pn-6

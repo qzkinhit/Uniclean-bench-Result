@@ -1,0 +1,278 @@
+Attribute,Index,Clean Value,Cleaned Value
+ProviderNumber,214,10011,x00xx
+HospitalName,27,southeast alabama medical center,southeast alabama medxcal center
+HospitalName,132,crenshaw community hospital,crenshaw cxmmunity hxspital
+HospitalName,172,marshall medical center north,marshall medical cenxer norxh
+HospitalName,244,dekalb regional medical center,dexalb regional medical center
+HospitalName,338,flowers hospital,floxers hospital
+HospitalName,385,univ of south alabama medical center,univ ox south alabama medical center
+HospitalName,386,univ of south alabama medical center,xniv of soxth alabama medical center
+HospitalName,449,alaska regional hospital,xlxskx regionxl hospitxl
+HospitalName,533,baptist medical center south,baptist medical cexter south
+HospitalName,561,jackson hospital & clinic inc,jaxkson hospital & xlinix inx
+HospitalName,655,wedowee hospital,wedowee hosxital
+HospitalName,698,community hospital inc,communitx hospital inc
+HospitalName,711,community hospital inc,communixy hospixal inc
+HospitalName,731,cullman regional medical center,cullmxn regionxl medicxl center
+HospitalName,759,andalusia regional hospital,andaxusia regionax hospitax
+HospitalName,766,andalusia regional hospital,andaluxia regional hoxpital
+HospitalName,778,huntsville hospital,huntsvxlle hospxtal
+HospitalName,904,riverview regional medical center,rivxrvixw rxgional mxdical cxntxr
+HospitalName,922,riverview regional medical center,xivexview xegional medical centex
+HospitalName,923,riverview regional medical center,riverview rexional medical center
+HospitalName,939,georgiana hospital,georgiaxa hospital
+HospitalName,957,medical center enterprise,medixal xenter enterprise
+HospitalName,963,medical center enterprise,medxcal center enterprxse
+HospitalName,988,st vincents blount,st vincents bxount
+Address1,351,810 st vincents drive,810 st vxncents drxve
+Address1,394,124 s memorial dr,124xsxmemorialxdr
+Address1,416,315 w hickory st,315 w hickxry st
+Address1,452,po box 287,poxboxx287
+Address1,957,400 n edwards street,400xnxedwardsxstreet
+City,94,florence,flxrence
+City,229,fort payne,fort payxe
+City,579,valley,vallex
+City,591,valley,vxlley
+City,655,wedowee,wxdowxx
+City,737,cullman,cuxxman
+City,856,hamilton,hamilxon
+City,896,fayette,faxette
+State,43,al,xl
+State,229,al,ax
+State,357,al,ax
+State,573,al,ax
+State,923,al,ax
+ZipCode,94,35631,3563x
+ZipCode,711,36078,36x78
+CountyName,416,talladega,tallaxega
+CountyName,579,chambers,xhambers
+CountyName,591,chambers,chaxbers
+CountyName,731,cullman,cxllman
+CountyName,896,fayette,fayexxe
+PhoneNumber,58,2565938310,2x6x938310
+PhoneNumber,382,2514717110,25x47x7xx0
+PhoneNumber,385,2514717110,25x47x7xx0
+PhoneNumber,387,2514717110,25x47x7xx0
+PhoneNumber,394,3343614267,33x361x267
+PhoneNumber,856,2059216200,x059x16x00
+HospitalType,200,acute care hospitals,acute care hosxitals
+HospitalType,414,acute care hospitals,acuxe care hospixals
+HospitalType,494,acute care hospitals,acute care hxspitals
+HospitalType,533,acute care hospitals,acute care hosxitals
+HospitalType,696,acute care hospitals,acute cxre hospitxls
+HospitalType,706,acute care hospitals,acutexcarexhospitals
+HospitalType,903,acute care hospitals,acutexcarexhospitals
+HospitalOwner,23,government - hospital district or authority,government - hospxtal dxstrxct or authorxty
+HospitalOwner,28,government - hospital district or authority,government - hospital xistrict or authority
+HospitalOwner,32,government - hospital district or authority,governmenx - hospixal disxricx or auxhorixy
+HospitalOwner,43,government - hospital district or authority,gxvernment - hxspital district xr authxrity
+HospitalOwner,158,proprietary,pxopxietaxy
+HospitalOwner,217,voluntary non-profit - private,volunxary non-profix - privaxe
+HospitalOwner,248,government - federal,governxent - federal
+HospitalOwner,333,proprietary,proxrietary
+HospitalOwner,573,voluntary non-profit - other,voluntary non-profit - otxer
+EmergencyService,25,yes,yxs
+EmergencyService,44,yes,yex
+EmergencyService,52,yes,yxs
+EmergencyService,158,yes,yxs
+EmergencyService,319,yes,xes
+EmergencyService,328,yes,yex
+EmergencyService,333,yes,yex
+EmergencyService,351,yes,yxs
+EmergencyService,375,yes,yex
+EmergencyService,390,yes,yxs
+EmergencyService,411,yes,yxs
+EmergencyService,419,no,xo
+EmergencyService,493,yes,yxs
+EmergencyService,522,yes,yxs
+EmergencyService,537,yes,yex
+EmergencyService,565,yes,xes
+EmergencyService,580,yes,xes
+EmergencyService,588,yes,xes
+EmergencyService,629,yes,yex
+EmergencyService,654,no,xo
+EmergencyService,675,yes,yex
+EmergencyService,798,yes,yxs
+EmergencyService,810,yes,xes
+EmergencyService,867,yes,yxs
+EmergencyService,890,yes,yex
+EmergencyService,920,yes,yex
+EmergencyService,922,yes,yxs
+Condition,22,heart attack,heart attaxk
+Condition,23,heart attack,hearx axxack
+Condition,74,heart attack,hearx axxack
+Condition,128,heart failure,heaxt failuxe
+Condition,200,heart attack,heaxt attack
+Condition,226,heart attack,hexrt attxck
+Condition,230,heart failure,heart faxlure
+Condition,237,surgical infection prevention,suxgical infection pxevention
+Condition,240,surgical infection prevention,surgxcal infectxon preventxon
+Condition,257,pneumonia,xneumonia
+Condition,280,heart failure,xeart failure
+Condition,367,pneumonia,pnxumonia
+Condition,370,pneumonia,pnexmonia
+Condition,387,heart failure,hxart failurx
+Condition,401,heart failure,hxart failurx
+Condition,468,heart attack,hexrt attxck
+Condition,507,pneumonia,pneumonix
+Condition,556,pneumonia,pxeumoxia
+Condition,600,heart failure,heart faixure
+Condition,609,surgical infection prevention,surgical ixfectiox prevextiox
+Condition,632,pneumonia,pneumonxa
+Condition,680,pneumonia,xneumonia
+Condition,696,heart attack,heart attaxk
+Condition,699,heart failure,hexrt fxilure
+Condition,713,surgical infection prevention,surgical infection xrevention
+Condition,717,heart attack,heartxattack
+Condition,734,surgical infection prevention,suxgical infection pxevention
+Condition,781,heart attack,heart attaxk
+Condition,852,surgical infection prevention,surgical infxction prxvxntion
+Condition,870,surgical infection prevention,surgical ixfectiox prevextiox
+Condition,956,heart attack,hexrt attxck
+Condition,975,surgical infection prevention,surgical xnfection prevention
+MeasureCode,98,ami-4,axi-4
+MeasureCode,102,hf-1,hfx1
+MeasureCode,109,pn-5c,pnx5c
+MeasureCode,121,ami-2,axi-2
+MeasureCode,178,hf-2,hf-x
+MeasureCode,191,scip-inf-4,scip-inx-4
+MeasureCode,265,scip-inf-3,scxp-xnf-3
+MeasureCode,350,ami-2,amix2
+MeasureCode,392,pn-3b,pn-xb
+MeasureCode,399,hf-1,hx-1
+MeasureCode,410,scip-inf-1,scipxinfx1
+MeasureCode,465,scip-vte-1,sxip-vte-1
+MeasureCode,496,ami-5,ami-x
+MeasureCode,581,pn-5c,px-5c
+MeasureCode,640,scip-vte-1,scip-vtx-1
+MeasureCode,649,hf-1,hfx1
+MeasureCode,674,hf-1,xf-1
+MeasureCode,677,hf-4,hfx4
+MeasureCode,692,ami-1,amix1
+MeasureCode,695,ami-4,amx-4
+MeasureCode,719,ami-3,amx-3
+MeasureCode,730,pn-4,px-4
+MeasureCode,736,scip-inf-2,scix-inf-2
+MeasureCode,750,hf-2,hx-2
+MeasureCode,775,cac-1,xax-1
+MeasureCode,789,pn-2,pn-x
+MeasureCode,843,pn-6,pnx6
+MeasureCode,866,pn-4,px-4
+MeasureCode,931,ami-1,amix1
+MeasureName,1,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery
+MeasureName,95,heart attack patients given aspirin at arrival,xeart attack patients given aspirin at arrival
+MeasureName,112,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery
+MeasureName,120,heart attack patients given aspirin at arrival,heart attack patients given aspirin at arrivax
+MeasureName,146,heart attack patients given aspirin at discharge,heart attaxk patients given aspirin at disxharge
+MeasureName,211,pneumonia patients assessed and given influenza vaccination,pneumoniaxpatientsxassessedxandxgivenxinfluenzaxvaccination
+MeasureName,220,heart attack patients given aspirin at arrival,heartxattackxpatientsxgivenxaspirinxatxarrival
+MeasureName,257,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,pneumonxa patxents whose inxtxal emergency room blood culture was performed prxor to the admxnxstratxon of the fxrst hospxtal dose of antxbxotxcs
+MeasureName,282,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics
+MeasureName,291,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx
+MeasureName,347,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries
+MeasureName,381,heart attack patients given aspirin at discharge,heaxt attack patients given aspixin at dischaxge
+MeasureName,390,heart failure patients given smoking cessation advice/counseling,heart xailure patients given smoking cessation advice/counseling
+MeasureName,435,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),heart faxlure patxents gxven ace inhxbxtor or arb for left ventrxcular systolxc dysfunctxon (lvsd)
+MeasureName,448,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgeryxpatientsxneedingxhairxremovedxfromxthexsurgicalxareaxbeforexsurgery& xwhoxhadxhairxremovedxusingxaxsaferxmethodx(electricxclippersxorxhairxremovalxcreamxï¿½cxnotxaxrazor)
+MeasureName,474,heart failure patients given discharge instructions,heaxt failuxe patients given dischaxge instxuctions
+MeasureName,494,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd)
+MeasureName,508,pneumonia patients assessed and given influenza vaccination,pneumonix pxtients assessed xnd given influenzx vxccinxtion
+MeasureName,533,pneumonia patients assessed and given influenza vaccination,pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox
+MeasureName,542,heart attack patients given aspirin at arrival,hexrt attxck pxtients given aspirin xt arrivxl
+MeasureName,546,heart attack patients given beta blocker at discharge,heaxt attack patients given beta blockex at dischaxge
+MeasureName,563,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,allxheartxsurgeryxpatientsxwhosexbloodxsugarx(bloodxglucose)xisxkeptxunderxgoodxcontrolxinxthexdaysxrightxafterxsurgery
+MeasureName,613,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,all heaxt suxgexy patients whose blood sugax (blood glucose) is kept undex good contxol in the days xight aftex suxgexy
+MeasureName,651,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),heart failure patients given ace inhibitor or arb for left xentricular systolic dysfunction (lxsd)
+MeasureName,652,heart failure patients given smoking cessation advice/counseling,heart faxlure patxents gxven smokxng cessatxon advxce/counselxng
+MeasureName,673,heart attack patients given pci within 90 minutes of arrival,heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival
+MeasureName,706,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival
+MeasureName,707,pneumonia patients given the most appropriate initial antibiotic(s),pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s)
+MeasureName,714,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)
+MeasureName,786,heart failure patients given an evaluation of left ventricular systolic (lvs) function,heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function
+MeasureName,803,heart attack patients given aspirin at arrival,heart attack patxents gxven aspxrxn at arrxval
+MeasureName,817,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,pneumonix pxtients given initixl antibiotic(s) within 6 hours after arrivxl
+MeasureName,894,pneumonia patients assessed and given influenza vaccination,pneumonia patients assessed and given influenza vaxxination
+MeasureName,903,children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma
+MeasureName,916,heart failure patients given smoking cessation advice/counseling,hearx failure paxienxs given smoking cessaxion advice/counseling
+MeasureName,998,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery pxtients who were txking hexrt drugs cxlled betx blockers before coming to the hospitxl who were kept on the betx blockers during the period just before xnd xfter their surgery
+Score,121,100%,x00%
+Score,159,98%,9x%
+Score,164,57%,x7%
+Score,188,95%,95x
+Score,209,95%,x5%
+Score,238,97%,9x%
+Score,239,99%,xx%
+Score,253,89%,89x
+Score,257,96%,x6%
+Score,337,100%,x00%
+Score,379,95%,x5%
+Score,406,94%,x4%
+Score,412,100%,1xx%
+Score,427,97%,x7%
+Score,489,100%,1xx%
+Score,507,93%,93x
+Score,515,100%,1xx%
+Score,699,88%,xx%
+Score,712,100%,1xx%
+Score,719,67%,x7%
+Score,770,93%,x3%
+Score,861,80%,80x
+Score,889,85%,x5%
+Sample,18,37 patients,3x patients
+Sample,92,619 patients,619 paxienxs
+Sample,116,0 patients,0 patixnts
+Sample,134,21 patients,21 pxtients
+Sample,167,11 patients,xx patients
+Sample,171,6 patients,6xpatients
+Sample,225,1 patients,1 patiexts
+Sample,235,82 patients,82 patientx
+Sample,317,29 patients,29 xatients
+Sample,355,10 patients,1x patients
+Sample,414,125 patients,125 patixnts
+Sample,419,4 patients,4 xatients
+Sample,445,521 patients,521 patiexts
+Sample,463,0 patients,x patients
+Sample,483,62 patients,62 patientx
+Sample,497,0 patients,0 patxents
+Sample,503,44 patients,44 paxienxs
+Sample,524,257 patients,25x patients
+Sample,533,87 patients,87 patientx
+Sample,547,0 patients,x patients
+Sample,555,74 patients,74 patxents
+Sample,581,50 patients,50 pxtients
+Sample,589,172 patients,172 patxents
+Sample,669,87 patients,87 paxienxs
+Sample,674,618 patients,618 xatients
+Sample,777,193 patients,193 paxienxs
+Sample,846,4 patients,4 patiexts
+Sample,867,121 patients,121 patiexts
+Sample,873,15 patients,15 patiexts
+Sample,906,126 patients,126 patxents
+Sample,973,27 patients,27 paxienxs
+Stateavg,57,al_pn-3b,al_pn-xb
+Stateavg,70,al_ami-1,al_amx-1
+Stateavg,194,al_scip-vte-2,al_scix-vte-2
+Stateavg,214,al_scip-inf-2,al_sxip-inf-2
+Stateavg,245,al_ami-1,ax_ami-1
+Stateavg,249,al_ami-5,xl_xmi-5
+Stateavg,270,al_ami-1,al_axi-1
+Stateavg,335,al_pn-2,al_pnx2
+Stateavg,348,al_scip-vte-2,al_scipxvtex2
+Stateavg,371,al_pn-7,alxpn-7
+Stateavg,374,al_scip-inf-2,al_sxip-inf-2
+Stateavg,388,al_hf-2,al_hx-2
+Stateavg,478,al_pn-2,ax_pn-2
+Stateavg,556,al_pn-5c,al_pn-5x
+Stateavg,565,al_scip-vte-1,al_scipxvtex1
+Stateavg,568,al_ami-2,xl_xmi-2
+Stateavg,623,al_ami-8a,al_amix8a
+Stateavg,647,al_ami-7a,alxami-7a
+Stateavg,679,al_pn-3b,alxpn-3b
+Stateavg,722,al_ami-7a,al_amx-7a
+Stateavg,761,al_scip-inf-2,al_scipxinfx2
+Stateavg,765,al_scip-vte-1,al_scix-vte-1
+Stateavg,788,al_hf-4,al_hf-x
+Stateavg,797,al_scip-inf-2,xl_scip-inf-2
+Stateavg,828,al_ami-1,xl_xmi-1
+Stateavg,843,al_pn-6,al_pnx6
+Stateavg,921,al_pn-6,alxpn-6

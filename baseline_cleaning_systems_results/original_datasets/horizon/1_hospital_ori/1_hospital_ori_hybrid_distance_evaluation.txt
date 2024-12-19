@@ -1,0 +1,22 @@
+Attribute: index, MSE: nan, Jaccard: 0.0
+Attribute: ProviderNumber, MSE: nan, Jaccard: 0.08340425531914897
+Attribute: HospitalName, MSE: nan, Jaccard: 0.3632040924879799
+Attribute: Address1, MSE: nan, Jaccard: 0.06468085106382981
+Attribute: Address2, MSE: nan, Jaccard: nan
+Attribute: Address3, MSE: nan, Jaccard: nan
+Attribute: City, MSE: nan, Jaccard: 0.07414634146341459
+Attribute: State, MSE: nan, Jaccard: 0.34183673469387754
+Attribute: ZipCode, MSE: nan, Jaccard: 0.06608695652173913
+Attribute: CountyName, MSE: nan, Jaccard: 0.14
+Attribute: PhoneNumber, MSE: nan, Jaccard: 0.10493589743589737
+Attribute: HospitalType, MSE: nan, Jaccard: 0.9255384615384615
+Attribute: HospitalOwner, MSE: nan, Jaccard: 0.0
+Attribute: EmergencyService, MSE: nan, Jaccard: 0.0
+Attribute: Condition, MSE: nan, Jaccard: 0.0
+Attribute: MeasureCode, MSE: nan, Jaccard: 0.5006726201366767
+Attribute: MeasureName, MSE: nan, Jaccard: 0.06896551724137934
+�����ָ�������� Score �Ƿ�Ϊ��ֵ�ͣ�
+Attribute: Score, MSE: nan, Jaccard: 0.21276480412597165
+Attribute: Sample, MSE: nan, Jaccard: 0.11908780284510911
+Attribute: Stateavg, MSE: nan, Jaccard: 0.43938673823141094
+��Ȩ��Ͼ���: 0.09735308536402491

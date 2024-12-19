@@ -1,0 +1,668 @@
+06:49:46 - [DEBUG] - initiating session with parameters: {'db_user': 'datacleanuser', 'db_pwd': 'abcd1234', 'db_host': 'localhost', 'db_name': 'holo', 'threads': 1, 'timeout': 180000, 'seed': 45, 'learning_rate': 0.001, 'optimizer': 'adam', 'epochs': 10, 'weight_decay': 0.01, 'momentum': 0.0, 'batch_size': 1, 'weak_label_thresh': 0.99, 'domain_thresh_1': 0, 'domain_thresh_2': 0, 'max_domain': 10000, 'cor_strength': 0.6, 'nb_cor_strength': 0.8, 'feature_norm': False, 'weight_norm': False, 'estimator_epochs': 3, 'estimator_batch_size': 32, 'verbose': True, 'bias': False, 'print_fw': True, 'debug_mode': False}
+06:49:46 - [ INFO] - Loaded 10610 rows with 116710 cells
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [DEBUG] - Time to create index: 0.00 secs
+06:49:48 - [ INFO] - DONE Loading subset_dirty_index_10k_holoclean.csv
+06:49:48 - [DEBUG] - Time to load dataset: 1.15 secs
+06:49:48 - [DEBUG] - OPENED constraints file successfully
+06:49:48 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.name,t2.name)&IQ(t1.surname,t2.surname)
+06:49:48 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.name,t2.name)&IQ(t1.surname,t2.surname)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.name,t2.name)
+06:49:48 - [DEBUG] - DONE parsing predicate: IQ(t1.surname,t2.surname)
+06:49:48 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.name,t2.name)&IQ(t1.birthyear,t2.birthyear)
+06:49:48 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.name,t2.name)&IQ(t1.birthyear,t2.birthyear)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.name,t2.name)
+06:49:48 - [DEBUG] - DONE parsing predicate: IQ(t1.birthyear,t2.birthyear)
+06:49:48 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.name,t2.name)&IQ(t1.birthplace,t2.birthplace)
+06:49:48 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.name,t2.name)&IQ(t1.birthplace,t2.birthplace)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.name,t2.name)
+06:49:48 - [DEBUG] - DONE parsing predicate: IQ(t1.birthplace,t2.birthplace)
+06:49:48 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.name,t2.name)&EQ(t1.season,t2.season)&IQ(t1.position,t2.position)
+06:49:48 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.name,t2.name)&EQ(t1.season,t2.season)&IQ(t1.position,t2.position)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.name,t2.name)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.season,t2.season)
+06:49:48 - [DEBUG] - DONE parsing predicate: IQ(t1.position,t2.position)
+06:49:48 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.team,t2.team)&EQ(t1.city,t2.city)&EQ(t1.season,t2.season)&IQ(t1.stadium,t2.stadium)
+06:49:48 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.team,t2.team)&EQ(t1.city,t2.city)&EQ(t1.season,t2.season)&IQ(t1.stadium,t2.stadium)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.team,t2.team)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.city,t2.city)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.season,t2.season)
+06:49:48 - [DEBUG] - DONE parsing predicate: IQ(t1.stadium,t2.stadium)
+06:49:48 - [DEBUG] - DONE pre-processing constraint: t1&t2&EQ(t1.manager,t2.manager)&EQ(t1.season,t2.season)&IQ(t1.team,t2.team)
+06:49:48 - [DEBUG] - DONE extracting tuples from constraint: t1&t2&EQ(t1.manager,t2.manager)&EQ(t1.season,t2.season)&IQ(t1.team,t2.team)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.manager,t2.manager)
+06:49:48 - [DEBUG] - DONE parsing predicate: EQ(t1.season,t2.season)
+06:49:48 - [DEBUG] - DONE parsing predicate: IQ(t1.team,t2.team)
+06:49:48 - [ INFO] - DONE Loading DCs from dc_rules_holoclean.txt
+06:49:48 - [DEBUG] - Time to load dirty data: 0.00 secs
+06:49:48 - [DEBUG] - DONE with Error Detector: NullDetector in 0.05 secs
+06:49:48 - [DEBUG] - Preparing to execute 6 queries.
+06:49:48 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "soccer_ori" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "soccer_ori" as t2 WHERE t1."name"=t2."name" AND t1."surname"<>t2."surname") with id 0
+06:49:49 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+06:49:49 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "soccer_ori" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "soccer_ori" as t2 WHERE t1."name"=t2."name" AND t1."birthyear"<>t2."birthyear") with id 1
+06:49:52 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+06:49:52 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "soccer_ori" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "soccer_ori" as t2 WHERE t1."name"=t2."name" AND t1."birthplace"<>t2."birthplace") with id 2
+06:49:55 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+06:49:55 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "soccer_ori" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "soccer_ori" as t2 WHERE t1."name"=t2."name" AND t1."season"=t2."season" AND t1."position"<>t2."position") with id 3
+06:49:58 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+06:49:58 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "soccer_ori" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "soccer_ori" as t2 WHERE t1."team"=t2."team" AND t1."city"=t2."city" AND t1."season"=t2."season" AND t1."stadium"<>t2."stadium") with id 4
+06:50:00 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+06:50:00 - [DEBUG] - Starting to execute query SELECT t1._tid_ FROM "soccer_ori" as t1 WHERE   EXISTS (SELECT t2._tid_ FROM "soccer_ori" as t2 WHERE t1."manager"=t2."manager" AND t1."season"=t2."season" AND t1."team"<>t2."team") with id 5
+06:50:03 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+06:50:03 - [DEBUG] - Time to execute 6 queries: 0.01 secs
+06:50:03 - [DEBUG] - DONE with Error Detector: ViolationDetector in 0.06 secs
+06:50:03 - [ INFO] - detected 9260 potentially erroneous cells
+06:50:04 - [DEBUG] - Time to create index: 0.00 secs
+06:50:04 - [ INFO] - DONE with error detection.
+06:50:04 - [DEBUG] - Time to detect errors: 0.81 secs
+06:50:14 - [DEBUG] - Time to execute query: 0.00 secs
+06:50:14 - [DEBUG] - computing frequency and co-occurrence statistics from raw data...
+06:50:14 - [DEBUG] - Collecting single/pair-wise statistics...
+06:50:16 - [DEBUG] - DONE computing statistics in 2.24s
+06:50:16 - [DEBUG] - preparing pruned co-occurring statistics...
+
+  0%|          | 0/10 [00:00<?, ?it/s]
+100%|██████████| 10/10 [00:00<00:00, 3086.09it/s]
+06:50:16 - [DEBUG] - DONE with pruned co-occurring statistics in 0.00 secs
+06:50:16 - [DEBUG] - generating initial set of un-pruned domain values...
+
+  0%|          | 0/10610 [00:00<?, ?it/s]
+  7%|▋         | 693/10610 [00:00<00:01, 6927.86it/s]
+ 13%|█▎        | 1363/10610 [00:00<00:01, 6857.56it/s]
+ 20%|█▉        | 2076/10610 [00:00<00:01, 6936.57it/s]
+ 26%|██▌       | 2748/10610 [00:00<00:01, 6870.09it/s]
+ 32%|███▏      | 3426/10610 [00:00<00:01, 6841.60it/s]
+ 39%|███▉      | 4151/10610 [00:00<00:00, 6956.87it/s]
+ 45%|████▌     | 4815/10610 [00:00<00:00, 6853.81it/s]
+ 52%|█████▏    | 5519/10610 [00:00<00:00, 6907.21it/s]
+ 59%|█████▊    | 6216/10610 [00:00<00:00, 6925.45it/s]
+ 65%|██████▍   | 6882/10610 [00:01<00:00, 6839.98it/s]
+ 71%|███████   | 7559/10610 [00:01<00:00, 6818.62it/s]
+ 78%|███████▊  | 8229/10610 [00:01<00:00, 6776.92it/s]
+ 84%|████████▍ | 8957/10610 [00:01<00:00, 6915.65it/s]
+ 91%|█████████ | 9643/10610 [00:01<00:00, 6894.35it/s]
+ 97%|█████████▋| 10329/10610 [00:01<00:00, 6862.69it/s]
+100%|██████████| 10610/10610 [00:01<00:00, 6878.99it/s]
+06:50:18 - [DEBUG] - DONE generating initial set of domain values in 1.87
+06:50:18 - [DEBUG] - training posterior model for estimating domain value probabilities...
+06:50:18 - [DEBUG] - DONE training posterior model in 0.07s
+06:50:18 - [DEBUG] - predicting domain value probabilities from posterior model...
+06:50:18 - [DEBUG] - DONE predictions in 0.00 secs, re-constructing cell domain...
+06:50:18 - [DEBUG] - re-assembling final cell domain table...
+
+0it [00:00, ?it/s]
+
+  0%|          | 0/21220 [00:00<?, ?it/s][A
+547it [00:00, 5462.26it/s]
+
+  4%|▎         | 773/21220 [00:00<00:02, 7723.88it/s][A
+1331it [00:00, 6008.49it/s]
+
+  7%|▋         | 1553/21220 [00:00<00:02, 7744.72it/s][A
+2120it [00:00, 6470.18it/s]
+
+ 11%|█         | 2378/21220 [00:00<00:02, 7885.28it/s][A
+2924it [00:00, 6872.31it/s]
+
+ 15%|█▌        | 3187/21220 [00:00<00:02, 7945.55it/s][A
+3722it [00:00, 7170.22it/s]
+
+ 19%|█▊        | 3959/21220 [00:00<00:02, 7874.22it/s][A
+4505it [00:00, 7354.84it/s]
+
+ 22%|██▏       | 4747/21220 [00:00<00:02, 7874.78it/s][A
+5271it [00:00, 7442.53it/s]
+
+ 26%|██▌       | 5537/21220 [00:00<00:01, 7881.67it/s][A
+6081it [00:00, 7627.96it/s]
+
+ 30%|██▉       | 6347/21220 [00:00<00:01, 7943.07it/s][A
+6867it [00:00, 7694.59it/s]
+
+ 33%|███▎      | 7098/21220 [00:00<00:01, 7806.86it/s][A
+7690it [00:01, 7846.29it/s]
+
+ 37%|███▋      | 7944/21220 [00:01<00:01, 7988.97it/s][A
+8465it [00:01, 7779.98it/s]
+
+ 41%|████      | 8723/21220 [00:01<00:01, 7875.45it/s][A
+9264it [00:01, 7840.73it/s]
+
+ 45%|████▍     | 9517/21220 [00:01<00:01, 7892.16it/s][A
+10056it [00:01, 7861.71it/s]
+
+ 49%|████▊     | 10297/21220 [00:01<00:01, 7829.18it/s][A
+10842it [00:01, 7859.25it/s]
+
+ 52%|█████▏    | 11113/21220 [00:01<00:01, 7922.07it/s][A
+11626it [00:01, 7849.31it/s]
+
+ 56%|█████▌    | 11901/21220 [00:01<00:01, 7862.30it/s][A
+12410it [00:01, 7800.60it/s]
+
+ 60%|█████▉    | 12691/21220 [00:01<00:01, 7871.79it/s][A
+13216it [00:01, 7876.08it/s]
+
+ 64%|██████▎   | 13490/21220 [00:01<00:00, 7904.41it/s][A
+14040it [00:01, 7979.61it/s]
+
+ 67%|██████▋   | 14305/21220 [00:01<00:00, 7975.10it/s][A
+14838it [00:01, 7928.34it/s]
+
+ 71%|███████   | 15102/21220 [00:01<00:00, 7914.68it/s][A
+15631it [00:02, 7900.33it/s]
+
+ 75%|███████▍  | 15893/21220 [00:02<00:00, 7863.95it/s][A
+16422it [00:02, 7902.54it/s]
+
+ 79%|███████▊  | 16688/21220 [00:02<00:00, 7886.36it/s][A
+17213it [00:02, 5785.55it/s]
+
+ 82%|████████▏ | 17477/21220 [00:02<00:00, 5766.90it/s][A
+17953it [00:02, 6189.53it/s]
+
+ 86%|████████▌ | 18244/21220 [00:02<00:00, 6229.17it/s][A
+18755it [00:02, 6643.89it/s]
+
+ 90%|████████▉ | 19010/21220 [00:02<00:00, 6596.21it/s][A
+19475it [00:02, 6783.64it/s]
+
+ 93%|█████████▎| 19747/21220 [00:02<00:00, 6810.44it/s][A
+20260it [00:02, 7069.62it/s]
+
+ 97%|█████████▋| 20520/21220 [00:02<00:00, 7059.60it/s][A
+21016it [00:02, 7206.74it/s]
+
+100%|██████████| 21220/21220 [00:02<00:00, 7509.49it/s][A
+21220it [00:02, 7340.19it/s]
+06:50:22 - [DEBUG] - DONE assembling cell domain table in 3.72s
+06:50:22 - [ INFO] - number of (additional) weak labels assigned from posterior model: 0
+06:50:22 - [DEBUG] - DONE generating domain and weak labels
+06:50:25 - [DEBUG] - Time to create index: 0.00 secs
+06:50:25 - [DEBUG] - Time to create index: 0.00 secs
+06:50:25 - [DEBUG] - Time to create index: 0.00 secs
+06:50:26 - [DEBUG] - Time to create table: 0.00 secs
+06:50:27 - [DEBUG] - Time to create index: 0.00 secs
+06:50:27 - [ INFO] - DONE with domain preparation.
+06:50:27 - [DEBUG] - Time to setup the domain: 23.14 secs
+06:50:27 - [DEBUG] - Time to execute query: 0.00 secs
+06:50:27 - [DEBUG] - Time to execute query: 0.00 secs
+06:50:27 - [DEBUG] - Time to execute query: 0.00 secs
+06:50:27 - [DEBUG] - Time to execute query: 0.00 secs
+06:50:27 - [DEBUG] - Time to execute query: 0.00 secs
+06:50:27 - [DEBUG] - featurizing training data...
+06:50:28 - [DEBUG] - Time to execute query: 0.03 secs
+
+  0%|          | 0/21220 [00:00<?, ?it/s]
+  1%|          | 180/21220 [00:00<00:11, 1797.76it/s]
+  2%|▏         | 359/21220 [00:00<00:16, 1300.30it/s]
+  3%|▎         | 547/21220 [00:00<00:14, 1432.18it/s]
+  3%|▎         | 739/21220 [00:00<00:13, 1549.76it/s]
+  4%|▍         | 919/21220 [00:00<00:12, 1615.71it/s]
+  5%|▌         | 1107/21220 [00:00<00:11, 1684.88it/s]
+  6%|▌         | 1297/21220 [00:00<00:11, 1742.03it/s]
+  7%|▋         | 1492/21220 [00:00<00:10, 1797.73it/s]
+  8%|▊         | 1687/21220 [00:01<00:10, 1838.47it/s]
+  9%|▉         | 1874/21220 [00:01<00:10, 1845.73it/s]
+ 10%|▉         | 2060/21220 [00:01<00:10, 1849.38it/s]
+ 11%|█         | 2247/21220 [00:01<00:10, 1855.35it/s]
+ 12%|█▏        | 2446/21220 [00:01<00:09, 1892.04it/s]
+ 12%|█▏        | 2635/21220 [00:01<00:09, 1885.49it/s]
+ 13%|█▎        | 2826/21220 [00:01<00:09, 1892.30it/s]
+ 14%|█▍        | 3015/21220 [00:01<00:09, 1844.43it/s]
+ 15%|█▌        | 3200/21220 [00:01<00:09, 1840.40it/s]
+ 16%|█▌        | 3388/21220 [00:01<00:09, 1850.35it/s]
+ 17%|█▋        | 3583/21220 [00:02<00:09, 1877.08it/s]
+ 18%|█▊        | 3771/21220 [00:02<00:09, 1877.72it/s]
+ 19%|█▊        | 3960/21220 [00:02<00:09, 1879.63it/s]
+ 20%|█▉        | 4149/21220 [00:02<00:09, 1879.81it/s]
+ 20%|██        | 4338/21220 [00:02<00:09, 1866.19it/s]
+ 21%|██▏       | 4525/21220 [00:02<00:08, 1856.50it/s]
+ 22%|██▏       | 4711/21220 [00:02<00:08, 1851.25it/s]
+ 23%|██▎       | 4902/21220 [00:02<00:08, 1866.43it/s]
+ 24%|██▍       | 5094/21220 [00:02<00:08, 1881.46it/s]
+ 25%|██▍       | 5283/21220 [00:02<00:08, 1862.66it/s]
+ 26%|██▌       | 5470/21220 [00:03<00:08, 1851.84it/s]
+ 27%|██▋       | 5656/21220 [00:03<00:08, 1837.36it/s]
+ 28%|██▊       | 5840/21220 [00:03<00:08, 1826.11it/s]
+ 28%|██▊       | 6023/21220 [00:03<00:08, 1825.26it/s]
+ 29%|██▉       | 6211/21220 [00:03<00:08, 1837.74it/s]
+ 30%|███       | 6409/21220 [00:03<00:07, 1876.91it/s]
+ 31%|███       | 6606/21220 [00:03<00:07, 1901.71it/s]
+ 32%|███▏      | 6797/21220 [00:03<00:07, 1899.95it/s]
+ 33%|███▎      | 6995/21220 [00:03<00:07, 1921.29it/s]
+ 34%|███▍      | 7190/21220 [00:03<00:07, 1928.83it/s]
+ 35%|███▍      | 7384/21220 [00:04<00:07, 1923.52it/s]
+ 36%|███▌      | 7577/21220 [00:04<00:07, 1902.99it/s]
+ 37%|███▋      | 7768/21220 [00:04<00:07, 1886.24it/s]
+ 37%|███▋      | 7957/21220 [00:04<00:07, 1854.40it/s]
+ 38%|███▊      | 8143/21220 [00:04<00:07, 1846.46it/s]
+ 39%|███▉      | 8328/21220 [00:04<00:07, 1839.78it/s]
+ 40%|████      | 8513/21220 [00:04<00:07, 1812.02it/s]
+ 41%|████      | 8695/21220 [00:04<00:07, 1758.32it/s]
+ 42%|████▏     | 8878/21220 [00:04<00:06, 1777.40it/s]
+ 43%|████▎     | 9057/21220 [00:04<00:06, 1778.29it/s]
+ 44%|████▎     | 9236/21220 [00:05<00:06, 1729.05it/s]
+ 44%|████▍     | 9419/21220 [00:05<00:06, 1756.60it/s]
+ 45%|████▌     | 9596/21220 [00:05<00:06, 1749.21it/s]
+ 46%|████▌     | 9776/21220 [00:05<00:06, 1763.67it/s]
+ 47%|████▋     | 9958/21220 [00:05<00:06, 1779.63it/s]
+ 48%|████▊     | 10146/21220 [00:05<00:06, 1807.56it/s]
+ 49%|████▊     | 10328/21220 [00:05<00:06, 1798.20it/s]
+ 50%|████▉     | 10509/21220 [00:05<00:05, 1789.96it/s]
+ 50%|█████     | 10691/21220 [00:05<00:05, 1798.56it/s]
+ 51%|█████     | 10871/21220 [00:06<00:05, 1785.79it/s]
+ 52%|█████▏    | 11064/21220 [00:06<00:05, 1825.56it/s]
+ 53%|█████▎    | 11247/21220 [00:06<00:05, 1818.07it/s]
+ 54%|█████▍    | 11430/21220 [00:06<00:05, 1780.61it/s]
+ 55%|█████▍    | 11609/21220 [00:06<00:05, 1776.44it/s]
+ 56%|█████▌    | 11787/21220 [00:06<00:05, 1766.22it/s]
+ 56%|█████▋    | 11970/21220 [00:06<00:05, 1783.15it/s]
+ 57%|█████▋    | 12151/21220 [00:06<00:05, 1789.89it/s]
+ 58%|█████▊    | 12339/21220 [00:06<00:04, 1812.54it/s]
+ 59%|█████▉    | 12521/21220 [00:06<00:04, 1792.73it/s]
+ 60%|█████▉    | 12701/21220 [00:07<00:04, 1785.08it/s]
+ 61%|██████    | 12880/21220 [00:07<00:04, 1778.25it/s]
+ 62%|██████▏   | 13069/21220 [00:07<00:04, 1809.97it/s]
+ 62%|██████▏   | 13251/21220 [00:07<00:04, 1792.91it/s]
+ 63%|██████▎   | 13431/21220 [00:07<00:04, 1788.32it/s]
+ 64%|██████▍   | 13610/21220 [00:07<00:04, 1756.62it/s]
+ 65%|██████▍   | 13787/21220 [00:07<00:04, 1758.60it/s]
+ 66%|██████▌   | 13965/21220 [00:07<00:04, 1762.01it/s]
+ 67%|██████▋   | 14151/21220 [00:07<00:03, 1787.16it/s]
+ 68%|██████▊   | 14330/21220 [00:07<00:03, 1781.11it/s]
+ 68%|██████▊   | 14515/21220 [00:08<00:03, 1799.26it/s]
+ 69%|██████▉   | 14696/21220 [00:08<00:03, 1767.58it/s]
+ 70%|███████   | 14878/21220 [00:08<00:03, 1782.78it/s]
+ 71%|███████   | 15057/21220 [00:08<00:03, 1774.57it/s]
+ 72%|███████▏  | 15235/21220 [00:08<00:03, 1771.47it/s]
+ 73%|███████▎  | 15413/21220 [00:08<00:03, 1762.74it/s]
+ 73%|███████▎  | 15591/21220 [00:08<00:03, 1766.37it/s]
+ 74%|███████▍  | 15773/21220 [00:08<00:03, 1780.10it/s]
+ 75%|███████▌  | 15952/21220 [00:08<00:03, 1753.15it/s]
+ 76%|███████▌  | 16128/21220 [00:08<00:02, 1754.54it/s]
+ 77%|███████▋  | 16304/21220 [00:09<00:02, 1741.94it/s]
+ 78%|███████▊  | 16486/21220 [00:09<00:02, 1763.50it/s]
+ 79%|███████▊  | 16663/21220 [00:09<00:02, 1758.94it/s]
+ 79%|███████▉  | 16840/21220 [00:09<00:02, 1761.15it/s]
+ 80%|████████  | 17017/21220 [00:09<00:02, 1760.85it/s]
+ 81%|████████  | 17204/21220 [00:09<00:02, 1790.79it/s]
+ 82%|████████▏ | 17384/21220 [00:09<00:02, 1792.63it/s]
+ 83%|████████▎ | 17568/21220 [00:09<00:02, 1805.71it/s]
+ 84%|████████▎ | 17756/21220 [00:09<00:01, 1826.34it/s]
+ 85%|████████▍ | 17941/21220 [00:09<00:01, 1833.19it/s]
+ 85%|████████▌ | 18125/21220 [00:10<00:01, 1807.21it/s]
+ 86%|████████▋ | 18314/21220 [00:10<00:01, 1828.60it/s]
+ 87%|████████▋ | 18498/21220 [00:10<00:01, 1799.06it/s]
+ 88%|████████▊ | 18685/21220 [00:10<00:01, 1815.70it/s]
+ 89%|████████▉ | 18872/21220 [00:10<00:01, 1828.45it/s]
+ 90%|████████▉ | 19056/21220 [00:10<00:01, 1774.77it/s]
+ 91%|█████████ | 19234/21220 [00:10<00:01, 1761.57it/s]
+ 91%|█████████▏| 19411/21220 [00:10<00:01, 1750.54it/s]
+ 92%|█████████▏| 19598/21220 [00:10<00:00, 1783.24it/s]
+ 93%|█████████▎| 19777/21220 [00:11<00:00, 1783.39it/s]
+ 94%|█████████▍| 19957/21220 [00:11<00:00, 1786.43it/s]
+ 95%|█████████▍| 20136/21220 [00:11<00:00, 1778.57it/s]
+ 96%|█████████▌| 20314/21220 [00:11<00:00, 1766.44it/s]
+ 97%|█████████▋| 20504/21220 [00:11<00:00, 1803.15it/s]
+ 98%|█████████▊| 20695/21220 [00:11<00:00, 1832.80it/s]
+ 98%|█████████▊| 20879/21220 [00:11<00:00, 1831.14it/s]
+ 99%|█████████▉| 21063/21220 [00:11<00:00, 1802.01it/s]
+100%|██████████| 21220/21220 [00:11<00:00, 1797.50it/s]
+06:50:40 - [DEBUG] - Time to execute query: 0.04 secs
+06:50:42 - [DEBUG] - Preparing to execute 16 queries.
+06:50:42 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'name'   AND  t1."surname"<>t2."surname"   AND  t3.rv_val = t2."name" GROUP BY _vid_, val_id with id 0
+06:51:18 - [DEBUG] - Time to execute query with id 0: 0.04 secs
+06:51:18 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'surname'   AND  t1."name"=t2."name"   AND  t3.rv_val <> t2."surname" GROUP BY _vid_, val_id with id 1
+06:51:38 - [DEBUG] - Time to execute query with id 1: 0.05 secs
+06:51:38 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'name'   AND  t1."birthyear"<>t2."birthyear"   AND  t3.rv_val = t2."name" GROUP BY _vid_, val_id with id 2
+06:52:13 - [DEBUG] - Time to execute query with id 2: 0.03 secs
+06:52:13 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'birthyear'   AND  t1."name"=t2."name"   AND  t3.rv_val <> t2."birthyear" GROUP BY _vid_, val_id with id 3
+06:52:13 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+06:52:13 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'name'   AND  t1."birthplace"<>t2."birthplace"   AND  t3.rv_val = t2."name" GROUP BY _vid_, val_id with id 4
+06:52:48 - [DEBUG] - Time to execute query with id 4: 0.03 secs
+06:52:48 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'birthplace'   AND  t1."name"=t2."name"   AND  t3.rv_val <> t2."birthplace" GROUP BY _vid_, val_id with id 5
+06:52:48 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+06:52:48 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'name'   AND  t1."season"=t2."season" AND t1."position"<>t2."position"   AND  t3.rv_val = t2."name" GROUP BY _vid_, val_id with id 6
+06:52:57 - [DEBUG] - Time to execute query with id 6: 0.01 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'season'   AND  t1."name"=t2."name" AND t1."position"<>t2."position"   AND  t3.rv_val = t2."season" GROUP BY _vid_, val_id with id 7
+06:52:57 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'position'   AND  t1."name"=t2."name" AND t1."season"=t2."season"   AND  t3.rv_val <> t2."position" GROUP BY _vid_, val_id with id 8
+06:52:57 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'team'   AND  t1."city"=t2."city" AND t1."season"=t2."season" AND t1."stadium"<>t2."stadium"   AND  t3.rv_val = t2."team" GROUP BY _vid_, val_id with id 9
+06:52:57 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'city'   AND  t1."team"=t2."team" AND t1."season"=t2."season" AND t1."stadium"<>t2."stadium"   AND  t3.rv_val = t2."city" GROUP BY _vid_, val_id with id 10
+06:52:57 - [DEBUG] - Time to execute query with id 10: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'season'   AND  t1."team"=t2."team" AND t1."city"=t2."city" AND t1."stadium"<>t2."stadium"   AND  t3.rv_val = t2."season" GROUP BY _vid_, val_id with id 11
+06:52:57 - [DEBUG] - Time to execute query with id 11: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'stadium'   AND  t1."team"=t2."team" AND t1."city"=t2."city" AND t1."season"=t2."season"   AND  t3.rv_val <> t2."stadium" GROUP BY _vid_, val_id with id 12
+06:52:57 - [DEBUG] - Time to execute query with id 12: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'manager'   AND  t1."season"=t2."season" AND t1."team"<>t2."team"   AND  t3.rv_val = t2."manager" GROUP BY _vid_, val_id with id 13
+06:52:57 - [DEBUG] - Time to execute query with id 13: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'season'   AND  t1."manager"=t2."manager" AND t1."team"<>t2."team"   AND  t3.rv_val = t2."season" GROUP BY _vid_, val_id with id 14
+06:52:57 - [DEBUG] - Time to execute query with id 14: 0.00 secs
+06:52:57 - [DEBUG] - Starting to execute query SELECT _vid_, val_id, count(*) violations FROM   "soccer_ori" as t1, "soccer_ori" as t2, pos_values as t3 WHERE  t1._tid_ != t2._tid_   AND  t1._tid_ = t3._tid_   AND  t3.attribute = 'team'   AND  t1."manager"=t2."manager" AND t1."season"=t2."season"   AND  t3.rv_val <> t2."team" GROUP BY _vid_, val_id with id 15
+06:52:57 - [DEBUG] - Time to execute query with id 15: 0.00 secs
+06:52:57 - [DEBUG] - Time to execute 16 queries: 0.18 secs
+06:52:59 - [DEBUG] - DONE featurization.
+06:52:59 - [DEBUG] - generating weak labels...
+06:53:00 - [DEBUG] - Time to execute query: 0.14 secs
+
+  0%|          | 0/13530 [00:00<?, ?it/s]
+ 20%|█▉        | 2652/13530 [00:00<00:00, 26516.30it/s]
+ 39%|███▉      | 5307/13530 [00:00<00:00, 26524.68it/s]
+ 61%|██████    | 8207/13530 [00:00<00:00, 27220.83it/s]
+ 79%|███████▊  | 10632/13530 [00:00<00:00, 26254.69it/s]
+ 98%|█████████▊| 13292/13530 [00:00<00:00, 26356.15it/s]
+100%|██████████| 13530/13530 [00:00<00:00, 26550.84it/s]
+06:53:00 - [DEBUG] - DONE generating weak labels.
+06:53:00 - [DEBUG] - generating mask...
+06:53:00 - [DEBUG] - Time to execute query: 0.03 secs
+
+  0%|          | 0/21220 [00:00<?, ?it/s]
+ 37%|███▋      | 7795/21220 [00:00<00:00, 77946.92it/s]
+ 74%|███████▍  | 15680/21220 [00:00<00:00, 78215.46it/s]
+100%|██████████| 21220/21220 [00:00<00:00, 78894.60it/s]
+06:53:00 - [DEBUG] - DONE generating mask.
+06:53:00 - [ INFO] - DONE setting up featurized dataset.
+06:53:00 - [DEBUG] - Time to featurize data: 24.44 secs
+06:53:00 - [ INFO] - DONE setting up repair model.
+06:53:00 - [DEBUG] - Time to setup repair model: 24.44 secs
+06:53:00 - [ INFO] - training with 13530 training examples (cells)
+
+  0%|          | 0/10 [00:00<?, ?it/s]06:53:09 - [DEBUG] - Epoch 1, cost = 0.023743, acc = 100.00%
+
+ 10%|█         | 1/10 [00:09<01:21,  9.04s/it]06:53:18 - [DEBUG] - Epoch 2, cost = 0.015222, acc = 100.00%
+
+ 20%|██        | 2/10 [00:17<01:11,  8.98s/it]06:53:27 - [DEBUG] - Epoch 3, cost = 0.015222, acc = 100.00%
+
+ 30%|███       | 3/10 [00:27<01:03,  9.02s/it]06:53:36 - [DEBUG] - Epoch 4, cost = 0.015222, acc = 100.00%
+
+ 40%|████      | 4/10 [00:35<00:54,  9.00s/it]06:53:45 - [DEBUG] - Epoch 5, cost = 0.015222, acc = 100.00%
+
+ 50%|█████     | 5/10 [00:44<00:44,  8.85s/it]06:53:54 - [DEBUG] - Epoch 6, cost = 0.015222, acc = 100.00%
+
+ 60%|██████    | 6/10 [00:53<00:35,  8.86s/it]06:54:03 - [DEBUG] - Epoch 7, cost = 0.015222, acc = 100.00%
+
+ 70%|███████   | 7/10 [01:02<00:26,  8.92s/it]06:54:12 - [DEBUG] - Epoch 8, cost = 0.015222, acc = 100.00%
+
+ 80%|████████  | 8/10 [01:11<00:17,  8.87s/it]06:54:21 - [DEBUG] - Epoch 9, cost = 0.015222, acc = 100.00%
+
+ 90%|█████████ | 9/10 [01:20<00:08,  8.96s/it]06:54:29 - [DEBUG] - Epoch 10, cost = 0.015222, acc = 100.00%
+
+100%|██████████| 10/10 [01:28<00:00,  8.83s/it]
+06:54:29 - [ INFO] - DONE training repair model.
+06:54:29 - [DEBUG] - Time to fit repair model: 95.83 secs
+06:54:29 - [ INFO] - inferring on 9260 examples (cells)
+06:54:30 - [DEBUG] - Time to execute query: 0.17 secs
+06:54:31 - [DEBUG] - Time to create index: 0.00 secs
+06:54:32 - [DEBUG] - Time to create index: 0.00 secs
+06:54:32 - [ INFO] - DONE inferring repairs.
+06:54:32 - [DEBUG] - Time to infer correct cell values: 2.58 secs
+06:54:32 - [DEBUG] - Time to create table: 0.00 secs
+06:54:32 - [DEBUG] - Time to create index: 0.00 secs
+06:54:32 - [DEBUG] - Time to create index: 0.00 secs
+06:54:32 - [ INFO] - DONE collecting the inferred values.
+06:54:32 - [DEBUG] - Time to collect inferred values: 0.07 secs
+06:54:34 - [ INFO] - DONE generating repaired dataset
+06:54:34 - [DEBUG] - Time to store repaired dataset: 1.10 secs
+06:54:34 - [ INFO] - featurizer InitAttrFeaturizer,size 10,max 1.0000,min 1.0000,avg 1.0000,abs_avg 1.0000,weights:
+name 1.0
+surname 1.0
+birthyear 1.0
+birthplace 1.0
+position 1.0
+team 1.0
+city 1.0
+stadium 1.0
+season 1.0
+manager 1.0
+featurizer OccurAttrFeaturizer,size 100,max 0.7549,min -0.0000,avg 0.0768,abs_avg 0.0768,weights:
+name X name 0.0
+name X surname 0.719
+name X birthyear 0.59
+name X birthplace 0.719
+name X position 0.131
+name X team 0.33
+name X city 0.47
+name X stadium 0.47
+name X season 0.082
+name X manager 0.375
+surname X name 0.755
+surname X surname -0.0
+surname X birthyear 0.61
+surname X birthplace 0.755
+surname X position 0.089
+surname X team 0.276
+surname X city 0.456
+surname X stadium 0.456
+surname X season 0.067
+surname X manager 0.33
+birthyear X name 0.0
+birthyear X surname -0.0
+birthyear X birthyear 0.0
+birthyear X birthplace 0.0
+birthyear X position -0.0
+birthyear X team -0.0
+birthyear X city -0.0
+birthyear X stadium 0.0
+birthyear X season -0.0
+birthyear X manager -0.0
+birthplace X name -0.0
+birthplace X surname -0.0
+birthplace X birthyear 0.0
+birthplace X birthplace -0.0
+birthplace X position 0.0
+birthplace X team -0.0
+birthplace X city -0.0
+birthplace X stadium 0.0
+birthplace X season 0.0
+birthplace X manager 0.0
+position X name 0.0
+position X surname -0.0
+position X birthyear -0.0
+position X birthplace 0.0
+position X position -0.0
+position X team 0.0
+position X city 0.0
+position X stadium -0.0
+position X season -0.0
+position X manager 0.0
+team X name 0.0
+team X surname -0.0
+team X birthyear 0.0
+team X birthplace -0.0
+team X position -0.0
+team X team 0.0
+team X city -0.0
+team X stadium -0.0
+team X season -0.0
+team X manager -0.0
+city X name -0.0
+city X surname 0.0
+city X birthyear 0.0
+city X birthplace 0.0
+city X position 0.0
+city X team 0.0
+city X city -0.0
+city X stadium -0.0
+city X season 0.0
+city X manager -0.0
+stadium X name -0.0
+stadium X surname -0.0
+stadium X birthyear 0.0
+stadium X birthplace -0.0
+stadium X position -0.0
+stadium X team 0.0
+stadium X city 0.0
+stadium X stadium 0.0
+stadium X season 0.0
+stadium X manager 0.0
+season X name -0.0
+season X surname 0.0
+season X birthyear 0.0
+season X birthplace -0.0
+season X position 0.0
+season X team -0.0
+season X city -0.0
+season X stadium 0.0
+season X season -0.0
+season X manager -0.0
+manager X name -0.0
+manager X surname -0.0
+manager X birthyear 0.0
+manager X birthplace -0.0
+manager X position 0.0
+manager X team 0.0
+manager X city -0.0
+manager X stadium 0.0
+manager X season -0.0
+manager X manager -0.0
+featurizer FreqFeaturizer,size 10,max 0.0046,min -0.0041,avg 0.0000,abs_avg 0.0009,weights:
+name 0.005
+surname -0.004
+birthyear -0.0
+birthplace 0.0
+position -0.0
+team -0.0
+city -0.0
+stadium -0.0
+season -0.0
+manager -0.0
+featurizer ConstraintFeaturizer,size 16,max 0.0000,min -0.4243,avg -0.0936,abs_avg 0.0936,weights:
+fixed pred: t1."surname"<>t2."surname", violation pred: t1."name"=t2."name" -0.275
+fixed pred: t1."name"=t2."name", violation pred: t1."surname"<>t2."surname" -0.424
+fixed pred: t1."birthyear"<>t2."birthyear", violation pred: t1."name"=t2."name" -0.291
+fixed pred: t1."name"=t2."name", violation pred: t1."birthyear"<>t2."birthyear" -0.0
+fixed pred: t1."birthplace"<>t2."birthplace", violation pred: t1."name"=t2."name" -0.309
+fixed pred: t1."name"=t2."name", violation pred: t1."birthplace"<>t2."birthplace" 0.0
+fixed pred: t1."season"=t2."season" AND t1."position"<>t2."position", violation pred: t1."name"=t2."name" -0.199
+fixed pred: t1."name"=t2."name" AND t1."position"<>t2."position", violation pred: t1."season"=t2."season" -0.0
+fixed pred: t1."name"=t2."name" AND t1."season"=t2."season", violation pred: t1."position"<>t2."position" 0.0
+fixed pred: t1."city"=t2."city" AND t1."season"=t2."season" AND t1."stadium"<>t2."stadium", violation pred: t1."team"=t2."team" 0.0
+fixed pred: t1."team"=t2."team" AND t1."season"=t2."season" AND t1."stadium"<>t2."stadium", violation pred: t1."city"=t2."city" 0.0
+fixed pred: t1."team"=t2."team" AND t1."city"=t2."city" AND t1."stadium"<>t2."stadium", violation pred: t1."season"=t2."season" 0.0
+fixed pred: t1."team"=t2."team" AND t1."city"=t2."city" AND t1."season"=t2."season", violation pred: t1."stadium"<>t2."stadium" -0.0
+fixed pred: t1."season"=t2."season" AND t1."team"<>t2."team", violation pred: t1."manager"=t2."manager" 0.0
+fixed pred: t1."manager"=t2."manager" AND t1."team"<>t2."team", violation pred: t1."season"=t2."season" 0.0
+fixed pred: t1."manager"=t2."manager" AND t1."season"=t2."season", violation pred: t1."team"<>t2."team" 0.0
+
+06:54:34 - [DEBUG] - Time to store featurizer weights: 0.00 secs
+06:54:46 - [DEBUG] - Time to create index: 0.00 secs
+06:54:46 - [DEBUG] - Time to create index: 0.00 secs
+06:54:46 - [ INFO] - DONE Loading subset_clean_index_10k_holoclean.csv
+06:54:46 - [DEBUG] - Time to evaluate repairs: 6.00 secs
+06:54:46 - [DEBUG] - Time to execute query: 0.00 secs
+06:54:46 - [DEBUG] - Time to execute query: 0.00 secs
+06:54:46 - [DEBUG] - Preparing to execute 10 queries.
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'name'   AND t1."name" != t2._value_ with id 0
+06:54:46 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'surname'   AND t1."surname" != t2._value_ with id 1
+06:54:46 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'birthyear'   AND t1."birthyear" != t2._value_ with id 2
+06:54:46 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'birthplace'   AND t1."birthplace" != t2._value_ with id 3
+06:54:46 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'position'   AND t1."position" != t2._value_ with id 4
+06:54:46 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'team'   AND t1."team" != t2._value_ with id 5
+06:54:46 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'city'   AND t1."city" != t2._value_ with id 6
+06:54:46 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+06:54:46 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'stadium'   AND t1."stadium" != t2._value_ with id 7
+06:54:47 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'season'   AND t1."season" != t2._value_ with id 8
+06:54:47 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT count(*) FROM  "soccer_ori" as t1, "soccer_ori_clean" as t2 WHERE t1._tid_ = t2._tid_   AND t2._attribute_ = 'manager'   AND t1."manager" != t2._value_ with id 9
+06:54:47 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+06:54:47 - [DEBUG] - Time to execute 10 queries: 0.01 secs
+06:54:47 - [DEBUG] - Time to execute query: 0.00 secs
+06:54:47 - [DEBUG] - Preparing to execute 10 queries.
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'name'       AND t1."name" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 0
+06:54:47 - [DEBUG] - Time to execute query with id 0: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'surname'       AND t1."surname" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 1
+06:54:47 - [DEBUG] - Time to execute query with id 1: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'birthyear'       AND t1."birthyear" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 2
+06:54:47 - [DEBUG] - Time to execute query with id 2: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'birthplace'       AND t1."birthplace" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 3
+06:54:47 - [DEBUG] - Time to execute query with id 3: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'position'       AND t1."position" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 4
+06:54:47 - [DEBUG] - Time to execute query with id 4: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'team'       AND t1."team" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 5
+06:54:47 - [DEBUG] - Time to execute query with id 5: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'city'       AND t1."city" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 6
+06:54:47 - [DEBUG] - Time to execute query with id 6: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'stadium'       AND t1."stadium" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 7
+06:54:47 - [DEBUG] - Time to execute query with id 7: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'season'       AND t1."season" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 8
+06:54:47 - [DEBUG] - Time to execute query with id 8: 0.00 secs
+06:54:47 - [DEBUG] - Starting to execute query SELECT COUNT(*) FROM   (SELECT t2._tid_, t2._attribute_, t2._value_      FROM "soccer_ori" as t1, "soccer_ori_clean" as t2     WHERE t1._tid_ = t2._tid_       AND t2._attribute_ = 'manager'       AND t1."manager" != t2._value_ ) as errors, inf_values_dom as repairs WHERE errors._tid_ = repairs._tid_   AND errors._attribute_ = repairs.attribute   AND errors._value_ = repairs.rv_value with id 9
+06:54:47 - [DEBUG] - Time to execute query with id 9: 0.00 secs
+06:54:47 - [DEBUG] - Time to execute 10 queries: 0.01 secs
+06:54:47 - [DEBUG] - Time to execute query: 0.00 secs
+06:54:47 - [DEBUG] - weak label statistics:
+06:54:47 - [DEBUG] -    is_clean  cell_status  is_inferred  init = grdth init = inferred  \
+0  False     0            True         False         True             
+1  False     0            True         True          True             
+2  False     2            True         True          True             
+3  True      0            False        True          None             
+4  True      2            False        True          None             
+
+   w. label = init  w. label = grdth w. label = inferred infer = grdth  count  
+0  True             False             True                False         1516   
+1  True             True              True                True          6174   
+2  True             True              True                True          1570   
+3  True             True              None                None          8092   
+4  True             True              None                None          3868   
+06:54:47 - [ INFO] - Precision = 0.00, Recall = 0.00, Repairing Recall = 0.00, F1 = 0.00, Repairing F1 = 0.00, Detected Errors = 1516, Total Errors = 1516, Correct Repairs = 0, Total Repairs = 0, Total Repairs on correct cells (Grdth present) = 0, Total Repairs on incorrect cells (Grdth present) = 0
+06:54:47 - [DEBUG] - Time to generate report: 0.06 secs
+06:54:47 - [DEBUG] - Time to execute query: 0.05 secs
+06:54:47 - [ INFO] - 清洗后的数据已成功保存到 results/holoclean/6_soccer_ori/6_soccer_ori_repaired.csv
+/home/qzk/MDCBaseline/CleanerRunScript/run_holoclean/../../util/getScore.py:243: RuntimeWarning: invalid value encountered in long_scalars
+  accuracy = total_true_positives / (total_true_positives + total_false_positives)
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_clean_index_10k_ori_empty.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_dirty_index_10k_ori_empty.csv
+Running Holoclean with modified dirty file: Data/6_soccer/subset_dirty_index_10k_holoclean.csv
+转换完成，结果已保存到 Data/6_soccer/subset_clean_index_10k_holoclean.csv
+Results saved to results/holoclean/6_soccer_ori/6_soccer_ori_repaired.csv
+Holoclean finished in 301.736368894577 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holoclean/6_soccer_ori/6_soccer_ori_repaired_ori_empty.csv
+差异文件已保存到:
+results/holoclean/6_soccer_ori/6_soccer_ori_clean_vs_dirty.csv
+results/holoclean/6_soccer_ori/6_soccer_ori_dirty_vs_cleaned.csv
+results/holoclean/6_soccer_ori/6_soccer_ori_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holoclean/6_soccer_ori/6_soccer_ori_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holoclean/6_soccer_ori/6_soccer_ori_unrepaired.csv
+修复准确率: nan, 修复召回率: 0.0, F1值: nan
+========================================
+EDR 结果已保存到: results/holoclean/6_soccer_ori/6_soccer_ori_edr_evaluation.txt
+错误减少率 (EDR): 0.0
+========================================
+混合距离结果已保存到: results/holoclean/6_soccer_ori/6_soccer_ori_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.013534809913398605
+========================================
+R-EDR 结果已保存到: results/holoclean/6_soccer_ori/6_soccer_ori_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): 0.0
+========================================
+测试结果:
+Accuracy: nan
+Recall: 0.0
+F1 Score: nan
+EDR: 0.0
+Hybrid Distance: 0.013534809913398605
+R-EDR: 0.0
+Time: 301.736368894577
+Speed: 2.8438866059809333 seconds/100 records
+测评结束，详细测评日志见：results/holoclean/6_soccer_ori

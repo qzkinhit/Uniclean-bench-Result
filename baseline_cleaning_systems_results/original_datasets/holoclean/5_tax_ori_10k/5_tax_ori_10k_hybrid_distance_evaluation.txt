@@ -1,0 +1,18 @@
+Attribute: index, MSE: nan, Jaccard: 0.0
+Attribute: fname, MSE: nan, Jaccard: 0.0025441246621084046
+Attribute: lname, MSE: nan, Jaccard: 0.007587733164717059
+Attribute: gender, MSE: nan, Jaccard: 0.0
+Attribute: areacode, MSE: nan, Jaccard: 0.0
+Attribute: phone, MSE: nan, Jaccard: 0.0
+Attribute: city, MSE: nan, Jaccard: 0.0011219566924717261
+Attribute: state, MSE: nan, Jaccard: 0.09485339401730875
+Attribute: zip, MSE: nan, Jaccard: 0.00380167824561628
+Attribute: maritalstatus, MSE: nan, Jaccard: 0.0
+Attribute: haschild, MSE: nan, Jaccard: 0.0
+Attribute: salary, MSE: nan, Jaccard: 0.0
+检查你指定的属性 rate 是否为数值型！
+Attribute: rate, MSE: nan, Jaccard: 0.07349979358994685
+Attribute: singleexemp, MSE: nan, Jaccard: 0.0
+Attribute: marriedexemp, MSE: nan, Jaccard: 0.0
+Attribute: childexemp, MSE: nan, Jaccard: 0.0
+加权混合距离: 0.005731521261630283

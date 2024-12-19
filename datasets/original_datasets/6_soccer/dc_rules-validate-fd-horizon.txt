@@ -1,0 +1,10 @@
+name ⇒ surname
+name ⇒ birthyear
+name ⇒ birthplace
+name ⇒ position
+season ⇒ position
+team ⇒ stadium
+season ⇒ stadium
+city ⇒ stadium
+manager ⇒ team
+season ⇒ team

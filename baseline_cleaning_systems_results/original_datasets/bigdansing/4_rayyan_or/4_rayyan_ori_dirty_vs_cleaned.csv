@@ -1,0 +1,1790 @@
+Attribute,Index,Dirty Value,Cleaned Value
+id,50,864817,0
+id,97,931323,0
+id,101,444273,0
+id,107,764224,0
+id,114,779281,0
+id,116,447382,0
+id,119,886237,0
+id,127,259367,0
+id,130,772616,0
+id,133,465176,0
+id,139,316632,0
+id,143,900624,0
+id,157,963532,0
+id,166,592893,0
+id,170,456691,0
+id,185,929252,0
+id,187,961741,0
+id,188,925885,0
+id,189,717315,0
+id,208,464335,0
+id,223,901385,0
+id,230,455406,0
+id,239,768486,0
+id,244,747279,0
+id,250,846537,0
+id,257,695010,0
+id,271,836847,0
+id,275,470385,0
+id,285,504928,0
+id,288,981412,0
+id,294,904889,0
+id,295,360147,0
+id,305,746065,0
+id,307,934177,0
+id,311,452432,0
+id,326,453637,0
+id,328,462849,0
+id,343,465756,0
+id,360,203084,0
+id,375,894502,0
+id,399,905100,0
+id,427,464911,0
+id,437,687404,0
+id,441,743989,0
+id,469,846319,0
+id,488,467344,0
+id,489,39687,0
+id,490,697880,0
+id,491,179093,0
+id,498,863342,0
+id,499,260745,0
+id,505,850418,0
+id,514,213794,0
+id,515,408902,0
+id,528,556803,0
+id,545,436781,0
+id,553,467318,0
+id,557,258486,0
+id,585,435904,0
+id,592,927711,0
+id,594,161847,0
+id,635,113363,0
+id,653,873322,0
+id,664,681305,0
+id,670,303571,0
+id,673,810153,0
+id,701,187769,0
+id,712,446026,0
+id,744,440684,0
+id,758,433039,0
+id,778,217418,0
+id,812,439302,0
+id,813,410748,0
+id,823,193292,0
+id,833,446599,0
+id,852,264151,0
+id,869,395807,0
+id,878,448384,0
+id,899,434500,0
+id,915,26216,0
+id,928,409335,0
+id,933,438681,0
+id,934,317155,0
+id,941,305933,0
+id,948,449419,0
+id,994,426134,0
+article_language,6,eng,English
+article_language,10,empty,English     Italian
+article_language,11,empty,0
+article_language,13,eng,0
+article_language,14,empty,French
+article_language,15,eng,empty
+article_language,17,eng,0
+article_language,18,eng,0
+article_language,21,eng,0
+article_language,22,English,0
+article_language,23,eng,0
+article_language,25,empty,0
+article_language,26,eng,0
+article_language,29,eng,0
+article_language,35,eng,0
+article_language,36,empty,0
+article_language,37,English,0
+article_language,41,empty,0
+article_language,44,eng,0
+article_language,45,empty,fre
+article_language,47,empty,0
+article_language,48,eng,cze
+article_language,49,eng,0
+article_language,50,empty,English
+article_language,51,English,0
+article_language,54,eng,0
+article_language,55,empty,fre
+article_language,58,eng,empty
+article_language,60,eng,0
+article_language,61,eng,0
+article_language,63,English,0
+article_language,65,eng,0
+article_language,66,eng,0
+article_language,67,empty,eng
+article_language,72,eng,0
+article_language,76,eng,pol
+article_language,77,empty,eng
+article_language,80,empty,0
+article_language,81,eng,0
+article_language,83,empty,0
+article_language,86,empty,0
+article_language,88,eng,English
+article_language,90,empty,0
+article_language,93,eng,0
+article_language,94,English,French
+article_language,96,eng,0
+article_language,97,empty,English
+article_language,101,empty,0
+article_language,102,English,empty
+article_language,103,English,German
+article_language,105,eng,0
+article_language,107,empty,English
+article_language,108,eng,0
+article_language,110,eng,0
+article_language,111,eng,0
+article_language,112,English,0
+article_language,113,eng,fre
+article_language,116,empty,0
+article_language,118,empty,eng
+article_language,119,empty,pt
+article_language,123,eng,0
+article_language,124,eng,0
+article_language,125,eng,0
+article_language,127,empty,French
+article_language,128,empty,0
+article_language,130,empty,0
+article_language,131,empty,0
+article_language,133,empty,0
+article_language,135,empty,0
+article_language,137,eng,0
+article_language,138,empty,eng
+article_language,139,empty,eng
+article_language,140,eng,empty
+article_language,141,eng,0
+article_language,142,eng,empty
+article_language,144,eng,0
+article_language,147,empty,pt
+article_language,148,eng,0
+article_language,154,eng,0
+article_language,157,empty,eng
+article_language,162,eng,0
+article_language,163,empty,eng
+article_language,164,empty,English
+article_language,166,empty,fre
+article_language,167,empty,0
+article_language,168,eng,0
+article_language,169,empty,0
+article_language,170,empty,0
+article_language,171,eng,0
+article_language,172,eng,0
+article_language,178,empty,0
+article_language,179,eng,0
+article_language,180,eng,0
+article_language,181,English,0
+article_language,185,empty,English
+article_language,186,English,0
+article_language,187,empty,0
+article_language,189,empty,eng
+article_language,190,English,0
+article_language,191,empty,pol
+article_language,195,empty,0
+article_language,196,eng,English
+article_language,198,eng,0
+article_language,199,eng,0
+article_language,201,eng,0
+article_language,202,empty,English
+article_language,203,eng,0
+article_language,204,English,0
+article_language,205,eng,0
+article_language,208,empty,0
+article_language,216,eng,English
+article_language,218,empty,0
+article_language,219,empty,eng
+article_language,220,empty,English
+article_language,222,empty,0
+article_language,223,empty,0
+article_language,225,empty,0
+article_language,229,empty,English     Italian
+article_language,230,empty,0
+article_language,232,eng,0
+article_language,234,eng,0
+article_language,235,eng,0
+article_language,236,eng,0
+article_language,239,eng,empty
+article_language,241,eng,0
+article_language,244,empty,0
+article_language,245,eng,0
+article_language,246,empty,English
+article_language,247,eng,0
+article_language,250,empty,0
+article_language,251,empty,0
+article_language,252,empty,English
+article_language,256,eng,0
+article_language,257,eng,0
+article_language,262,English,0
+article_language,264,eng,0
+article_language,265,English,empty
+article_language,268,empty,English
+article_language,269,English,0
+article_language,271,empty,0
+article_language,274,empty,French
+article_language,275,empty,0
+article_language,276,empty,0
+article_language,278,eng,0
+article_language,280,empty,spa
+article_language,282,empty,0
+article_language,283,eng,0
+article_language,286,empty,0
+article_language,288,empty,eng
+article_language,290,English,0
+article_language,292,eng,0
+article_language,294,empty,0
+article_language,296,eng,0
+article_language,297,English,0
+article_language,298,eng,0
+article_language,299,English,empty
+article_language,300,eng,0
+article_language,301,empty,0
+article_language,303,eng,0
+article_language,304,empty,0
+article_language,305,empty,0
+article_language,306,eng,0
+article_language,307,empty,0
+article_language,310,English,German
+article_language,311,empty,0
+article_language,312,English,0
+article_language,315,eng,English
+article_language,318,empty,0
+article_language,322,eng,0
+article_language,325,empty,English     Italian
+article_language,326,empty,0
+article_language,328,empty,0
+article_language,330,empty,0
+article_language,333,empty,eng
+article_language,334,chi,empty
+article_language,338,empty,0
+article_language,340,empty,0
+article_language,343,empty,0
+article_language,348,eng,0
+article_language,350,eng,0
+article_language,351,English,0
+article_language,353,English,German
+article_language,356,empty,0
+article_language,359,eng,empty
+article_language,360,empty,0
+article_language,363,eng,0
+article_language,365,empty,0
+article_language,366,eng,0
+article_language,367,empty,0
+article_language,369,eng,0
+article_language,373,empty,0
+article_language,375,empty,0
+article_language,377,English,spa
+article_language,378,eng,0
+article_language,379,empty,0
+article_language,380,empty,English
+article_language,381,eng,0
+article_language,384,empty,English
+article_language,385,eng,0
+article_language,387,empty,eng
+article_language,388,empty,0
+article_language,396,eng,0
+article_language,397,eng,0
+article_language,398,eng,0
+article_language,399,empty,pt
+article_language,400,eng,0
+article_language,401,eng,0
+article_language,403,English,0
+article_language,404,empty,0
+article_language,409,empty,eng
+article_language,411,eng,empty
+article_language,415,empty,0
+article_language,416,eng,0
+article_language,421,empty,0
+article_language,423,empty,0
+article_language,425,empty,eng
+article_language,426,empty,0
+article_language,427,empty,0
+article_language,432,eng,empty
+article_language,433,empty,English
+article_language,434,English,0
+article_language,436,eng,empty
+article_language,439,empty,German
+article_language,441,empty,0
+article_language,442,eng,0
+article_language,444,empty,0
+article_language,445,empty,Korean
+article_language,450,eng,0
+article_language,453,eng,0
+article_language,454,eng,0
+article_language,457,eng,0
+article_language,459,empty,0
+article_language,460,empty,0
+article_language,462,eng,0
+article_language,464,English,0
+article_language,465,eng,0
+article_language,467,English,German
+article_language,469,empty,0
+article_language,470,empty,English
+article_language,474,eng,0
+article_language,475,eng,0
+article_language,481,eng,0
+article_language,487,eng,0
+article_language,488,empty,0
+article_language,489,empty,0
+article_language,490,empty,0
+article_language,491,empty,English
+article_language,499,empty,French
+article_language,500,empty,0
+article_language,503,empty,0
+article_language,504,empty,0
+article_language,505,empty,0
+article_language,506,eng,0
+article_language,509,English,0
+article_language,510,empty,0
+article_language,511,empty,0
+article_language,513,eng,pol
+article_language,514,empty,0
+article_language,515,empty,0
+article_language,516,eng,0
+article_language,522,empty,cze
+article_language,523,eng,English
+article_language,524,eng,0
+article_language,528,empty,eng
+article_language,529,eng,0
+article_language,531,English,empty
+article_language,535,eng,0
+article_language,540,eng,empty
+article_language,542,empty,0
+article_language,545,empty,0
+article_language,546,empty,0
+article_language,548,empty,0
+article_language,552,empty,0
+article_language,553,empty,0
+article_language,556,eng,0
+article_language,558,empty,pol
+article_language,559,eng,empty
+article_language,563,empty,eng
+article_language,564,eng,0
+article_language,565,empty,0
+article_language,567,eng,0
+article_language,569,empty,English
+article_language,572,empty,0
+article_language,574,eng,0
+article_language,582,eng,0
+article_language,583,empty,English
+article_language,584,English,French
+article_language,585,empty,pt
+article_language,589,empty,0
+article_language,591,eng,0
+article_language,593,English,empty
+article_language,594,eng,empty
+article_language,596,eng,0
+article_language,598,empty,0
+article_language,599,eng,English
+article_language,601,eng,0
+article_language,602,English,0
+article_language,606,eng,0
+article_language,607,empty,0
+article_language,613,eng,0
+article_language,614,empty,0
+article_language,618,empty,0
+article_language,619,empty,0
+article_language,620,English,0
+article_language,621,English,English     Italian
+article_language,623,eng,empty
+article_language,624,empty,cze
+article_language,625,empty,0
+article_language,631,English,eng
+article_language,632,empty,0
+article_language,635,empty,0
+article_language,636,eng,0
+article_language,638,empty,English
+article_language,640,English,0
+article_language,653,eng,fre
+article_language,662,empty,French
+article_language,664,eng,0
+article_language,670,empty,eng
+article_language,671,empty,0
+article_language,673,empty,0
+article_language,676,empty,English
+article_language,677,eng,empty
+article_language,678,empty,fre
+article_language,679,empty,eng
+article_language,682,empty,0
+article_language,685,empty,English
+article_language,688,eng,0
+article_language,692,empty,0
+article_language,693,English,0
+article_language,696,empty,0
+article_language,698,empty,eng
+article_language,701,empty,0
+article_language,705,eng,0
+article_language,710,eng,0
+article_language,712,empty,0
+article_language,713,eng,0
+article_language,714,eng,0
+article_language,716,eng,0
+article_language,718,eng,0
+article_language,724,eng,0
+article_language,725,empty,0
+article_language,734,eng,0
+article_language,735,eng,0
+article_language,738,eng,0
+article_language,739,empty,0
+article_language,741,empty,0
+article_language,742,eng,empty
+article_language,743,empty,0
+article_language,744,empty,0
+article_language,745,eng,0
+article_language,746,empty,0
+article_language,749,empty,0
+article_language,751,eng,empty
+article_language,756,eng,0
+article_language,758,empty,0
+article_language,760,empty,0
+article_language,764,empty,English
+article_language,765,eng,0
+article_language,770,eng,0
+article_language,772,eng,empty
+article_language,776,eng,0
+article_language,777,empty,0
+article_language,778,empty,English
+article_language,783,empty,0
+article_language,789,eng,0
+article_language,791,eng,0
+article_language,793,empty,English
+article_language,794,empty,cze
+article_language,797,pt,empty
+article_language,802,eng,empty
+article_language,803,eng,0
+article_language,804,English,0
+article_language,806,empty,0
+article_language,811,empty,0
+article_language,812,empty,0
+article_language,813,English,empty
+article_language,816,eng,empty
+article_language,817,English,0
+article_language,819,eng,empty
+article_language,821,empty,0
+article_language,826,eng,0
+article_language,827,empty,0
+article_language,833,empty,pt
+article_language,839,eng,0
+article_language,840,eng,0
+article_language,841,empty,0
+article_language,845,empty,0
+article_language,847,eng,0
+article_language,848,empty,0
+article_language,850,English,French
+article_language,852,empty,English
+article_language,856,eng,0
+article_language,857,empty,English
+article_language,858,empty,0
+article_language,868,eng,0
+article_language,869,empty,English
+article_language,870,eng,0
+article_language,871,empty,0
+article_language,874,eng,empty
+article_language,876,eng,English
+article_language,881,eng,0
+article_language,882,empty,English
+article_language,883,empty,French
+article_language,887,empty,eng
+article_language,889,eng,0
+article_language,895,empty,0
+article_language,897,empty,0
+article_language,898,eng,empty
+article_language,899,empty,pt
+article_language,901,empty,0
+article_language,902,empty,0
+article_language,905,eng,0
+article_language,907,empty,0
+article_language,910,eng,0
+article_language,912,eng,0
+article_language,915,eng,0
+article_language,917,empty,0
+article_language,920,eng,0
+article_language,923,empty,0
+article_language,928,empty,0
+article_language,933,empty,0
+article_language,934,empty,pt
+article_language,935,empty,0
+article_language,936,eng,0
+article_language,941,English,0
+article_language,946,eng,French
+article_language,949,empty,pt
+article_language,953,pt,0
+article_language,957,empty,0
+article_language,958,eng,0
+article_language,961,empty,German
+article_language,963,empty,0
+article_language,965,empty,0
+article_language,970,English,0
+article_language,974,eng,0
+article_language,975,eng,0
+article_language,977,empty,pt
+article_language,980,eng,0
+article_language,987,eng,pol
+article_language,994,empty,0
+article_language,1000,empty,0
+journal_title,8,American journal of respiratory and critical care medicine,empty
+journal_title,10,The British journal of radiology,empty
+journal_title,25,Scandinavian Journal of Gastroenterology,empty
+journal_title,28,Metabolism: Clinical and Experimental,empty
+journal_title,37,Respiration; international review of thoracic diseases,0
+journal_title,50,Annals of Oncology,empty
+journal_title,67,Paediatrics and Child Health,empty
+journal_title,97,Allergy: European Journal of Allergy and Clinical Immunology,empty
+journal_title,106,Psycho-oncology,0
+journal_title,134, BMJ 2006 333:939,empty
+journal_title,135,Annals of Internal Medicine,empty
+journal_title,138,Pharmacoeconomics,empty
+journal_title,143,Health Technology Assessment Database,empty
+journal_title,146,Chinese Journal of New Drugs,empty
+journal_title,157,Circulation Journal,empty
+journal_title,161,Psycho-Oncology,empty
+journal_title,167,Focus on Alternative and Complementary Therapies,empty
+journal_title,169,Cochrane Database of Systematic Reviews,empty
+journal_title,178,Obesity (Silver Spring Md.),0
+journal_title,186,Mount Sinai Journal of Medicine,empty
+journal_title,187,Radiotherapy and Oncology,empty
+journal_title,193,Learning & Leading with Technology,empty
+journal_title,204,European Journal of Endocrinology,empty
+journal_title,218,Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland,0
+journal_title,220,Journal of Consulting and Clinical Psychology,empty
+journal_title,223,American Journal of Clinical Nutrition,empty
+journal_title,251,Journal of Clinical Gastroenterology,empty
+journal_title,258,Journal of Epidemiology and Community Health,Journal of Epidemiology & Community Health
+journal_title,260,Molecular Biology of the Cell. Conference: Annual Meeting of the American Society for Cell Biology ASCB,empty
+journal_title,265,Chest,empty
+journal_title,268,Journal of Sexual Medicine,empty
+journal_title,270,The Chartered Society of Physiotherapy Annual Congress and Exhibition: Defining Practice Friday October 17 to Sunday October 19 2003 International Convention Centre Birmingham.,empty
+journal_title,288,European Respiratory Journal,empty
+journal_title,297,CNS Drugs,empty
+journal_title,301,Aktuelle Traumatologie,empty
+journal_title,308,Social Science and Medicine,empty
+journal_title,310,Chest,empty
+journal_title,317,Journal of Neurocytology,empty
+journal_title,318,Canadian Journal of Anaesthesia,empty
+journal_title,356,Eating Behaviors,empty
+journal_title,365,Journal of Substance Abuse Treatment,empty
+journal_title,374,PLoS ONE [Electronic Resource],empty
+journal_title,375,Journal of Biomolecular Techniques,empty
+journal_title,377,Current Opinion in Ophthalmology,empty
+journal_title,395,Pediatrics,empty
+journal_title,404,Critical Care Nursing Quarterly,empty
+journal_title,407,Polskie Archiwum Medycyny Wewnetrznej,empty
+journal_title,410,Wiener Medizinische Wochenschrift,empty
+journal_title,429,The Lancet,empty
+journal_title,433,European Heart Journal,empty
+journal_title,434,Swiss Medical Weekly,empty
+journal_title,439,Respirology,empty
+journal_title,450,Pharmacoeconomics,empty
+journal_title,459,Pain Medicine,empty
+journal_title,460,Cancer Research,empty
+journal_title,464,Cancer Treatment Reviews,empty
+journal_title,490,Pediatrics,empty
+journal_title,496,JAMA,empty
+journal_title,498,LaboratoriumsMedizin,empty
+journal_title,509,International Journal of Medical Informatics,empty
+journal_title,511,Pediatric physical therapy,empty
+journal_title,531,Dissertation Abstracts International A: The Humanities and Social Sciences,empty
+journal_title,573,Harefuah,empty
+journal_title,584,Journal of Sexual Medicine,empty
+journal_title,600,Respiratory medicine,empty
+journal_title,602,Cardiovascular therapeutics,empty
+journal_title,614,Complementary Therapies in Medicine,empty
+journal_title,617,The European respiratory journal,0
+journal_title,619,Public health nursing (Boston Mass.),0
+journal_title,620,Value in Health,empty
+journal_title,625,International Journal of Obesity,empty
+journal_title,630,Cancer Epidemiology Biomarkers and Prevention,empty
+journal_title,644,Circulation,0
+journal_title,654,Stroke; a journal of cerebral circulation,0
+journal_title,682,Basic and Clinical Pharmacology and Toxicology,empty
+journal_title,692,Vaccine,empty
+journal_title,693,FASEB Journal. Conference: Experimental Biology,empty
+journal_title,700,Business Wire,empty
+journal_title,721,Behaviour Research and Therapy,empty
+journal_title,723,Journal of Cardiovascular Electrophysiology,empty
+journal_title,761,EXPERIMENTAL CELL RESEARCH,empty
+journal_title,786,European Journal of Cancer,empty
+journal_title,787,Indian Journal of Psychiatry,empty
+journal_title,794,Critical Care Nurse,empty
+journal_title,817,Journal of Oral & Maxillofacial Surgery,empty
+journal_title,827,International Medicine & Health Guidance News [Guo Ji Yi Yao Wei Sheng Dao Bao],empty
+journal_title,836,Clinical & Translational Oncology: Official Publication of the Federation of Spanish Oncology Societes & of the National Cancer Institute of Mexico,empty
+journal_title,844,Military Medicine,empty
+journal_title,846,Focus on Alternative and Complementary Therapies,empty
+journal_title,859,Pediatrics,empty
+journal_title,860,Value in Health,empty
+journal_title,861,European respiratory journal,empty
+journal_title,869,Japanese Journal of Clinical Oncology,empty
+journal_title,871,Pediatric Infectious Disease Journal,empty
+journal_title,882,Journal of Psychopharmacology,empty
+journal_title,884,Nippon Seikeigeka Gakkai zasshi,empty
+journal_title,885,Basic Rights: Subsistence Affluence and U.S. Foreign Policy,empty
+journal_title,890,Pain practice,empty
+journal_title,906,Hospital practice (1995),empty
+journal_title,912,PLoS medicine,empty
+journal_title,922,Drug Topics,empty
+journal_title,923,European respiratory journal,empty
+journal_title,928,Pediatrics,empty
+journal_title,941,Pharmacogenomics,empty
+journal_title,947,Journal of Consulting and Clinical Psychology,empty
+journal_title,961,Journal of Rheumatology,empty
+journal_title,970,Journal of Neurotrauma,empty
+journal_title,971,Pain Practice,empty
+journal_title,979,GeneReviews(R),empty
+journal_title,981,Proceedings of SPIE - The International Society for Optical Engineering,empty
+journal_title,994,CLINICAL TRIALS,empty
+journal_title,997,Review of Scientific Instruments,empty
+journal_title,1000,European Journal of Health Economics,empty
+jounral_abbreviation,4,empty,0
+jounral_abbreviation,6,empty,Br J Sports Med
+jounral_abbreviation,8,empty,0
+jounral_abbreviation,9,empty,J Cell Sci
+jounral_abbreviation,10,empty,Circulation
+jounral_abbreviation,11,empty,J Environ Monit
+jounral_abbreviation,14,empty,0
+jounral_abbreviation,15,empty,Journal of clinical microbiology
+jounral_abbreviation,18,empty,Pediatrics
+jounral_abbreviation,25,empty,Rheumatology
+jounral_abbreviation,28,empty,0
+jounral_abbreviation,37,Respiration,Respirology
+jounral_abbreviation,41,empty,0
+jounral_abbreviation,45,empty,0
+jounral_abbreviation,48,empty,Health education & behavior : the official publication of the Society for Public Health Education
+jounral_abbreviation,50,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,58,empty,The Annals of pharmacotherapy
+jounral_abbreviation,65,empty,Br J Sports Med
+jounral_abbreviation,67,empty,Occup Environ Med
+jounral_abbreviation,68,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,76,empty,0
+jounral_abbreviation,78,empty,Circulation
+jounral_abbreviation,81,European journal of cancer care,International journal of epidemiology
+jounral_abbreviation,88,empty,The Annals of pharmacotherapy
+jounral_abbreviation,94,empty,J Cell Sci
+jounral_abbreviation,97,empty,J Environ Monit
+jounral_abbreviation,102,empty,Respirology
+jounral_abbreviation,105,Cancer Chemother. Pharmacol.,Tumour Biol.
+jounral_abbreviation,113,empty,The Journal of bone and joint surgery. British volume
+jounral_abbreviation,114,empty,0
+jounral_abbreviation,119,empty,0
+jounral_abbreviation,121,empty,Nepal Med Coll J
+jounral_abbreviation,123,empty,Journal of graduate medical education
+jounral_abbreviation,124,Int J Clin Exp Pathol,Journal of graduate medical education
+jounral_abbreviation,125,International journal of gynecological cancer : official journal of the International Gynecological Cancer Society,Int. J. Dev. Biol.
+jounral_abbreviation,128,empty,Cases journal
+jounral_abbreviation,130,empty,0
+jounral_abbreviation,131,J.Am.Geriatr.Soc.,Biol.Blood Marrow Transplant.
+jounral_abbreviation,141,empty,Journal of clinical microbiology
+jounral_abbreviation,142,empty,International journal of obesity (2005)
+jounral_abbreviation,143,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,146,empty,0
+jounral_abbreviation,148,The European journal of general practice,Clinical nutrition (Edinburgh Scotland)
+jounral_abbreviation,151,empty,0
+jounral_abbreviation,157,empty,J Environ Monit
+jounral_abbreviation,167,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,169,empty,Biol.Blood Marrow Transplant.
+jounral_abbreviation,181,empty,Respirology
+jounral_abbreviation,185,empty,Rev Lat Am Enfermagem
+jounral_abbreviation,186,empty,0
+jounral_abbreviation,188,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,189,empty,Rev Lat Am Enfermagem
+jounral_abbreviation,193,empty,0
+jounral_abbreviation,195,empty,Rheumatology
+jounral_abbreviation,196,empty,Br J Sports Med
+jounral_abbreviation,198,empty,The Annals of pharmacotherapy
+jounral_abbreviation,204,empty,0
+jounral_abbreviation,205,Nephrol. Dial. Transplant.,Health education & behavior : the official publication of the Society for Public Health Education
+jounral_abbreviation,216,empty,The Annals of pharmacotherapy
+jounral_abbreviation,220,empty,Circulation
+jounral_abbreviation,233,Best Pract Res Clin Gastroenterol,International journal of obesity (2005)
+jounral_abbreviation,235,Med Teach,Journal of graduate medical education
+jounral_abbreviation,239,empty,0
+jounral_abbreviation,243,empty,Clinical nutrition (Edinburgh Scotland)
+jounral_abbreviation,244,Physiotherapy,empty
+jounral_abbreviation,246,empty,Biol.Blood Marrow Transplant.
+jounral_abbreviation,250,empty,0
+jounral_abbreviation,251,empty,0
+jounral_abbreviation,252,empty,J Environ Monit
+jounral_abbreviation,254,empty,0
+jounral_abbreviation,257,J Huazhong Univ Sci Technolog Med Sci,Tumour Biol.
+jounral_abbreviation,260,empty,0
+jounral_abbreviation,265,empty,Proc.Natl.Acad.Sci.U.S.A.
+jounral_abbreviation,268,empty,Stroke
+jounral_abbreviation,270,empty,0
+jounral_abbreviation,271,empty,0
+jounral_abbreviation,272,empty,0
+jounral_abbreviation,274,empty,0
+jounral_abbreviation,275,empty,0
+jounral_abbreviation,288,empty,0
+jounral_abbreviation,290,empty,0
+jounral_abbreviation,294,empty,0
+jounral_abbreviation,295,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,297,empty,0
+jounral_abbreviation,299,empty,Eur. J. Heart Fail.
+jounral_abbreviation,301,empty,Clin Med
+jounral_abbreviation,303,Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association,International journal of epidemiology
+jounral_abbreviation,305,Revista medico-chirurgicala a Societatii de Medici si Naturalisti din Iasi,empty
+jounral_abbreviation,308,empty,0
+jounral_abbreviation,310,empty,Transplantation
+jounral_abbreviation,315,empty,International journal of epidemiology
+jounral_abbreviation,317,empty,0
+jounral_abbreviation,318,empty,J Environ Monit
+jounral_abbreviation,331,empty,J Health Care Poor Underserved
+jounral_abbreviation,338,empty,Rheumatology
+jounral_abbreviation,346,empty,0
+jounral_abbreviation,349,Allergy Asthma Proc,Acad Radiol
+jounral_abbreviation,354,empty,The Annals of pharmacotherapy
+jounral_abbreviation,356,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,365,empty,Rheumatology
+jounral_abbreviation,367,empty,J Environ Monit
+jounral_abbreviation,370,empty,Biomed Eng Online
+jounral_abbreviation,373,empty,0
+jounral_abbreviation,374,empty,Respirology
+jounral_abbreviation,377,empty,Transplantation
+jounral_abbreviation,378,PloS one,The Annals of pharmacotherapy
+jounral_abbreviation,380,empty,0
+jounral_abbreviation,395,empty,Rheumatology
+jounral_abbreviation,397,Minerva Cardioangiol,Tumour Biol.
+jounral_abbreviation,399,empty,0
+jounral_abbreviation,404,empty,Rheumatology
+jounral_abbreviation,407,empty,0
+jounral_abbreviation,410,empty,0
+jounral_abbreviation,411,empty,International journal of epidemiology
+jounral_abbreviation,414,empty,The American journal of clinical nutrition
+jounral_abbreviation,426,empty,Ann. Intern. Med.
+jounral_abbreviation,429,empty,0
+jounral_abbreviation,430,empty,0
+jounral_abbreviation,432,empty,0
+jounral_abbreviation,433,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,434,empty,Cytokine
+jounral_abbreviation,436,empty,BJOG : an international journal of obstetrics and gynaecology
+jounral_abbreviation,437,BMC oral health,Clinical nutrition (Edinburgh Scotland)
+jounral_abbreviation,439,empty,Stroke
+jounral_abbreviation,441,empty,0
+jounral_abbreviation,444,empty,0
+jounral_abbreviation,447,Front Hum Neurosci,Journal of graduate medical education
+jounral_abbreviation,448,empty,J Chem Phys
+jounral_abbreviation,450,empty,American journal of critical care : an official publication American Association of Critical-Care Nurses
+jounral_abbreviation,453,Diabetes Technol. Ther.,International journal of epidemiology
+jounral_abbreviation,456,empty,0
+jounral_abbreviation,459,empty,J Environ Monit
+jounral_abbreviation,460,empty,J Environ Monit
+jounral_abbreviation,464,empty,Int.J.Neurosci.
+jounral_abbreviation,467,empty,0
+jounral_abbreviation,469,empty,0
+jounral_abbreviation,496,empty,J. Nucl. Med.
+jounral_abbreviation,497,empty,0
+jounral_abbreviation,503,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,504,empty,Obesity (Silver Spring)
+jounral_abbreviation,505,empty,0
+jounral_abbreviation,509,empty,Cytokine
+jounral_abbreviation,510,empty,J Health Care Poor Underserved
+jounral_abbreviation,511,empty,Bioelectromagnetics
+jounral_abbreviation,515,empty,0
+jounral_abbreviation,517,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,519,empty,0
+jounral_abbreviation,523,empty,Cochrane Database Syst Rev
+jounral_abbreviation,531,empty,0
+jounral_abbreviation,546,Rheumatology (Oxford England),empty
+jounral_abbreviation,552,empty,J Environ Monit
+jounral_abbreviation,569,empty,0
+jounral_abbreviation,572,empty,0
+jounral_abbreviation,573,empty,0
+jounral_abbreviation,576,Croat.Med.J.,empty
+jounral_abbreviation,582,Childs Nerv Syst,Tumour Biol.
+jounral_abbreviation,583,empty,J Health Care Poor Underserved
+jounral_abbreviation,584,empty,J Cell Sci
+jounral_abbreviation,594,empty,0
+jounral_abbreviation,598,empty,Bioelectromagnetics
+jounral_abbreviation,600,empty,0
+jounral_abbreviation,602,empty,Respirology
+jounral_abbreviation,604,empty,Acta Cytol.
+jounral_abbreviation,605,Neuropharmacology,J. Cereb. Blood Flow Metab.
+jounral_abbreviation,606,empty,Journal of human hypertension
+jounral_abbreviation,614,empty,Biol.Blood Marrow Transplant.
+jounral_abbreviation,620,empty,Respirology
+jounral_abbreviation,621,empty,0
+jounral_abbreviation,623,empty,Pediatrics
+jounral_abbreviation,625,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,630,empty,Transplantation
+jounral_abbreviation,633,Onkologie,Biol.Blood Marrow Transplant.
+jounral_abbreviation,642,empty,College Teaching
+jounral_abbreviation,653,empty,International journal of epidemiology
+jounral_abbreviation,662,empty,0
+jounral_abbreviation,673,empty,0
+jounral_abbreviation,682,empty,Biol.Blood Marrow Transplant.
+jounral_abbreviation,685,empty,0
+jounral_abbreviation,686,Photomed Laser Surg,Clinical nutrition (Edinburgh Scotland)
+jounral_abbreviation,687,empty,0
+jounral_abbreviation,692,empty,Occup Environ Med
+jounral_abbreviation,693,empty,Respirology
+jounral_abbreviation,700,empty,0
+jounral_abbreviation,703,empty,JRSM Open
+jounral_abbreviation,714,empty,BJOG : an international journal of obstetrics and gynaecology
+jounral_abbreviation,721,empty,Rheumatology
+jounral_abbreviation,723,empty,0
+jounral_abbreviation,735,empty,International journal of obesity (2005)
+jounral_abbreviation,738,Psychosom Med,Techniques in coloproctology
+jounral_abbreviation,739,empty,0
+jounral_abbreviation,741,empty,0
+jounral_abbreviation,746,Circulation,Biol.Blood Marrow Transplant.
+jounral_abbreviation,751,empty,0
+jounral_abbreviation,760,empty,0
+jounral_abbreviation,761,empty,American journal of critical care : an official publication American Association of Critical-Care Nurses
+jounral_abbreviation,770,PloS one,Biomed Res Int
+jounral_abbreviation,772,empty,0
+jounral_abbreviation,786,empty,Biol.Blood Marrow Transplant.
+jounral_abbreviation,787,empty,Respirology
+jounral_abbreviation,791,Oral Surg Oral Med Oral Pathol Oral Radiol,Public Health Nutr
+jounral_abbreviation,793,empty,The American journal of clinical nutrition
+jounral_abbreviation,794,empty,J.Am.Geriatr.Soc.
+jounral_abbreviation,797,empty,0
+jounral_abbreviation,802,empty,The Journal of hand surgery
+jounral_abbreviation,804,empty,0
+jounral_abbreviation,806,empty,0
+jounral_abbreviation,813,empty,Eur. J. Heart Fail.
+jounral_abbreviation,815,empty,Hippokratia
+jounral_abbreviation,816,empty,Biomed Res Int
+jounral_abbreviation,817,empty,Cytokine
+jounral_abbreviation,819,empty,Pediatrics
+jounral_abbreviation,820,empty,0
+jounral_abbreviation,823,empty,0
+jounral_abbreviation,827,empty,Occup Environ Med
+jounral_abbreviation,836,empty,Biol.Blood Marrow Transplant.
+jounral_abbreviation,844,empty,0
+jounral_abbreviation,846,empty,0
+jounral_abbreviation,857,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,859,empty,J Environ Monit
+jounral_abbreviation,860,empty,Stroke
+jounral_abbreviation,861,empty,0
+jounral_abbreviation,867,empty,J Addict Dis
+jounral_abbreviation,869,empty,Expert Opin Emerg Drugs
+jounral_abbreviation,870,empty,Pediatrics
+jounral_abbreviation,871,empty,Bioelectromagnetics
+jounral_abbreviation,872,empty,Microsurgery
+jounral_abbreviation,875,Arch. Gynecol. Obstet.,Clinical nutrition (Edinburgh Scotland)
+jounral_abbreviation,882,empty,Klin.Psikofarmakol.Bul.
+jounral_abbreviation,884,empty,0
+jounral_abbreviation,885,empty,Journal of analytical toxicology
+jounral_abbreviation,890,empty,0
+jounral_abbreviation,898,empty,0
+jounral_abbreviation,906,empty,0
+jounral_abbreviation,912,empty,J Korean Neurosurg Soc
+jounral_abbreviation,923,empty,0
+jounral_abbreviation,924,empty,0
+jounral_abbreviation,931,Int J Med Inform,Hernia
+jounral_abbreviation,940,empty,Colorectal Dis
+jounral_abbreviation,941,empty,Respirology
+jounral_abbreviation,943,empty,0
+jounral_abbreviation,947,empty,J Appl Physiol
+jounral_abbreviation,951,PLoS ONE,Biomed Res Int
+jounral_abbreviation,956,empty,0
+jounral_abbreviation,957,empty,0
+jounral_abbreviation,961,empty,Stroke
+jounral_abbreviation,970,empty,0
+jounral_abbreviation,971,empty,Cytokine
+jounral_abbreviation,973,empty,0
+jounral_abbreviation,979,empty,The Journal of the Oklahoma State Medical Association
+jounral_abbreviation,981,empty,0
+jounral_abbreviation,987,empty,Journal of graduate medical education
+jounral_abbreviation,994,empty,0
+jounral_abbreviation,997,empty,0
+jounral_abbreviation,999,empty,J Cell Sci
+jounral_abbreviation,1000,empty,Rheumatology
+journal_issn,14,1547-5271,empty
+journal_issn,18,1469-493X,empty
+journal_issn,22,empty,-4473
+journal_issn,41,0360-3016,0
+journal_issn,48,1469-493X,2044-6055
+journal_issn,50,empty,Mar-22
+journal_issn,51,empty,0
+journal_issn,55,empty,0
+journal_issn,67,empty,0
+journal_issn,76,empty,1520-7714
+journal_issn,77,empty,0
+journal_issn,94,1540-7314 0148-8376,empty
+journal_issn,97,empty,0
+journal_issn,103,empty,0023-6837
+journal_issn,107,empty,0
+journal_issn,108,empty,978-1-2673-2110-7
+journal_issn,113,empty,1547-1896
+journal_issn,118,empty,0893-133X
+journal_issn,119,2115-7863(Electronic);2115-8789(Print),empty
+journal_issn,127,empty,0301-4851
+journal_issn,130,-7518,empty
+journal_issn,135,empty,0
+journal_issn,138,empty,0
+journal_issn,139,empty,0
+journal_issn,142,empty,1678-4464
+journal_issn,147,empty,0
+journal_issn,163,empty,0966-6362 DO  - http://dx.doi.org/10.1016/j.gaitpost.2010402
+journal_issn,164,empty,-4473
+journal_issn,166,empty,1175-3277
+journal_issn,181,0390-6078,0143-005X
+journal_issn,196,empty,1678-4464
+journal_issn,204,empty,0
+journal_issn,219,empty,Apr-74
+journal_issn,220,empty,0
+journal_issn,223,empty,0
+journal_issn,246,empty,0268-1153
+journal_issn,250,1088-0224,empty
+journal_issn,251,empty,0
+journal_issn,254,1088-3371,0305-1862
+journal_issn,262,empty,0
+journal_issn,265,empty,0
+journal_issn,268,empty,0
+journal_issn,271,-10475,empty
+journal_issn,275,-8906,empty
+journal_issn,280,978-1-4503-3459-4,1699-5198
+journal_issn,286,empty,0
+journal_issn,288,empty,2044-6055
+journal_issn,294,1749-8546,0
+journal_issn,299,empty,0
+journal_issn,301,empty,0
+journal_issn,304,empty,0
+journal_issn,315,empty,0
+journal_issn,325,empty,09663622 (ISSN)
+journal_issn,340,empty,0
+journal_issn,346,1360-7863,empty
+journal_issn,353,empty,0023-6837
+journal_issn,360,-4928,empty
+journal_issn,380,empty,0360-7283
+journal_issn,387,empty,1547-1896
+journal_issn,399,0975-1491,empty
+journal_issn,404,empty,0
+journal_issn,409,empty,0360-7283
+journal_issn,411,empty,978-0-7918-4926-2
+journal_issn,425,empty,1678-4464
+journal_issn,426,empty,1062-8401
+journal_issn,433,empty,-4473
+journal_issn,434,empty,0
+journal_issn,436,empty,1840-0132 1840-2445 (electronic)
+journal_issn,439,empty,0
+journal_issn,445,1058-0832,empty
+journal_issn,456,0370-0747,empty
+journal_issn,469,-5514,empty
+journal_issn,470,empty,0
+journal_issn,490,empty,1098-3015
+journal_issn,491,empty,0
+journal_issn,499,empty,0301-4851
+journal_issn,505,0428-8246,empty
+journal_issn,514,empty,0
+journal_issn,515,-14400,empty
+journal_issn,528,empty,0143-005X
+journal_issn,559,empty,0007-1250 1472-1465
+journal_issn,563,empty,0360-7283
+journal_issn,574,empty,0
+journal_issn,594,empty,1553-9318 1553-9318
+journal_issn,618,empty,0
+journal_issn,623,empty,0
+journal_issn,631,empty,0
+journal_issn,640,empty,0
+journal_issn,644,1524-4539,Sep-22
+journal_issn,653,1076-6294 (Print)     1076-6294,1776-2588
+journal_issn,662,empty,0301-4851
+journal_issn,673,-9262,empty
+journal_issn,677,empty,0
+journal_issn,678,empty,0
+journal_issn,679,empty,978-0-7918-4926-2
+journal_issn,682,empty,0
+journal_issn,685,empty,1776-2588
+journal_issn,692,empty,0
+journal_issn,701,empty,978-1-2673-2110-7
+journal_issn,734,empty,0143-005X
+journal_issn,739,0732-183X,empty
+journal_issn,741,Apr-74,1776-2588
+journal_issn,743,empty,0091-6749 (Print)
+journal_issn,760,1098-3015,empty
+journal_issn,764,empty,0
+journal_issn,778,empty,0305-1862
+journal_issn,794,empty,Jan-15
+journal_issn,804,0961-5423,empty
+journal_issn,806,1672-2531,empty
+journal_issn,820,0090-3493,empty
+journal_issn,827,empty,1745-834X     1745-8358
+journal_issn,867,1469-493X,empty
+journal_issn,869,empty,0
+journal_issn,871,empty,0
+journal_issn,874,empty,1553-9318 1553-9318
+journal_issn,882,empty,1478-7547 (electronic)
+journal_issn,887,empty,0
+journal_issn,902,empty,0
+journal_issn,924,1672-1977,empty
+journal_issn,933,empty,0
+journal_issn,941,empty,0
+journal_issn,943,-5990,empty
+journal_issn,946,empty,0
+journal_issn,949,empty,0
+journal_issn,952,empty,0
+journal_issn,956,1538-7933,empty
+journal_issn,957,0272-4944,empty
+journal_issn,961,empty,0
+journal_issn,963,0966-6362 DO  - http://dx.doi.org/10.1016/j.gaitpost.2010402,0143-005X
+journal_issn,970,empty,0
+journal_issn,977,empty,0
+article_jvolumn,2,empty,0
+article_jvolumn,22,40,0
+article_jvolumn,50,21,0
+article_jvolumn,51,70,0
+article_jvolumn,55,90,0
+article_jvolumn,97,64,0
+article_jvolumn,103,24,0
+article_jvolumn,107,52,0
+article_jvolumn,113,103,0
+article_jvolumn,118,13,0
+article_jvolumn,127,14,0
+article_jvolumn,135,143,0
+article_jvolumn,139,35,0
+article_jvolumn,141,89,0
+article_jvolumn,142,137,0
+article_jvolumn,163,30,0
+article_jvolumn,164,24,0
+article_jvolumn,166,45,0
+article_jvolumn,182,empty,0
+article_jvolumn,196,101,0
+article_jvolumn,204,154,0
+article_jvolumn,210,empty,0
+article_jvolumn,219,22,0
+article_jvolumn,220,74,0
+article_jvolumn,223,72,0
+article_jvolumn,246,15,0
+article_jvolumn,262,137,0
+article_jvolumn,265,132,0
+article_jvolumn,268,12,0
+article_jvolumn,286,7,0
+article_jvolumn,288,44,0
+article_jvolumn,299,189,0
+article_jvolumn,304,31,0
+article_jvolumn,313,empty,0
+article_jvolumn,315,49,0
+article_jvolumn,325,13,0
+article_jvolumn,333,25,0
+article_jvolumn,340,59,0
+article_jvolumn,341,empty,0
+article_jvolumn,353,30,0
+article_jvolumn,357,empty,0
+article_jvolumn,361,empty,0
+article_jvolumn,387,21,0
+article_jvolumn,404,35,0
+article_jvolumn,409,75,0
+article_jvolumn,411,69,0
+article_jvolumn,425,24,0
+article_jvolumn,433,32,0
+article_jvolumn,436,103,0
+article_jvolumn,439,20,0
+article_jvolumn,490,124,0
+article_jvolumn,491,6,0
+article_jvolumn,499,28,0
+article_jvolumn,528,37,0
+article_jvolumn,534,empty,0
+article_jvolumn,563,33,0
+article_jvolumn,569,33,0
+article_jvolumn,574,62,0
+article_jvolumn,594,90,0
+article_jvolumn,618,284,0
+article_jvolumn,623,32,0
+article_jvolumn,631,17,0
+article_jvolumn,643,empty,0
+article_jvolumn,662,45,0
+article_jvolumn,677,25,0
+article_jvolumn,682,113,0
+article_jvolumn,685,36,0
+article_jvolumn,693,28,0
+article_jvolumn,701,126,0
+article_jvolumn,764,56,0
+article_jvolumn,769,empty,0
+article_jvolumn,778,13,0
+article_jvolumn,792,empty,0
+article_jvolumn,794,33,0
+article_jvolumn,827,14,0
+article_jvolumn,865,48,0
+article_jvolumn,869,40,0
+article_jvolumn,871,21,0
+article_jvolumn,882,25,0
+article_jvolumn,902,32,0
+article_jvolumn,952,27,0
+article_jvolumn,961,42,0
+article_jvolumn,998,empty,0
+article_jissue,48,empty,0
+article_jissue,51,2,0
+article_jissue,55,3,0
+article_jissue,76,1,0
+article_jissue,77,3,0
+article_jissue,103,2,0
+article_jissue,107,3,0
+article_jissue,135,1,0
+article_jissue,138,3,0
+article_jissue,139,2,0
+article_jissue,141,5,0
+article_jissue,147,5,0
+article_jissue,154,6,0
+article_jissue,157,9,0
+article_jissue,166,2,0
+article_jissue,167,1,0
+article_jissue,172,2,0
+article_jissue,186,6,0
+article_jissue,204,5,0
+article_jissue,205,1,0
+article_jissue,216,4,0
+article_jissue,220,1,0
+article_jissue,223,1,0
+article_jissue,251,3,0
+article_jissue,262,2,0
+article_jissue,265,3,0
+article_jissue,299,4,0
+article_jissue,301,2,0
+article_jissue,304,2,0
+article_jissue,340,2,0
+article_jissue,388,3,0
+article_jissue,404,2,0
+article_jissue,426,5,0
+article_jissue,464,1,0
+article_jissue,496,7,0
+article_jissue,498,1,0
+article_jissue,514,3,0
+article_jissue,528,1,0
+article_jissue,540,2,0
+article_jissue,569,2,0
+article_jissue,583,5,0
+article_jissue,584,8,0
+article_jissue,591,1,0
+article_jissue,631,8,0
+article_jissue,693,1,0
+article_jissue,777,2,0
+article_jissue,778,4,0
+article_jissue,794,5,0
+article_jissue,827,14,0
+article_jissue,852,3,0
+article_jissue,856,4,0
+article_jissue,865,6,0
+article_jissue,869,7,0
+article_jissue,871,4,0
+article_jissue,874,4,0
+article_jissue,882,5,0
+article_jissue,887,6,0
+article_jissue,902,6,0
+article_jissue,941,4,0
+article_jissue,952,6,0
+article_jissue,961,10,0
+article_jissue,970,2,0
+article_jcreated_at,3,12/1/06,0
+article_jcreated_at,4,1/1/13,0
+article_jcreated_at,6,1/1/09,0
+article_jcreated_at,9,1/1/11,0
+article_jcreated_at,10,1/1/06,0
+article_jcreated_at,11,1/1/09,0
+article_jcreated_at,12,1/1/15,0
+article_jcreated_at,13,1/1/13,0
+article_jcreated_at,14,1/1/11,0
+article_jcreated_at,15,1/1/11,0
+article_jcreated_at,17,1/1/12,0
+article_jcreated_at,18,1/1/05,0
+article_jcreated_at,21,12/1/13,0
+article_jcreated_at,22,1/1/11,0
+article_jcreated_at,23,12/1/14,0
+article_jcreated_at,25,1/1/12,0
+article_jcreated_at,26,3/1/14,0
+article_jcreated_at,28,1/1/86,0
+article_jcreated_at,29,1/1/13,0
+article_jcreated_at,30,1/1/09,0
+article_jcreated_at,35,2/1/15,0
+article_jcreated_at,36,1/1/08,0
+article_jcreated_at,37,1/1/14,0
+article_jcreated_at,38,2/1/09,0
+article_jcreated_at,41,empty,0
+article_jcreated_at,44,1/1/14,0
+article_jcreated_at,45,1/1/10,0
+article_jcreated_at,47,empty,0
+article_jcreated_at,48,1/1/13,0
+article_jcreated_at,49,11/1/10,0
+article_jcreated_at,54,11/1/10,0
+article_jcreated_at,58,1/1/12,0
+article_jcreated_at,60,12/1/14,0
+article_jcreated_at,61,1/1/15,0
+article_jcreated_at,63,1/1/11,0
+article_jcreated_at,65,1/1/09,0
+article_jcreated_at,66,1/1/08,0
+article_jcreated_at,67,1/1/08,0
+article_jcreated_at,68,1/1/10,0
+article_jcreated_at,70,3/1/99,0
+article_jcreated_at,72,1/1/12,0
+article_jcreated_at,76,1/1/13,0
+article_jcreated_at,77,1/1/11,0
+article_jcreated_at,78,1/1/06,0
+article_jcreated_at,80,1/1/08,0
+article_jcreated_at,81,1/1/10,0
+article_jcreated_at,83,1/1/05,0
+article_jcreated_at,86,1/1/08,0
+article_jcreated_at,88,1/1/12,0
+article_jcreated_at,89,1/1/99,0
+article_jcreated_at,90,1/1/08,0
+article_jcreated_at,93,1/1/99,0
+article_jcreated_at,94,1/1/11,0
+article_jcreated_at,95,1/1/13,0
+article_jcreated_at,96,1/1/07,0
+article_jcreated_at,97,1/1/09,0
+article_jcreated_at,98,1/1/92,0
+article_jcreated_at,101,empty,0
+article_jcreated_at,102,1/1/14,0
+article_jcreated_at,103,1/1/15,0
+article_jcreated_at,107,1/1/12,0
+article_jcreated_at,108,1/1/12,0
+article_jcreated_at,110,1/1/00,0
+article_jcreated_at,111,9/1/14,0
+article_jcreated_at,112,1/1/13,0
+article_jcreated_at,113,1/1/07,0
+article_jcreated_at,114,1/1/11,0
+article_jcreated_at,116,empty,0
+article_jcreated_at,118,1/1/10,0
+article_jcreated_at,119,empty,0
+article_jcreated_at,122,2/1/12,0
+article_jcreated_at,123,1/1/13,0
+article_jcreated_at,124,1/1/13,0
+article_jcreated_at,125,1/1/11,0
+article_jcreated_at,127,1/1/11,0
+article_jcreated_at,128,1/1/08,0
+article_jcreated_at,130,empty,0
+article_jcreated_at,131,1/1/13,0
+article_jcreated_at,132,6/1/03,0
+article_jcreated_at,133,empty,0
+article_jcreated_at,134,empty,0
+article_jcreated_at,135,1/1/05,0
+article_jcreated_at,137,11/1/14,0
+article_jcreated_at,138,1/1/05,0
+article_jcreated_at,140,1/1/14,0
+article_jcreated_at,141,1/1/11,0
+article_jcreated_at,142,1/1/09,0
+article_jcreated_at,143,1/1/11,0
+article_jcreated_at,144,1/1/05,0
+article_jcreated_at,147,empty,0
+article_jcreated_at,148,1/1/14,0
+article_jcreated_at,151,1/1/07,0
+article_jcreated_at,152,10/1/12,0
+article_jcreated_at,154,1/1/99,0
+article_jcreated_at,157,1/1/09,0
+article_jcreated_at,158,12/1/13,0
+article_jcreated_at,159,1/1/13,0
+article_jcreated_at,160,1/1/14,0
+article_jcreated_at,162,5/1/14,0
+article_jcreated_at,163,1/1/14,0
+article_jcreated_at,164,1/1/11,0
+article_jcreated_at,165,1/1/95,0
+article_jcreated_at,167,1/1/10,0
+article_jcreated_at,168,8/1/08,0
+article_jcreated_at,169,1/1/13,0
+article_jcreated_at,170,empty,0
+article_jcreated_at,171,7/1/06,0
+article_jcreated_at,172,1/1/05,0
+article_jcreated_at,173,12/1/14,0
+article_jcreated_at,174,1/1/93,0
+article_jcreated_at,178,1/1/09,0
+article_jcreated_at,179,1/1/14,0
+article_jcreated_at,180,10/1/13,0
+article_jcreated_at,181,1/1/14,0
+article_jcreated_at,184,1/1/07,0
+article_jcreated_at,185,1/1/12,0
+article_jcreated_at,187,empty,0
+article_jcreated_at,188,1/1/10,0
+article_jcreated_at,189,1/1/12,0
+article_jcreated_at,190,1/1/01,0
+article_jcreated_at,191,1/1/13,0
+article_jcreated_at,192,1/1/09,0
+article_jcreated_at,195,1/1/12,0
+article_jcreated_at,198,1/1/12,0
+article_jcreated_at,199,7/1/14,0
+article_jcreated_at,201,12/1/14,0
+article_jcreated_at,202,1/1/13,0
+article_jcreated_at,203,7/1/07,0
+article_jcreated_at,204,1/1/06,0
+article_jcreated_at,205,1/1/13,0
+article_jcreated_at,206,1/1/13,0
+article_jcreated_at,208,empty,0
+article_jcreated_at,216,1/1/12,0
+article_jcreated_at,218,1/1/08,0
+article_jcreated_at,219,1/1/10,0
+article_jcreated_at,223,empty,0
+article_jcreated_at,225,empty,0
+article_jcreated_at,227,9/1/13,0
+article_jcreated_at,229,1/1/06,0
+article_jcreated_at,230,empty,0
+article_jcreated_at,232,7/1/14,0
+article_jcreated_at,233,1/1/09,0
+article_jcreated_at,234,1/1/12,0
+article_jcreated_at,235,1/1/13,0
+article_jcreated_at,236,1/1/12,0
+article_jcreated_at,237,12/1/03,0
+article_jcreated_at,239,1/1/14,0
+article_jcreated_at,241,1/1/07,0
+article_jcreated_at,243,1/1/14,0
+article_jcreated_at,244,empty,0
+article_jcreated_at,245,1/1/13,0
+article_jcreated_at,246,1/1/13,0
+article_jcreated_at,247,1/1/10,0
+article_jcreated_at,250,empty,0
+article_jcreated_at,252,1/1/09,0
+article_jcreated_at,253,1/1/11,0
+article_jcreated_at,254,1/1/97,0
+article_jcreated_at,256,10/1/13,0
+article_jcreated_at,257,4/1/14,0
+article_jcreated_at,259,5/1/14,0
+article_jcreated_at,264,1/1/05,0
+article_jcreated_at,265,1/1/07,0
+article_jcreated_at,269,1/1/14,0
+article_jcreated_at,271,empty,0
+article_jcreated_at,272,1/1/10,0
+article_jcreated_at,273,1/1/98,0
+article_jcreated_at,274,1/1/11,0
+article_jcreated_at,275,empty,0
+article_jcreated_at,276,1/1/11,0
+article_jcreated_at,278,5/1/02,0
+article_jcreated_at,279,11/1/11,0
+article_jcreated_at,280,1/1/15,0
+article_jcreated_at,282,1/1/11,0
+article_jcreated_at,283,9/1/14,0
+article_jcreated_at,284,1/1/14,0
+article_jcreated_at,286,1/1/92,0
+article_jcreated_at,287,10/1/13,0
+article_jcreated_at,288,1/1/14,0
+article_jcreated_at,289,1/1/12,0
+article_jcreated_at,290,1/1/14,0
+article_jcreated_at,292,1/1/15,0
+article_jcreated_at,294,empty,0
+article_jcreated_at,295,1/1/11,0
+article_jcreated_at,296,3/1/14,0
+article_jcreated_at,298,1/1/91,0
+article_jcreated_at,299,1/1/14,0
+article_jcreated_at,300,11/1/13,0
+article_jcreated_at,302,1/1/07,0
+article_jcreated_at,303,1/1/10,0
+article_jcreated_at,304,1/1/02,0
+article_jcreated_at,305,empty,0
+article_jcreated_at,306,1/1/93,0
+article_jcreated_at,307,empty,0
+article_jcreated_at,309,12/1/01,0
+article_jcreated_at,311,empty,0
+article_jcreated_at,312,1/1/12,0
+article_jcreated_at,314,1/1/03,0
+article_jcreated_at,315,1/1/10,0
+article_jcreated_at,316,2/1/14,0
+article_jcreated_at,318,1/1/09,0
+article_jcreated_at,320,6/1/14,0
+article_jcreated_at,321,1/1/03,0
+article_jcreated_at,322,1/1/13,0
+article_jcreated_at,325,1/1/06,0
+article_jcreated_at,326,empty,0
+article_jcreated_at,327,5/1/12,0
+article_jcreated_at,328,empty,0
+article_jcreated_at,330,empty,0
+article_jcreated_at,331,1/1/13,0
+article_jcreated_at,333,1/1/06,0
+article_jcreated_at,334,1/1/07,0
+article_jcreated_at,338,1/1/12,0
+article_jcreated_at,339,1/1/04,0
+article_jcreated_at,342,1/1/88,0
+article_jcreated_at,343,empty,0
+article_jcreated_at,344,9/1/09,0
+article_jcreated_at,346,1/1/05,0
+article_jcreated_at,347,6/1/01,0
+article_jcreated_at,348,3/1/09,0
+article_jcreated_at,349,5/1/12,0
+article_jcreated_at,350,1/1/09,0
+article_jcreated_at,351,1/1/12,0
+article_jcreated_at,352,1/1/98,0
+article_jcreated_at,353,1/1/15,0
+article_jcreated_at,354,1/1/12,0
+article_jcreated_at,356,1/1/10,0
+article_jcreated_at,359,1/1/01,0
+article_jcreated_at,360,empty,0
+article_jcreated_at,363,2/1/13,0
+article_jcreated_at,365,1/1/12,0
+article_jcreated_at,366,1/1/14,0
+article_jcreated_at,367,1/1/09,0
+article_jcreated_at,369,1/1/10,0
+article_jcreated_at,370,1/1/11,0
+article_jcreated_at,373,1/1/12,0
+article_jcreated_at,374,1/1/14,0
+article_jcreated_at,376,7/1/14,0
+article_jcreated_at,377,1/1/15,0
+article_jcreated_at,379,1/1/96,0
+article_jcreated_at,380,1/1/04,0
+article_jcreated_at,381,5/1/06,0
+article_jcreated_at,384,1/1/12,0
+article_jcreated_at,385,1/1/09,0
+article_jcreated_at,387,1/1/07,0
+article_jcreated_at,391,1/1/01,0
+article_jcreated_at,395,1/1/12,0
+article_jcreated_at,396,8/1/12,0
+article_jcreated_at,397,4/1/14,0
+article_jcreated_at,398,1/1/11,0
+article_jcreated_at,399,empty,0
+article_jcreated_at,400,3/1/14,0
+article_jcreated_at,401,1/1/13,0
+article_jcreated_at,403,1/1/14,0
+article_jcreated_at,405,2/1/13,0
+article_jcreated_at,407,4/1/09,0
+article_jcreated_at,409,1/1/04,0
+article_jcreated_at,410,1/1/97,0
+article_jcreated_at,414,1/1/00,0
+article_jcreated_at,415,empty,0
+article_jcreated_at,420,empty,0
+article_jcreated_at,421,1/1/08,0
+article_jcreated_at,423,1/1/12,0
+article_jcreated_at,424,1/1/15,0
+article_jcreated_at,425,1/1/09,0
+article_jcreated_at,427,empty,0
+article_jcreated_at,430,1/1/97,0
+article_jcreated_at,431,1/1/00,0
+article_jcreated_at,437,1/1/14,0
+article_jcreated_at,439,1/1/15,0
+article_jcreated_at,441,empty,0
+article_jcreated_at,442,4/1/14,0
+article_jcreated_at,444,1/1/07,0
+article_jcreated_at,445,1/1/07,0
+article_jcreated_at,447,1/1/13,0
+article_jcreated_at,448,1/1/07,0
+article_jcreated_at,450,1/1/03,0
+article_jcreated_at,451,5/1/09,0
+article_jcreated_at,452,9/1/12,0
+article_jcreated_at,453,1/1/10,0
+article_jcreated_at,454,1/1/11,0
+article_jcreated_at,455,1/1/04,0
+article_jcreated_at,456,1/1/07,0
+article_jcreated_at,457,1/1/09,0
+article_jcreated_at,458,12/1/12,0
+article_jcreated_at,459,1/1/09,0
+article_jcreated_at,460,1/1/09,0
+article_jcreated_at,461,1/1/12,0
+article_jcreated_at,462,11/1/13,0
+article_jcreated_at,464,1/1/04,0
+article_jcreated_at,465,1/1/13,0
+article_jcreated_at,466,1/1/11,0
+article_jcreated_at,467,1/1/15,0
+article_jcreated_at,469,empty,0
+article_jcreated_at,470,1/1/13,0
+article_jcreated_at,471,1/1/13,0
+article_jcreated_at,474,1/1/13,0
+article_jcreated_at,475,7/1/12,0
+article_jcreated_at,477,3/1/14,0
+article_jcreated_at,480,4/1/09,0
+article_jcreated_at,481,1/1/06,0
+article_jcreated_at,483,4/1/11,0
+article_jcreated_at,485,1/1/99,0
+article_jcreated_at,486,1/1/00,0
+article_jcreated_at,487,3/1/10,0
+article_jcreated_at,488,empty,0
+article_jcreated_at,489,empty,0
+article_jcreated_at,490,empty,0
+article_jcreated_at,491,1/1/14,0
+article_jcreated_at,496,8/1/13,0
+article_jcreated_at,497,1/1/10,0
+article_jcreated_at,498,1/1/05,0
+article_jcreated_at,499,1/1/11,0
+article_jcreated_at,500,1/1/04,0
+article_jcreated_at,503,1/1/11,0
+article_jcreated_at,504,1/1/09,0
+article_jcreated_at,505,empty,0
+article_jcreated_at,506,3/1/08,0
+article_jcreated_at,507,1/1/00,0
+article_jcreated_at,509,1/1/13,0
+article_jcreated_at,510,1/1/13,0
+article_jcreated_at,511,1/1/02,0
+article_jcreated_at,513,1/1/13,0
+article_jcreated_at,514,1/1/97,0
+article_jcreated_at,515,empty,0
+article_jcreated_at,516,4/1/14,0
+article_jcreated_at,517,1/1/11,0
+article_jcreated_at,518,8/1/13,0
+article_jcreated_at,519,10/1/11,0
+article_jcreated_at,522,1/1/13,0
+article_jcreated_at,523,1/1/00,0
+article_jcreated_at,524,4/1/15,0
+article_jcreated_at,528,1/1/14,0
+article_jcreated_at,529,1/1/14,0
+article_jcreated_at,531,empty,0
+article_jcreated_at,535,5/1/01,0
+article_jcreated_at,540,1/1/04,0
+article_jcreated_at,542,empty,0
+article_jcreated_at,543,1/1/95,0
+article_jcreated_at,545,empty,0
+article_jcreated_at,546,1/1/05,0
+article_jcreated_at,547,1/1/06,0
+article_jcreated_at,548,1/1/14,0
+article_jcreated_at,552,1/1/09,0
+article_jcreated_at,553,empty,0
+article_jcreated_at,556,6/1/12,0
+article_jcreated_at,558,1/1/13,0
+article_jcreated_at,559,1/1/98,0
+article_jcreated_at,563,1/1/04,0
+article_jcreated_at,564,5/1/10,0
+article_jcreated_at,565,1/1/11,0
+article_jcreated_at,567,1/1/05,0
+article_jcreated_at,569,1/1/10,0
+article_jcreated_at,572,1/1/12,0
+article_jcreated_at,576,1/1/05,0
+article_jcreated_at,577,6/1/14,0
+article_jcreated_at,578,1/1/14,0
+article_jcreated_at,581,6/1/10,0
+article_jcreated_at,582,4/1/14,0
+article_jcreated_at,583,1/1/13,0
+article_jcreated_at,584,1/1/11,0
+article_jcreated_at,585,empty,0
+article_jcreated_at,589,1/1/13,0
+article_jcreated_at,591,1/1/13,0
+article_jcreated_at,592,1/1/14,0
+article_jcreated_at,593,1/1/98,0
+article_jcreated_at,594,1/1/05,0
+article_jcreated_at,596,1/1/10,0
+article_jcreated_at,597,10/1/10,0
+article_jcreated_at,598,1/1/02,0
+article_jcreated_at,599,1/1/11,0
+article_jcreated_at,600,1/1/14,0
+article_jcreated_at,601,9/1/15,0
+article_jcreated_at,602,1/1/14,0
+article_jcreated_at,604,1/1/12,0
+article_jcreated_at,605,10/1/14,0
+article_jcreated_at,607,1/1/09,0
+article_jcreated_at,613,1/1/86,0
+article_jcreated_at,615,4/1/11,0
+article_jcreated_at,617,9/1/04,0
+article_jcreated_at,619,1/1/08,0
+article_jcreated_at,620,1/1/14,0
+article_jcreated_at,621,1/1/06,0
+article_jcreated_at,624,1/1/13,0
+article_jcreated_at,625,1/1/11,0
+article_jcreated_at,630,1/1/15,0
+article_jcreated_at,631,1/1/11,0
+article_jcreated_at,632,1/1/00,0
+article_jcreated_at,633,1/1/13,0
+article_jcreated_at,635,empty,0
+article_jcreated_at,636,1/1/03,0
+article_jcreated_at,637,1/1/09,0
+article_jcreated_at,638,1/1/09,0
+article_jcreated_at,642,1/1/06,0
+article_jcreated_at,646,empty,0
+article_jcreated_at,649,1/1/07,0
+article_jcreated_at,653,1/1/10,0
+article_jcreated_at,661,7/1/14,0
+article_jcreated_at,662,1/1/11,0
+article_jcreated_at,663,5/1/11,0
+article_jcreated_at,664,1/1/14,0
+article_jcreated_at,666,1/1/15,0
+article_jcreated_at,669,1/1/08,0
+article_jcreated_at,671,1/1/14,0
+article_jcreated_at,673,empty,0
+article_jcreated_at,674,1/1/09,0
+article_jcreated_at,676,1/1/11,0
+article_jcreated_at,677,1/1/00,0
+article_jcreated_at,678,1/1/07,0
+article_jcreated_at,679,1/1/10,0
+article_jcreated_at,682,1/1/13,0
+article_jcreated_at,683,1/1/13,0
+article_jcreated_at,686,1/1/14,0
+article_jcreated_at,687,1/1/14,0
+article_jcreated_at,688,1/1/09,0
+article_jcreated_at,693,1/1/14,0
+article_jcreated_at,696,1/1/14,0
+article_jcreated_at,698,1/1/08,0
+article_jcreated_at,699,1/1/07,0
+article_jcreated_at,703,1/1/15,0
+article_jcreated_at,705,1/1/14,0
+article_jcreated_at,707,6/1/12,0
+article_jcreated_at,710,1/1/07,0
+article_jcreated_at,711,1/1/01,0
+article_jcreated_at,712,empty,0
+article_jcreated_at,713,1/1/12,0
+article_jcreated_at,716,4/1/14,0
+article_jcreated_at,717,1/1/02,0
+article_jcreated_at,718,1/1/14,0
+article_jcreated_at,724,10/1/12,0
+article_jcreated_at,725,empty,0
+article_jcreated_at,726,1/1/86,0
+article_jcreated_at,729,1/1/01,0
+article_jcreated_at,734,1/1/14,0
+article_jcreated_at,735,1/1/09,0
+article_jcreated_at,738,1/1/10,0
+article_jcreated_at,739,empty,0
+article_jcreated_at,741,1/1/10,0
+article_jcreated_at,742,1/1/98,0
+article_jcreated_at,744,empty,0
+article_jcreated_at,745,1/1/86,0
+article_jcreated_at,746,1/1/13,0
+article_jcreated_at,748,empty,0
+article_jcreated_at,749,1/1/13,0
+article_jcreated_at,751,1/1/04,0
+article_jcreated_at,756,1/1/10,0
+article_jcreated_at,757,6/1/01,0
+article_jcreated_at,758,empty,0
+article_jcreated_at,760,empty,0
+article_jcreated_at,761,1/1/03,0
+article_jcreated_at,765,11/1/13,0
+article_jcreated_at,770,1/1/14,0
+article_jcreated_at,772,1/1/01,0
+article_jcreated_at,773,7/1/14,0
+article_jcreated_at,776,1/1/98,0
+article_jcreated_at,778,1/1/97,0
+article_jcreated_at,781,1/1/98,0
+article_jcreated_at,783,empty,0
+article_jcreated_at,786,1/1/13,0
+article_jcreated_at,789,1/1/10,0
+article_jcreated_at,791,12/1/14,0
+article_jcreated_at,793,1/1/00,0
+article_jcreated_at,794,1/1/13,0
+article_jcreated_at,797,empty,0
+article_jcreated_at,799,empty,0
+article_jcreated_at,802,1/1/03,0
+article_jcreated_at,803,1/1/93,0
+article_jcreated_at,804,1/1/05,0
+article_jcreated_at,806,empty,0
+article_jcreated_at,808,1/1/15,0
+article_jcreated_at,811,1/1/12,0
+article_jcreated_at,812,empty,0
+article_jcreated_at,813,1/1/14,0
+article_jcreated_at,814,7/1/06,0
+article_jcreated_at,815,1/1/14,0
+article_jcreated_at,820,empty,0
+article_jcreated_at,821,1/1/14,0
+article_jcreated_at,822,4/1/14,0
+article_jcreated_at,823,1/1/04,0
+article_jcreated_at,826,4/1/15,0
+article_jcreated_at,828,11/1/10,0
+article_jcreated_at,829,1/1/12,0
+article_jcreated_at,830,4/1/15,0
+article_jcreated_at,833,empty,0
+article_jcreated_at,834,10/1/07,0
+article_jcreated_at,836,1/1/13,0
+article_jcreated_at,839,11/1/13,0
+article_jcreated_at,840,1/1/99,0
+article_jcreated_at,843,1/1/14,0
+article_jcreated_at,845,1/1/14,0
+article_jcreated_at,847,1/1/14,0
+article_jcreated_at,848,1/1/11,0
+article_jcreated_at,850,1/1/11,0
+article_jcreated_at,855,1/1/14,0
+article_jcreated_at,857,1/1/10,0
+article_jcreated_at,860,1/1/15,0
+article_jcreated_at,865,1/1/10,0
+article_jcreated_at,867,1/1/06,0
+article_jcreated_at,872,1/1/14,0
+article_jcreated_at,874,1/1/05,0
+article_jcreated_at,875,1/1/14,0
+article_jcreated_at,876,1/1/04,0
+article_jcreated_at,877,1/1/93,0
+article_jcreated_at,878,empty,0
+article_jcreated_at,883,1/1/11,0
+article_jcreated_at,887,1/1/06,0
+article_jcreated_at,889,1/1/13,0
+article_jcreated_at,890,1/1/09,0
+article_jcreated_at,892,1/1/03,0
+article_jcreated_at,893,1/1/08,0
+article_jcreated_at,895,1/1/09,0
+article_jcreated_at,897,1/1/95,0
+article_jcreated_at,898,1/1/05,0
+article_jcreated_at,899,empty,0
+article_jcreated_at,901,1/1/10,0
+article_jcreated_at,905,3/1/14,0
+article_jcreated_at,906,1/1/14,0
+article_jcreated_at,907,1/1/12,0
+article_jcreated_at,908,9/1/14,0
+article_jcreated_at,910,12/1/13,0
+article_jcreated_at,914,11/1/13,0
+article_jcreated_at,915,3/1/14,0
+article_jcreated_at,920,1/1/14,0
+article_jcreated_at,924,empty,0
+article_jcreated_at,926,1/1/93,0
+article_jcreated_at,928,empty,0
+article_jcreated_at,929,1/1/86,0
+article_jcreated_at,931,2/1/15,0
+article_jcreated_at,933,empty,0
+article_jcreated_at,934,empty,0
+article_jcreated_at,936,1/1/15,0
+article_jcreated_at,940,1/1/08,0
+article_jcreated_at,941,1/1/14,0
+article_jcreated_at,942,1/1/10,0
+article_jcreated_at,943,empty,0
+article_jcreated_at,946,1/1/11,0
+article_jcreated_at,948,empty,0
+article_jcreated_at,950,1/1/12,0
+article_jcreated_at,951,1/1/14,0
+article_jcreated_at,953,empty,0
+article_jcreated_at,955,1/1/10,0
+article_jcreated_at,956,empty,0
+article_jcreated_at,957,1/1/05,0
+article_jcreated_at,958,10/1/13,0
+article_jcreated_at,963,1/1/14,0
+article_jcreated_at,965,1/1/13,0
+article_jcreated_at,966,8/1/13,0
+article_jcreated_at,968,1/1/13,0
+article_jcreated_at,969,1/1/91,0
+article_jcreated_at,971,1/1/13,0
+article_jcreated_at,973,1/1/07,0
+article_jcreated_at,974,6/1/14,0
+article_jcreated_at,975,10/1/14,0
+article_jcreated_at,980,7/1/12,0
+article_jcreated_at,987,1/1/13,0
+article_jcreated_at,999,1/1/11,0
+article_pagination,2,empty,0
+article_pagination,47,empty,0
+article_pagination,59,empty,0
+article_pagination,133,empty,0
+article_pagination,134,empty,0
+article_pagination,169,empty,0
+article_pagination,170,empty,0
+article_pagination,187,empty,0
+article_pagination,202,empty,0
+article_pagination,207,empty,0
+article_pagination,210,empty,0
+article_pagination,214,empty,0
+article_pagination,225,empty,0
+article_pagination,226,empty,0
+article_pagination,276,empty,0
+article_pagination,285,empty,0
+article_pagination,307,empty,0
+article_pagination,313,empty,0
+article_pagination,326,empty,0
+article_pagination,328,empty,0
+article_pagination,343,empty,0
+article_pagination,345,empty,0
+article_pagination,357,empty,0
+article_pagination,361,empty,0
+article_pagination,389,empty,0
+article_pagination,415,empty,0
+article_pagination,420,empty,0
+article_pagination,427,empty,0
+article_pagination,531,empty,0
+article_pagination,534,empty,0
+article_pagination,542,empty,0
+article_pagination,545,empty,0
+article_pagination,548,empty,0
+article_pagination,585,empty,0
+article_pagination,595,empty,0
+article_pagination,643,empty,0
+article_pagination,646,empty,0
+article_pagination,704,empty,0
+article_pagination,725,empty,0
+article_pagination,726,empty,0
+article_pagination,727,empty,0
+article_pagination,744,empty,0
+article_pagination,747,empty,0
+article_pagination,748,empty,0
+article_pagination,758,empty,0
+article_pagination,767,empty,0
+article_pagination,769,empty,0
+article_pagination,783,empty,0
+article_pagination,792,empty,0
+article_pagination,811,empty,0
+article_pagination,812,empty,0
+article_pagination,833,empty,0
+article_pagination,857,empty,0
+article_pagination,885,empty,0
+article_pagination,899,empty,0
+article_pagination,917,empty,0
+article_pagination,922,empty,0
+article_pagination,933,empty,0
+article_pagination,948,empty,0
+article_pagination,965,empty,0
+article_pagination,977,empty,0
+article_pagination,979,empty,0
+article_pagination,998,empty,0
