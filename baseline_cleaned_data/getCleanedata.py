@@ -3,7 +3,7 @@ import shutil
 import re
 
 # 设置根目录路径和目标目录路径
-source_root = "../../baseline_cleaning_systems_results/artificial_error_results"
+source_root = "../../baseline_cleaning_systems_results/artificial_error_cleaner_workflow_logs"
 destination_root = "./"  # 目标目录，可根据需要修改
 system="Uniclean"
 # 确保目标目录存在
