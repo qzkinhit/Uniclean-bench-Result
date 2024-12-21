@@ -1,0 +1,39 @@
+/home/hit_lt/.virtualenvs/pythonProject/lib/python3.8/site-packages/sklearn/utils/multiclass.py:13: DeprecationWarning: Please use `spmatrix` from the `scipy.sparse` namespace, the `scipy.sparse.base` namespace is deprecated.
+  from scipy.sparse.base import spmatrix
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/5_tax/tax_50k/clean_index_10k.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/5_tax/tax_50k/dirty_index_10k.csv
+===============================================
+Results saved to results/bigdansing/Repaired_res/bigdansing_tax_test/repaired_bigdansing_tax_test0.csv
+BigDansing finished in 10369.201513767242 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/Repaired_res/bigdansing_tax_test/repaired_bigdansing_tax_test0.csv
+差异文件已保存到:
+results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_clean_vs_dirty.csv
+results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_dirty_vs_cleaned.csv
+results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_unrepaired.csv
+修复准确率: 0.07010014306151645, 修复召回率: 0.13066666666666665, F1值: 0.09124767220780926
+========================================
+EDR 结果已保存到: results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_edr_evaluation.txt
+错误减少率 (EDR): -1.0693333333333332
+========================================
+混合距离结果已保存到: results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.02386903816951476
+========================================
+R-EDR 结果已保存到: results/bigdansing/Repaired_res/bigdansing_tax_test/bigdansing_tax_test0_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.02717391304347826
+========================================
+测试结果:
+Accuracy: 0.07010014306151645
+Recall: 0.13066666666666665
+F1 Score: 0.09124767220780926
+EDR: -1.0693333333333332
+Hybrid Distance: 0.02386903816951476
+R-EDR: -0.02717391304347826
+time(s): 10369.201513767242
+speed: 103.69201513767243 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/Repaired_res/bigdansing_tax_test

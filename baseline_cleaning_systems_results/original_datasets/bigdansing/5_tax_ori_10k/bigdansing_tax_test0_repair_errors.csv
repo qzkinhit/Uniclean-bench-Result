@@ -1,0 +1,651 @@
+Attribute,Index,Dirty Value,Cleaned Value,Clean Value
+areacode,3300,907,0,907
+areacode,4404,907,0,907
+areacode,4491,907,0,907
+areacode,4535,907,0,907
+areacode,6176,907,0,907
+areacode,7667,907,0,907
+areacode,8772,907,0,907
+areacode,9923,302,0,302
+areacode,9926,612,0,612
+areacode,9927,605,0,605
+areacode,9930,207,0,207
+areacode,9931,402,0,402
+areacode,9933,971,0,971
+areacode,9934,308,0,308
+areacode,9935,406,0,406
+areacode,9937,312,0,312
+areacode,9938,808,0,808
+areacode,9939,650,0,650
+areacode,9942,302,0,302
+areacode,9943,509,0,509
+areacode,9945,229,0,229
+areacode,9947,520,0,520
+areacode,9949,808,0,808
+areacode,9952,775,0,775
+areacode,9953,208,0,208
+areacode,9954,615,0,615
+areacode,9955,207,0,207
+areacode,9957,308,0,308
+areacode,9958,971,0,971
+areacode,9966,435,0,435
+areacode,9968,971,0,971
+areacode,9969,864,0,864
+areacode,9972,614,0,614
+areacode,9973,419,0,419
+areacode,9975,906,0,906
+areacode,9976,804,0,804
+areacode,9979,603,0,603
+areacode,9980,315,0,315
+areacode,9981,907,0,907
+areacode,9982,847,0,847
+areacode,9984,303,0,303
+areacode,9986,208,0,208
+areacode,9987,678,0,678
+areacode,9992,302,0,302
+areacode,9993,503,0,503
+areacode,9994,505,0,505
+areacode,9995,401,0,401
+areacode,9996,314,0,314
+areacode,9997,302,0,302
+areacode,9998,304,0,304
+city,0,swampscott,casper,swampscott
+city,4547,baring,medicine bow,baring
+city,4548,honokaa,medicine bow,honokaa
+city,4549,brant rock,medicine bow,brant rock
+city,4550,laie,casper,laie
+city,4551,stockton,medicine bow,stockton
+city,4552,mindoro,medicine bow,mindoro
+city,4553,salt lake city,medicine bow,salt lake city
+city,4554,ketchikan,medicine bow,ketchikan
+city,4555,caldwell,casper,caldwell
+city,4558,graham,casper,graham
+city,4560,rockport,casper,rockport
+city,4561,york harbor,medicine bow,york harbor
+city,4563,dayton,medicine bow,dayton
+city,4565,henderson,casper,henderson
+city,4566,center cross,medicine bow,center cross
+city,4568,townshend,medicine bow,townshend
+city,4569,wright,casper,wright
+city,4570,nichols,medicine bow,nichols
+city,4572,grand island,medicine bow,grand island
+city,4573,scarborough,casper,scarborough
+city,4576,greenville,medicine bow,greenville
+city,4577,silver city,casper,silver city
+city,4580,federal way,casper,federal way
+city,4583,oakdale,casper,oakdale
+city,4584,albuquerque,medicine bow,albuquerque
+city,4585,rosston,medicine bow,rosston
+city,4586,opelika,medicine bow,opelika
+city,4588,stetson,medicine bow,stetson
+city,4590,buchanan,casper,buchanan
+city,4591,koleen,casper,koleen
+city,4593,penryn,medicine bow,penryn
+city,4594,washington,medicine bow,washington
+city,4595,duxbury,medicine bow,duxbury
+city,4596,brownsville,casper,brownsville
+city,4597,elizabeth,medicine bow,elizabeth
+city,4600,cleveland,casper,cleveland
+city,4601,guernsey,medicine bow,guernsey
+city,4603,takotna,medicine bow,takotna
+city,4605,hanna,medicine bow,hanna
+city,4607,frenchton,medicine bow,frenchton
+city,4608,leland,casper,leland
+city,4609,withams,medicine bow,withams
+city,4611,rhome,medicine bow,rhome
+city,4612,mccomb,casper,mccomb
+city,4614,rhoadesville,casper,rhoadesville
+city,4615,clear spring,casper,clear spring
+city,4617,birmingham,medicine bow,birmingham
+city,4618,bryant,casper,bryant
+city,4619,butterfield,medicine bow,butterfield
+city,4620,partridge,medicine bow,partridge
+city,4621,elko,casper,elko
+city,4624,arrowsmith,casper,arrowsmith
+city,4625,omaha,medicine bow,omaha
+city,4626,lincoln,casper,lincoln
+city,4627,bedias,medicine bow,bedias
+city,4628,nunnelly,medicine bow,nunnelly
+city,4629,klamath falls,medicine bow,klamath falls
+city,4630,wellington,medicine bow,wellington
+city,4631,calhoun,medicine bow,calhoun
+city,4633,bessemer city,medicine bow,bessemer city
+city,4634,charleston,casper,charleston
+city,4636,irrigon,casper,irrigon
+city,4638,shady point,medicine bow,shady point
+city,4639,plymouth,casper,plymouth
+city,4640,jacksonboro,medicine bow,jacksonboro
+city,4641,salem,medicine bow,salem
+city,4643,appleton,medicine bow,appleton
+city,4644,luther,medicine bow,luther
+city,4645,charleston,casper,charleston
+city,4647,iowa city,medicine bow,iowa city
+city,4648,paia,medicine bow,paia
+city,4649,west charleston,medicine bow,west charleston
+city,4650,hampden,casper,hampden
+city,4651,new orleans,casper,new orleans
+city,4652,lyburn,casper,lyburn
+city,4653,richburg,medicine bow,richburg
+city,4656,bradford,medicine bow,bradford
+city,4657,rison,medicine bow,rison
+city,4658,wilmot,medicine bow,wilmot
+city,4659,atlanta,medicine bow,atlanta
+city,4661,east saint louis,medicine bow,east saint louis
+city,4662,naalehu,casper,naalehu
+city,4663,kingwood,story,kingwood
+city,4665,honolulu,casper,honolulu
+city,4666,schaumburg,casper,schaumburg
+city,4667,charlotte,medicine bow,charlotte
+city,4668,stirum,casper,stirum
+city,4669,baton rouge,medicine bow,baton rouge
+city,4670,troy,casper,troy
+city,4671,dingle,medicine bow,dingle
+city,4672,parks,casper,parks
+city,4673,albuquerque,medicine bow,albuquerque
+city,4674,shreveport,medicine bow,shreveport
+city,4675,helena,medicine bow,helena
+city,4676,beaufort,medicine bow,beaufort
+city,4677,sylacauga,medicine bow,sylacauga
+city,4679,axtell,medicine bow,axtell
+city,4680,prudence island,medicine bow,prudence island
+city,4681,salt lake city,casper,salt lake city
+city,4683,greenville,medicine bow,greenville
+city,4685,cherryville,casper,cherryville
+city,4686,charlottesville,medicine bow,charlottesville
+city,4687,aleknagik,medicine bow,aleknagik
+city,4688,klamath falls,medicine bow,klamath falls
+city,4689,saint louis,medicine bow,saint louis
+city,4691,lyons,medicine bow,lyons
+city,4693,fe warren afb,casper,fe warren afb
+city,4694,baltimore,casper,baltimore
+city,4695,stratford,medicine bow,stratford
+city,4696,waterbury,medicine bow,waterbury
+city,4700,amherst,casper,amherst
+city,4701,tennessee colony,medicine bow,tennessee colony
+city,4702,andover,medicine bow,andover
+city,4703,fruitvale,medicine bow,fruitvale
+city,4704,roca,medicine bow,roca
+city,4705,lackland a f b,medicine bow,lackland a f b
+city,4706,scobey,medicine bow,scobey
+city,4707,wawarsing,medicine bow,wawarsing
+city,4708,honolulu,casper,honolulu
+city,4709,panola,medicine bow,panola
+city,4710,rock,medicine bow,rock
+city,4711,boise,medicine bow,boise
+city,4713,martinton,medicine bow,martinton
+city,4714,gunnison,casper,gunnison
+city,4715,story,medicine bow,story
+city,4716,washington,medicine bow,washington
+city,4721,garden city,medicine bow,garden city
+city,4724,belmar,casper,belmar
+city,4725,roanoke,medicine bow,roanoke
+city,4727,tefft,medicine bow,tefft
+city,4729,roanoke,medicine bow,roanoke
+city,4732,nome,casper,nome
+city,4733,washington,medicine bow,washington
+city,4735,brockway,medicine bow,brockway
+city,4737,sumatra,casper,sumatra
+city,4742,fontana,casper,fontana
+city,4743,florence,medicine bow,florence
+state,0,ma,wy,ma
+state,2208,hi,ar,hi
+state,4411,ma,wy,ma
+state,4548,hi,wy,hi
+state,4549,ma,wy,ma
+state,4550,hi,wy,hi
+state,4552,wi,wy,wi
+state,4553,ut,wy,ut
+state,4554,ak,wy,ak
+state,4555,id,wy,id
+state,4556,ne,wy,ne
+state,4558,ok,wy,ok
+state,4559,or,wy,or
+state,4560,in,wy,in
+state,4561,me,wy,me
+state,4562,mn,wy,mn
+state,4563,oh,wy,oh
+state,4564,id,wy,id
+state,4565,nv,wy,nv
+state,4566,va,wy,va
+state,4567,ri,wy,ri
+state,4568,vt,wy,vt
+state,4571,ks,wy,ks
+state,4572,ne,wy,ne
+state,4574,tx,wy,tx
+state,4576,ia,wy,ia
+state,4579,tx,wy,tx
+state,4580,wa,wy,wa
+state,4581,ri,wy,ri
+state,4582,tx,wy,tx
+state,4583,ct,wy,ct
+state,4584,nm,wy,nm
+state,4585,ar,wy,ar
+state,4586,al,wy,al
+state,4589,ut,wy,ut
+state,4591,in,wy,in
+state,4592,pa,wy,pa
+state,4595,ma,wy,ma
+state,4597,co,wy,co
+state,4598,la,wy,la
+state,4600,nm,wy,nm
+state,4602,va,wy,va
+state,4603,ak,wy,ak
+state,4604,nc,wy,nc
+state,4606,ar,wy,ar
+state,4608,mi,wy,mi
+state,4609,va,wy,va
+state,4610,nm,wy,nm
+state,4611,tx,wy,tx
+state,4612,ms,wy,ms
+state,4614,va,wy,va
+state,4617,al,wy,al
+state,4618,in,wy,in
+state,4619,mn,wy,mn
+state,4620,ks,wy,ks
+state,4621,nv,wy,nv
+state,4622,ma,wy,ma
+state,4623,nj,wy,nj
+state,4624,il,wy,il
+state,4626,ne,wy,ne
+state,4628,tn,wy,tn
+state,4629,or,wy,or
+state,4630,ks,wy,ks
+state,4632,de,wy,de
+state,4633,nc,wy,nc
+state,4634,sc,wy,sc
+state,4635,va,wy,va
+state,4638,ok,wy,ok
+state,4639,ma,wy,ma
+state,4640,sc,wy,sc
+state,4641,ar,wy,ar
+state,4643,wi,wy,wi
+state,4645,wv,wy,wv
+state,4646,ct,wy,ct
+state,4647,ia,wy,ia
+state,4650,nd,wy,nd
+state,4651,la,wy,la
+state,4652,wv,wy,wv
+state,4653,sc,wy,sc
+state,4654,ut,wy,ut
+state,4655,wv,wy,wv
+state,4658,nh,wy,nh
+state,4659,ga,wy,ga
+state,4661,il,wy,il
+state,4662,hi,wy,hi
+state,4663,wv,wy,wv
+state,4664,ma,wy,ma
+state,4665,hi,wy,hi
+state,4667,nc,wy,nc
+state,4668,nd,wy,nd
+state,4669,la,wy,la
+state,4670,nh,wy,nh
+state,4671,id,wy,id
+state,4672,ne,wy,ne
+state,4673,nm,wy,nm
+state,4675,mt,wy,mt
+state,4676,mo,wy,mo
+state,4677,al,wy,al
+state,4678,hi,wy,hi
+state,4679,ut,wy,ut
+state,4680,ri,wy,ri
+state,4682,al,wy,al
+state,4683,ms,wy,ms
+state,4684,al,wy,al
+state,4685,mo,wy,mo
+state,4686,va,wy,va
+state,4687,ak,wy,ak
+state,4688,or,wy,or
+state,4689,mo,wy,mo
+state,4691,co,wy,co
+state,4696,ct,wy,ct
+state,4697,ca,wy,ca
+state,4698,pr,wy,pr
+state,4699,ut,wy,ut
+state,4701,tx,wy,tx
+state,4702,ct,wy,ct
+state,4703,tn,wy,tn
+state,4704,ne,wy,ne
+state,4705,tx,wy,tx
+state,4706,mt,wy,mt
+state,4707,ny,wy,ny
+state,4710,ks,wy,ks
+state,4713,il,wy,il
+state,4714,co,wy,co
+state,4716,dc,wy,dc
+state,4719,wv,wy,wv
+state,4720,id,wy,id
+state,4724,nj,wy,nj
+state,4725,va,wy,va
+state,4727,in,wy,in
+state,4728,ga,wy,ga
+state,4730,de,wy,de
+state,4734,sc,wy,sc
+state,4736,va,wy,va
+state,4740,ct,wy,ct
+state,4744,me,wy,me
+state,8127,hi,ar,hi
+state,9933,ar,wy,or
+zip,0,1907,0,1907
+zip,158,36858,0,36858
+zip,265,68815,0,68815
+zip,1982,36020,0,36020
+zip,2852,36865,0,36865
+zip,3088,35224,0,35224
+zip,4411,1907,0,1907
+zip,4547,1907,0,63531
+zip,4548,1907,0,96727
+zip,4549,1907,0,2020
+zip,4550,1907,0,96762
+zip,4551,1907,0,95209
+zip,4552,1907,0,54644
+zip,4553,1907,0,84157
+zip,4554,1907,0,99901
+zip,4555,1907,0,83606
+zip,4556,1907,0,68134
+zip,4557,1907,0,5449
+zip,4558,1907,0,73437
+zip,4559,1907,0,97463
+zip,4560,1907,0,47635
+zip,4561,1907,0,3911
+zip,4562,1907,0,56052
+zip,4563,1907,0,45415
+zip,4564,1907,0,83526
+zip,4565,1907,0,89014
+zip,4566,1907,0,22437
+zip,4567,1907,0,2828
+zip,4568,1907,0,5353
+zip,4569,1907,0,82732
+zip,4570,1907,0,29581
+zip,4571,1907,0,67529
+zip,4572,1907,0,68801
+zip,4573,1907,0,4070
+zip,4574,1907,0,78299
+zip,4575,1907,0,69125
+zip,4576,1907,0,51343
+zip,4577,1907,0,88062
+zip,4578,1907,0,4050
+zip,4579,1907,0,79770
+zip,4580,1907,0,98063
+zip,4581,1907,0,2825
+zip,4582,1907,0,76631
+zip,4583,1907,0,6370
+zip,4584,1907,0,87115
+zip,4585,1907,0,71858
+zip,4586,1907,0,36802
+zip,4587,1907,0,71009
+zip,4588,1907,0,4488
+zip,4589,1907,0,84165
+zip,4590,1907,0,58420
+zip,4591,1907,0,47439
+zip,4592,1907,0,16112
+zip,4593,1907,0,95663
+zip,4594,1907,0,20002
+zip,4595,1907,0,2331
+zip,4596,1907,0,55919
+zip,4597,1907,0,80107
+zip,4598,1907,0,71415
+zip,4599,1907,0,97756
+zip,4600,1907,0,87715
+zip,4601,1907,0,82214
+zip,4602,1907,0,22217
+zip,4603,1907,0,99675
+zip,4604,1907,0,27602
+zip,4605,1907,0,82327
+zip,4606,1907,0,72651
+zip,4607,1907,0,26219
+zip,4608,1907,0,49654
+zip,4609,1907,0,23488
+zip,4610,1907,0,87743
+zip,4611,1907,0,76078
+zip,4612,1907,0,39649
+zip,4613,1907,0,81126
+zip,4614,1907,0,22542
+zip,4615,1907,0,21722
+zip,4616,1907,0,19901
+zip,4617,1907,0,35202
+zip,4618,1907,0,47326
+zip,4619,1907,0,56120
+zip,4620,1907,0,67566
+zip,4621,1907,0,89802
+zip,4622,1907,0,2770
+zip,4623,1907,0,8048
+zip,4624,1907,0,61722
+zip,4625,1907,0,68114
+zip,4626,1907,0,68505
+zip,4627,1907,0,77831
+zip,4628,1907,0,37137
+zip,4629,1907,0,97601
+zip,4630,1907,0,67152
+zip,4631,1907,0,62419
+zip,4632,1907,0,19941
+zip,4633,1907,0,28016
+zip,4634,1907,0,29424
+zip,4635,1907,0,23347
+zip,4636,1907,0,97844
+zip,4637,1907,0,83126
+zip,4638,1907,0,74956
+zip,4639,1907,0,2361
+zip,4640,1907,0,29452
+zip,4641,1907,0,72576
+zip,4642,1907,0,89423
+zip,4643,1907,0,54915
+zip,4644,1907,0,50152
+zip,4645,1907,0,25322
+zip,4646,1907,0,6107
+zip,4647,1907,0,52245
+zip,4648,1907,0,96779
+zip,4649,1907,0,5872
+zip,4650,1907,0,58338
+zip,4651,1907,0,70127
+zip,4652,1907,0,25632
+zip,4653,1907,0,29729
+zip,4654,1907,0,84124
+zip,4655,1907,0,25133
+zip,4656,1907,0,2808
+zip,4657,1907,0,71665
+zip,4658,1907,0,3287
+zip,4659,1907,0,30375
+zip,4660,1907,0,81420
+zip,4661,1907,0,62204
+zip,4662,1907,0,96772
+zip,4663,1907,0,26537
+zip,4664,1907,0,2554
+zip,4665,1907,0,96819
+zip,4666,1907,0,60159
+zip,4667,1907,0,28220
+zip,4668,1907,0,58069
+zip,4669,1907,0,70802
+zip,4670,1907,0,3465
+zip,4671,1907,0,83233
+zip,4672,1907,0,69041
+zip,4673,1907,0,87185
+zip,4674,1907,0,71162
+zip,4675,1907,0,59626
+zip,4676,1907,0,63013
+zip,4677,1907,0,35151
+zip,4678,1907,0,96815
+zip,4679,1907,0,84621
+zip,4680,1907,0,2872
+zip,4681,1907,0,84111
+zip,4682,1907,0,36852
+zip,4683,1907,0,38701
+zip,4684,1907,0,35221
+zip,4685,1907,0,65446
+zip,4686,1907,0,22908
+zip,4687,1907,0,99555
+zip,4688,1907,0,97602
+zip,4689,1907,0,63160
+zip,4690,1907,0,80122
+zip,4691,1907,0,80540
+zip,4692,1907,0,2823
+zip,4693,1907,0,82005
+zip,4694,1907,0,21235
+zip,4695,1907,0,6614
+zip,4696,1907,0,6702
+zip,4697,1907,0,90017
+zip,4698,1907,0,922
+zip,4699,1907,0,84090
+zip,4700,1907,0,3031
+zip,4701,1907,0,75884
+zip,4702,1907,0,6232
+zip,4703,1907,0,38336
+zip,4704,1907,0,68430
+zip,4705,1907,0,78236
+zip,4706,1907,0,59263
+zip,4707,1907,0,12489
+zip,4708,1907,0,96810
+zip,4709,1907,0,35477
+zip,4710,1907,0,67131
+zip,4711,1907,0,83716
+zip,4712,1907,0,48759
+zip,4713,1907,0,60951
+zip,4714,1907,0,81247
+zip,4715,1907,0,82842
+zip,4716,1907,0,20062
+zip,4717,1907,0,82601
+zip,4718,1907,0,67131
+zip,4719,1907,0,25425
+zip,4720,1907,0,83545
+zip,4721,1907,0,35070
+zip,4722,1907,0,78264
+zip,4723,1907,0,58255
+zip,4724,1907,0,7715
+zip,4725,1907,0,24009
+zip,4726,1907,0,64625
+zip,4727,1907,0,46380
+zip,4728,1907,0,30328
+zip,4729,1907,0,24045
+zip,4730,1907,0,19958
+zip,4731,1907,0,49115
+zip,4732,1907,0,99762
+zip,4733,1907,0,20081
+zip,4734,1907,0,29153
+zip,4735,1907,0,59214
+zip,4736,1907,0,23315
+zip,4737,1907,0,59083
+zip,4738,1907,0,85662
+zip,4739,1907,0,7801
+zip,4740,1907,0,6068
+zip,4742,1907,0,53125
+zip,4743,1907,0,59833
+zip,4744,1907,0,4738
+zip,4745,1907,0,71638
+zip,4746,1907,0,8873
+zip,7865,36849,0,36849
+zip,8784,35402,0,35402
+zip,8798,36916,0,36916
+zip,9923,19703,0,19703
+zip,9942,19975,0,19975
+zip,9979,3060,0,3060
+zip,9992,19714,0,19714
+maritalstatus,4547,s,0,s
+maritalstatus,4552,s,0,s
+maritalstatus,4555,s,0,s
+maritalstatus,4559,s,0,s
+maritalstatus,4560,s,0,s
+maritalstatus,4561,s,0,s
+maritalstatus,4562,s,0,s
+maritalstatus,4566,s,0,s
+maritalstatus,4576,s,0,s
+maritalstatus,4586,s,0,s
+maritalstatus,4587,s,0,s
+maritalstatus,4591,s,0,s
+maritalstatus,4596,s,0,s
+maritalstatus,4598,s,0,s
+maritalstatus,4600,s,0,s
+maritalstatus,4607,s,0,s
+maritalstatus,4608,s,0,s
+maritalstatus,4610,s,0,s
+maritalstatus,4612,s,0,s
+maritalstatus,4615,s,0,s
+maritalstatus,4616,s,0,s
+maritalstatus,4622,s,0,s
+maritalstatus,4626,s,0,s
+maritalstatus,4629,s,0,s
+maritalstatus,4630,s,0,s
+maritalstatus,4631,s,0,s
+maritalstatus,4635,s,0,s
+maritalstatus,4639,s,0,s
+maritalstatus,4645,s,0,s
+maritalstatus,4646,s,0,s
+maritalstatus,4648,s,0,s
+maritalstatus,4661,s,0,s
+maritalstatus,4664,s,0,s
+maritalstatus,4673,s,0,s
+maritalstatus,4674,s,0,s
+maritalstatus,4675,s,0,s
+maritalstatus,4684,s,0,s
+maritalstatus,4697,s,0,s
+maritalstatus,4699,s,0,s
+maritalstatus,4710,s,0,s
+maritalstatus,4720,s,0,s
+maritalstatus,4723,s,0,s
+maritalstatus,4724,s,0,s
+maritalstatus,4725,s,0,s
+maritalstatus,4743,s,0,s
+maritalstatus,4745,s,0,s
+haschild,4411,y,0,y
+haschild,4548,y,0,y
+haschild,4552,y,0,y
+haschild,4556,y,0,y
+haschild,4557,y,0,y
+haschild,4558,y,0,y
+haschild,4559,y,0,y
+haschild,4564,y,0,y
+haschild,4566,y,0,y
+haschild,4568,y,0,y
+haschild,4571,y,0,y
+haschild,4584,y,0,y
+haschild,4598,y,0,y
+haschild,4599,y,0,y
+haschild,4623,y,0,y
+haschild,4629,y,0,y
+haschild,4630,y,0,y
+haschild,4634,y,0,y
+haschild,4652,y,0,y
+haschild,4653,y,0,y
+haschild,4655,y,0,y
+haschild,4671,y,0,y
+haschild,4672,y,0,y
+haschild,4674,y,0,y
+haschild,4676,y,0,y
+haschild,4681,y,0,y
+haschild,4683,y,0,y
+haschild,4685,y,0,y
+haschild,4694,y,0,y
+haschild,4699,y,0,y
+haschild,4716,y,0,y
+haschild,4720,y,0,y
+haschild,4725,y,0,y
+haschild,4726,y,0,y
+haschild,4728,y,0,y
+haschild,4730,y,0,y
+haschild,4731,y,0,y
+haschild,4733,y,0,y
+haschild,4734,y,0,y
+haschild,4738,y,0,y
+haschild,4744,y,0,y
+haschild,7865,n,0,n
+singleexemp,4547,2100,0,2100
+singleexemp,4552,700,0,700
+singleexemp,4555,3300,0,3300
+singleexemp,4560,1000,0,1000
+singleexemp,4561,2850,0,2850
+singleexemp,4576,40,0,40
+singleexemp,4587,4500,0,4500
+singleexemp,4596,3300,0,3300
+singleexemp,4600,3300,0,3300
+singleexemp,4607,2000,0,2000
+singleexemp,4608,3100,0,3100
+singleexemp,4622,3575,0,3575
+singleexemp,4626,103,0,103
+singleexemp,4629,159,0,159
+singleexemp,4635,900,0,900
+singleexemp,4639,3575,0,3575
+singleexemp,4645,2000,0,2000
+singleexemp,4646,12750,0,12750
+singleexemp,4648,1040,0,1040
+singleexemp,4661,2000,0,2000
+singleexemp,4697,87,0,87
+singleexemp,4699,2475,0,2475
+singleexemp,4724,1000,0,1000
