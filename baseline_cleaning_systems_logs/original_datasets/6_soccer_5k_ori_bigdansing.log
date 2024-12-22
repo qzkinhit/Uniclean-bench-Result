@@ -1,0 +1,52 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_clean_index_5k.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_dirty_index_5k.csv
+Running bigdansing with dirty file: Data/6_soccer/subset_directly_dirty_index_5k.csv
+/home/hit_lt/.virtualenvs/pythonProject/lib/python3.8/site-packages/sklearn/utils/multiclass.py:13: DeprecationWarning: Please use `spmatrix` from the `scipy.sparse` namespace, the `scipy.sparse.base` namespace is deprecated.
+  from scipy.sparse.base import spmatrix
+Start Blocking
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 50%|███████████████████████████▌                           | 3/6 [00:00<00:00, 21.08it/s] 50%|███████████████████████████▌                           | 3/6 [00:20<00:00, 21.08it/s] 67%|████████████████████████████████████                  | 4/6 [14:33<09:23, 281.75s/it] 83%|██████████████████████████████████████████▌        | 5/6 [2:42:05<49:45, 2985.35s/it]100%|███████████████████████████████████████████████████| 6/6 [4:04:03<00:00, 3585.59s/it]100%|███████████████████████████████████████████████████| 6/6 [4:04:03<00:00, 2440.52s/it]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:12<01:00, 12.11s/it] 33%|██████████████████▎                                    | 2/6 [00:23<00:47, 11.81s/it] 50%|███████████████████████████▌                           | 3/6 [00:35<00:34, 11.62s/it] 67%|████████████████████████████████████▋                  | 4/6 [00:47<00:23, 11.84s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [02:35<00:46, 46.53s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:53<00:00, 57.37s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:53<00:00, 38.96s/it]
+Finish Detectings
+Initial cells to repair: 1815
+Processing loop - sizebefore: 1815, sizeafter: 0
+Current MVC size: 620
+Finished one iteration of repairing.
+Detecting Errors
+  0%|                                                               | 0/6 [00:00<?, ?it/s] 17%|█████████▏                                             | 1/6 [00:10<00:53, 10.64s/it] 33%|██████████████████▎                                    | 2/6 [00:21<00:42, 10.52s/it] 50%|███████████████████████████▌                           | 3/6 [00:31<00:31, 10.50s/it] 67%|████████████████████████████████████▋                  | 4/6 [00:42<00:21, 10.71s/it] 83%|█████████████████████████████████████████████▊         | 5/6 [02:16<00:40, 40.57s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:22<00:00, 49.37s/it]100%|███████████████████████████████████████████████████████| 6/6 [03:22<00:00, 33.76s/it]
+===============================================
+Results saved to results/bigdansing/Repaired_res/6_soccer_or/repaired_6_soccer_ori.csv
+BigDansing finished in 15082.921728372574 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/Repaired_res/6_soccer_or/repaired_6_soccer_ori.csv
+差异文件已保存到:
+results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_clean_vs_dirty.csv
+results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_dirty_vs_cleaned.csv
+results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_unrepaired.csv
+修复准确率: 0.4112903225806452, 修复召回率: 0.3483606557377049, F1值: 0.37721893486158575
+========================================
+EDR 结果已保存到: results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_edr_evaluation.txt
+错误减少率 (EDR): -0.1366120218579235
+========================================
+混合距离结果已保存到: results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.05043125981273645
+========================================
+R-EDR 结果已保存到: results/bigdansing/Repaired_res/6_soccer_or/6_soccer_ori_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.036885245901639344
+========================================
+测试结果:
+Accuracy: 0.4112903225806452
+Recall: 0.3483606557377049
+F1 Score: 0.37721893486158575
+EDR: -0.1366120218579235
+Hybrid Distance: 0.05043125981273645
+R-EDR: -0.036885245901639344
+time(s): 15082.921728372574
+speed: 301.6584345674515 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/Repaired_res/6_soccer_or
