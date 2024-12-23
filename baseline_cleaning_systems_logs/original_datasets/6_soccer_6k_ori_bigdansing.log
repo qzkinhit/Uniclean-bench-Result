@@ -1,0 +1,39 @@
+/home/hit_lt/.virtualenvs/pythonProject/lib/python3.8/site-packages/sklearn/utils/multiclass.py:13: DeprecationWarning: Please use `spmatrix` from the `scipy.sparse` namespace, the `scipy.sparse.base` namespace is deprecated.
+  from scipy.sparse.base import spmatrix
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_clean_index_6k.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_dirty_index_6k.csv
+===============================================
+Results saved to results/bigdansing/Repaired_res/6_soccer_ori_6/repaired_6_soccer_ori_6k.csv
+BigDansing finished in 58403.84954190254 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/bigdansing/Repaired_res/6_soccer_ori_6/repaired_6_soccer_ori_6k.csv
+差异文件已保存到:
+results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_clean_vs_dirty.csv
+results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_dirty_vs_cleaned.csv
+results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_unrepaired.csv
+修复准确率: 0.444015444015444, 修复召回率: 0.38461538461538464, F1值: 0.4121863798785724
+========================================
+EDR 结果已保存到: results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_edr_evaluation.txt
+错误减少率 (EDR): -0.0858416945373467
+========================================
+混合距离结果已保存到: results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.05091722904223466
+========================================
+R-EDR 结果已保存到: results/bigdansing/Repaired_res/6_soccer_ori_6/6_soccer_ori_6k_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.013377926421404682
+========================================
+测试结果:
+Accuracy: 0.444015444015444
+Recall: 0.38461538461538464
+F1 Score: 0.4121863798785724
+EDR: -0.0858416945373467
+Hybrid Distance: 0.05091722904223466
+R-EDR: -0.013377926421404682
+time(s): 58403.84954190254
+speed: 973.3974923650424 seconds/100num
+测评结束，详细测评日志见：results/bigdansing/Repaired_res/6_soccer_ori_6
