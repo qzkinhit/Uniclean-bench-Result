@@ -11,7 +11,7 @@ TARGET_DIR = "baseline_cleaned_data"             # 目标目录
 BASELINE_SYSTEMS = ["baran", "bigdansing", "holistic", "holoclean", "horizon"]
 
 # 两类数据集：人工注错 / 原生错误
-DATASET_TYPES = ["artificial_error_datasets", "original_datasets"]
+DATASET_TYPES = ["artificial_error_cleaned_data", "original_cleaned_data"]
 
 
 # ===================================
