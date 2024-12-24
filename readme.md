@@ -10,14 +10,6 @@ The repository includes:
 - **Baseline performance logs** for comparison with Uniclean’s results.
 - An **evaluation script** (`evaluateResult.py`) that calculates various performance metrics, providing an objective assessment of the cleaning effectiveness.
 
-## Repository Structure
-
-- `RealWorldDataSet/`: Contains real-world datasets in their native (uncleaned) form.
-- `Uniclean_cleaned_data/`: Datasets that have been cleaned by Uniclean.
-- `Uniclean_logs/`: Logs generated during the Uniclean cleaning process, detailing operations and results for each dataset.
-- `baseline_cleaning_systems_logs/`: Logs documenting the performance of baseline systems on the same datasets, enabling a direct comparison with Uniclean’s results.
-- `evaluate_result.py`: A script that computes performance metrics for data cleaning, such as accuracy, recall, F1 score, and error reduction rate, allowing comprehensive evaluation of data cleaning effectiveness.
-
 ## Dataset Information
 
 The following table summarizes the datasets used in this repository, including their error types and dimensions:
@@ -51,3 +43,39 @@ chmod +x run.sh
 ```
 
 The `run.sh` script iterates over each dataset in the `RealWorldDataSet/` directory, processes it with Uniclean, and logs the results. Each dataset has its specific configuration, including `mse_attributes` (attributes for Mean Squared Error calculation) and `elapsed_time` parameters. The results of each dataset’s cleaning process are saved in the corresponding subdirectory within `Uniclean_logs/`.
+
+## Repository Structure
+- `datasets/`:Stores two categories of datasets used for experiments.
+  - `artificial_error_datasets/`:Datasets that have been artificially injected with errors in eight different proportions (ranging from 0.25% to 2%) for controlled experiments and benchmarking.
+  - `original_datasets/`: Contains real-world datasets in their native (uncleaned) form.
+- `Uniclean_cleaned_data/`: Datasets that have been cleaned by Uniclean.
+  - `artificial_error_cleaned_data/`:Uniclean-cleaned versions of the artificially injected error datasets.
+  - `original_error_cleaned_data/`:Uniclean-cleaned  versions of the real-world datasets containing native errors.
+- `Uniclean_cleaner_workflow_logs/`: Logs generated during the Uniclean cleaning process, detailing operations and results for each dataset.
+  - `artificial_error_cleaner_workflow_logs/`: Step-by-step workflow logs for datasets that had artificial errors (in different proportions).
+  - `original_error_cleaner_workflow_logs/`:Step-by-step workflow logs for real-world datasets with native errors.
+- `Uniclean_results/`: Contains the final outputs and performance metrics from Uniclean’s data cleaning for each dataset.
+  - `artificial_error_results/`:Final outputs and metrics (e.g., accuracy, F1 score) from Uniclean’s cleaning for datasets that had artificially injected errors in different proportions.
+  - `original_error_results/`:Final outputs and metrics from Uniclean’s cleaning for real-world datasets containing native errors.
+- `baseline_cleaning_systems_logs/`: Logs documenting the performance of baseline systems on the same datasets, enabling a direct comparison with Uniclean’s results.
+  - `artificial_error_datasets/`:Stores log files showing how baseline systems perform on datasets with artificial errors.
+    - **File Naming Format**: `[dataset_name]_[cleaning_system_name]_nwcpk_[error_proportion].log`
+    - Example: `1_hospitals_raha_baran_nwcpk_1.log`
+  - `original_datasets/`:Stores log files showing how baseline systems perform on real-world datasets with native errors.
+    - **File Naming Format**: `[dataset_name]_ori_[cleaning_system_name]_[the actual size of the dataset (if it is not in its original size)].log`
+    - Example: `1_hospital_ori_baran.log`
+- `baseline_cleaning_systems_results/`: Final results and performance metrics of baseline systems on the same datasets.
+  - `artificial_error_datasets/`:Contains overall performance metrics (e.g., accuracy, recall, F1 score) of baseline systems on artificially injected error datasets.
+    - **Folder Naming Format**: `[dataset_name]_nwcpk_[error_proportion]`
+    - Example: `1_hospitals_nwcpk_1`
+  - `original_datasets/`:Contains overall performance metrics of baseline systems on real-world datasets with native errors.
+    - **Folder Naming Format**: `[dataset_name]_[the actual size of the dataset (if it is not in its original size)]_ori`
+    - Example: `1_hospital_ori`
+- `baseline_cleaned_data/`:Datasets that have been cleaned by baseline systems.
+  - `artificial_error_datasets/`:Baseline-cleaned versions of artificially injected error datasets.
+    - **File Naming Format**: `[dataset_name]_[error_proportion]_cleaned_by_[cleaning_system_name].csv`
+    - Example: `1_hospitals_1_cleaned_by_baran.csv`
+  - `original_datasets/`:Baseline-cleaned versions of real-world datasets with native errors.
+    - **File Naming Format**: `[dataset_name][the actual size of the dataset (if it is not in its original size)]_cleaned_by_[cleaning_system_name].csv`
+    - Example: `1_hospital_cleaned_by_baran.csv`
+- `evaluate_result.py`: A script that computes performance metrics for data cleaning, such as accuracy, recall, F1 score, and error reduction rate, allowing comprehensive evaluation of data cleaning effectiveness.
