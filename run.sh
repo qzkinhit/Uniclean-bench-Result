@@ -9,10 +9,10 @@ mse_attributes=("Score" "" "abv ibu" "" "rate")
 elapsed_times=("108.115330875" "84.591757375" "31.24922154099" "52.377824583" "12589.6389")
 
 # Define base paths
-dirty_base_path="./RealWorldDataSet"
-clean_base_path="./RealWorldDataSet"
-cleaned_base_path="./Uniclean_cleaned_data"
-output_base_path="./Uniclean_logs"
+dirty_base_path="./datasets/original_datasets"
+clean_base_path="./datasets/original_datasets"
+cleaned_base_path="./Uniclean_cleaned_data/original_error_cleaned_data"
+output_base_path="./Uniclean_results/original_error_results"
 
 # Loop through each dataset and execute the main Python script
 for i in "${!datasets[@]}"; do
