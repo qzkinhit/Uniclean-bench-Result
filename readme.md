@@ -47,7 +47,7 @@ The `run.sh` script iterates over each dataset in the `datasets/original_dataset
 
 ## Repository Structure
 - `datasets/`:Stores two categories of datasets used for experiments.
-  - `artificial_error_datasets/`:Datasets that have been artificially injected with errors in eight different proportions (ranging from 0.25% to 2%) for controlled experiments and benchmarking.
+  - `artificial_error_datasets/`:Contains datasets with artificially injected errors in eight different proportions (ranging from 0.25% to 2%) for controlled experiments and benchmarking. This folder also includes the *BART script* used for injecting these errors into the datasets.
   - `original_datasets/`: Contains real-world datasets in their native (uncleaned) form.
 - `Uniclean_cleaned_data/`: Datasets that have been cleaned by Uniclean.
   - `artificial_error_cleaned_data/`:Uniclean-cleaned versions of the artificially injected error datasets.
