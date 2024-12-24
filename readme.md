@@ -52,7 +52,7 @@ The `run.sh` script iterates over each dataset in the `datasets/original_dataset
 - `Uniclean_cleaned_data/`: Datasets that have been cleaned by Uniclean.
   - `artificial_error_cleaned_data/`:Uniclean-cleaned versions of the artificially injected error datasets.
   - `original_error_cleaned_data/`:Uniclean-cleaned  versions of the real-world datasets containing native errors.
-- `Uniclean_cleaner_workflow_logs/`: Logs generated during the Uniclean cleaning process, detailing operations and results for each dataset.
+- `Uniclean_cleaner_workflow_logs/`: Logs generated during the Uniclean cleaning process and Cleaner attributes dependencies for each dataset.
   - `artificial_error_cleaner_workflow_logs/`: Step-by-step workflow logs for datasets that had artificial errors (in different proportions).
   - `original_error_cleaner_workflow_logs/`:Step-by-step workflow logs for real-world datasets with native errors.
 - `Uniclean_results/`: Contains the final outputs and performance metrics from Uniclean’s data cleaning for each dataset.
