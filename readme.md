@@ -14,13 +14,14 @@ The repository includes:
 
 The following table summarizes the datasets used in this repository, including their error types and dimensions:
 
-| Dataset | Error Type | Shape        | Link |
-|---------|------------|--------------|------|
-| Hospital | T, VAD | 1,000 × 20   | [datasets/original_datasets/1_hospital](./datasets/original_datasets/1_hospital) |
-| Flights  | MV, FI, VAD | 2,376 × 7    | [datasets/original_datasets/2_flights](./datasets/original_datasets/2_flights) |
-| Beers    | MV, FI, VAD | 2,410 × 111  | [datasets/original_datasets/3_beers](./datasets/original_datasets/3_beers) |
-| Rayyan   | MV, T, FI, VAD | 1,000 × 11   | [datasets/original_datasets/4_rayyan](./datasets/original_datasets/4_rayyan) |
-| Tax      | T, FI, VAD | 500,000 × 15 | [datasets/original_datasets/5_tax](./datasets/original_datasets/5_tax50k) |
+| Dataset  | Error Type     | Shape        | Link                                                                             |
+|----------|----------------|--------------|----------------------------------------------------------------------------------|
+| Hospital | T, VAD         | 1,000 × 20   | [datasets/original_datasets/1_hospital](./datasets/original_datasets/1_hospital) |
+| Flights  | MV, FI, VAD    | 2,376 × 7    | [datasets/original_datasets/2_flights](./datasets/original_datasets/2_flights)   |
+| Beers    | MV, FI, VAD    | 2,410 × 111  | [datasets/original_datasets/3_beers](./datasets/original_datasets/3_beers)       |
+| Rayyan   | MV, T, FI, VAD | 1,000 × 11   | [datasets/original_datasets/4_rayyan](./datasets/original_datasets/4_rayyan)     |
+| Tax      | T, FI, VAD     | 200,000 × 15 | [datasets/original_datasets/5_tax](./datasets/original_datasets/5_tax)           |
+| Soccer   | T, VAD         | 200,000 × 15 | [datasets/original_datasets/6_soccer](./datasets/original_datasets/6_soccer)     |
 
 **Error Type Abbreviations:**
 - **T**: Typographical errors

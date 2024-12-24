@@ -1,8 +1,0 @@
-t1&t2&EQ(t1.zip,t2.zip)&IQ(t1.city,t2.city)
-t1&t2&EQ(t1.zip,t2.zip)&IQ(t1.state,t2.state)
-t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.haschild,t2.haschild)&IQ(t1.childexemp,t2.childexemp)
-t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.maritalstatus,t2.maritalstatus)&IQ(t1.singleexemp,t2.singleexemp)
-t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.maritalstatus,t2.maritalstatus)&IQ(t1.marriedexemp,t2.marriedexemp)
-t1&t2&EQ(t1.fname,t2.fname)&IQ(t1.gender,t2.gender)
-t1&t2&EQ(t1.areacode,t2.areacode)&IQ(t1.state,t2.state)
-t1&t2&EQ(t1.phone,t2.phone)&EQ(t1.zip,t2.zip)&IQ(t1.areacode,t2.areacode)

@@ -1,7 +1,0 @@
-zip ⇒ city
-zip ⇒ state
-zip, haschild ⇒ childexemp
-zip, maritalstatus ⇒ singleexemp
-zip, maritalstatus ⇒ marriedexemp
-f_name ⇒ gender
-area_code ⇒ state

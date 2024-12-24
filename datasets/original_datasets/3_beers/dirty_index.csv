@@ -1,4 +1,4 @@
-﻿index,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+index,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
 1,1436,Pub Beer,American Pale Lager,12.0 oz,0.05,empty,408,10 Barrel Brewing Company,Bend,OR
 2,2265,Devil's Cup,American Pale Ale (APA),12.0 oz.,0.066,empty,177,18th Street Brewery,Gary,IN
 3,2264,Rise of the Phoenix,American IPA,12.0 ounce,0.071,empty,177,18th Street Brewery,Gary,IN
