@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+  <target>
+    <type>DBMS</type>
+    <access-configuration>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/alpha</uri>
+      <schema>beers</schema>
+      <login>postgres</login>
+      <password>1234</password>
+    </access-configuration>
+    <import createTables="true">
+      <input table="beers" type="CSV" separator=",">clean.csv</input>
+    </import>
+  </target>
+  <dependencies>
+<![CDATA[ DCs: fd1: beers(beer_name:$beer_name1,style:$style1,ounces:$ounces1,abv:$abv1,ibu:$ibu1,brewery_id:$brewery_id1,brewery_name:$brewery_name1,city:$city1,state:$state1),beers(beer_name:$beer_name2,style:$style2,ounces:$ounces2,abv:$abv2,ibu:$ibu2,brewery_id:$brewery_id2,brewery_name:$brewery_name2,city:$city2,state:$state2), $brewery_id1 == $brewery_id2, $brewery_name1 != $brewery_name2 -> #fail. fd2: beers(beer_name:$beer_name1,style:$style1,ounces:$ounces1,abv:$abv1,ibu:$ibu1,brewery_id:$brewery_id1,brewery_name:$brewery_name1,city:$city1,state:$state1),beers(beer_name:$beer_name2,style:$style2,ounces:$ounces2,abv:$abv2,ibu:$ibu2,brewery_id:$brewery_id2,brewery_name:$brewery_name2,city:$city2,state:$state2), $brewery_id1 == $brewery_id2, $city1 != $city2 -> #fail. fd3: beers(beer_name:$beer_name1,style:$style1,ounces:$ounces1,abv:$abv1,ibu:$ibu1,brewery_id:$brewery_id1,brewery_name:$brewery_name1,city:$city1,state:$state1),beers(beer_name:$beer_name2,style:$style2,ounces:$ounces2,abv:$abv2,ibu:$ibu2,brewery_id:$brewery_id2,brewery_name:$brewery_name2,city:$city2,state:$state2), $brewery_id1 == $brewery_id2, $state1 != $state2 -> #fail. ]]>
+</dependencies>
+<configuration>
+<printLog>false</printLog>
+<checkChanges>true</checkChanges>
+<recreateDBOnStart>false</recreateDBOnStart>
+<applyCellChanges>true</applyCellChanges>
+<estimateRepairability>true</estimateRepairability>
+<exportCellChanges>true</exportCellChanges>
+<exportCellChangesPath>dirty_ramdon_0.5/cellChanges.csv</exportCellChangesPath>
+<exportDirtyDB>true</exportDirtyDB>
+<exportDirtyDBPath>dirty_ramdon_0.5/</exportDirtyDBPath>
+<exportDirtyDBType>CSV</exportDirtyDBType>
+<useDeltaDBForChanges>true</useDeltaDBForChanges>
+<cloneTargetSchema>true</cloneTargetSchema>
+<cloneSuffix>_dirty</cloneSuffix>
+<avoidInteractions>true</avoidInteractions>
+<errorPercentages>
+<defaultPercentage>0.0</defaultPercentage>
+<vioGenQueries>
+<vioGenQuery id="fd1">
+<comparison>(brewery_id1 == brewery_id2)</comparison>
+<percentage>0</percentage>
+</vioGenQuery>
+<vioGenQuery id="fd1">
+<comparison>(brewery_name1 != brewery_name2)</comparison>
+<percentage>0.5</percentage>
+</vioGenQuery>
+<vioGenQuery id="fd2">
+<comparison>(brewery_id1 == brewery_id2)</comparison>
+<percentage>0</percentage>
+</vioGenQuery>
+<vioGenQuery id="fd2">
+<comparison>(city1 != city2)</comparison>
+<percentage>0.5</percentage>
+</vioGenQuery>
+<vioGenQuery id="fd3">
+<comparison>(brewery_id1 == brewery_id2)</comparison>
+<percentage>0</percentage>
+</vioGenQuery>
+<vioGenQuery id="fd3">
+<comparison>(state1 != state2)</comparison>
+<percentage>0.5</percentage>
+</vioGenQuery>
+</vioGenQueries>
+</errorPercentages>
+<dirtyStrategies>
+<defaultStrategy>
+<strategy>TypoRandom</strategy>
+</defaultStrategy>
+</dirtyStrategies>
+<randomErrors>
+<tables>
+<table name="beers">
+<percentage>0.5</percentage>
+<attributes>
+<attribute>brewery_name</attribute>
+<attribute>city</attribute>
+<attribute>state</attribute>
+</attributes>
+</table>
+</tables>
+</randomErrors>
+</configuration>
+</task>
+

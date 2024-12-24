@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+  <target>
+    <type>DBMS</type>
+    <access-configuration>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/beta1</uri>
+      <schema>soccer</schema>
+      <login>postgres</login>
+      <password>1234</password>
+    </access-configuration>
+    <import createTables="true">
+      <input table="soccer" type="CSV" separator="," quoteCharacter="n">Soccer_clean_index.csv</input>
+    </import>
+  </target>
+  <dependencies><![CDATA[DCs:
+        fd1: soccer(index: $index1, name: $name1, surname: $surname1, birthyear: $birthyear1, birthplace: $birthplace1, position: $position1, season: $season1, team: $team1, stadium: $stadium1, city: $city1, manager: $manager1), soccer(index: $index2, name: $name2, surname: $surname2, birthyear: $birthyear2, birthplace: $birthplace2, position: $position2, season: $season2, team: $team2, stadium: $stadium2, city: $city2, manager: $manager2),
+            $name1 == $name2, $surname1 != $surname2 -> #fail.
+        fd2: soccer(index: $index1, name: $name1, surname: $surname1, birthyear: $birthyear1, birthplace: $birthplace1, position: $position1, season: $season1, team: $team1, stadium: $stadium1, city: $city1, manager: $manager1), soccer(index: $index2, name: $name2, surname: $surname2, birthyear: $birthyear2, birthplace: $birthplace2, position: $position2, season: $season2, team: $team2, stadium: $stadium2, city: $city2, manager: $manager2),
+            $name1 == $name2, $birthyear1 != $birthyear2 -> #fail.
+        fd3: soccer(index: $index1, name: $name1, surname: $surname1, birthyear: $birthyear1, birthplace: $birthplace1, position: $position1, season: $season1, team: $team1, stadium: $stadium1, city: $city1, manager: $manager1), soccer(index: $index2, name: $name2, surname: $surname2, birthyear: $birthyear2, birthplace: $birthplace2, position: $position2, season: $season2, team: $team2, stadium: $stadium2, city: $city2, manager: $manager2),
+            $name1 == $name2, $birthplace1 != $birthplace2 -> #fail.
+        fd4: soccer(index: $index1, name: $name1, surname: $surname1, birthyear: $birthyear1, birthplace: $birthplace1, position: $position1, season: $season1, team: $team1, stadium: $stadium1, city: $city1, manager: $manager1), soccer(index: $index2, name: $name2, surname: $surname2, birthyear: $birthyear2, birthplace: $birthplace2, position: $position2, season: $season2, team: $team2, stadium: $stadium2, city: $city2, manager: $manager2),
+            $name1 == $name2, $season1 == $season2, $position1 != $position2 -> #fail.
+        fd5: soccer(index: $index1, name: $name1, surname: $surname1, birthyear: $birthyear1, birthplace: $birthplace1, position: $position1, season: $season1, team: $team1, stadium: $stadium1, city: $city1, manager: $manager1), soccer(index: $index2, name: $name2, surname: $surname2, birthyear: $birthyear2, birthplace: $birthplace2, position: $position2, season: $season2, team: $team2, stadium: $stadium2, city: $city2, manager: $manager2),
+            $team1 == $team2, $city1 == $city2, $season1 == $season2, $stadium1 != $stadium2 -> #fail.
+        fd6: soccer(index: $index1, name: $name1, surname: $surname1, birthyear: $birthyear1, birthplace: $birthplace1, position: $position1, season: $season1, team: $team1, stadium: $stadium1, city: $city1, manager: $manager1), soccer(index: $index2, name: $name2, surname: $surname2, birthyear: $birthyear2, birthplace: $birthplace2, position: $position2, season: $season2, team: $team2, stadium: $stadium2, city: $city2, manager: $manager2),
+            $manager1 == $manager2, $season1 == $season2, $team1 != $team2 -> #fail.]]></dependencies>
+  <configuration>
+    <printLog>false</printLog>
+    <checkChanges>true</checkChanges>
+    <recreateDBOnStart>false</recreateDBOnStart>
+    <applyCellChanges>true</applyCellChanges>
+    <estimateRepairability>true</estimateRepairability>
+    <exportCellChanges>true</exportCellChanges>
+    <exportCellChangesPath>dirty_ramdon_1.75/cellChanges.csv</exportCellChangesPath>
+    <exportDirtyDB>true</exportDirtyDB>
+    <exportDirtyDBPath>dirty_ramdon_1.75/</exportDirtyDBPath>
+    <exportDirtyDBType>CSV</exportDirtyDBType>
+    <useDeltaDBForChanges>true</useDeltaDBForChanges>
+    <cloneTargetSchema>true</cloneTargetSchema>
+    <cloneSuffix>_dirty</cloneSuffix>
+    <avoidInteractions>true</avoidInteractions>
+    <errorPercentages>
+      <defaultPercentage>0.0</defaultPercentage>
+      <vioGenQueries>
+        <vioGenQuery id="fd6">
+          <comparison>(season1 == season2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd5">
+          <comparison>(city1 == city2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd6">
+          <comparison>(manager1 == manager2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd3">
+          <comparison>(name1 == name2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd5">
+          <comparison>(season1 == season2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd1">
+          <comparison>(surname1 != surname2)</comparison>
+          <percentage>1.75</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd2">
+          <comparison>(birthyear1 != birthyear2)</comparison>
+          <percentage>1.75</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd1">
+          <comparison>(name1 == name2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd4">
+          <comparison>(position1 != position2)</comparison>
+          <percentage>1.75</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd5">
+          <comparison>(team1 == team2)</comparison>
+          <percentage>0.875</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd4">
+          <comparison>(season1 == season2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd4">
+          <comparison>(name1 == name2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd3">
+          <comparison>(birthplace1 != birthplace2)</comparison>
+          <percentage>1.75</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd5">
+          <comparison>(stadium1 != stadium2)</comparison>
+          <percentage>0.875</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd2">
+          <comparison>(name1 == name2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd6">
+          <comparison>(team1 != team2)</comparison>
+          <percentage>1.75</percentage>
+        </vioGenQuery>
+      </vioGenQueries>
+    </errorPercentages>
+    <dirtyStrategies>
+      <defaultStrategy>
+        <strategy>TypoRandom</strategy>
+      </defaultStrategy>
+    </dirtyStrategies>
+    <randomErrors>
+      <tables>
+        <table name="soccer">
+          <percentage>1.75</percentage>
+          <attributes>
+            <attribute>birthyear</attribute>
+            <attribute>birthplace</attribute>
+            <attribute>surname</attribute>
+            <attribute>stadium</attribute>
+            <attribute>position</attribute>
+            <attribute>team</attribute>
+          </attributes>
+        </table>
+      </tables>
+    </randomErrors>
+  </configuration>
+</task>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+  <target>
+    <type>DBMS</type>
+    <access-configuration>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/alpha</uri>
+      <schema>flights2</schema>
+      <login>postgres</login>
+      <password>123456</password>
+    </access-configuration>
+    <init-db><![CDATA[create schema flights;]]></init-db>
+    <import createTables="true">
+      <input table="flights" type="CSV" separator="," quoteCharacter="null">flights_clean.csv</input>
+    </import>
+  </target>
+  <dependencies><![CDATA[DCs:
+ 
+//fd1: same flight, different scheduled departure time
+fd1: flights(src: $src1 ,flight: $flight1 ,sched_dep_time: $sched_dep_time1 ,act_dep_time: $act_dep_time1 ,sched_arr_time: $sched_arr_time1 ,act_arr_time: $act_arr_time1), 
+     flights(src: $src2 ,flight: $flight2 ,sched_dep_time: $sched_dep_time2 ,act_dep_time: $act_dep_time2 ,sched_arr_time: $sched_arr_time2 ,act_arr_time: $act_arr_time2),
+     $flight1 == $flight2, $sched_dep_time1 != $sched_dep_time2 -> #fail.
+
+//fd2: same flight, different departure time
+fd2: flights(src: $src1 ,flight: $flight1 ,sched_dep_time: $sched_dep_time1 ,act_dep_time: $act_dep_time1 ,sched_arr_time: $sched_arr_time1 ,act_arr_time: $act_arr_time1), 
+     flights(src: $src2 ,flight: $flight2 ,sched_dep_time: $sched_dep_time2 ,act_dep_time: $act_dep_time2 ,sched_arr_time: $sched_arr_time2 ,act_arr_time: $act_arr_time2),
+     $flight1 == $flight2, $act_dep_time1 != $act_dep_time2 -> #fail.     
+
+//fd3: same flight, different scheduled arrival time
+fd3: flights(src: $src1 ,flight: $flight1 ,sched_dep_time: $sched_dep_time1 ,act_dep_time: $act_dep_time1 ,sched_arr_time: $sched_arr_time1 ,act_arr_time: $act_arr_time1), 
+     flights(src: $src2 ,flight: $flight2 ,sched_dep_time: $sched_dep_time2 ,act_dep_time: $act_dep_time2 ,sched_arr_time: $sched_arr_time2 ,act_arr_time: $act_arr_time2),
+     $flight1 == $flight2, $sched_arr_time1 != $sched_arr_time2 -> #fail.    
+
+//fd4: same flight, different arrival time
+fd4: flights(src: $src1 ,flight: $flight1 ,sched_dep_time: $sched_dep_time1 ,act_dep_time: $act_dep_time1 ,sched_arr_time: $sched_arr_time1 ,act_arr_time: $act_arr_time1), 
+     flights(src: $src2 ,flight: $flight2 ,sched_dep_time: $sched_dep_time2 ,act_dep_time: $act_dep_time2 ,sched_arr_time: $sched_arr_time2 ,act_arr_time: $act_arr_time2),
+     $flight1 == $flight2, $act_arr_time1 != $act_arr_time2 -> #fail.]]></dependencies>
+  <configuration>
+    <printLog>true</printLog>
+    <checkChanges>true</checkChanges>
+    <recreateDBOnStart>false</recreateDBOnStart>
+    <applyCellChanges>true</applyCellChanges>
+    <estimateRepairability>true</estimateRepairability>
+    <exportCellChanges>true</exportCellChanges>
+    <exportCellChangesPath>dirty_mix_2/cellChanges_mixed_correct_primary_key.csv</exportCellChangesPath>
+    <exportDirtyDB>true</exportDirtyDB>
+    <exportDirtyDBPath>dirty_mix_2/</exportDirtyDBPath>
+    <exportDirtyDBType>CSV</exportDirtyDBType>
+    <useDeltaDBForChanges>true</useDeltaDBForChanges>
+    <cloneTargetSchema>true</cloneTargetSchema>
+    <cloneSuffix>_dirty</cloneSuffix>
+    <avoidInteractions>true</avoidInteractions>
+    <errorPercentages>
+      <defaultPercentage>0.0</defaultPercentage>
+      <vioGenQueries>
+        <vioGenQuery id="fd3">
+          <comparison>(sched_arr_time1 != sched_arr_time2)</comparison>
+          <percentage>2</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd3">
+          <comparison>(flight1 == flight2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd2">
+          <comparison>(flight1 == flight2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd1">
+          <comparison>(sched_dep_time1 != sched_dep_time2)</comparison>
+          <percentage>2</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd1">
+          <comparison>(flight1 == flight2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd2">
+          <comparison>(act_dep_time1 != act_dep_time2)</comparison>
+          <percentage>2</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd4">
+          <comparison>(act_arr_time1 != act_arr_time2)</comparison>
+          <percentage>2</percentage>
+        </vioGenQuery>
+        <vioGenQuery id="fd4">
+          <comparison>(flight1 == flight2)</comparison>
+          <percentage>0.0</percentage>
+        </vioGenQuery>
+      </vioGenQueries>
+    </errorPercentages>
+    <dirtyStrategies>
+      <defaultStrategy>
+        <strategy>TypoRandom</strategy>
+      </defaultStrategy>
+    </dirtyStrategies>
+    <randomErrors>
+      <tables>
+        <table name="flights">
+          <percentage>2</percentage>
+          <attributes>
+            <attribute>sched_dep_time</attribute>
+            <attribute>act_arr_time</attribute>
+            <attribute>sched_arr_time</attribute>
+            <attribute>act_dep_time</attribute>
+          </attributes>
+        </table>
+      </tables>
+    </randomErrors>
+  </configuration>
+</task>
+

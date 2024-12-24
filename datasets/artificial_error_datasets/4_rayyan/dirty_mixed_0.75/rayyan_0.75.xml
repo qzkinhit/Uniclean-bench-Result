@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+  <target>
+    <type>DBMS</type>
+    <access-configuration>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/db2</uri>
+      <schema>rayyan0</schema>
+      <login>postgres</login>
+      <password>postgres</password>
+    </access-configuration>
+    <import createTables="true">
+      <input table="rayyan" type="CSV" separator="," quoteCharacter="n">rayyan_clean.csv</input>
+    </import>
+  </target>
+  <dependencies><![CDATA[DCs:
+
+fd1:
+rayyan(article_title:$article_title1,article_language:$article_language1,journal_title:$journal_title1,jounral_abbreviation:$jounral_abbreviation1,journal_issn:$journal_issn1,article_jvolumn:$article_jvolumn1,article_jissue:$article_jissue1,article_jcreated_at:$article_jcreated_at1,article_pagination:$article_pagination1,author_list:$author_list1), 
+rayyan(article_title:$article_title2,article_language:$article_language2,journal_title:$journal_title2,jounral_abbreviation:$jounral_abbreviation2,journal_issn:$journal_issn2,article_jvolumn:$article_jvolumn2,article_jissue:$article_jissue2,article_jcreated_at:$article_jcreated_at2,article_pagination:$article_pagination2,author_list:$author_list2),
+     $jounral_abbreviation1 == $jounral_abbreviation2, $journal_title1 != $journal_title2 -> #fail.
+
+fd2:
+rayyan(article_title:$article_title1,article_language:$article_language1,journal_title:$journal_title1,jounral_abbreviation:$jounral_abbreviation1,journal_issn:$journal_issn1,article_jvolumn:$article_jvolumn1,article_jissue:$article_jissue1,article_jcreated_at:$article_jcreated_at1,article_pagination:$article_pagination1,author_list:$author_list1), 
+rayyan(article_title:$article_title2,article_language:$article_language2,journal_title:$journal_title2,jounral_abbreviation:$jounral_abbreviation2,journal_issn:$journal_issn2,article_jvolumn:$article_jvolumn2,article_jissue:$article_jissue2,article_jcreated_at:$article_jcreated_at2,article_pagination:$article_pagination2,author_list:$author_list2),
+     $jounral_abbreviation1 == $jounral_abbreviation2, $journal_issn1 != $journal_issn2 -> #fail.
+
+fd3:
+rayyan(article_title:$article_title1,article_language:$article_language1,journal_title:$journal_title1,jounral_abbreviation:$jounral_abbreviation1,journal_issn:$journal_issn1,article_jvolumn:$article_jvolumn1,article_jissue:$article_jissue1,article_jcreated_at:$article_jcreated_at1,article_pagination:$article_pagination1,author_list:$author_list1), 
+rayyan(article_title:$article_title2,article_language:$article_language2,journal_title:$journal_title2,jounral_abbreviation:$jounral_abbreviation2,journal_issn:$journal_issn2,article_jvolumn:$article_jvolumn2,article_jissue:$article_jissue2,article_jcreated_at:$article_jcreated_at2,article_pagination:$article_pagination2,author_list:$author_list2),
+     $journal_issn1 == $journal_issn2, $journal_title1 != $journal_title2 -> #fail.]]></dependencies>
+  <configuration>
+    <printLog>true</printLog>
+    <checkChanges>true</checkChanges>
+    <recreateDBOnStart>false</recreateDBOnStart>
+    <applyCellChanges>true</applyCellChanges>
+    <estimateRepairability>true</estimateRepairability>
+    <exportCellChanges>true</exportCellChanges>
+    <exportCellChangesPath>rayyan_0.75/cellChanges.csv</exportCellChangesPath>
+    <exportDirtyDB>true</exportDirtyDB>
+    <exportDirtyDBPath>rayyan_0.75</exportDirtyDBPath>
+    <exportDirtyDBType>CSV</exportDirtyDBType>
+    <useDeltaDBForChanges>true</useDeltaDBForChanges>
+    <cloneTargetSchema>true</cloneTargetSchema>
+    <cloneSuffix>_dirty</cloneSuffix>
+    <avoidInteractions>true</avoidInteractions>
+    <errorPercentages>
+            <defaultPercentage>0.0</defaultPercentage>
+            <vioGenQueries>
+                <vioGenQuery id="fd2">
+                    <comparison>(jounral_abbreviation1 == jounral_abbreviation2)</comparison>
+                    <percentage>0</percentage>
+                </vioGenQuery>
+                <vioGenQuery id="fd1">
+                    <comparison>(journal_title1 != journal_title2)</comparison>
+                    <percentage>0.75</percentage>
+                </vioGenQuery>
+                <vioGenQuery id="fd1">
+                    <comparison>(jounral_abbreviation1 == jounral_abbreviation2)</comparison>
+                    <percentage>0</percentage>
+                </vioGenQuery>
+                <vioGenQuery id="fd2">
+                    <comparison>(journal_issn1 != journal_issn2)</comparison>
+                    <percentage>0.75</percentage>
+                </vioGenQuery>
+                <vioGenQuery id="fd3">
+                    <comparison>(journal_title1 != journal_title2)</comparison>
+                    <percentage>0.375</percentage>
+                </vioGenQuery>
+                <vioGenQuery id="fd3">
+                    <comparison>(journal_issn1 == journal_issn2)</comparison>
+                    <percentage>0.375</percentage>
+                </vioGenQuery>
+            </vioGenQueries>
+        </errorPercentages>
+    <dirtyStrategies>
+      <defaultStrategy>
+        <strategy>TypoRandom</strategy>
+      </defaultStrategy>
+    </dirtyStrategies>
+    <randomErrors>
+      <tables>
+        <table name="rayyan">
+          <percentage>0.75</percentage>
+          <attributes>
+            <attribute>journal_issn</attribute>
+            <attribute>journal_title</attribute>
+          </attributes>
+        </table>
+      </tables>
+    </randomErrors>
+  </configuration>
+</task>
+
