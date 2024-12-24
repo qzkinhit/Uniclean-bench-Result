@@ -1,0 +1,71 @@
+Attribute: index
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: tno
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: fname
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 8
+========================================
+Attribute: lname
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: gender
+Distance (Dirty to Clean): 70
+Distance (Repaired to Clean): 70
+========================================
+Attribute: areacode
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 28
+========================================
+Attribute: phone
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: city
+Distance (Dirty to Clean): 100
+Distance (Repaired to Clean): 97
+========================================
+Attribute: state
+Distance (Dirty to Clean): 29
+Distance (Repaired to Clean): 6
+========================================
+Attribute: zip
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 233
+========================================
+Attribute: maritalstatus
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 48
+========================================
+Attribute: haschild
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 30
+========================================
+Attribute: salary
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: rate
+Distance (Dirty to Clean): 0
+Distance (Repaired to Clean): 0
+========================================
+Attribute: singleexemp
+Distance (Dirty to Clean): 72
+Distance (Repaired to Clean): 71
+========================================
+Attribute: marriedexemp
+Distance (Dirty to Clean): 105
+Distance (Repaired to Clean): 106
+========================================
+Attribute: childexemp
+Distance (Dirty to Clean): 124
+Distance (Repaired to Clean): 122
+========================================
+总的脏数据到干净数据距离: 500
+总的修复后数据到干净数据距离: 819
+错误减少率 (EDR): -0.638

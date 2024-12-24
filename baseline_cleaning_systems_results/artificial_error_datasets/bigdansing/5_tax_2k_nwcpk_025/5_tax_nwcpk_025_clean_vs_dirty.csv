@@ -1,0 +1,59 @@
+Attribute,Index,Clean Value,Dirty Value
+gender,92,m,empty
+gender,1911,m,empty
+gender,5631,f,zf
+gender,7522,f,empty
+gender,8097,f,empty
+gender,8759,f,***
+gender,9494,f,***
+gender,9554,f,pf
+gender,13219,m,empty
+gender,17003,m,um
+gender,17289,m,pm
+gender,19868,f,empty
+city,649,howland,hwland
+city,2384,newport,empty
+city,6297,taftsville,tacftsville
+city,6494,charlestown,empty
+city,12122,south woodstock,sdouth woodstock
+city,16659,north jay,noth jay
+city,17147,albion,alblion
+city,17666,aguas buenas,aguasg buenas
+city,18213,west kingston,empty
+city,19058,aguadilla,guadilla
+city,19764,aguirre,augirre
+state,162,pr,empty
+state,1504,ri,empty
+state,2066,vt,t
+state,3491,nh,empty
+state,11015,ma,empty
+state,14863,ma,mja
+state,15240,vt,t
+state,15562,me,empty
+state,17525,me,em
+state,19714,pr,rp
+singleexemp,1266,0,e0
+singleexemp,2088,0,empty
+singleexemp,2349,0,empty
+singleexemp,7326,0,empty
+singleexemp,7503,0,empty
+singleexemp,7700,0,***
+singleexemp,8866,0,empty
+singleexemp,11294,2850,250
+singleexemp,12496,3575,375
+singleexemp,13068,0,empty
+singleexemp,14114,0,empty
+marriedexemp,4440,0,empty
+marriedexemp,4970,0,empty
+marriedexemp,5738,0,empty
+marriedexemp,6001,5700,700
+childexemp,1342,0,empty
+childexemp,1796,0,empty
+childexemp,2136,0,empty
+childexemp,3828,0,empty
+childexemp,13604,0,k0
+childexemp,13815,0,l0
+childexemp,13881,0,empty
+childexemp,14762,0,t0
+childexemp,14857,0,empty
+childexemp,19585,3300,3v300

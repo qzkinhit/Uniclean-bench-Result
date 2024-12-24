@@ -1,0 +1,46 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/5_tax/subset_tax_1k/subset_tax_1k_clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/5_tax/subset_tax_1k/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_tax_mix_0.25.csv
+Running holistic with dirty file: Data/5_tax/subset_tax_1k/noise_with_correct_primary_key/dirty_mixed_0.25/dirty_tax_mix_0.25.csv
+  0%|          | 0/8 [00:00<?, ?it/s] 12%|█▎        | 1/8 [00:00<00:01,  3.88it/s] 25%|██▌       | 2/8 [00:00<00:01,  4.70it/s] 38%|███▊      | 3/8 [00:00<00:01,  4.42it/s] 50%|█████     | 4/8 [00:00<00:00,  4.84it/s] 62%|██████▎   | 5/8 [00:01<00:00,  4.86it/s] 75%|███████▌  | 6/8 [00:01<00:00,  4.63it/s] 88%|████████▊ | 7/8 [00:01<00:00,  4.22it/s]100%|██████████| 8/8 [00:01<00:00,  4.91it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/7 [00:00<?, ?it/s] 14%|███████▊                                               | 1/7 [00:14<01:28, 14.79s/it] 29%|███████████████▋                                       | 2/7 [00:29<01:13, 14.68s/it] 43%|███████████████████████▌                               | 3/7 [00:50<01:10, 17.51s/it] 57%|███████████████████████████████▍                       | 4/7 [01:11<00:56, 18.83s/it] 71%|███████████████████████████████████████▎               | 5/7 [01:32<00:39, 19.69s/it] 86%|███████████████████████████████████████████████▏       | 6/7 [01:47<00:18, 18.03s/it]100%|███████████████████████████████████████████████████████| 7/7 [02:01<00:00, 16.95s/it]100%|███████████████████████████████████████████████████████| 7/7 [02:01<00:00, 17.41s/it]
+Finish Detectings
+Finish Repairing
+Detecting Errors
+  0%|                                                               | 0/7 [00:00<?, ?it/s] 14%|███████▊                                               | 1/7 [00:14<01:26, 14.41s/it] 29%|███████████████▋                                       | 2/7 [00:28<01:12, 14.47s/it] 43%|███████████████████████▌                               | 3/7 [00:49<01:09, 17.38s/it] 57%|███████████████████████████████▍                       | 4/7 [01:10<00:55, 18.65s/it] 71%|███████████████████████████████████████▎               | 5/7 [01:31<00:38, 19.38s/it] 86%|███████████████████████████████████████████████▏       | 6/7 [01:45<00:17, 17.73s/it]100%|███████████████████████████████████████████████████████| 7/7 [02:00<00:00, 16.69s/it]100%|███████████████████████████████████████████████████████| 7/7 [02:00<00:00, 17.16s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/repaired_5_tax_nwcpk_025.csv
+holistic finished in 243.80091643333435 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/repaired_5_tax_nwcpk_025.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_unrepaired.csv
+修复准确率: 0.14035087719298245, 修复召回率: 0.2962962962962963, F1值: 0.19047619043256803
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_edr_evaluation.txt
+错误减少率 (EDR): -1.5185185185185186
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.05104435282800063
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02/5_tax_nwcpk_025_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.8148148148148148
+========================================
+测试结果:
+Accuracy: 0.14035087719298245
+Recall: 0.2962962962962963
+F1 Score: 0.19047619043256803
+EDR: -1.5185185185185186
+Hybrid Distance: 0.05104435282800063
+R-EDR: -0.8148148148148148
+time(s): 243.80091643333435
+speed: 24.380091643333436 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/5_tax_nwcpk_02

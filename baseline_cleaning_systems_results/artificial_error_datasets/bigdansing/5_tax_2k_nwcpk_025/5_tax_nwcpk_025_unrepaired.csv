@@ -1,0 +1,36 @@
+Attribute,Index,Dirty Value,Clean Value
+gender,92,empty,m
+gender,1911,empty,m
+gender,5631,zf,f
+gender,7522,empty,f
+gender,8097,empty,f
+gender,8759,***,f
+gender,9494,***,f
+gender,9554,pf,f
+gender,13219,empty,m
+gender,17003,um,m
+gender,17289,pm,m
+gender,19868,empty,f
+city,6297,tacftsville,taftsville
+city,16659,noth jay,north jay
+city,17147,alblion,albion
+city,17666,aguasg buenas,aguas buenas
+city,19764,augirre,aguirre
+singleexemp,1266,e0,0
+singleexemp,2088,empty,0
+singleexemp,2349,empty,0
+singleexemp,7326,empty,0
+singleexemp,7503,empty,0
+singleexemp,7700,***,0
+singleexemp,8866,empty,0
+singleexemp,11294,250,2850
+singleexemp,12496,375,3575
+singleexemp,13068,empty,0
+singleexemp,14114,empty,0
+marriedexemp,4440,empty,0
+marriedexemp,4970,empty,0
+marriedexemp,6001,700,5700
+childexemp,1342,empty,0
+childexemp,2136,empty,0
+childexemp,13815,l0,0
+childexemp,19585,3v300,3300

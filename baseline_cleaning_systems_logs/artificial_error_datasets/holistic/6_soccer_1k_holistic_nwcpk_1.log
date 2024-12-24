@@ -1,0 +1,46 @@
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_1k/subset_directly_extract_soccer_1k_clean_index.csv
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: Data/6_soccer/subset_directly_extract_soccer_1k/noise_with_correct_primary_key/dirty_mixed_1/dirty_soccer_mix_1.csv
+Running holistic with dirty file: Data/6_soccer/subset_directly_extract_soccer_1k/noise_with_correct_primary_key/dirty_mixed_1/dirty_soccer_mix_1.csv
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:00<00:01,  3.44it/s] 33%|███▎      | 2/6 [00:00<00:01,  3.94it/s] 50%|█████     | 3/6 [00:00<00:00,  3.63it/s] 67%|██████▋   | 4/6 [00:01<00:00,  3.63it/s] 83%|████████▎ | 5/6 [00:01<00:00,  3.82it/s]100%|██████████| 6/6 [00:01<00:00,  3.96it/s]100%|██████████| 6/6 [00:01<00:00,  3.83it/s]
+Finish Blocking and Iterating
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:28<01:55, 28.79s/it] 40%|██████████████████████                                 | 2/5 [00:57<01:26, 28.90s/it] 60%|█████████████████████████████████                      | 3/5 [01:26<00:57, 28.94s/it] 80%|████████████████████████████████████████████           | 4/5 [02:11<00:35, 35.30s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:01<00:00, 40.32s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:01<00:00, 36.20s/it]
+Finish Detectings
+Finish Repairing
+Detecting Errors
+  0%|                                                               | 0/5 [00:00<?, ?it/s] 20%|███████████                                            | 1/5 [00:29<01:57, 29.44s/it] 40%|██████████████████████                                 | 2/5 [00:59<01:30, 30.07s/it] 60%|█████████████████████████████████                      | 3/5 [01:30<01:00, 30.20s/it] 80%|████████████████████████████████████████████           | 4/5 [02:10<00:34, 34.16s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:01<00:00, 40.22s/it]100%|███████████████████████████████████████████████████████| 5/5 [03:01<00:00, 36.30s/it]
+===============================================
+Results saved to results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/repaired_6_soccer_nwcpk_1.csv
+holistic finished in 364.4668855667114 seconds.
+测评性能开始：
+没有指定错误比例，仅进行原数据集的空值替换，不添加错误
+已将注入错误的文件保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/repaired_6_soccer_nwcpk_1.csv
+差异文件已保存到:
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_clean_vs_dirty.csv
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_dirty_vs_cleaned.csv
+results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_clean_vs_cleaned.csv
+修复错误数据文件已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_repair_errors.csv
+未修复但是应该修复数据文件已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_unrepaired.csv
+修复准确率: 0.30718954248366015, 修复召回率: 0.5465116279069767, F1值: 0.3933054392844733
+========================================
+EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_edr_evaluation.txt
+错误减少率 (EDR): -0.6104651162790697
+========================================
+混合距离结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_hybrid_distance_evaluation.txt
+混合距离 (Hybrid Distance): 0.07023899339424569
+========================================
+R-EDR 结果已保存到: results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_/6_soccer_nwcpk_1_record_based_edr_evaluation.txt
+基于条目的错误减少率 (R-EDR): -0.075
+========================================
+测试结果:
+Accuracy: 0.30718954248366015
+Recall: 0.5465116279069767
+F1 Score: 0.3933054392844733
+EDR: -0.6104651162790697
+Hybrid Distance: 0.07023899339424569
+R-EDR: -0.075
+time(s): 364.4668855667114
+speed: 36.44668855667114 seconds/100num
+测评结束，详细测评日志见：results/holistic/nwcpk/Repaired_res/6_soccer_nwcpk_

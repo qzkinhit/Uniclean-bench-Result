@@ -1,0 +1,2377 @@
+index,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+1,aa,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+2,aa,0,07:45 PM,07:59 PM,10:30 PM,empty
+3,aa,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+4,aa,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+5,aa,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+6,aa,0,11:25 PM,empty,6:55 AM Dec 02,empty
+7,aa,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+8,aa,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+9,aa,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+10,aa,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+11,aa,0,empty,10:55 AM,02:20 PM,01:40 PM
+12,aa,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+13,aa,0,10:15 AM,10:19 AM,0,11:50 AM
+14,aa,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+15,aa,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+16,aa,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+17,aa,0,empty,12:14 PM,02:00 PM,02:10 PM
+18,aa,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+19,aa,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+20,aa,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+21,aa,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+22,aa,0,empty,03:36 PM,04:00 PM,03:33 PM
+23,aa,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+24,aa,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+25,aa,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+26,aa,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+27,aa,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+28,aa,0,empty,05:09 PM,08:05 PM,07:55 PM
+29,aa,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+30,aa,0,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+31,aa,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+32,aa,0,11:55 PM,empty,5:50 AM Dec 02,empty
+33,aa,0,09:00 PM,empty,12:15 AM Dec 02,empty
+34,aa,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+35,aa,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+36,aa,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+37,aa,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+38,aa,0,empty,08:40 PM,0,9:19 PM (Estimated)
+39,aa,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+40,aa,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+41,aa,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+42,aa,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+43,aa,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+44,aa,0,empty,08:56 AM,10:40 AM,10:16 AM
+45,aa,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+46,aa,0,empty,11:41 AM,05:25 PM,04:56 PM
+47,aa,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+48,aa,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+49,aa,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+50,aa,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+51,helloflight,0,07:10 AM,07:16 AM,09:40 AM,09:13 AM
+52,helloflight,0,empty,07:42 PM,10:15 PM,empty
+53,helloflight,0,06:40 AM,06:54 AM,09:25 AM,09:13 AM
+54,helloflight,0,08:00 AM,08:29 AM,11:55 AM,09:13 AM
+55,helloflight,0,empty,09:01 AM,0,09:13 AM
+56,helloflight,0,07:45 PM,07:59 PM,10:30 PM,09:13 AM
+57,helloflight,0,03:27 PM,03:28 PM,05:05 PM,09:13 AM
+58,helloflight,0,11:25 AM,11:32 AM,0,03:31 PM
+59,helloflight,AA-1544-SAN-ORD,empty,11:41 AM,0,09:13 AM
+60,helloflight,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+61,helloflight,0,11:25 PM,11:29 PM,6:55 AM Dec 02,09:13 AM
+62,helloflight,UA-414-LAX-SFO,empty,06:10 AM,0,09:13 AM
+63,helloflight,0,12:30 AM,12:41 AM,0,05:26 AM
+64,helloflight,0,04:00 PM,03:58 PM,06:46 PM,09:13 AM
+65,helloflight,0,empty,07:56 AM,09:21 AM,empty
+66,helloflight,0,09:45 AM,10:19 AM,0,01:19 PM
+67,helloflight,0,09:05 AM,10:10 AM,12:35 PM,09:13 AM
+68,helloflight,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+69,helloflight,0,07:00 AM,07:25 AM,09:55 AM,09:13 AM
+70,helloflight,0,04:15 PM,04:29 PM,07:55 PM,09:13 AM
+71,helloflight,0,empty,10:55 AM,0,09:13 AM
+72,helloflight,0,02:30 PM,02:48 PM,0,07:10 PM
+73,helloflight,0,empty,08:00 AM,0,11:06 AM
+74,helloflight,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+75,helloflight,0,11:50 AM,12:13 PM,03:50 PM,09:13 AM
+76,helloflight,0,empty,12:06 PM,0,01:14 PM
+77,helloflight,0,06:00 AM,06:08 AM,09:20 AM,09:13 AM
+78,helloflight,0,11:05 AM,11:30 AM,04:57 PM,09:13 AM
+79,helloflight,0,06:00 AM,06:02 AM,0,10:27 AM
+80,helloflight,0,08:40 AM,08:40 AM,0,10:56 AM
+81,helloflight,0,10:15 AM,10:19 AM,12:10 PM,09:13 AM
+82,helloflight,0,01:00 PM,02:04 PM,02:35 PM,09:13 AM
+83,helloflight,UA-854-SFO-IAH,empty,08:07 AM,0,09:13 AM
+84,helloflight,UA-382-IAD-LAX,empty,12:56 PM,0,09:13 AM
+85,helloflight,AA-4344-ORD-DTW,empty,12:14 PM,0,09:13 AM
+86,helloflight,0,02:30 PM,02:26 PM,06:15 PM,09:13 AM
+87,helloflight,0,12:00 PM,12:08 PM,01:45 PM,09:13 AM
+88,helloflight,0,05:25 PM,05:22 PM,0,08:03 PM
+89,helloflight,0,empty,08:36 PM,08:56 PM,empty
+90,helloflight,0,10:40 AM,11:05 AM,02:45 PM,09:13 AM
+91,helloflight,UA-248-PHX-ORD,empty,01:43 PM,0,09:13 AM
+92,helloflight,0,empty,03:36 PM,empty,03:33 PM
+93,helloflight,0,07:15 AM,07:21 AM,10:35 AM,09:13 AM
+94,helloflight,0,06:30 PM,empty,07:25 PM,09:13 AM
+95,helloflight,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+96,helloflight,0,12:00 PM,12:11 PM,03:15 PM,09:13 AM
+97,helloflight,0,07:15 PM,empty,12:21 AM Dec 02,empty
+98,helloflight,0,empty,02:38 PM,0,09:13 AM
+99,helloflight,0,09:15 AM,09:14 AM,0,12:09 PM
+100,helloflight,0,06:00 AM,06:56 AM,07:30 AM,09:13 AM
+101,helloflight,0,07:10 AM,07:30 AM,09:35 AM,09:56 AM
+102,helloflight,AA-1007-MIA-PHX,empty,05:09 PM,0,09:13 AM
+103,helloflight,0,07:25 AM,07:39 AM,11:10 AM,09:13 AM
+104,helloflight,0,03:50 PM,04:28 PM,06:23 PM,09:13 AM
+105,helloflight,UA-938-DEN-ORD,empty,04:37 PM,0,09:13 AM
+106,helloflight,0,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+107,helloflight,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+108,helloflight,0,empty,07:31 AM,0,09:13 AM
+109,helloflight,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+110,helloflight,0,01:33 PM,01:31 PM,04:31 PM,09:13 AM
+111,helloflight,0,12:15 PM,12:41 PM,02:45 PM,09:13 AM
+112,helloflight,0,01:29 PM,01:48 PM,0,04:17 PM
+113,helloflight,0,11:55 PM,empty,5:50 AM Dec 02,09:13 AM
+114,helloflight,0,empty,04:28 PM,12:29 AM,09:13 AM
+115,helloflight,0,empty,empty,12:15 AM Dec 02,09:13 AM
+116,helloflight,0,08:25 PM,empty,11:50 PM,09:13 AM
+117,helloflight,0,06:59 AM,07:22 AM,10:34 AM,09:13 AM
+118,helloflight,0,08:35 AM,08:51 AM,11:50 AM,09:13 AM
+119,helloflight,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+120,helloflight,0,01:30 PM,empty,03:50 PM,empty
+121,helloflight,0,02:53 PM,03:01 PM,0,04:59 PM
+122,helloflight,UA-6273-YYC-SFO,empty,07:41 AM,0,09:13 AM
+123,helloflight,0,11:08 PM,empty,5:11 AMDec 02,empty
+124,helloflight,0,05:30 PM,empty,06:40 PM,09:13 AM
+125,helloflight,0,empty,01:45 PM,0,09:13 AM
+126,helloflight,UA-2704-DTW-PHX,empty,11:47 AM,0,09:13 AM
+127,helloflight,AA-3063-SLC-LAX,empty,08:40 PM,0,09:13 AM
+128,helloflight,UA-2708-EWR-CLT,empty,03:04 PM,0,09:13 AM
+129,helloflight,0,02:30 PM,02:48 PM,0,07:10 PM
+130,helloflight,0,empty,09:43 AM,11:45 AM,empty
+131,helloflight,0,02:35 PM,02:44 PM,04:05 PM,09:13 AM
+132,helloflight,0,02:55 PM,03:27 PM,05:55 PM,09:13 AM
+133,helloflight,0,07:15 AM,07:22 AM,11:35 AM,09:13 AM
+134,helloflight,0,12:10 PM,12:10 PM,02:15 PM,09:13 AM
+135,helloflight,0,07:55 AM,08:04 AM,11:05 AM,09:13 AM
+136,helloflight,0,empty,09:05 AM,11:53 AM,empty
+137,helloflight,0,01:05 PM,01:19 PM,02:35 PM,09:13 AM
+138,helloflight,0,empty,08:56 AM,0,09:13 AM
+139,helloflight,0,03:05 PM,03:36 PM,06:30 PM,09:13 AM
+140,helloflight,0,07:30 AM,08:04 AM,08:00 AM,09:13 AM
+141,helloflight,0,04:00 PM,04:12 PM,06:40 PM,09:13 AM
+142,helloflight,0,11:35 AM,11:52 AM,02:25 PM,09:13 AM
+143,helloflight,0,02:55 PM,03:31 PM,0,05:26 PM
+144,helloflight,0,11:55 AM,11:43 AM,06:17 PM,09:13 AM
+145,helloflight,0,10:40 AM,10:54 AM,12:55 PM,09:13 AM
+146,helloflight,0,06:45 AM,06:57 AM,07:45 AM,09:13 AM
+147,helloflight,0,04:00 PM,03:58 PM,0,06:36 PM
+148,helloflight,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+149,helloflight,0,07:10 AM,07:39 AM,10:45 AM,09:13 AM
+150,helloflight,0,07:10 AM,07:31 AM,03:30 PM,09:13 AM
+151,boston,AA-3859-IAH-ORD,07:10 AM,07:16 AM,0,09:32 AM
+152,boston,CO-1586-IAH-MCO,empty,07:42 PM,0,09:13 AM
+153,boston,0,06:40 AM,06:54 AM,0,09:28 AM
+154,boston,0,08:00 AM,08:29 AM,0,11:58 AM
+155,boston,UA-3925-IAD-ORF,empty,09:01 AM,0,09:13 AM
+156,boston,0,07:45 PM,07:59 PM,0,empty
+157,boston,0,12:00 PM,12:11 PM,0,03:16 PM
+158,boston,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+159,boston,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+160,boston,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+161,boston,0,11:25 PM,empty,0,empty
+162,boston,UA-414-LAX-SFO,empty,06:10 AM,0,09:13 AM
+163,boston,0,12:30 AM,12:58 AM,05:35 AM,09:13 AM
+164,boston,0,04:00 PM,03:58 PM,0,06:28 PM
+165,boston,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+166,boston,0,empty,10:19 AM,01:16 PM,09:13 AM
+167,boston,0,09:05 AM,10:10 AM,0,01:27 PM
+168,boston,0,empty,08:26 AM,0,09:13 AM
+169,boston,0,07:00 AM,07:25 AM,0,09:45 AM
+170,boston,0,04:15 PM,04:29 PM,0,07:39 PM
+171,boston,0,empty,10:55 AM,0,09:13 AM
+172,boston,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+173,boston,0,empty,08:00 AM,0,09:13 AM
+174,boston,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+175,boston,AA-446-DFW-PHL,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+176,boston,0,empty,12:06 PM,0,09:13 AM
+177,boston,0,06:00 AM,06:08 AM,0,09:05 AM
+178,boston,0,11:05 AM,11:30 AM,0,05:05 PM
+179,boston,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+180,boston,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+181,boston,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+182,boston,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+183,boston,UA-854-SFO-IAH,empty,08:07 AM,0,09:13 AM
+184,boston,UA-382-IAD-LAX,empty,12:56 PM,0,09:13 AM
+185,boston,AA-4344-ORD-DTW,empty,12:14 PM,02:00 PM,09:13 AM
+186,boston,0,02:30 PM,02:26 PM,0,05:42 PM
+187,boston,UA-2945-PHL-CLT,12:00 PM,12:08 PM,0,01:15 PM
+188,boston,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+189,boston,CO-47-IAH-LAX,empty,08:36 PM,08:56 PM,09:13 AM
+190,boston,0,10:40 AM,11:05 AM,0,02:46 PM
+191,boston,0,empty,01:43 PM,04:52 PM,empty
+192,boston,AA-4330-CVG-ORD,empty,03:36 PM,04:00 PM,09:13 AM
+193,boston,0,07:15 AM,07:21 AM,0,10:36 AM
+194,boston,0,06:30 PM,empty,0,empty
+195,boston,0,06:45 PM,06:55 PM,0,08:53 PM
+196,boston,0,07:15 PM,Not Available,0,empty
+197,boston,UA-843-LAX-ORD,empty,02:38 PM,0,09:13 AM
+198,boston,0,09:15 AM,09:14 AM,0,12:09 PM
+199,boston,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+200,boston,0,07:10 AM,07:30 AM,0,09:31 AM
+201,boston,AA-1007-MIA-PHX,empty,05:09 PM,08:05 PM,09:13 AM
+202,boston,0,03:50 PM,04:28 PM,0,06:38 PM
+203,boston,0,empty,04:37 PM,0,09:13 AM
+204,boston,0,08:00 PM,08:23 PM,0,09:53 PM
+205,boston,0,10:25 AM,empty,06:44 PM,09:13 AM
+206,boston,UA-2515-DFW-CLT,empty,07:31 AM,10:31 AM,09:13 AM
+207,boston,0,10:40 AM,11:02 AM,0,03:04 PM
+208,boston,0,01:33 PM,01:31 PM,0,04:23 PM
+209,boston,0,12:15 PM,12:41 PM,0,02:46 PM
+210,boston,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+211,boston,0,11:55 PM,empty,5:50 AM Dec 02,empty
+212,boston,0,04:25 PM,Not Available,0,empty
+213,boston,0,09:00 PM,Not Available,0,empty
+214,boston,0,08:25 PM,empty,0,empty
+215,boston,0,06:59 AM,07:22 AM,0,10:04 AM
+216,boston,0,08:35 AM,08:51 AM,0,11:44 AM
+217,boston,0,empty,08:37 AM,0,09:13 AM
+218,boston,0,01:30 PM,empty,0,04:09 PM
+219,boston,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+220,boston,UA-6273-YYC-SFO,empty,07:41 AM,0,09:13 AM
+221,boston,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+222,boston,CO-4888-IAH-DAL,05:30 PM,empty,06:09 PM,empty
+223,boston,0,empty,01:45 PM,0,09:13 AM
+224,boston,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+225,boston,0,empty,08:40 PM,09:20 PM,09:13 AM
+226,boston,UA-2708-EWR-CLT,empty,03:04 PM,04:53 PM,09:13 AM
+227,boston,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+228,boston,UA-1500-IAH-GUA,empty,09:43 AM,0,09:13 AM
+229,boston,0,02:35 PM,02:44 PM,0,03:43 PM
+230,boston,0,02:55 PM,03:27 PM,0,05:43 PM
+231,boston,0,07:15 AM,07:22 AM,0,11:06 AM
+232,boston,0,12:10 PM,12:10 PM,0,01:43 PM
+233,boston,0,07:55 AM,08:04 AM,0,11:01 AM
+234,boston,0,empty,09:05 AM,0,09:13 AM
+235,boston,0,01:05 PM,01:19 PM,0,03:13 PM
+236,boston,AA-415-BOS-ORD,empty,08:56 AM,10:40 AM,09:13 AM
+237,boston,0,03:05 PM,03:36 PM,0,06:43 PM
+238,boston,0,07:30 AM,08:04 AM,0,08:06 AM
+239,boston,AA-1544-SAN-ORD,empty,11:41 AM,0,09:13 AM
+240,boston,0,04:00 PM,04:12 PM,0,06:15 PM
+241,boston,0,11:35 AM,11:52 AM,0,02:27 PM
+242,boston,0,07:25 AM,07:39 AM,0,11:06 AM
+243,boston,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+244,boston,0,11:55 AM,11:43 AM,0,05:38 PM
+245,boston,0,10:40 AM,10:54 AM,0,12:50 PM
+246,boston,0,06:45 AM,06:57 AM,0,07:40 AM
+247,boston,0,04:00 PM,03:58 PM,0,06:36 PM
+248,boston,0,06:00 AM,06:10 AM,0,06:19 AM
+249,boston,0,07:10 AM,07:39 AM,0,11:12 AM
+250,boston,0,07:10 AM,07:31 AM,0,03:14 PM
+251,weather,0,07:10 AM,07:16 AM,0,09:32 AM
+252,weather,0,06:40 AM,06:54 AM,0,09:28 AM
+253,weather,0,08:00 AM,08:29 AM,0,11:58 AM
+254,weather,0,empty,09:01 AM,0,09:43 AM
+255,weather,0,07:45 PM,07:59 PM,10:30 PM,empty
+256,weather,0,06:30 PM,empty,0,empty
+257,weather,0,03:27 PM,03:28 PM,0,05:17 PM
+258,weather,0,11:25 AM,11:32 AM,0,03:31 PM
+259,weather,0,empty,11:41 AM,0,04:56 PM
+260,weather,0,empty,10:53 AM,0,empty
+261,weather,0,11:25 PM,empty,6:55 AM  Fri 02-Dec-2011,empty
+262,weather,0,empty,06:10 AM,0,07:17 AM
+263,weather,0,12:15 PM,12:41 PM,0,02:50 PM
+264,weather,0,04:00 PM,03:58 PM,0,06:28 PM
+265,weather,0,09:45 AM,empty,0,01:19 PM
+266,weather,0,07:00 AM,07:25 AM,0,09:45 AM
+267,weather,0,empty,08:26 AM,0,09:56 AM
+268,weather,0,04:15 PM,04:29 PM,0,07:39 PM
+269,weather,0,02:30 PM,02:48 PM,0,07:10 PM
+270,weather,0,11:50 AM,12:13 PM,0,04:09 PM
+271,weather,0,06:00 AM,06:08 AM,0,09:05 AM
+272,weather,0,11:05 AM,11:30 AM,0,05:05 PM
+273,weather,0,06:00 AM,06:02 AM,0,10:27 AM
+274,weather,0,08:40 AM,08:40 AM,0,10:56 AM
+275,weather,0,empty,10:55 AM,0,01:40 PM
+276,weather,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+277,weather,0,07:30 AM,08:04 AM,0,08:06 AM
+278,weather,AA-1279-DFW-PHX,01:00 PM,02:04 PM,02:35 PM,03:19 PM
+279,weather,0,12:30 AM,12:41 AM,0,05:26 AM
+280,weather,0,09:05 AM,10:10 AM,0,01:27 PM
+281,weather,0,empty,12:14 PM,empty,02:10 PM
+282,weather,0,12:00 PM,12:08 PM,0,01:15 PM
+283,weather,0,07:25 AM,07:39 AM,0,11:06 AM
+284,weather,0,11:35 AM,11:52 AM,0,02:27 PM
+285,weather,0,10:40 AM,11:05 AM,0,02:46 PM
+286,weather,0,07:15 AM,07:21 AM,0,10:36 AM
+287,weather,0,08:05 AM,08:00 AM,0,11:06 AM
+288,weather,0,06:45 PM,06:55 PM,0,08:53 PM
+289,weather,0,12:00 PM,12:11 PM,0,03:16 PM
+290,weather,0,07:15 PM,empty,12:21 AM Dec 02,12:21 AM (Estimated)
+291,weather,0,empty,02:38 PM,0,07:58 PM
+292,weather,0,09:15 AM,09:14 AM,0,12:09 PM
+293,weather,0,06:00 AM,06:56 AM,0,07:51 AM
+294,weather,0,07:10 AM,07:30 AM,0,09:31 AM
+295,weather,0,03:50 PM,04:28 PM,0,06:38 PM
+296,weather,0,empty,04:37 PM,empty,07:36 PM
+297,weather,0,08:00 PM,08:23 PM,0,09:53 PM
+298,weather,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+299,weather,0,empty,empty,0,10:47 AM
+300,weather,0,10:40 AM,11:02 AM,0,03:04 PM
+301,weather,0,01:33 PM,01:31 PM,0,04:23 PM
+302,weather,0,11:55 PM,empty,5:50 AM Dec 02,empty
+303,weather,0,04:25 PM,empty,12:29 AM  Fri 02-Dec-2011,12:01 AM (Estimated runway)
+304,weather,0,09:00 PM,empty,12:15 AM Dec 02,11:49 PM (Estimated runway)
+305,weather,0,08:25 PM,empty,0,empty
+306,weather,0,06:59 AM,07:22 AM,0,10:04 AM
+307,weather,0,08:35 AM,08:51 AM,0,11:44 AM
+308,weather,0,02:30 PM,02:26 PM,0,05:42 PM
+309,weather,0,empty,08:37 AM,empty,09:13 AM
+310,weather,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+311,weather,0,02:53 PM,03:01 PM,0,04:59 PM
+312,weather,0,empty,07:41 AM,09:43 AM,empty
+313,weather,0,empty,01:45 PM,08:27 AM,empty
+314,weather,0,empty,11:47 AM,0,02:00 PM
+315,weather,0,empty,08:40 PM,empty,9:19 PM (Estimated)
+316,weather,0,empty,03:04 PM,0,04:44 PM
+317,weather,0,02:30 PM,02:48 PM,0,07:10 PM
+318,weather,0,02:35 PM,02:44 PM,0,03:43 PM
+319,weather,0,02:55 PM,03:27 PM,0,05:43 PM
+320,weather,0,07:15 AM,07:22 AM,0,11:06 AM
+321,weather,0,empty,03:04 PM,0,04:47 PM
+322,weather,0,12:10 PM,12:10 PM,0,01:43 PM
+323,weather,0,07:55 AM,08:04 AM,0,11:01 AM
+324,weather,0,empty,09:05 AM,11:53 AM,empty
+325,weather,0,01:05 PM,01:19 PM,0,03:13 PM
+326,weather,0,empty,08:07 AM,empty,01:30 PM
+327,weather,0,empty,08:56 AM,empty,10:16 AM
+328,weather,0,03:05 PM,empty,0,06:43 PM
+329,weather,0,04:00 PM,04:12 PM,0,06:15 PM
+330,weather,0,02:55 PM,03:31 PM,0,05:26 PM
+331,weather,0,11:55 AM,11:43 AM,0,05:38 PM
+332,weather,0,10:40 AM,10:54 AM,0,12:50 PM
+333,weather,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+334,weather,0,04:00 PM,03:58 PM,0,06:36 PM
+335,weather,0,06:00 AM,06:10 AM,0,06:19 AM
+336,weather,0,07:10 AM,07:39 AM,0,11:12 AM
+337,weather,0,07:10 AM,07:31 AM,0,03:14 PM
+338,airtravelcenter,0,07:10 AM,07:16 AM,09:40 AM,09:13 AM
+339,airtravelcenter,0,empty,07:42 PM,10:15 PM,empty
+340,airtravelcenter,0,06:40 AM,06:54 AM,09:25 AM,09:13 AM
+341,airtravelcenter,0,08:00 AM,08:29 AM,11:55 AM,09:13 AM
+342,airtravelcenter,0,empty,09:01 AM,0,09:13 AM
+343,airtravelcenter,0,07:45 PM,07:59 PM,10:30 PM,empty
+344,airtravelcenter,0,03:27 PM,03:28 PM,05:05 PM,09:13 AM
+345,airtravelcenter,0,11:25 AM,11:32 AM,0,03:31 PM
+346,airtravelcenter,AA-1544-SAN-ORD,empty,11:41 AM,0,09:13 AM
+347,airtravelcenter,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+348,airtravelcenter,0,11:25 PM,empty,6:55 AM Dec 02,09:13 AM
+349,airtravelcenter,UA-414-LAX-SFO,empty,06:10 AM,0,09:13 AM
+350,airtravelcenter,0,12:30 AM,12:41 AM,0,05:26 AM
+351,airtravelcenter,0,04:00 PM,03:58 PM,06:46 PM,09:13 AM
+352,airtravelcenter,0,empty,07:56 AM,09:21 AM,empty
+353,airtravelcenter,0,09:45 AM,10:19 AM,0,01:19 PM
+354,airtravelcenter,0,09:05 AM,10:10 AM,12:35 PM,09:13 AM
+355,airtravelcenter,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+356,airtravelcenter,0,07:00 AM,07:25 AM,09:55 AM,09:13 AM
+357,airtravelcenter,0,04:15 PM,04:29 PM,07:55 PM,09:13 AM
+358,airtravelcenter,0,empty,10:55 AM,0,09:13 AM
+359,airtravelcenter,0,02:30 PM,02:48 PM,0,07:10 PM
+360,airtravelcenter,0,08:05 AM,08:00 AM,0,11:06 AM
+361,airtravelcenter,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+362,airtravelcenter,0,11:50 AM,12:13 PM,03:50 PM,09:13 AM
+363,airtravelcenter,0,empty,12:06 PM,0,01:14 PM
+364,airtravelcenter,0,06:00 AM,06:08 AM,09:20 AM,09:13 AM
+365,airtravelcenter,0,11:05 AM,11:30 AM,04:57 PM,09:13 AM
+366,airtravelcenter,0,06:00 AM,06:02 AM,0,10:27 AM
+367,airtravelcenter,0,08:40 AM,empty,0,10:56 AM
+368,airtravelcenter,0,10:15 AM,10:19 AM,12:10 PM,09:13 AM
+369,airtravelcenter,0,01:00 PM,02:04 PM,0,09:13 AM
+370,airtravelcenter,UA-854-SFO-IAH,empty,08:07 AM,0,09:13 AM
+371,airtravelcenter,UA-382-IAD-LAX,empty,12:56 PM,0,09:13 AM
+372,airtravelcenter,AA-4344-ORD-DTW,empty,12:14 PM,0,09:13 AM
+373,airtravelcenter,0,02:30 PM,02:26 PM,06:15 PM,09:13 AM
+374,airtravelcenter,0,12:00 PM,12:08 PM,01:45 PM,09:13 AM
+375,airtravelcenter,0,05:25 PM,05:22 PM,0,08:03 PM
+376,airtravelcenter,0,empty,08:36 PM,08:56 PM,empty
+377,airtravelcenter,0,10:40 AM,11:05 AM,02:45 PM,09:13 AM
+378,airtravelcenter,UA-248-PHX-ORD,empty,01:43 PM,0,09:13 AM
+379,airtravelcenter,0,empty,03:36 PM,empty,03:33 PM
+380,airtravelcenter,0,07:15 AM,07:21 AM,10:35 AM,09:13 AM
+381,airtravelcenter,0,06:30 PM,empty,07:25 PM,09:13 AM
+382,airtravelcenter,0,06:45 PM,06:55 PM,09:10 PM,09:13 AM
+383,airtravelcenter,0,12:00 PM,12:11 PM,03:15 PM,09:13 AM
+384,airtravelcenter,0,07:15 PM,empty,12:21 AM Dec 02,empty
+385,airtravelcenter,0,empty,02:38 PM,0,09:13 AM
+386,airtravelcenter,0,09:15 AM,09:14 AM,0,12:09 PM
+387,airtravelcenter,0,06:00 AM,06:56 AM,07:30 AM,09:13 AM
+388,airtravelcenter,0,07:10 AM,07:30 AM,09:35 AM,09:13 AM
+389,airtravelcenter,0,empty,05:09 PM,0,09:13 AM
+390,airtravelcenter,0,07:25 AM,07:39 AM,11:10 AM,09:13 AM
+391,airtravelcenter,0,03:50 PM,04:28 PM,06:23 PM,09:13 AM
+392,airtravelcenter,UA-938-DEN-ORD,empty,04:37 PM,0,09:13 AM
+393,airtravelcenter,0,08:00 PM,08:23 PM,09:45 PM,09:13 AM
+394,airtravelcenter,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+395,airtravelcenter,0,empty,07:31 AM,0,09:13 AM
+396,airtravelcenter,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+397,airtravelcenter,0,01:33 PM,01:31 PM,04:31 PM,09:56 AM
+398,airtravelcenter,0,12:15 PM,12:41 PM,02:45 PM,09:13 AM
+399,airtravelcenter,0,01:29 PM,01:48 PM,0,04:17 PM
+400,airtravelcenter,0,11:55 PM,empty,05:50 AM,09:13 AM
+401,airtravelcenter,0,empty,04:28 PM,12:29 AM Dec 02,09:13 AM
+402,airtravelcenter,0,empty,empty,12:15 AM Dec 02,09:13 AM
+403,airtravelcenter,0,08:25 PM,empty,11:50 PM,09:13 AM
+404,airtravelcenter,0,06:59 AM,07:22 AM,10:34 AM,09:56 AM
+405,airtravelcenter,0,08:35 AM,08:51 AM,11:50 AM,09:13 AM
+406,airtravelcenter,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+407,airtravelcenter,0,01:30 PM,empty,03:50 PM,09:13 AM
+408,airtravelcenter,0,02:53 PM,03:01 PM,0,04:59 PM
+409,airtravelcenter,UA-6273-YYC-SFO,empty,07:41 AM,0,09:13 AM
+410,airtravelcenter,0,11:08 PM,empty,5:11 AMDec 02,empty
+411,airtravelcenter,0,05:30 PM,empty,06:09 PM,09:13 AM
+412,airtravelcenter,0,empty,01:45 PM,0,09:13 AM
+413,airtravelcenter,UA-2704-DTW-PHX,empty,11:47 AM,0,09:13 AM
+414,airtravelcenter,AA-3063-SLC-LAX,empty,08:40 PM,0,09:13 AM
+415,airtravelcenter,UA-2708-EWR-CLT,empty,03:04 PM,0,09:13 AM
+416,airtravelcenter,0,02:30 PM,02:48 PM,0,07:10 PM
+417,airtravelcenter,0,empty,09:43 AM,11:45 AM,empty
+418,airtravelcenter,0,02:35 PM,02:44 PM,04:05 PM,09:13 AM
+419,airtravelcenter,0,02:55 PM,03:27 PM,05:55 PM,09:13 AM
+420,airtravelcenter,0,07:15 AM,07:22 AM,11:35 AM,09:13 AM
+421,airtravelcenter,0,12:10 PM,12:10 PM,02:15 PM,09:13 AM
+422,airtravelcenter,0,07:55 AM,08:04 AM,11:05 AM,09:56 AM
+423,airtravelcenter,0,empty,09:05 AM,11:53 AM,empty
+424,airtravelcenter,0,01:05 PM,01:19 PM,02:35 PM,09:13 AM
+425,airtravelcenter,0,empty,08:56 AM,0,09:13 AM
+426,airtravelcenter,0,03:05 PM,03:36 PM,06:30 PM,09:13 AM
+427,airtravelcenter,0,07:30 AM,08:04 AM,08:00 AM,09:56 AM
+428,airtravelcenter,0,04:00 PM,04:12 PM,06:40 PM,09:13 AM
+429,airtravelcenter,0,11:35 AM,11:52 AM,02:25 PM,09:13 AM
+430,airtravelcenter,0,02:55 PM,03:31 PM,0,05:26 PM
+431,airtravelcenter,0,11:55 AM,11:43 AM,06:17 PM,09:13 AM
+432,airtravelcenter,0,10:40 AM,10:54 AM,12:55 PM,09:13 AM
+433,airtravelcenter,0,06:45 AM,06:57 AM,07:45 AM,09:13 AM
+434,airtravelcenter,0,04:00 PM,03:58 PM,0,06:36 PM
+435,airtravelcenter,0,06:00 AM,06:10 AM,06:40 AM,09:13 AM
+436,airtravelcenter,0,07:10 AM,07:39 AM,10:45 AM,09:13 AM
+437,airtravelcenter,0,07:10 AM,07:31 AM,03:30 PM,09:13 AM
+438,flightview,AA-3859-IAH-ORD,07:10 AM,07:16 AM,0,09:32 AM
+439,flightview,CO-1586-IAH-MCO,empty,07:42 PM,10:15 PM,09:13 AM
+440,flightview,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+441,flightview,0,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+442,flightview,UA-3925-IAD-ORF,empty,09:01 AM,09:54 AM,09:13 AM
+443,flightview,AA-1733-ORD-PHX,07:45 PM,07:59 PM,10:30 PM,empty
+444,flightview,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+445,flightview,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+446,flightview,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+447,flightview,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+448,flightview,AA-204-LAX-MCO,11:25 PM,empty,6:55 AM Dec 02,empty
+449,flightview,UA-414-LAX-SFO,empty,06:10 AM,07:23 AM,09:13 AM
+450,flightview,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+451,flightview,0,04:00 PM,03:58 PM,0,06:28 PM
+452,flightview,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+453,flightview,0,empty,10:35 AM,01:16 PM,09:13 AM
+454,flightview,0,09:05 AM,10:10 AM,0,01:27 PM
+455,flightview,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+456,flightview,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+457,flightview,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+458,flightview,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+459,flightview,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+460,flightview,0,empty,08:00 AM,11:35 AM,09:13 AM
+461,flightview,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+462,flightview,AA-446-DFW-PHL,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+463,flightview,CO-1023-IAH-DEN,empty,12:06 PM,01:17 PM,09:13 AM
+464,flightview,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+465,flightview,0,11:05 AM,11:30 AM,0,05:05 PM
+466,flightview,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+467,flightview,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+468,flightview,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+469,flightview,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+470,flightview,UA-854-SFO-IAH,empty,08:07 AM,01:39 PM,09:13 AM
+471,flightview,0,empty,12:56 PM,03:19 PM,09:13 AM
+472,flightview,AA-4344-ORD-DTW,empty,12:14 PM,02:00 PM,09:13 AM
+473,flightview,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+474,flightview,UA-2945-PHL-CLT,12:00 PM,12:08 PM,0,01:15 PM
+475,flightview,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+476,flightview,0,empty,08:36 PM,08:56 PM,09:13 AM
+477,flightview,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+478,flightview,UA-248-PHX-ORD,empty,01:43 PM,05:15 PM,09:13 AM
+479,flightview,AA-4330-CVG-ORD,empty,03:36 PM,04:00 PM,09:13 AM
+480,flightview,0,07:15 AM,07:21 AM,0,10:36 AM
+481,flightview,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+482,flightview,0,06:45 PM,06:55 PM,0,08:53 PM
+483,flightview,CO-1694-LAX-IAH,07:15 PM,empty,12:21 AM Dec 02,empty
+484,flightview,0,empty,02:38 PM,07:53 PM,09:13 AM
+485,flightview,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+486,flightview,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+487,flightview,0,07:10 AM,07:30 AM,0,09:31 AM
+488,flightview,0,empty,05:09 PM,08:05 PM,09:13 AM
+489,flightview,0,03:50 PM,04:28 PM,0,06:38 PM
+490,flightview,0,empty,04:37 PM,07:35 PM,09:13 AM
+491,flightview,0,08:00 PM,08:23 PM,0,09:53 PM
+492,flightview,0,10:25 AM,empty,06:44 PM,09:13 AM
+493,flightview,0,empty,07:31 AM,10:31 AM,09:13 AM
+494,flightview,AA-400-DFW-JFK,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+495,flightview,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+496,flightview,0,12:15 PM,12:41 PM,0,02:46 PM
+497,flightview,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+498,flightview,AA-1522-SFO-ORD,11:55 PM,empty,5:50 AM Dec 02,empty
+499,flightview,0,04:25 PM,empty,12:29 AM Dec 02,empty
+500,flightview,0,09:00 PM,empty,12:15 AM Dec 02,empty
+501,flightview,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+502,flightview,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+503,flightview,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+504,flightview,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+505,flightview,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+506,flightview,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+507,flightview,UA-6273-YYC-SFO,empty,07:41 AM,Not Available,09:13 AM
+508,flightview,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+509,flightview,0,05:30 PM,empty,06:09 PM,06:15 PM
+510,flightview,UA-858-PVG-SFO,empty,01:45 PM,08:27 AM,09:13 AM
+511,flightview,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+512,flightview,AA-3063-SLC-LAX,empty,08:40 PM,09:20 PM,09:13 AM
+513,flightview,UA-2708-EWR-CLT,empty,03:04 PM,04:53 PM,09:13 AM
+514,flightview,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+515,flightview,UA-1500-IAH-GUA,empty,09:43 AM,11:45 AM,09:13 AM
+516,flightview,0,02:35 PM,02:44 PM,0,03:43 PM
+517,flightview,0,02:55 PM,03:27 PM,0,05:43 PM
+518,flightview,0,07:15 AM,07:22 AM,0,11:06 AM
+519,flightview,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+520,flightview,0,07:55 AM,08:04 AM,0,11:01 AM
+521,flightview,UA-37-EDI-EWR,empty,09:05 AM,11:53 AM,09:13 AM
+522,flightview,0,01:05 PM,01:19 PM,0,03:13 PM
+523,flightview,0,empty,08:56 AM,10:40 AM,09:13 AM
+524,flightview,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+525,flightview,0,07:30 AM,08:04 AM,0,08:06 AM
+526,flightview,AA-1544-SAN-ORD,empty,11:41 AM,05:25 PM,09:13 AM
+527,flightview,0,04:00 PM,04:12 PM,0,06:15 PM
+528,flightview,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+529,flightview,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+530,flightview,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+531,flightview,0,11:55 AM,11:43 AM,0,05:38 PM
+532,flightview,0,10:40 AM,10:54 AM,0,12:50 PM
+533,flightview,0,06:45 AM,06:57 AM,0,07:40 AM
+534,flightview,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+535,flightview,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+536,flightview,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+537,flightview,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+538,flightstats,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+539,flightstats,0,empty,07:42 PM,0,empty
+540,flightstats,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+541,flightstats,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+542,flightstats,0,empty,09:01 AM,09:54 AM,09:43 AM
+543,flightstats,0,07:45 PM,07:59 PM,0,empty
+544,flightstats,0,empty,12:14 PM,02:00 PM,02:10 PM
+545,flightstats,0,06:30 PM,empty,0,empty
+546,flightstats,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+547,flightstats,CO-58-DEN-IAH,11:25 AM,11:32 AM,02:50 PM,03:31 PM
+548,flightstats,0,11:25 PM,empty,6:55 AM Dec 02,empty
+549,flightstats,0,empty,06:10 AM,empty,07:17 AM
+550,flightstats,CO-1614-LAX-IAH,12:30 AM,12:41 AM,05:35 AM,05:26 AM
+551,flightstats,UA-2726-FLL-PHL,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+552,flightstats,0,empty,07:56 AM,0,empty
+553,flightstats,0,09:45 AM,10:19 AM,01:16 PM,01:19 PM
+554,flightstats,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+555,flightstats,0,empty,08:26 AM,10:06 AM,09:56 AM
+556,flightstats,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+557,flightstats,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+558,flightstats,CO-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+559,flightstats,CO-63-EWR-IAH,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+560,flightstats,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+561,flightstats,0,empty,12:06 PM,01:17 PM,01:14 PM
+562,flightstats,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+563,flightstats,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+564,flightstats,CO-89-IAH-EWR,06:00 AM,06:02 AM,10:20 AM,10:27 AM
+565,flightstats,CO-1088-CLE-IAH,08:40 AM,08:40 AM,10:54 AM,10:56 AM
+566,flightstats,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+567,flightstats,0,10:15 AM,10:19 AM,0,11:50 AM
+568,flightstats,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+569,flightstats,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+570,flightstats,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+571,flightstats,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+572,flightstats,0,empty,12:56 PM,03:19 PM,03:21 PM
+573,flightstats,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+574,flightstats,0,empty,08:25 PM,0,empty
+575,flightstats,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+576,flightstats,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+577,flightstats,0,empty,01:43 PM,05:15 PM,05:34 PM
+578,flightstats,0,empty,03:36 PM,04:00 PM,03:33 PM
+579,flightstats,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+580,flightstats,0,empty,08:00 AM,0,11:06 AM
+581,flightstats,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+582,flightstats,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+583,flightstats,0,07:15 PM,empty,12:21 AM,12:21 AM (Estimated)
+584,flightstats,0,empty,02:38 PM,07:53 PM,07:58 PM
+585,flightstats,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+586,flightstats,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+587,flightstats,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+588,flightstats,0,empty,05:09 PM,08:05 PM,07:55 PM
+589,flightstats,AA-2525-DFW-MIA,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+590,flightstats,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+591,flightstats,0,empty,04:37 PM,07:35 PM,07:36 PM
+592,flightstats,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+593,flightstats,0,10:25 AM,empty,0,empty
+594,flightstats,0,empty,07:31 AM,10:31 AM,10:47 AM
+595,flightstats,0,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+596,flightstats,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+597,flightstats,UA-37-EWR-MCO,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+598,flightstats,0,11:55 PM,empty,5:50 AM Dec 02,empty
+599,flightstats,0,04:25 PM,4:28 PM (Estimated runway),12:29 AM Dec 02,empty
+600,flightstats,0,09:00 PM,empty,12:15 AM Dec 02,11:49 PM (Estimated runway)
+601,flightstats,0,08:25 PM,empty,0,empty
+602,flightstats,0,empty,03:04 PM,05:00 PM,04:47 PM
+603,flightstats,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+604,flightstats,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+605,flightstats,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+606,flightstats,0,empty,08:37 AM,empty,09:13 AM
+607,flightstats,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+608,flightstats,0,11:08 PM,empty,5:11 AMDec 02,empty
+609,flightstats,0,05:30 PM,empty,06:09 PM,06:15 PM
+610,flightstats,0,empty,11:47 AM,01:40 PM,02:00 PM
+611,flightstats,0,empty,08:40 PM,09:20 PM,9:19 PM (Estimated)
+612,flightstats,0,empty,03:04 PM,04:53 PM,04:44 PM
+613,flightstats,UA-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+614,flightstats,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+615,flightstats,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+616,flightstats,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+617,flightstats,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+618,flightstats,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+619,flightstats,0,empty,08:07 AM,01:39 PM,01:30 PM
+620,flightstats,0,empty,08:56 AM,10:40 AM,10:16 AM
+621,flightstats,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+622,flightstats,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+623,flightstats,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+624,flightstats,CO-50-CLE-EWR,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+625,flightstats,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+626,flightstats,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+627,flightstats,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+628,flightstats,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+629,flightstats,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+630,panynj,AA-3859-IAH-ORD,07:10 AM,07:16 AM,0,09:22 AM
+631,panynj,CO-1586-IAH-MCO,empty,07:42 PM,10:15 PM,09:13 AM
+632,panynj,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+633,panynj,0,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+634,panynj,UA-3925-IAD-ORF,empty,09:01 AM,09:54 AM,09:13 AM
+635,panynj,AA-1733-ORD-PHX,07:45 PM,07:59 PM,10:30 PM,empty
+636,panynj,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+637,panynj,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+638,panynj,0,11:25 AM,11:32 AM,0,09:13 AM
+639,panynj,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+640,panynj,AA-204-LAX-MCO,11:25 PM,empty,6:55 AM Dec 02,empty
+641,panynj,UA-414-LAX-SFO,empty,06:10 AM,empty,09:13 AM
+642,panynj,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+643,panynj,0,04:00 PM,03:58 PM,0,06:28 PM
+644,panynj,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+645,panynj,0,empty,10:35 AM,01:16 PM,09:13 AM
+646,panynj,0,09:05 AM,10:10 AM,0,01:27 PM
+647,panynj,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+648,panynj,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+649,panynj,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+650,panynj,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+651,panynj,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+652,panynj,0,empty,08:00 AM,0,09:13 AM
+653,panynj,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+654,panynj,AA-446-DFW-PHL,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+655,panynj,CO-1023-IAH-DEN,empty,12:06 PM,01:17 PM,09:13 AM
+656,panynj,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+657,panynj,0,11:05 AM,11:30 AM,0,05:05 PM
+658,panynj,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+659,panynj,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+660,panynj,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+661,panynj,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+662,panynj,UA-854-SFO-IAH,empty,08:07 AM,01:39 PM,09:13 AM
+663,panynj,0,empty,12:56 PM,03:19 PM,09:13 AM
+664,panynj,0,empty,12:14 PM,02:00 PM,09:13 AM
+665,panynj,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+666,panynj,UA-2945-PHL-CLT,12:00 PM,12:08 PM,0,01:15 PM
+667,panynj,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+668,panynj,0,empty,08:36 PM,08:56 PM,09:13 AM
+669,panynj,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+670,panynj,UA-248-PHX-ORD,empty,01:43 PM,05:15 PM,09:13 AM
+671,panynj,AA-4330-CVG-ORD,empty,03:36 PM,04:00 PM,09:13 AM
+672,panynj,0,07:15 AM,07:21 AM,0,10:36 AM
+673,panynj,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+674,panynj,0,06:45 PM,06:55 PM,0,08:53 PM
+675,panynj,CO-1694-LAX-IAH,07:15 PM,empty,12:21 AM Dec 02,empty
+676,panynj,UA-843-LAX-ORD,empty,02:38 PM,07:53 PM,09:13 AM
+677,panynj,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+678,panynj,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+679,panynj,0,07:10 AM,07:30 AM,0,09:31 AM
+680,panynj,0,empty,05:09 PM,08:05 PM,09:13 AM
+681,panynj,0,03:50 PM,04:28 PM,0,06:38 PM
+682,panynj,UA-938-DEN-ORD,empty,04:37 PM,07:35 PM,09:13 AM
+683,panynj,0,08:00 PM,08:23 PM,0,09:53 PM
+684,panynj,0,10:25 AM,empty,06:44 PM,09:13 AM
+685,panynj,UA-2515-DFW-CLT,empty,07:31 AM,10:31 AM,09:13 AM
+686,panynj,AA-400-DFW-JFK,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+687,panynj,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+688,panynj,0,12:15 PM,12:41 PM,0,02:46 PM
+689,panynj,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+690,panynj,AA-1522-SFO-ORD,11:55 PM,empty,5:50 AM Dec 02,empty
+691,panynj,0,04:25 PM,empty,12:29 AM Dec 02,empty
+692,panynj,0,09:00 PM,empty,12:15 AM Dec 02,empty
+693,panynj,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+694,panynj,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+695,panynj,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+696,panynj,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+697,panynj,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+698,panynj,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+699,panynj,UA-6273-YYC-SFO,empty,07:41 AM,Not Available,09:13 AM
+700,panynj,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+701,panynj,0,05:30 PM,empty,06:09 PM,06:15 PM
+702,panynj,UA-858-PVG-SFO,empty,01:45 PM,08:27 AM,09:13 AM
+703,panynj,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+704,panynj,AA-3063-SLC-LAX,empty,08:40 PM,09:20 PM,09:13 AM
+705,panynj,UA-2708-EWR-CLT,empty,03:04 PM,04:53 PM,09:13 AM
+706,panynj,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+707,panynj,UA-1500-IAH-GUA,empty,09:43 AM,11:45 AM,09:13 AM
+708,panynj,0,02:35 PM,02:44 PM,0,03:43 PM
+709,panynj,0,02:55 PM,03:27 PM,0,05:43 PM
+710,panynj,0,07:15 AM,07:22 AM,0,11:06 AM
+711,panynj,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+712,panynj,0,07:55 AM,08:04 AM,0,11:01 AM
+713,panynj,0,empty,09:05 AM,11:53 AM,09:13 AM
+714,panynj,0,01:05 PM,01:19 PM,0,03:13 PM
+715,panynj,AA-415-BOS-ORD,empty,08:56 AM,10:40 AM,09:13 AM
+716,panynj,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+717,panynj,0,07:30 AM,08:04 AM,0,08:06 AM
+718,panynj,AA-1544-SAN-ORD,empty,11:41 AM,05:25 PM,09:13 AM
+719,panynj,0,04:00 PM,04:12 PM,0,06:15 PM
+720,panynj,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+721,panynj,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+722,panynj,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+723,panynj,0,11:55 AM,11:43 AM,0,05:38 PM
+724,panynj,0,10:40 AM,10:54 AM,0,12:50 PM
+725,panynj,0,06:45 AM,06:57 AM,0,07:40 AM
+726,panynj,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+727,panynj,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+728,panynj,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+729,panynj,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+730,flightexplorer,0,07:10 AM,07:16 AM,09:40 AM,09:13 AM
+731,flightexplorer,0,07:45 PM,07:59 PM,10:30 PM,09:13 AM
+732,flightexplorer,0,empty,07:42 PM,0,09:13 AM
+733,flightexplorer,0,08:00 AM,08:29 AM,11:55 AM,09:56 AM
+734,flightexplorer,0,empty,09:01 AM,0,09:13 AM
+735,flightexplorer,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+736,flightexplorer,AA-1544-SAN-ORD,empty,11:41 AM,0,09:13 AM
+737,flightexplorer,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+738,flightexplorer,0,11:25 PM,empty,6:55 AM Dec 02,empty
+739,flightexplorer,0,empty,06:10 AM,0,09:13 AM
+740,flightexplorer,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+741,flightexplorer,0,12:15 PM,12:41 PM,0,09:13 AM
+742,flightexplorer,0,07:00 AM,07:25 AM,09:55 AM,09:13 AM
+743,flightexplorer,0,04:15 PM,04:29 PM,07:55 PM,09:13 AM
+744,flightexplorer,0,09:05 AM,10:10 AM,0,09:13 AM
+745,flightexplorer,0,11:50 AM,12:13 PM,03:50 PM,09:13 AM
+746,flightexplorer,0,empty,12:06 PM,01:17 PM,09:13 AM
+747,flightexplorer,0,06:00 AM,06:08 AM,09:20 AM,09:13 AM
+748,flightexplorer,0,07:55 AM,08:04 AM,11:05 AM,09:13 AM
+749,flightexplorer,0,10:15 AM,10:19 AM,12:10 PM,09:13 AM
+750,flightexplorer,0,07:30 AM,08:04 AM,08:00 AM,09:13 AM
+751,flightexplorer,0,01:00 PM,02:04 PM,02:35 PM,09:13 AM
+752,flightexplorer,0,empty,12:56 PM,0,09:13 AM
+753,flightexplorer,AA-4344-ORD-DTW,empty,12:14 PM,0,09:13 AM
+754,flightexplorer,0,02:30 PM,02:26 PM,06:15 PM,09:13 AM
+755,flightexplorer,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+756,flightexplorer,0,10:40 AM,11:05 AM,02:45 PM,09:13 AM
+757,flightexplorer,0,empty,01:43 PM,04:52 PM,empty
+758,flightexplorer,AA-4330-CVG-ORD,empty,03:36 PM,0,09:13 AM
+759,flightexplorer,0,07:15 AM,07:21 AM,10:35 AM,09:13 AM
+760,flightexplorer,0,06:45 PM,06:55 PM,09:10 PM,09:13 AM
+761,flightexplorer,0,12:00 PM,12:11 PM,03:15 PM,09:13 AM
+762,flightexplorer,0,09:15 AM,09:14 AM,12:18 PM,09:13 AM
+763,flightexplorer,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+764,flightexplorer,0,07:10 AM,07:30 AM,09:35 AM,09:13 AM
+765,flightexplorer,AA-1007-MIA-PHX,empty,05:09 PM,0,09:13 AM
+766,flightexplorer,0,07:25 AM,07:39 AM,11:10 AM,09:13 AM
+767,flightexplorer,0,empty,04:37 PM,0,09:13 AM
+768,flightexplorer,0,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+769,flightexplorer,AA-1886-BOS-MIA,empty,10:55 AM,0,09:13 AM
+770,flightexplorer,0,01:33 PM,01:31 PM,04:31 PM,09:13 AM
+771,flightexplorer,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+772,flightexplorer,0,11:55 PM,empty,5:50 AM Dec 02,empty
+773,flightexplorer,0,09:00 PM,empty,12/2/2011 12:15 AM,empty
+774,flightexplorer,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+775,flightexplorer,0,06:59 AM,07:22 AM,10:34 AM,09:13 AM
+776,flightexplorer,0,08:35 AM,08:51 AM,11:50 AM,09:56 AM
+777,flightexplorer,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+778,flightexplorer,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+779,flightexplorer,0,11:08 PM,empty,5:11 AMDec 02,09:13 AM
+780,flightexplorer,0,05:30 PM,empty,06:09 PM,06:15 PM
+781,flightexplorer,0,empty,08:00 AM,0,09:13 AM
+782,flightexplorer,0,02:35 PM,02:44 PM,04:05 PM,09:13 AM
+783,flightexplorer,0,07:15 AM,07:22 AM,11:35 AM,09:13 AM
+784,flightexplorer,0,04:25 PM,empty,12/2/2011 12:29 AM,empty
+785,flightexplorer,UA-6273-YYC-SFO,empty,07:41 AM,0,09:13 AM
+786,flightexplorer,0,12:10 PM,12:10 PM,02:15 PM,09:13 AM
+787,flightexplorer,0,01:05 PM,01:19 PM,02:35 PM,09:13 AM
+788,flightexplorer,0,07:10 AM,07:31 AM,03:30 PM,09:13 AM
+789,flightexplorer,0,10:40 AM,10:54 AM,12:55 PM,09:13 AM
+790,flightexplorer,0,06:45 AM,06:57 AM,07:45 AM,09:13 AM
+791,flightexplorer,0,06:00 AM,06:10 AM,06:40 AM,09:13 AM
+792,flightexplorer,0,07:10 AM,07:39 AM,10:45 AM,09:13 AM
+793,mia,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+794,mia,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+795,mia,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+796,mia,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+797,mia,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+798,iad,0,empty,12:56 PM,0,09:13 AM
+799,dfw,0,01:00 PM,02:04 PM,02:35 PM,09:13 AM
+800,dfw,0,08:25 PM,empty,11:50 PM,09:13 AM
+801,dfw,0,11:50 AM,12:13 PM,03:50 PM,09:13 AM
+802,dfw,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+803,dfw,0,04:15 PM,04:29 PM,07:55 PM,09:13 AM
+804,mco,0,empty,07:42 PM,Thu  22:15,Thu  22:25
+805,mco,0,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+806,mco,0,06:30 PM,empty,07:25 PM,empty
+807,mco,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+808,mco,0,11:25 PM,empty,6:55 AM Dec 02,empty
+809,mco,0,08:00 PM,08:23 PM,09:45 PM,09:13 AM
+810,mco,0,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+811,mco,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+812,flights,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:32 AM
+813,flights,0,empty,07:42 PM,10:15 PM,09:13 AM
+814,flights,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+815,flights,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+816,flights,0,empty,09:01 AM,09:54 AM,09:13 AM
+817,flights,0,07:45 PM,07:59 PM,10:30 PM,empty
+818,flights,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+819,flights,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+820,flights,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+821,flights,0,empty,10:53 AM,0,09:13 AM
+822,flights,0,11:25 PM,empty,6:55 AM Dec 02,empty
+823,flights,0,empty,06:10 AM,07:23 AM,09:13 AM
+824,flights,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+825,flights,UA-2726-FLL-PHL,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+826,flights,0,empty,07:56 AM,0,09:13 AM
+827,flights,CO-1090-BOS-IAH,empty,10:19 AM,01:16 PM,09:13 AM
+828,flights,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+829,flights,0,empty,08:26 AM,0,09:13 AM
+830,flights,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+831,flights,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+832,flights,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+833,flights,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+834,flights,0,empty,08:00 AM,11:35 AM,09:13 AM
+835,flights,0,empty,03:04 PM,05:00 PM,09:13 AM
+836,flights,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+837,flights,0,empty,12:06 PM,01:17 PM,09:13 AM
+838,flights,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+839,flights,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+840,flights,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+841,flights,0,08:40 AM,08:40 AM,0,09:13 AM
+842,flights,0,10:15 AM,10:19 AM,0,11:50 AM
+843,flights,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+844,flights,0,empty,08:07 AM,01:39 PM,09:13 AM
+845,flights,0,empty,12:56 PM,03:19 PM,09:13 AM
+846,flights,0,empty,12:14 PM,0,09:13 AM
+847,flights,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+848,flights,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+849,flights,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+850,flights,0,empty,08:25 PM,0,09:13 AM
+851,flights,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+852,flights,0,empty,01:43 PM,05:15 PM,09:13 AM
+853,flights,AA-4330-CVG-ORD,empty,03:36 PM,0,09:13 AM
+854,flights,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+855,flights,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+856,flights,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+857,flights,0,07:15 PM,empty,12:21 AM Dec 02,empty
+858,flights,0,empty,02:38 PM,07:53 PM,09:13 AM
+859,flights,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+860,flights,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+861,flights,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+862,flights,0,empty,05:09 PM,0,09:13 AM
+863,flights,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+864,flights,0,empty,04:37 PM,07:35 PM,09:13 AM
+865,flights,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+866,flights,0,10:25 AM,empty,06:44 PM,09:13 AM
+867,flights,0,empty,07:31 AM,0,09:13 AM
+868,flights,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+869,flights,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+870,flights,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+871,flights,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+872,flights,0,11:55 PM,empty,5:50 AM Dec 02,empty
+873,flights,0,04:25 PM,empty,12:29 AM  Fri 02-Dec-2011,empty
+874,flights,0,09:00 PM,empty,12:15 AM Dec 02,empty
+875,flights,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+876,flights,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+877,flights,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+878,flights,0,empty,08:37 AM,empty,09:13 AM
+879,flights,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+880,flights,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+881,flights,0,empty,07:41 AM,Not Available,09:13 AM
+882,flights,0,11:08 PM,empty,5:11 AMDec 02,empty
+883,flights,0,05:30 PM,empty,06:09 PM,06:15 PM
+884,flights,0,empty,01:45 PM,08:27 AM,09:13 AM
+885,flights,0,empty,11:47 AM,0,09:13 AM
+886,flights,0,empty,08:40 PM,0,09:13 AM
+887,flights,0,empty,03:04 PM,0,09:13 AM
+888,flights,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+889,flights,0,empty,09:43 AM,0,09:13 AM
+890,flights,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+891,flights,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+892,flights,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+893,flights,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+894,flights,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+895,flights,0,empty,08:52 AM,11:53 AM,09:13 AM
+896,flights,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+897,flights,AA-415-BOS-ORD,empty,08:56 AM,0,09:13 AM
+898,flights,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+899,flights,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+900,flights,0,empty,11:41 AM,05:25 PM,09:13 AM
+901,flights,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+902,flights,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+903,flights,AA-2525-DFW-MIA,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+904,flights,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+905,flights,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+906,flights,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+907,flights,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+908,flights,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+909,flights,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+910,flights,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+911,flights,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+912,flightarrival,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:32 AM
+913,flightarrival,0,06:30 PM,empty,0,empty
+914,flightarrival,0,empty,09:01 AM,0,09:43 AM
+915,flightarrival,0,empty,12:14 PM,02:00 PM,09:13 AM
+916,flightarrival,0,empty,06:10 AM,empty,07:17 AM
+917,flightarrival,0,12:30 AM,12:41 AM,0,05:26 AM
+918,flightarrival,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+919,flightarrival,0,empty,10:19 AM,0,01:19 PM
+920,flightarrival,0,07:00 AM,07:25 AM,0,09:45 AM
+921,flightarrival,0,02:30 PM,02:48 PM,0,07:10 PM
+922,flightarrival,0,06:00 AM,06:08 AM,0,09:05 AM
+923,flightarrival,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+924,flightarrival,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+925,flightarrival,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+926,flightarrival,UA-382-IAD-LAX,empty,12:56 PM,0,09:13 AM
+927,flightarrival,0,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+928,flightarrival,0,09:05 AM,10:10 AM,0,01:27 PM
+929,flightarrival,0,11:35 AM,11:52 AM,0,02:27 PM
+930,flightarrival,0,10:40 AM,11:05 AM,0,02:46 PM
+931,flightarrival,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+932,flightarrival,0,12:00 PM,12:11 PM,0,03:16 PM
+933,flightarrival,0,07:15 PM,empty,12:21 AM Dec 02,empty
+934,flightarrival,0,09:15 AM,09:14 AM,0,12:09 PM
+935,flightarrival,0,03:50 PM,04:28 PM,0,06:38 PM
+936,flightarrival,UA-938-DEN-ORD,empty,04:37 PM,0,09:13 AM
+937,flightarrival,0,08:00 PM,08:23 PM,0,09:53 PM
+938,flightarrival,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+939,flightarrival,UA-2515-DFW-CLT,empty,07:31 AM,10:31 AM,09:13 AM
+940,flightarrival,0,10:40 AM,11:02 AM,0,03:04 PM
+941,flightarrival,0,01:33 PM,01:31 PM,0,04:23 PM
+942,flightarrival,UA-37-EWR-MCO,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+943,flightarrival,0,04:25 PM,4:28 PM (Estimated runway),12:29 AM,empty
+944,flightarrival,0,08:25 PM,empty,0,empty
+945,flightarrival,0,08:35 AM,08:51 AM,0,11:44 AM
+946,flightarrival,0,02:30 PM,02:26 PM,0,05:42 PM
+947,flightarrival,0,empty,08:37 AM,empty,09:13 AM
+948,flightarrival,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+949,flightarrival,CO-4888-IAH-DAL,05:30 PM,empty,06:09 PM,empty
+950,flightarrival,0,empty,01:45 PM,08:27 AM,empty
+951,flightarrival,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+952,flightarrival,0,empty,08:40 PM,09:20 PM,9:19 PM (Estimated)
+953,flightarrival,UA-1500-IAH-GUA,empty,09:43 AM,0,09:13 AM
+954,flightarrival,0,empty,08:00 AM,11:35 AM,09:13 AM
+955,flightarrival,0,07:15 AM,07:22 AM,0,11:06 AM
+956,flightarrival,0,empty,03:04 PM,0,04:47 PM
+957,flightarrival,0,empty,07:41 AM,09:43 AM,empty
+958,flightarrival,0,12:10 PM,12:10 PM,0,01:43 PM
+959,flightarrival,0,07:55 AM,08:04 AM,0,11:01 AM
+960,flightarrival,0,empty,09:05 AM,11:53 AM,empty
+961,flightarrival,UA-854-SFO-IAH,empty,08:07 AM,0,09:13 AM
+962,flightarrival,0,03:05 PM,03:36 PM,0,06:43 PM
+963,flightarrival,0,empty,11:41 AM,0,04:56 PM
+964,flightarrival,0,04:00 PM,04:12 PM,0,06:15 PM
+965,flightarrival,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+966,flightarrival,0,10:40 AM,10:54 AM,0,12:50 PM
+967,flightarrival,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+968,flightarrival,0,07:10 AM,07:39 AM,0,11:12 AM
+969,flightarrival,0,07:10 AM,07:31 AM,0,03:14 PM
+970,flightwise,0,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+971,flightwise,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+972,flightwise,0,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+973,flightwise,0,06:30 PM,empty,07:25 PM,empty
+974,flightwise,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+975,flightwise,0,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+976,flightwise,0,empty,09:01 AM,09:34 AM,09:44 AM
+977,flightwise,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+978,flightwise,0,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+979,flightwise,0,08:25 PM,empty,11:50 PM,empty
+980,flightwise,0,07:15 PM,empty,12:21 AM Dec 02,empty
+981,flightwise,0,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+982,flightwise,0,04:00 PM,04:12 PM,06:40 PM,06:43 PM
+983,flightwise,0,empty,08:36 PM,08:46 PM,08:46 PM
+984,flightwise,0,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+985,flightwise,0,empty,03:36 PM,0,04:09 PM
+986,flightwise,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+987,flightwise,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+988,flightwise,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+989,flightwise,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+990,travelocity,0,07:10 AM,07:16 AM,09:40 AM,09:32 AM
+991,travelocity,0,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+992,travelocity,0,08:00 AM,08:29 AM,11:55 AM,08:45 AM
+993,travelocity,0,empty,09:01 AM,0,09:43 AM
+994,travelocity,0,07:45 PM,07:59 PM,0,empty
+995,travelocity,0,06:30 PM,empty,0,empty
+996,travelocity,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+997,travelocity,0,03:27 PM,03:28 PM,0,05:17 PM
+998,travelocity,0,empty,11:41 AM,05:25 PM,04:56 PM
+999,travelocity,0,11:25 PM,empty,6:55 AM Dec 02,empty
+1000,travelocity,0,empty,06:10 AM,0,08:45 AM
+1001,travelocity,0,12:15 PM,12:41 PM,0,02:46 PM
+1002,travelocity,0,04:00 PM,03:58 PM,0,06:28 PM
+1003,travelocity,0,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1004,travelocity,0,empty,08:26 AM,0,08:45 AM
+1005,travelocity,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1006,travelocity,CO-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1007,travelocity,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1008,travelocity,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1009,travelocity,0,11:05 AM,11:30 AM,0,05:05 PM
+1010,travelocity,CO-89-IAH-EWR,06:00 AM,06:02 AM,10:20 AM,10:27 AM
+1011,travelocity,CO-1088-CLE-IAH,08:40 AM,08:40 AM,10:54 AM,10:56 AM
+1012,travelocity,0,empty,10:55 AM,02:20 PM,01:40 PM
+1013,travelocity,0,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+1014,travelocity,0,10:15 AM,10:19 AM,0,11:50 AM
+1015,travelocity,0,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1016,travelocity,0,01:00 PM,02:04 PM,0,03:13 PM
+1017,travelocity,0,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1018,travelocity,0,empty,12:14 PM,02:00 PM,02:10 PM
+1019,travelocity,0,12:00 PM,12:08 PM,0,01:15 PM
+1020,travelocity,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1021,travelocity,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1022,travelocity,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1023,travelocity,0,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+1024,travelocity,0,empty,08:00 AM,0,11:06 AM
+1025,travelocity,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1026,travelocity,0,07:15 PM,empty,12:21 AM Dec 02,empty
+1027,travelocity,0,empty,02:38 PM,0,07:58 PM
+1028,travelocity,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1029,travelocity,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1030,travelocity,0,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+1031,travelocity,0,03:50 PM,04:28 PM,0,06:38 PM
+1032,travelocity,0,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+1033,travelocity,0,empty,07:31 AM,0,10:47 AM
+1034,travelocity,0,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+1035,travelocity,0,01:33 PM,01:31 PM,04:31 PM,08:45 AM
+1036,travelocity,0,11:55 PM,empty,5:50 AM Dec 02,empty
+1037,travelocity,0,04:25 PM,Not Available,12:29 AM  Fri 02-Dec-2011,12:01 AM (Estimated runway)
+1038,travelocity,0,09:00 PM,Not Available,12:15 AM Dec 02,empty
+1039,travelocity,0,08:25 PM,empty,0,empty
+1040,travelocity,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+1041,travelocity,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1042,travelocity,0,02:30 PM,02:26 PM,06:15 PM,08:45 AM
+1043,travelocity,0,empty,08:37 AM,empty,08:45 AM
+1044,travelocity,0,01:30 PM,empty,0,empty
+1045,travelocity,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+1046,travelocity,0,empty,07:41 AM,Not Available,08:45 AM
+1047,travelocity,0,empty,01:45 PM,0,08:45 AM
+1048,travelocity,0,empty,11:47 AM,0,02:00 PM
+1049,travelocity,0,empty,08:40 PM,0,9:19 PM (Estimated)
+1050,travelocity,0,empty,03:04 PM,0,04:44 PM
+1051,travelocity,0,02:30 PM,02:48 PM,0,07:10 PM
+1052,travelocity,0,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1053,travelocity,0,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1054,travelocity,0,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+1055,travelocity,0,empty,03:04 PM,0,04:47 PM
+1056,travelocity,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1057,travelocity,0,empty,Contact Airline,0,empty
+1058,travelocity,0,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1059,travelocity,0,empty,08:07 AM,empty,08:45 AM
+1060,travelocity,0,empty,08:56 AM,10:40 AM,10:16 AM
+1061,travelocity,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+1062,travelocity,0,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1063,travelocity,CO-50-CLE-EWR,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+1064,travelocity,0,11:55 AM,11:43 AM,0,05:38 PM
+1065,travelocity,0,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+1066,travelocity,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+1067,travelocity,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1068,travelocity,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1069,travelocity,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1070,travelocity,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1071,foxbusiness,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+1072,foxbusiness,CO-1586-IAH-MCO,empty,07:42 PM,10:15 PM,09:13 AM
+1073,foxbusiness,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+1074,foxbusiness,0,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+1075,foxbusiness,UA-3925-IAD-ORF,empty,09:01 AM,09:54 AM,09:13 AM
+1076,foxbusiness,AA-1733-ORD-PHX,07:45 PM,07:59 PM,10:30 PM,empty
+1077,foxbusiness,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1078,foxbusiness,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1079,foxbusiness,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+1080,foxbusiness,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+1081,foxbusiness,AA-204-LAX-MCO,11:25 PM,empty,6:55 AM Dec 02,empty
+1082,foxbusiness,UA-414-LAX-SFO,empty,06:10 AM,07:23 AM,09:13 AM
+1083,foxbusiness,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+1084,foxbusiness,0,04:00 PM,03:58 PM,0,06:28 PM
+1085,foxbusiness,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+1086,foxbusiness,0,empty,10:35 AM,01:16 PM,09:13 AM
+1087,foxbusiness,0,09:05 AM,10:10 AM,0,01:27 PM
+1088,foxbusiness,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+1089,foxbusiness,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1090,foxbusiness,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1091,foxbusiness,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+1092,foxbusiness,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+1093,foxbusiness,0,empty,08:00 AM,11:35 AM,09:56 AM
+1094,foxbusiness,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+1095,foxbusiness,AA-446-DFW-PHL,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1096,foxbusiness,0,empty,12:06 PM,01:17 PM,09:13 AM
+1097,foxbusiness,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1098,foxbusiness,0,11:05 AM,11:30 AM,0,05:05 PM
+1099,foxbusiness,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+1100,foxbusiness,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+1101,foxbusiness,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+1102,foxbusiness,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+1103,foxbusiness,0,empty,08:07 AM,01:39 PM,09:13 AM
+1104,foxbusiness,UA-382-IAD-LAX,empty,12:56 PM,03:19 PM,09:13 AM
+1105,foxbusiness,AA-4344-ORD-DTW,empty,12:14 PM,02:00 PM,09:13 AM
+1106,foxbusiness,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1107,foxbusiness,0,12:00 PM,12:08 PM,0,01:15 PM
+1108,foxbusiness,0,05:25 PM,05:22 PM,08:22 PM,09:56 AM
+1109,foxbusiness,CO-47-IAH-LAX,empty,08:36 PM,08:56 PM,09:13 AM
+1110,foxbusiness,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1111,foxbusiness,UA-248-PHX-ORD,empty,01:43 PM,05:15 PM,09:13 AM
+1112,foxbusiness,AA-4330-CVG-ORD,empty,03:36 PM,04:00 PM,09:13 AM
+1113,foxbusiness,0,07:15 AM,07:21 AM,0,10:36 AM
+1114,foxbusiness,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+1115,foxbusiness,0,06:45 PM,06:55 PM,0,08:53 PM
+1116,foxbusiness,0,07:15 PM,empty,12:21 AM Dec 02,empty
+1117,foxbusiness,UA-843-LAX-ORD,empty,02:38 PM,07:53 PM,09:13 AM
+1118,foxbusiness,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1119,foxbusiness,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1120,foxbusiness,0,07:10 AM,07:30 AM,0,09:31 AM
+1121,foxbusiness,0,empty,05:09 PM,08:05 PM,09:13 AM
+1122,foxbusiness,0,03:50 PM,04:28 PM,0,06:38 PM
+1123,foxbusiness,0,empty,04:37 PM,07:35 PM,09:56 AM
+1124,foxbusiness,0,08:00 PM,08:23 PM,0,09:53 PM
+1125,foxbusiness,0,10:25 AM,empty,06:44 PM,09:13 AM
+1126,foxbusiness,UA-2515-DFW-CLT,empty,07:31 AM,10:31 AM,09:13 AM
+1127,foxbusiness,AA-400-DFW-JFK,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+1128,foxbusiness,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1129,foxbusiness,0,12:15 PM,12:41 PM,0,02:50 PM
+1130,foxbusiness,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+1131,foxbusiness,AA-1522-SFO-ORD,11:55 PM,empty,5:50 AM Dec 02,empty
+1132,foxbusiness,0,04:25 PM,empty,12:29 AM Dec 02,empty
+1133,foxbusiness,0,09:00 PM,empty,12:15 AM Dec 02,empty
+1134,foxbusiness,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+1135,foxbusiness,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+1136,foxbusiness,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1137,foxbusiness,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+1138,foxbusiness,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+1139,foxbusiness,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+1140,foxbusiness,UA-6273-YYC-SFO,empty,07:41 AM,Not Available,09:13 AM
+1141,foxbusiness,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+1142,foxbusiness,0,05:30 PM,empty,06:09 PM,06:15 PM
+1143,foxbusiness,UA-858-PVG-SFO,empty,01:45 PM,0,09:13 AM
+1144,foxbusiness,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+1145,foxbusiness,AA-3063-SLC-LAX,empty,08:40 PM,09:20 PM,09:13 AM
+1146,foxbusiness,UA-2708-EWR-CLT,empty,03:04 PM,04:53 PM,09:13 AM
+1147,foxbusiness,0,02:30 PM,02:48 PM,0,09:13 AM
+1148,foxbusiness,UA-1500-IAH-GUA,empty,09:43 AM,11:45 AM,09:13 AM
+1149,foxbusiness,0,02:35 PM,02:44 PM,0,03:43 PM
+1150,foxbusiness,0,02:55 PM,03:27 PM,0,05:43 PM
+1151,foxbusiness,0,07:15 AM,07:22 AM,0,11:06 AM
+1152,foxbusiness,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1153,foxbusiness,0,07:55 AM,08:04 AM,0,11:01 AM
+1154,foxbusiness,UA-37-EDI-EWR,empty,09:05 AM,11:53 AM,09:13 AM
+1155,foxbusiness,0,01:05 PM,01:19 PM,0,03:13 PM
+1156,foxbusiness,AA-415-BOS-ORD,empty,08:56 AM,10:40 AM,09:13 AM
+1157,foxbusiness,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+1158,foxbusiness,0,07:30 AM,08:04 AM,0,08:06 AM
+1159,foxbusiness,AA-1544-SAN-ORD,empty,11:41 AM,05:25 PM,09:13 AM
+1160,foxbusiness,0,04:00 PM,04:12 PM,0,06:15 PM
+1161,foxbusiness,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1162,foxbusiness,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1163,foxbusiness,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+1164,foxbusiness,0,11:55 AM,11:43 AM,0,05:38 PM
+1165,foxbusiness,0,10:40 AM,10:54 AM,0,12:50 PM
+1166,foxbusiness,0,06:45 AM,06:57 AM,0,07:40 AM
+1167,foxbusiness,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1168,foxbusiness,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1169,foxbusiness,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1170,foxbusiness,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+1171,usatoday,0,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+1172,usatoday,0,06:40 AM,06:54 AM,0,09:28 AM
+1173,usatoday,CO-1586-IAH-MCO,empty,07:42 PM,0,09:13 AM
+1174,usatoday,0,empty,09:01 AM,0,09:43 AM
+1175,usatoday,0,07:45 PM,07:59 PM,10:30 PM,empty
+1176,usatoday,UA-414-LAX-SFO,empty,06:10 AM,0,09:13 AM
+1177,usatoday,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+1178,usatoday,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1179,usatoday,0,04:15 PM,04:29 PM,0,07:39 PM
+1180,usatoday,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+1181,usatoday,0,06:00 AM,06:08 AM,0,09:05 AM
+1182,usatoday,0,11:05 AM,11:30 AM,0,05:05 PM
+1183,usatoday,0,empty,10:55 AM,0,01:40 PM
+1184,usatoday,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+1185,usatoday,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1186,usatoday,0,12:15 PM,12:41 PM,0,02:46 PM
+1187,usatoday,UA-382-IAD-LAX,empty,12:56 PM,0,09:13 AM
+1188,usatoday,UA-2945-PHL-CLT,12:00 PM,12:08 PM,0,01:15 PM
+1189,usatoday,0,10:40 AM,11:05 AM,0,02:46 PM
+1190,usatoday,0,empty,01:43 PM,04:52 PM,empty
+1191,usatoday,0,empty,03:36 PM,04:00 PM,03:33 PM
+1192,usatoday,0,06:45 PM,06:55 PM,0,08:53 PM
+1193,usatoday,0,07:15 PM,empty,0,empty
+1194,usatoday,UA-843-LAX-ORD,empty,02:38 PM,0,09:13 AM
+1195,usatoday,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1196,usatoday,0,08:00 PM,08:23 PM,0,09:53 PM
+1197,usatoday,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+1198,usatoday,0,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+1199,usatoday,0,01:33 PM,01:31 PM,0,04:23 PM
+1200,usatoday,0,11:55 PM,empty,5:50 AM Dec 02,empty
+1201,usatoday,0,02:30 PM,02:26 PM,0,05:42 PM
+1202,usatoday,0,empty,08:37 AM,empty,09:13 AM
+1203,usatoday,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+1204,usatoday,0,empty,07:41 AM,0,09:13 AM
+1205,usatoday,0,11:08 PM,empty,5:11 AMDec 02,empty
+1206,usatoday,CO-4888-IAH-DAL,05:30 PM,empty,06:09 PM,empty
+1207,usatoday,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+1208,usatoday,UA-2708-EWR-CLT,empty,03:04 PM,04:53 PM,09:13 AM
+1209,usatoday,UA-1500-IAH-GUA,empty,09:43 AM,0,09:13 AM
+1210,usatoday,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1211,usatoday,0,07:15 AM,07:22 AM,0,11:06 AM
+1212,usatoday,0,04:25 PM,empty,0,empty
+1213,usatoday,0,12:10 PM,12:10 PM,0,01:43 PM
+1214,usatoday,0,07:55 AM,08:04 AM,0,11:01 AM
+1215,usatoday,0,empty,09:05 AM,11:53 AM,empty
+1216,usatoday,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1217,usatoday,0,empty,08:07 AM,01:39 PM,01:30 PM
+1218,usatoday,0,03:05 PM,03:36 PM,0,06:43 PM
+1219,usatoday,0,06:30 PM,empty,0,empty
+1220,usatoday,0,empty,11:41 AM,0,04:56 PM
+1221,usatoday,0,04:00 PM,04:12 PM,0,06:15 PM
+1222,usatoday,0,06:00 AM,06:10 AM,0,06:19 AM
+1223,usatoday,0,07:10 AM,07:39 AM,0,11:12 AM
+1224,myrateplan,0,07:10 AM,07:16 AM,09:40 AM,09:13 AM
+1225,myrateplan,0,empty,07:42 PM,10:15 PM,empty
+1226,myrateplan,0,06:40 AM,06:54 AM,09:25 AM,09:13 AM
+1227,myrateplan,0,08:00 AM,08:29 AM,11:55 AM,09:13 AM
+1228,myrateplan,0,empty,09:01 AM,0,09:13 AM
+1229,myrateplan,0,07:45 PM,07:59 PM,10:30 PM,09:13 AM
+1230,myrateplan,0,03:27 PM,03:28 PM,05:05 PM,09:56 AM
+1231,myrateplan,0,11:25 AM,11:32 AM,0,03:31 PM
+1232,myrateplan,AA-1544-SAN-ORD,empty,11:41 AM,0,09:13 AM
+1233,myrateplan,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+1234,myrateplan,0,11:25 PM,empty,6:55 AM Dec 02,09:13 AM
+1235,myrateplan,UA-414-LAX-SFO,empty,06:10 AM,0,09:13 AM
+1236,myrateplan,0,12:30 AM,empty,0,05:26 AM
+1237,myrateplan,0,04:00 PM,03:58 PM,06:46 PM,09:13 AM
+1238,myrateplan,0,empty,07:56 AM,09:21 AM,empty
+1239,myrateplan,0,empty,10:19 AM,0,01:19 PM
+1240,myrateplan,0,09:05 AM,10:10 AM,12:35 PM,09:13 AM
+1241,myrateplan,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+1242,myrateplan,0,07:00 AM,07:25 AM,09:55 AM,09:56 AM
+1243,myrateplan,0,04:15 PM,04:29 PM,07:55 PM,09:13 AM
+1244,myrateplan,0,empty,10:55 AM,0,09:13 AM
+1245,myrateplan,0,02:30 PM,02:48 PM,0,07:10 PM
+1246,myrateplan,0,08:05 AM,08:00 AM,0,11:06 AM
+1247,myrateplan,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+1248,myrateplan,0,11:50 AM,12:13 PM,03:50 PM,09:13 AM
+1249,myrateplan,0,empty,12:06 PM,0,01:14 PM
+1250,myrateplan,0,06:00 AM,06:08 AM,09:20 AM,09:13 AM
+1251,myrateplan,0,11:05 AM,11:30 AM,04:57 PM,09:56 AM
+1252,myrateplan,0,06:00 AM,06:02 AM,0,10:27 AM
+1253,myrateplan,0,08:40 AM,08:40 AM,0,10:56 AM
+1254,myrateplan,0,10:15 AM,10:19 AM,12:10 PM,09:13 AM
+1255,myrateplan,0,01:00 PM,02:04 PM,02:35 PM,09:13 AM
+1256,myrateplan,UA-854-SFO-IAH,empty,08:07 AM,0,09:13 AM
+1257,myrateplan,UA-382-IAD-LAX,empty,12:56 PM,0,09:13 AM
+1258,myrateplan,AA-4344-ORD-DTW,empty,12:14 PM,0,09:13 AM
+1259,myrateplan,0,02:30 PM,02:26 PM,06:15 PM,09:13 AM
+1260,myrateplan,0,12:00 PM,12:08 PM,01:45 PM,09:13 AM
+1261,myrateplan,0,05:25 PM,05:22 PM,0,08:03 PM
+1262,myrateplan,0,07:10 PM,08:36 PM,08:56 PM,empty
+1263,myrateplan,0,10:40 AM,11:05 AM,02:45 PM,09:13 AM
+1264,myrateplan,UA-248-PHX-ORD,empty,01:43 PM,0,09:13 AM
+1265,myrateplan,0,empty,03:36 PM,empty,03:33 PM
+1266,myrateplan,0,07:15 AM,07:21 AM,10:35 AM,09:13 AM
+1267,myrateplan,0,06:30 PM,empty,07:25 PM,09:13 AM
+1268,myrateplan,0,06:45 PM,06:55 PM,09:10 PM,09:13 AM
+1269,myrateplan,0,12:00 PM,12:11 PM,03:15 PM,09:13 AM
+1270,myrateplan,0,07:15 PM,empty,12/2/11 12:21 AM,empty
+1271,myrateplan,0,empty,02:38 PM,0,09:13 AM
+1272,myrateplan,0,09:15 AM,09:14 AM,0,12:09 PM
+1273,myrateplan,0,06:00 AM,06:56 AM,07:30 AM,09:13 AM
+1274,myrateplan,0,07:10 AM,07:30 AM,09:35 AM,09:13 AM
+1275,myrateplan,0,empty,05:09 PM,0,09:13 AM
+1276,myrateplan,0,07:25 AM,07:39 AM,11:10 AM,09:56 AM
+1277,myrateplan,0,03:50 PM,04:28 PM,06:23 PM,09:13 AM
+1278,myrateplan,UA-938-DEN-ORD,empty,04:37 PM,0,09:13 AM
+1279,myrateplan,0,08:00 PM,08:23 PM,09:45 PM,09:13 AM
+1280,myrateplan,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+1281,myrateplan,0,empty,07:31 AM,0,09:13 AM
+1282,myrateplan,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+1283,myrateplan,0,01:33 PM,01:31 PM,04:31 PM,09:13 AM
+1284,myrateplan,0,12:15 PM,12:41 PM,02:45 PM,09:13 AM
+1285,myrateplan,0,01:29 PM,01:48 PM,0,04:17 PM
+1286,myrateplan,0,11:55 PM,empty,5:50 AM Dec 02,09:13 AM
+1287,myrateplan,0,empty,04:28 PM,12:29 AM Dec 02,09:13 AM
+1288,myrateplan,0,empty,09:06 PM,12:15 AM,09:13 AM
+1289,myrateplan,0,08:25 PM,empty,11:50 PM,09:13 AM
+1290,myrateplan,0,06:59 AM,07:22 AM,10:34 AM,09:13 AM
+1291,myrateplan,0,08:35 AM,08:51 AM,11:50 AM,09:13 AM
+1292,myrateplan,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+1293,myrateplan,0,01:30 PM,empty,0,09:13 AM
+1294,myrateplan,0,02:53 PM,03:01 PM,0,04:59 PM
+1295,myrateplan,0,empty,07:41 AM,0,09:13 AM
+1296,myrateplan,0,11:08 PM,empty,5:11 AMDec 02,empty
+1297,myrateplan,0,05:30 PM,empty,06:40 PM,09:13 AM
+1298,myrateplan,0,empty,01:45 PM,0,09:13 AM
+1299,myrateplan,UA-2704-DTW-PHX,empty,11:47 AM,0,09:13 AM
+1300,myrateplan,AA-3063-SLC-LAX,empty,08:40 PM,0,09:13 AM
+1301,myrateplan,UA-2708-EWR-CLT,empty,03:04 PM,0,09:13 AM
+1302,myrateplan,0,02:30 PM,02:48 PM,0,07:10 PM
+1303,myrateplan,0,empty,09:43 AM,11:45 AM,empty
+1304,myrateplan,0,02:35 PM,02:44 PM,04:05 PM,09:13 AM
+1305,myrateplan,0,02:55 PM,03:27 PM,05:55 PM,09:13 AM
+1306,myrateplan,0,07:15 AM,07:22 AM,11:35 AM,09:56 AM
+1307,myrateplan,0,12:10 PM,12:10 PM,02:15 PM,09:13 AM
+1308,myrateplan,0,07:55 AM,08:04 AM,11:05 AM,09:13 AM
+1309,myrateplan,0,empty,09:05 AM,11:53 AM,empty
+1310,myrateplan,0,01:05 PM,01:19 PM,02:35 PM,09:13 AM
+1311,myrateplan,0,empty,08:56 AM,0,09:13 AM
+1312,myrateplan,0,03:05 PM,03:36 PM,06:30 PM,09:13 AM
+1313,myrateplan,0,07:30 AM,08:04 AM,08:00 AM,09:13 AM
+1314,myrateplan,0,04:00 PM,04:12 PM,06:40 PM,09:13 AM
+1315,myrateplan,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1316,myrateplan,0,02:55 PM,03:31 PM,0,05:26 PM
+1317,myrateplan,0,11:55 AM,11:43 AM,06:17 PM,09:56 AM
+1318,myrateplan,0,10:40 AM,10:54 AM,12:55 PM,09:13 AM
+1319,myrateplan,0,06:45 AM,06:57 AM,07:45 AM,09:13 AM
+1320,myrateplan,0,04:00 PM,03:58 PM,0,06:36 PM
+1321,myrateplan,0,06:00 AM,06:10 AM,06:40 AM,09:56 AM
+1322,myrateplan,0,07:10 AM,07:39 AM,10:45 AM,09:13 AM
+1323,myrateplan,0,07:10 AM,07:31 AM,03:30 PM,09:13 AM
+1324,orbitz,0,07:10 AM,07:16 AM,09:40 AM,9:32aDec 1
+1325,orbitz,0,empty,07:42 PM,0,empty
+1326,orbitz,0,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+1327,orbitz,0,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+1328,orbitz,0,empty,09:01 AM,9:54aDec 1,empty
+1329,orbitz,0,07:45 PM,07:59 PM,10:30 PM,empty
+1330,orbitz,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1331,orbitz,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1332,orbitz,0,11:25 AM,11:32 AM,02:50 PM,03:31 PM
+1333,orbitz,0,empty,10:53 AM,11:19aDec 1,empty
+1334,orbitz,0,11:25 PM,empty,6:55 AM Dec 02,empty
+1335,orbitz,0,empty,06:10 AM,7:23aDec 1,7:17aDec 1
+1336,orbitz,0,12:30 AM,12:41 AM,05:35 AM,05:26 AM
+1337,orbitz,0,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+1338,orbitz,0,empty,07:56 AM,9:21aDec 2,empty
+1339,orbitz,0,empty,10:19aDec 1,01:16 PM,01:19 PM
+1340,orbitz,0,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1341,orbitz,0,empty,08:26 AM,10:06aDec 1,9:56aDec 1
+1342,orbitz,0,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1343,orbitz,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1344,orbitz,0,empty,10:55 AM,02:20 PM,01:40 PM
+1345,orbitz,CO-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1346,orbitz,0,empty,08:00 AM,11:35aDec 1,11:32aDec 1
+1347,orbitz,0,empty,03:04 PM,05:00 PM,04:47 PM
+1348,orbitz,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1349,orbitz,0,empty,12:06 PM,01:17 PM,01:14 PM
+1350,orbitz,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1351,orbitz,0,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+1352,orbitz,0,06:00 AM,06:02 AM,10:20 AM,10:27 AM
+1353,orbitz,0,08:40 AM,08:40 AM,10:54 AM,10:56 AM
+1354,orbitz,0,10:15 AM,10:19 AM,0,11:50 AM
+1355,orbitz,0,01:00 PM,02:04 PM,0,03:13 PM
+1356,orbitz,0,empty,08:07 AM,01:39 PM,01:30 PM
+1357,orbitz,0,empty,12:56 PM,03:03 PM,empty
+1358,orbitz,0,empty,12:14 PM,02:00 PM,02:10 PM
+1359,orbitz,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1360,orbitz,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+1361,orbitz,CO-63-EWR-IAH,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+1362,orbitz,0,empty,08:36 PM,10:48 PM,empty
+1363,orbitz,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1364,orbitz,0,empty,01:43 PM,05:15 PM,05:34 PM
+1365,orbitz,0,empty,03:36 PM,04:00 PM,03:33 PM
+1366,orbitz,0,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+1367,orbitz,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+1368,orbitz,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1369,orbitz,0,07:15 PM,empty,12:21 AM Dec 02,empty
+1370,orbitz,0,empty,02:38 PM,07:53 PM,07:58 PM
+1371,orbitz,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1372,orbitz,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1373,orbitz,0,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+1374,orbitz,0,empty,05:09 PM,08:05 PM,07:55 PM
+1375,orbitz,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+1376,orbitz,0,empty,04:37 PM,07:35 PM,07:36 PM
+1377,orbitz,0,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+1378,orbitz,0,10:25 AM,empty,0,empty
+1379,orbitz,0,empty,07:31 AM,10:31aDec 1,10:47aDec 1
+1380,orbitz,0,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+1381,orbitz,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1382,orbitz,0,12:15 PM,12:41 PM,0,02:46 PM
+1383,orbitz,UA-37-EWR-MCO,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+1384,orbitz,0,11:55 PM,empty,5:50 AM Dec 02,empty
+1385,orbitz,0,04:25 PM,empty,12:29aDec 2,empty
+1386,orbitz,0,09:00 PM,empty,12:15aDec 2,empty
+1387,orbitz,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+1388,orbitz,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+1389,orbitz,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1390,orbitz,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+1391,orbitz,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+1392,orbitz,0,empty,07:41 AM,9:43aDec 1,8:45aDec 1
+1393,orbitz,0,11:08 PM,empty,5:11 AMDec 02,empty
+1394,orbitz,0,05:30 PM,empty,06:09 PM,06:15 PM
+1395,orbitz,0,empty,01:45 PM,8:27aDec 1,8:02aDec 1
+1396,orbitz,0,empty,11:47 AM,01:40 PM,02:00 PM
+1397,orbitz,0,empty,08:40 PM,09:18 PM,empty
+1398,orbitz,0,empty,03:04 PM,04:53 PM,04:44 PM
+1399,orbitz,UA-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1400,orbitz,0,empty,09:43 AM,12:05 PM,empty
+1401,orbitz,0,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1402,orbitz,0,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1403,orbitz,0,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+1404,orbitz,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1405,orbitz,0,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+1406,orbitz,0,empty,8:52aDec 1,11:53aDec 1,12:09 PM
+1407,orbitz,0,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1408,orbitz,0,empty,08:56 AM,10:40aDec 1,10:16aDec 1
+1409,orbitz,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+1410,orbitz,0,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1411,orbitz,0,empty,11:41 AM,05:25 PM,04:56 PM
+1412,orbitz,0,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1413,orbitz,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1414,orbitz,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1415,orbitz,0,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+1416,orbitz,0,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+1417,orbitz,0,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+1418,orbitz,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1419,orbitz,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1420,orbitz,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1421,orbitz,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1422,orbitz,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+1423,phl,0,11:50 AM,12:13 PM,0,04:09 PM
+1424,phl,0,empty,08:37 AM,empty,09:13 AM
+1425,phl,0,02:35 PM,02:44 PM,04:05 PM,09:13 AM
+1426,phl,0,01:33 PM,01:31 PM,0,04:23 PM
+1427,CO,0,empty,07:42 PM,0,empty
+1428,CO,0,empty,07:56 AM,0,empty
+1429,CO,0,empty,12:06 PM,01:17 PM,01:14 PM
+1430,CO,CO-89-IAH-EWR,06:00 AM,06:02 AM,10:20 AM,10:27 AM
+1431,CO,0,07:15 PM,07:15 PM,12:21 AM Dec 02,empty
+1432,CO,CO-1614-LAX-IAH,12:30 AM,12:41 AM,05:35 AM,05:26 AM
+1433,CO,CO-1088-CLE-IAH,08:40 AM,08:40 AM,10:54 AM,10:56 AM
+1434,CO,CO-58-DEN-IAH,11:25 AM,11:32 AM,02:50 PM,03:31 PM
+1435,CO,CO-50-CLE-EWR,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+1436,CO,CO-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1437,CO,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1438,CO,0,10:25 AM,empty,0,empty
+1439,CO,0,09:45 AM,10:19 AM,01:16 PM,01:19 PM
+1440,CO,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+1441,CO,0,empty,08:36 PM,0,empty
+1442,CO,0,05:30 PM,empty,06:09 PM,06:15 PM
+1443,CO,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1444,CO,CO-63-EWR-IAH,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+1445,CO,0,empty,08:00 AM,0,11:06 AM
+1446,ifly,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1447,ifly,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1448,ifly,0,09:45 AM,10:19 AM,01:16 PM,01:19 PM
+1449,ifly,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1450,ifly,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+1451,ifly,CO-89-IAH-EWR,06:00 AM,06:02 AM,10:20 AM,10:27 AM
+1452,ifly,0,empty,04:37 PM,07:35 PM,07:36 PM
+1453,ifly,0,empty,09:01 AM,09:54 AM,09:43 AM
+1454,ifly,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1455,ifly,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+1456,ifly,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1457,ifly,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+1458,ifly,CO-1614-LAX-IAH,12:30 AM,12:41 AM,05:35 AM,05:26 AM
+1459,ifly,CO-58-DEN-IAH,11:25 AM,11:32 AM,02:50 PM,03:31 PM
+1460,ifly,0,04:25 PM,4:28 PM (Estimated runway),12:29 AM,empty
+1461,ifly,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1462,ifly,0,09:00 PM,9:06 PM (Estimated runway),12:15 AM Dec 02,11:49 PM (Estimated runway)
+1463,ifly,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1464,ifly,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1465,ifly,0,07:45 PM,07:59 PM,0,empty
+1466,ifly,0,empty,08:37 AM,empty,09:13 AM
+1467,ifly,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+1468,ifly,0,empty,03:04 PM,05:00 PM,04:47 PM
+1469,ifly,0,10:25 AM,empty,0,empty
+1470,ifly,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+1471,ifly,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1472,ifly,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1473,ifly,0,empty,08:56 AM,10:40 AM,10:16 AM
+1474,ifly,0,empty,08:40 PM,09:20 PM,9:19 PM (Estimated)
+1475,ifly,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1476,ifly,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1477,ifly,UA-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1478,ifly,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1479,ifly,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1480,ifly,0,07:15 PM,empty,12:21 AM Dec 02,12:21 AM (Estimated)
+1481,ifly,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1482,sfo,0,08:00 AM,08:29 AM,0,11:58 AM
+1483,sfo,0,03:05 PM,03:36 PM,0,06:43 PM
+1484,sfo,0,08:35 AM,08:51 AM,0,11:44 AM
+1485,sfo,0,07:10 AM,07:39 AM,0,11:12 AM
+1486,sfo,0,02:30 PM,02:26 PM,0,05:42 PM
+1487,sfo,0,empty,06:10 AM,0,07:17 AM
+1488,flytecomm,0,07:10 AM,07:16 AM,09:40 AM,09:13 AM
+1489,flytecomm,0,empty,07:42 PM,10:15 PM,empty
+1490,flytecomm,0,06:40 AM,06:54 AM,09:25 AM,09:13 AM
+1491,flytecomm,0,08:00 AM,08:29 AM,11:55 AM,09:13 AM
+1492,flytecomm,0,empty,09:01 AM,0,09:13 AM
+1493,flytecomm,0,07:45 PM,07:59 PM,10:30 PM,09:13 AM
+1494,flytecomm,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1495,flytecomm,0,11:25 AM,11:32 AM,0,03:31 PM
+1496,flytecomm,AA-1544-SAN-ORD,empty,11:41 AM,0,09:13 AM
+1497,flytecomm,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+1498,flytecomm,0,11:25 PM,empty,6:55 AM Dec 02,09:56 AM
+1499,flytecomm,0,empty,06:10 AM,0,09:13 AM
+1500,flytecomm,0,12:30 AM,12:41 AM,0,05:26 AM
+1501,flytecomm,0,04:00 PM,03:58 PM,06:46 PM,09:13 AM
+1502,flytecomm,0,empty,07:56 AM,09:21 AM,empty
+1503,flytecomm,0,empty,10:19 AM,0,01:19 PM
+1504,flytecomm,0,09:05 AM,10:10 AM,12:35 PM,09:13 AM
+1505,flytecomm,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+1506,flytecomm,0,07:00 AM,07:25 AM,09:55 AM,09:13 AM
+1507,flytecomm,0,04:15 PM,04:29 PM,07:55 PM,09:13 AM
+1508,flytecomm,0,empty,10:55 AM,0,09:13 AM
+1509,flytecomm,0,02:30 PM,02:48 PM,0,07:10 PM
+1510,flytecomm,0,empty,08:00 AM,0,11:06 AM
+1511,flytecomm,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+1512,flytecomm,0,11:50 AM,12:13 PM,03:50 PM,09:13 AM
+1513,flytecomm,0,empty,12:06 PM,0,01:14 PM
+1514,flytecomm,0,06:00 AM,06:08 AM,09:20 AM,09:13 AM
+1515,flytecomm,0,11:05 AM,11:30 AM,04:57 PM,09:13 AM
+1516,flytecomm,0,06:00 AM,06:02 AM,0,10:27 AM
+1517,flytecomm,0,08:40 AM,08:40 AM,0,10:56 AM
+1518,flytecomm,0,10:15 AM,10:19 AM,12:10 PM,09:13 AM
+1519,flytecomm,0,01:00 PM,02:04 PM,0,09:13 AM
+1520,flytecomm,UA-854-SFO-IAH,empty,08:07 AM,0,09:13 AM
+1521,flytecomm,UA-382-IAD-LAX,empty,12:56 PM,0,03:21 PM
+1522,flytecomm,AA-4344-ORD-DTW,empty,12:14 PM,0,09:13 AM
+1523,flytecomm,0,02:30 PM,02:26 PM,06:15 PM,09:13 AM
+1524,flytecomm,0,12:00 PM,12:08 PM,01:45 PM,09:13 AM
+1525,flytecomm,0,05:25 PM,05:22 PM,0,08:03 PM
+1526,flytecomm,0,07:10 PM,empty,08:56 PM,empty
+1527,flytecomm,0,10:40 AM,11:05 AM,02:45 PM,09:13 AM
+1528,flytecomm,0,empty,01:43 PM,0,09:13 AM
+1529,flytecomm,0,empty,03:36 PM,0,03:33 PM
+1530,flytecomm,0,07:15 AM,07:21 AM,10:35 AM,09:13 AM
+1531,flytecomm,0,06:30 PM,empty,07:25 PM,09:13 AM
+1532,flytecomm,0,06:45 PM,06:55 PM,09:10 PM,09:13 AM
+1533,flytecomm,0,12:00 PM,12:11 PM,03:15 PM,09:13 AM
+1534,flytecomm,0,07:15 PM,empty,12:21 AM Dec 02,empty
+1535,flytecomm,0,empty,02:38 PM,0,09:13 AM
+1536,flytecomm,0,09:15 AM,09:14 AM,0,12:09 PM
+1537,flytecomm,0,06:00 AM,06:56 AM,07:30 AM,09:13 AM
+1538,flytecomm,0,07:10 AM,07:30 AM,09:35 AM,09:13 AM
+1539,flytecomm,0,empty,05:09 PM,0,09:13 AM
+1540,flytecomm,0,07:25 AM,07:39 AM,11:10 AM,09:13 AM
+1541,flytecomm,0,03:50 PM,04:28 PM,06:23 PM,09:13 AM
+1542,flytecomm,0,empty,04:37 PM,0,09:13 AM
+1543,flytecomm,0,08:00 PM,08:23 PM,09:45 PM,09:13 AM
+1544,flytecomm,CO-16-LAX-EWR,10:25 AM,empty,06:44 PM,empty
+1545,flytecomm,0,empty,07:31 AM,0,09:13 AM
+1546,flytecomm,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+1547,flytecomm,0,01:33 PM,01:31 PM,04:31 PM,09:13 AM
+1548,flytecomm,0,12:15 PM,12:41 PM,0,09:13 AM
+1549,flytecomm,0,01:29 PM,01:48 PM,0,04:17 PM
+1550,flytecomm,0,11:55 PM,empty,5:50 AM Dec 02,09:13 AM
+1551,flytecomm,0,empty,04:28 PM,12:29 AM,09:13 AM
+1552,flytecomm,0,empty,empty,12:15 AM Dec 02,09:13 AM
+1553,flytecomm,0,08:25 PM,empty,11:50 PM,09:56 AM
+1554,flytecomm,0,06:59 AM,07:22 AM,10:34 AM,09:13 AM
+1555,flytecomm,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1556,flytecomm,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+1557,flytecomm,0,01:30 PM,empty,03:50 PM,09:13 AM
+1558,flytecomm,0,02:53 PM,03:01 PM,0,04:59 PM
+1559,flytecomm,0,empty,07:41 AM,0,09:13 AM
+1560,flytecomm,0,11:08 PM,empty,5:11 AMDec 02,empty
+1561,flytecomm,0,05:30 PM,empty,06:09 PM,09:13 AM
+1562,flytecomm,0,empty,01:45 PM,0,09:13 AM
+1563,flytecomm,0,empty,11:47 AM,0,09:13 AM
+1564,flytecomm,AA-3063-SLC-LAX,empty,08:40 PM,0,09:13 AM
+1565,flytecomm,UA-2708-EWR-CLT,empty,03:04 PM,0,09:13 AM
+1566,flytecomm,0,02:30 PM,02:48 PM,0,07:10 PM
+1567,flytecomm,0,empty,09:43 AM,11:45 AM,empty
+1568,flytecomm,0,02:35 PM,02:44 PM,04:05 PM,09:13 AM
+1569,flytecomm,0,02:55 PM,03:27 PM,05:55 PM,09:13 AM
+1570,flytecomm,0,07:15 AM,07:22 AM,11:35 AM,09:13 AM
+1571,flytecomm,0,12:10 PM,12:10 PM,02:15 PM,09:13 AM
+1572,flytecomm,0,07:55 AM,08:04 AM,11:05 AM,09:13 AM
+1573,flytecomm,0,9:05 AM (-00:00),09:05 AM,11:53 AM,empty
+1574,flytecomm,0,01:05 PM,01:19 PM,02:35 PM,09:13 AM
+1575,flytecomm,0,empty,08:56 AM,0,09:13 AM
+1576,flytecomm,0,03:05 PM,03:36 PM,06:30 PM,09:13 AM
+1577,flytecomm,0,07:30 AM,08:04 AM,08:00 AM,09:13 AM
+1578,flytecomm,0,04:00 PM,04:12 PM,06:40 PM,09:13 AM
+1579,flytecomm,0,11:35 AM,11:52 AM,02:25 PM,09:13 AM
+1580,flytecomm,0,02:55 PM,03:31 PM,0,05:26 PM
+1581,flytecomm,0,11:55 AM,11:43 AM,06:17 PM,09:56 AM
+1582,flytecomm,0,10:40 AM,10:54 AM,12:55 PM,09:13 AM
+1583,flytecomm,0,06:45 AM,06:57 AM,07:45 AM,09:13 AM
+1584,flytecomm,0,04:00 PM,03:58 PM,0,06:36 PM
+1585,flytecomm,0,06:00 AM,06:10 AM,06:40 AM,09:13 AM
+1586,flytecomm,0,07:10 AM,07:39 AM,10:45 AM,09:13 AM
+1587,flytecomm,0,07:10 AM,07:31 AM,03:30 PM,09:13 AM
+1588,mytripandmore,0,07:45 PM,07:59 PM,10:30 PM,empty
+1589,mytripandmore,0,empty,07:42 PM,0,empty
+1590,mytripandmore,0,empty,09:01 AM,9:54aDec 1,empty
+1591,mytripandmore,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+1592,mytripandmore,0,03:27 PM,03:28 PM,0,05:17 PM
+1593,mytripandmore,0,empty,10:53 AM,11:19aDec 1,empty
+1594,mytripandmore,0,11:25 PM,empty,6:55 AM Dec 02,empty
+1595,mytripandmore,0,12:30 AM,12:41 AM,05:35 AM,05:26 AM
+1596,mytripandmore,UA-2726-FLL-PHL,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+1597,mytripandmore,0,empty,10:19 AM,01:16 PM,01:19 PM
+1598,mytripandmore,0,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1599,mytripandmore,CO-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1600,mytripandmore,0,empty,12:06 PM,01:17 PM,01:14 PM
+1601,mytripandmore,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1602,mytripandmore,0,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+1603,mytripandmore,0,10:15 AM,10:19 AM,0,11:50 AM
+1604,mytripandmore,0,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1605,mytripandmore,0,empty,12:56 PM,03:03 PM,empty
+1606,mytripandmore,0,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1607,mytripandmore,0,empty,12:14 PM,02:00 PM,02:10 PM
+1608,mytripandmore,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+1609,mytripandmore,0,07:10 PM,08:36 PM,10:48 PM,empty
+1610,mytripandmore,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1611,mytripandmore,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1612,mytripandmore,0,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+1613,mytripandmore,0,empty,05:09 PM,08:05 PM,07:55 PM
+1614,mytripandmore,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1615,mytripandmore,0,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+1616,mytripandmore,0,empty,07:31 AM,10:31aDec 1,10:47aDec 1
+1617,mytripandmore,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1618,mytripandmore,0,04:25 PM,empty,12:29aDec 2,empty
+1619,mytripandmore,0,09:00 PM,Not Available,12:15 AM Dec 02,Dec 02 Not Available
+1620,mytripandmore,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+1621,mytripandmore,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+1622,mytripandmore,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1623,mytripandmore,0,02:30 PM,02:26 PM,06:15 PM,08:45 AM
+1624,mytripandmore,0,01:30 PM,empty,0,04:09 PM
+1625,mytripandmore,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+1626,mytripandmore,0,11:08 PM,empty,5:11 AMDec 02,empty
+1627,mytripandmore,0,empty,08:40 PM,09:18 PM,empty
+1628,mytripandmore,0,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1629,mytripandmore,0,empty,07:41 AM,Not Available,08:45 AM
+1630,mytripandmore,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1631,mytripandmore,0,empty,09:05 AM,11:53aDec 1,12:09 PM
+1632,mytripandmore,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1633,mytripandmore,0,empty,08:56 AM,10:40aDec 1,10:16aDec 1
+1634,mytripandmore,0,empty,11:41 AM,05:25 PM,04:56 PM
+1635,mytripandmore,0,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1636,mytripandmore,CO-50-CLE-EWR,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+1637,mytripandmore,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1638,ord,0,07:10 AM,07:16 AM,09:40 AM,09:32 AM
+1639,ord,0,06:00 AM,06:56 AM,0,07:51 AM
+1640,ord,0,07:10 AM,07:30 AM,0,09:31 AM
+1641,ord,0,02:35 PM,02:44 PM,0,03:43 PM
+1642,ord,0,07:15 AM,07:22 AM,0,11:06 AM
+1643,ord,0,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+1644,ord,0,empty,04:37 PM,11/30 7:35 PM,empty
+1645,ord,0,01:05 PM,01:19 PM,0,03:13 PM
+1646,ord,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1647,ord,0,07:30 AM,08:04 AM,0,08:06 AM
+1648,ord,0,01:33 PM,01:31 PM,0,04:23 PM
+1649,ord,0,12:15 PM,12:41 PM,0,02:46 PM
+1650,ord,0,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1651,ord,0,11:55 PM,empty,5:50 AM Dec 02,empty
+1652,ord,0,empty,11:41 AM,11/30 5:25 PM,empty
+1653,ord,0,empty,12:14 PM,0,02:10 PM
+1654,ord,0,07:45 PM,07:59 PM,10:30 PM,empty
+1655,ord,0,10:40 AM,10:54 AM,0,12:50 PM
+1656,ord,0,11:08 PM,empty,5:11 AMDec 02,empty
+1657,ord,0,10:40 AM,11:05 AM,0,02:46 PM
+1658,ord,0,empty,01:43 PM,11/30 5:15 PM,empty
+1659,ord,0,empty,08:56 AM,0,10:16 AM
+1660,ord,0,empty,03:36 PM,empty,03:33 PM
+1661,ord,0,11/30 1:55 PM,02:38 PM,11/30 7:53 PM,empty
+1662,wunderground,0,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+1663,wunderground,0,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+1664,wunderground,0,empty,07:42 PM,09:40 PM,10:24 PM
+1665,wunderground,0,empty,09:01 AM,09:34 AM,09:44 AM
+1666,wunderground,0,07:45 PM,07:59 PM,10:30 PM,empty
+1667,wunderground,0,11:25 PM,empty,6:55 AM Dec 02,empty
+1668,wunderground,0,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+1669,wunderground,0,empty,07:56 AM,09:11 AM,09:08 AM
+1670,wunderground,0,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1671,wunderground,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1672,wunderground,0,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1673,wunderground,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1674,wunderground,0,empty,12:06 PM,12:51 PM,01:07 PM
+1675,wunderground,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1676,wunderground,0,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+1677,wunderground,0,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+1678,wunderground,0,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+1679,wunderground,0,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1680,wunderground,0,01:00 PM,02:04 PM,02:35 PM,03:13 PM
+1681,wunderground,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1682,wunderground,0,12:15 PM,12:41 PM,0,03:13 PM
+1683,wunderground,0,empty,12:56 PM,02:48 PM,03:07 PM
+1684,wunderground,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1685,wunderground,0,12:00 PM,12:08 PM,01:35 PM,01:08 PM
+1686,wunderground,0,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+1687,wunderground,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1688,wunderground,0,empty,08:36 PM,08:46 PM,08:46 PM
+1689,wunderground,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1690,wunderground,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1691,wunderground,0,empty,03:36 PM,empty,04:09 PM
+1692,wunderground,0,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+1693,wunderground,0,06:30 PM,empty,07:25 PM,empty
+1694,wunderground,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1695,wunderground,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1696,wunderground,0,07:15 PM,07:25 PM,11:52 PM,empty
+1697,wunderground,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1698,wunderground,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1699,wunderground,0,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+1700,wunderground,0,empty,05:09 PM,07:38 PM,07:43 PM
+1701,wunderground,0,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+1702,wunderground,0,08:00 PM,08:23 PM,0,09:53 PM
+1703,wunderground,0,10:40 AM,11:02 AM,02:59 PM,03:13 PM
+1704,wunderground,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1705,wunderground,0,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+1706,wunderground,0,04:25 PM,04:35 PM,12:09 AM,empty
+1707,wunderground,0,09:00 PM,09:16 PM,12:15 AM Dec 02,12:01 AM
+1708,wunderground,0,08:25 PM,empty,11:50 PM,empty
+1709,wunderground,0,06:59 AM,07:22 AM,10:34 AM,09:28 AM
+1710,wunderground,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1711,wunderground,0,01:30 PM,empty,0,03:14 PM
+1712,wunderground,0,11:08 PM,empty,5:11 AMDec 02,empty
+1713,wunderground,0,05:30 PM,empty,06:09 PM,05:42 PM
+1714,wunderground,0,empty,08:40 PM,0,08:53 PM
+1715,wunderground,0,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1716,wunderground,0,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1717,wunderground,0,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+1718,wunderground,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1719,wunderground,0,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1720,wunderground,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+1721,wunderground,0,04:00 PM,04:12 PM,06:40 PM,06:43 PM
+1722,wunderground,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+1723,wunderground,0,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+1724,wunderground,0,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+1725,wunderground,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1726,wunderground,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1727,wunderground,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1728,ua,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+1729,ua,0,empty,09:01 AM,09:54 AM,09:43 AM
+1730,ua,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1731,ua,0,empty,10:53 AM,11:19 AM,11:21 AM
+1732,ua,0,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+1733,ua,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+1734,ua,0,empty,12:56 PM,03:19 PM,03:21 PM
+1735,ua,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+1736,ua,0,empty,08:07 AM,01:39 PM,01:30 PM
+1737,ua,0,empty,08:26 AM,10:06 AM,09:56 AM
+1738,ua,0,empty,01:43 PM,05:15 PM,05:34 PM
+1739,ua,0,empty,02:38 PM,07:53 PM,07:58 PM
+1740,ua,0,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+1741,ua,0,empty,04:37 PM,07:35 PM,07:36 PM
+1742,ua,0,empty,07:31 AM,10:31 AM,10:47 AM
+1743,ua,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1744,ua,0,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+1745,ua,0,04:25 PM,04:25 PM,12:29 AM Dec 02,Fri Dec 2 12:29 AM
+1746,ua,0,empty,08:37 AM,empty,09:13 AM
+1747,ua,0,empty,07:41 AM,0,empty
+1748,ua,0,11:08 PM,empty,5:11 AMDec 02,empty
+1749,ua,0,empty,01:45 PM,0,empty
+1750,ua,0,empty,11:47 AM,01:40 PM,02:00 PM
+1751,ua,0,empty,03:04 PM,04:53 PM,04:44 PM
+1752,ua,UA-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1753,ua,0,empty,09:43 AM,0,empty
+1754,ua,0,empty,03:04 PM,05:00 PM,04:47 PM
+1755,ua,0,empty,09:05 AM,0,empty
+1756,ua,0,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+1757,ua,0,empty,06:10 AM,07:23 AM,07:17 AM
+1758,ua,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1759,flylouisville,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+1760,flylouisville,0,empty,07:42 PM,0,09:13 AM
+1761,flylouisville,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+1762,flylouisville,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+1763,flylouisville,0,empty,09:01 AM,09:54 AM,09:13 AM
+1764,flylouisville,0,07:45 PM,07:59 PM,10:30 PM,empty
+1765,flylouisville,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1766,flylouisville,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1767,flylouisville,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+1768,flylouisville,0,empty,10:53 AM,0,09:13 AM
+1769,flylouisville,0,11:25 PM,empty,6:55 AM Dec 02,empty
+1770,flylouisville,0,empty,06:10 AM,07:23 AM,09:13 AM
+1771,flylouisville,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+1772,flylouisville,UA-2726-FLL-PHL,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+1773,flylouisville,0,empty,07:56 AM,0,09:13 AM
+1774,flylouisville,0,empty,10:19 AM,01:16 PM,09:13 AM
+1775,flylouisville,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1776,flylouisville,0,empty,08:26 AM,0,09:13 AM
+1777,flylouisville,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1778,flylouisville,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1779,flylouisville,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+1780,flylouisville,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+1781,flylouisville,0,empty,08:00 AM,11:35 AM,09:13 AM
+1782,flylouisville,0,empty,03:04 PM,05:00 PM,09:13 AM
+1783,flylouisville,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1784,flylouisville,0,empty,12:06 PM,01:17 PM,09:13 AM
+1785,flylouisville,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1786,flylouisville,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+1787,flylouisville,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+1788,flylouisville,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+1789,flylouisville,0,10:15 AM,10:19 AM,0,11:50 AM
+1790,flylouisville,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+1791,flylouisville,0,empty,08:07 AM,01:39 PM,09:13 AM
+1792,flylouisville,0,empty,12:56 PM,03:19 PM,09:13 AM
+1793,flylouisville,0,empty,12:14 PM,0,09:13 AM
+1794,flylouisville,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1795,flylouisville,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+1796,flylouisville,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+1797,flylouisville,0,empty,08:36 PM,0,09:13 AM
+1798,flylouisville,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1799,flylouisville,0,empty,01:43 PM,05:15 PM,09:13 AM
+1800,flylouisville,AA-4330-CVG-ORD,empty,03:36 PM,0,09:13 AM
+1801,flylouisville,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+1802,flylouisville,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+1803,flylouisville,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1804,flylouisville,0,07:15 PM,empty,12:21 AM  Fri 02-Dec-2011,empty
+1805,flylouisville,0,empty,02:38 PM,07:53 PM,09:13 AM
+1806,flylouisville,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1807,flylouisville,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1808,flylouisville,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+1809,flylouisville,0,empty,05:09 PM,0,09:13 AM
+1810,flylouisville,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+1811,flylouisville,0,empty,04:37 PM,07:35 PM,09:13 AM
+1812,flylouisville,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+1813,flylouisville,0,10:25 AM,empty,06:44 PM,09:13 AM
+1814,flylouisville,0,empty,07:31 AM,0,09:13 AM
+1815,flylouisville,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+1816,flylouisville,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1817,flylouisville,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+1818,flylouisville,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+1819,flylouisville,0,11:55 PM,empty,5:50 AM Dec 02,empty
+1820,flylouisville,0,04:25 PM,empty,12:29 AM  Fri 02-Dec-2011,empty
+1821,flylouisville,0,09:00 PM,empty,12:15 AM Dec 02,empty
+1822,flylouisville,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+1823,flylouisville,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+1824,flylouisville,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1825,flylouisville,0,empty,08:37 AM,empty,09:13 AM
+1826,flylouisville,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+1827,flylouisville,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+1828,flylouisville,0,empty,07:41 AM,Not Available,09:13 AM
+1829,flylouisville,0,11:08 PM,empty,5:11 AMDec 02,empty
+1830,flylouisville,0,05:30 PM,empty,06:09 PM,06:15 PM
+1831,flylouisville,0,empty,01:45 PM,08:27 AM,09:13 AM
+1832,flylouisville,0,empty,11:47 AM,0,09:13 AM
+1833,flylouisville,0,empty,08:40 PM,0,09:13 AM
+1834,flylouisville,0,empty,03:04 PM,0,09:13 AM
+1835,flylouisville,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+1836,flylouisville,0,empty,09:43 AM,0,09:13 AM
+1837,flylouisville,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1838,flylouisville,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1839,flylouisville,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+1840,flylouisville,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1841,flylouisville,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+1842,flylouisville,0,empty,08:52 AM,11:53 AM,09:13 AM
+1843,flylouisville,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1844,flylouisville,0,empty,08:56 AM,0,09:13 AM
+1845,flylouisville,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+1846,flylouisville,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1847,flylouisville,0,empty,11:41 AM,05:25 PM,09:13 AM
+1848,flylouisville,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1849,flylouisville,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1850,flylouisville,AA-2525-DFW-MIA,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1851,flylouisville,0,02:55 PM,03:31 PM,04:49 PM,09:56 AM
+1852,flylouisville,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+1853,flylouisville,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+1854,flylouisville,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1855,flylouisville,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1856,flylouisville,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1857,flylouisville,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1858,flylouisville,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+1859,quicktrip,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+1860,quicktrip,0,empty,07:42 PM,0,empty
+1861,quicktrip,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+1862,quicktrip,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+1863,quicktrip,0,empty,09:01 AM,09:54 AM,09:43 AM
+1864,quicktrip,0,07:45 PM,07:59 PM,0,empty
+1865,quicktrip,0,empty,12:14 PM,02:00 PM,02:10 PM
+1866,quicktrip,0,06:30 PM,empty,0,empty
+1867,quicktrip,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1868,quicktrip,0,11:25 AM,11:32 AM,02:50 PM,03:31 PM
+1869,quicktrip,0,11:25 PM,empty,6:55 AM Dec 02,empty
+1870,quicktrip,0,empty,06:10 AM,07:23 AM,07:17 AM
+1871,quicktrip,CO-1614-LAX-IAH,12:30 AM,12:41 AM,05:35 AM,05:26 AM
+1872,quicktrip,0,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+1873,quicktrip,0,empty,07:56 AM,0,empty
+1874,quicktrip,0,empty,10:19 AM,01:16 PM,01:19 PM
+1875,quicktrip,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1876,quicktrip,0,empty,08:26 AM,10:06 AM,09:56 AM
+1877,quicktrip,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1878,quicktrip,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+1879,quicktrip,CO-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1880,quicktrip,CO-63-EWR-IAH,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+1881,quicktrip,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1882,quicktrip,0,empty,12:06 PM,01:17 PM,01:14 PM
+1883,quicktrip,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1884,quicktrip,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+1885,quicktrip,CO-89-IAH-EWR,06:00 AM,06:02 AM,10:20 AM,10:27 AM
+1886,quicktrip,CO-1088-CLE-IAH,08:40 AM,08:40 AM,10:54 AM,10:56 AM
+1887,quicktrip,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+1888,quicktrip,0,10:15 AM,10:19 AM,0,11:50 AM
+1889,quicktrip,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+1890,quicktrip,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+1891,quicktrip,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+1892,quicktrip,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+1893,quicktrip,0,empty,12:56 PM,03:19 PM,03:21 PM
+1894,quicktrip,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+1895,quicktrip,0,07:10 PM,08:36 PM,0,empty
+1896,quicktrip,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+1897,quicktrip,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1898,quicktrip,0,empty,01:43 PM,05:15 PM,05:34 PM
+1899,quicktrip,0,empty,03:36 PM,04:00 PM,03:33 PM
+1900,quicktrip,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+1901,quicktrip,0,08:05 AM,08:00 AM,0,11:06 AM
+1902,quicktrip,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+1903,quicktrip,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1904,quicktrip,0,07:15 PM,7:15 PM (Estimated),12:21 AM Dec 02,empty
+1905,quicktrip,0,empty,02:38 PM,07:53 PM,07:58 PM
+1906,quicktrip,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1907,quicktrip,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+1908,quicktrip,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+1909,quicktrip,0,empty,05:09 PM,08:05 PM,07:55 PM
+1910,quicktrip,AA-2525-DFW-MIA,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+1911,quicktrip,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+1912,quicktrip,0,empty,04:37 PM,07:35 PM,07:36 PM
+1913,quicktrip,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+1914,quicktrip,0,10:25 AM,empty,0,empty
+1915,quicktrip,0,empty,07:31 AM,10:31 AM,10:47 AM
+1916,quicktrip,0,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+1917,quicktrip,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+1918,quicktrip,UA-37-EWR-MCO,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+1919,quicktrip,0,11:55 PM,empty,5:50 AM Dec 02,empty
+1920,quicktrip,0,04:25 PM,4:28 PM (Estimated runway),12:29 AM,12:01 AM (Estimated runway)
+1921,quicktrip,0,09:00 PM,9:06 PM (Estimated runway),12:15 AM,empty
+1922,quicktrip,0,08:25 PM,empty,0,empty
+1923,quicktrip,0,empty,03:04 PM,05:00 PM,04:47 PM
+1924,quicktrip,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+1925,quicktrip,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+1926,quicktrip,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1927,quicktrip,0,empty,08:37 AM,empty,09:13 AM
+1928,quicktrip,CO-1250-MIA-IAH,02:53 PM,03:01 PM,04:48 PM,04:59 PM
+1929,quicktrip,0,11:08 PM,empty,5:11 AMDec 02,empty
+1930,quicktrip,0,05:30 PM,empty,06:09 PM,06:15 PM
+1931,quicktrip,0,empty,11:47 AM,01:40 PM,02:00 PM
+1932,quicktrip,0,empty,08:40 PM,09:20 PM,9:19 PM (Estimated)
+1933,quicktrip,0,empty,03:04 PM,04:53 PM,04:44 PM
+1934,quicktrip,UA-62-IAH-EWR,02:30 PM,02:48 PM,07:03 PM,07:10 PM
+1935,quicktrip,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+1936,quicktrip,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+1937,quicktrip,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+1938,quicktrip,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+1939,quicktrip,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+1940,quicktrip,0,empty,08:07 AM,01:39 PM,01:30 PM
+1941,quicktrip,0,empty,08:56 AM,10:40 AM,10:16 AM
+1942,quicktrip,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+1943,quicktrip,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+1944,quicktrip,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+1945,quicktrip,CO-50-CLE-EWR,02:55 PM,03:31 PM,04:49 PM,05:26 PM
+1946,quicktrip,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+1947,quicktrip,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+1948,quicktrip,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+1949,quicktrip,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+1950,quicktrip,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+1951,allegiantair,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+1952,allegiantair,CO-1586-IAH-MCO,empty,07:42 PM,10:15 PM,09:13 AM
+1953,allegiantair,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+1954,allegiantair,0,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+1955,allegiantair,UA-3925-IAD-ORF,empty,09:01 AM,09:54 AM,09:13 AM
+1956,allegiantair,AA-1733-ORD-PHX,07:45 PM,07:59 PM,10:30 PM,empty
+1957,allegiantair,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+1958,allegiantair,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+1959,allegiantair,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+1960,allegiantair,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+1961,allegiantair,AA-204-LAX-MCO,11:25 PM,empty,6:55 AM Dec 02,empty
+1962,allegiantair,UA-414-LAX-SFO,empty,06:10 AM,07:23 AM,09:13 AM
+1963,allegiantair,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+1964,allegiantair,0,04:00 PM,03:58 PM,0,06:28 PM
+1965,allegiantair,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+1966,allegiantair,0,empty,10:19 AM,01:16 PM,09:13 AM
+1967,allegiantair,0,09:05 AM,10:10 AM,0,01:27 PM
+1968,allegiantair,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+1969,allegiantair,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+1970,allegiantair,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+1971,allegiantair,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+1972,allegiantair,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+1973,allegiantair,0,empty,08:00 AM,0,09:13 AM
+1974,allegiantair,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+1975,allegiantair,AA-446-DFW-PHL,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+1976,allegiantair,0,empty,12:06 PM,01:17 PM,09:13 AM
+1977,allegiantair,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+1978,allegiantair,0,11:05 AM,11:30 AM,0,05:05 PM
+1979,allegiantair,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+1980,allegiantair,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+1981,allegiantair,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+1982,allegiantair,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+1983,allegiantair,0,empty,08:07 AM,01:39 PM,09:56 AM
+1984,allegiantair,UA-382-IAD-LAX,empty,12:56 PM,03:19 PM,09:13 AM
+1985,allegiantair,0,empty,12:14 PM,02:00 PM,09:13 AM
+1986,allegiantair,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+1987,allegiantair,UA-2945-PHL-CLT,12:00 PM,12:08 PM,0,01:15 PM
+1988,allegiantair,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+1989,allegiantair,0,empty,08:36 PM,08:56 PM,09:13 AM
+1990,allegiantair,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+1991,allegiantair,UA-248-PHX-ORD,empty,01:43 PM,05:15 PM,09:13 AM
+1992,allegiantair,AA-4330-CVG-ORD,empty,03:36 PM,04:00 PM,09:13 AM
+1993,allegiantair,0,07:15 AM,07:21 AM,0,10:36 AM
+1994,allegiantair,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+1995,allegiantair,0,06:45 PM,06:55 PM,0,08:53 PM
+1996,allegiantair,0,07:15 PM,empty,12:21 AM Dec 02,empty
+1997,allegiantair,0,empty,02:38 PM,07:53 PM,09:13 AM
+1998,allegiantair,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+1999,allegiantair,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+2000,allegiantair,0,07:10 AM,07:30 AM,0,09:31 AM
+2001,allegiantair,0,empty,05:09 PM,08:05 PM,09:13 AM
+2002,allegiantair,0,03:50 PM,04:28 PM,0,06:38 PM
+2003,allegiantair,UA-938-DEN-ORD,empty,04:37 PM,07:35 PM,09:13 AM
+2004,allegiantair,0,08:00 PM,08:23 PM,0,09:53 PM
+2005,allegiantair,0,10:25 AM,empty,06:44 PM,09:13 AM
+2006,allegiantair,UA-2515-DFW-CLT,empty,07:31 AM,10:31 AM,09:13 AM
+2007,allegiantair,AA-400-DFW-JFK,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+2008,allegiantair,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+2009,allegiantair,0,12:15 PM,12:41 PM,0,02:46 PM
+2010,allegiantair,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+2011,allegiantair,AA-1522-SFO-ORD,11:55 PM,empty,5:50 AM Dec 02,empty
+2012,allegiantair,0,04:25 PM,empty,12:29 AM Dec 02,empty
+2013,allegiantair,0,09:00 PM,empty,12:15 AM Dec 02,empty
+2014,allegiantair,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+2015,allegiantair,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+2016,allegiantair,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+2017,allegiantair,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+2018,allegiantair,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+2019,allegiantair,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+2020,allegiantair,UA-6273-YYC-SFO,empty,07:41 AM,Not Available,09:13 AM
+2021,allegiantair,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+2022,allegiantair,0,05:30 PM,empty,06:09 PM,06:15 PM
+2023,allegiantair,UA-858-PVG-SFO,empty,01:45 PM,08:27 AM,09:13 AM
+2024,allegiantair,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+2025,allegiantair,AA-3063-SLC-LAX,empty,08:40 PM,09:20 PM,09:13 AM
+2026,allegiantair,UA-2708-EWR-CLT,empty,03:04 PM,04:53 PM,09:13 AM
+2027,allegiantair,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+2028,allegiantair,UA-1500-IAH-GUA,empty,09:43 AM,11:45 AM,09:13 AM
+2029,allegiantair,0,02:35 PM,02:44 PM,0,03:43 PM
+2030,allegiantair,0,02:55 PM,03:27 PM,0,05:43 PM
+2031,allegiantair,0,07:15 AM,07:22 AM,0,11:06 AM
+2032,allegiantair,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+2033,allegiantair,0,07:55 AM,08:04 AM,0,11:01 AM
+2034,allegiantair,0,empty,09:05 AM,11:53 AM,09:56 AM
+2035,allegiantair,0,01:05 PM,01:19 PM,0,03:13 PM
+2036,allegiantair,AA-415-BOS-ORD,empty,08:56 AM,10:40 AM,09:13 AM
+2037,allegiantair,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+2038,allegiantair,0,07:30 AM,08:04 AM,0,08:06 AM
+2039,allegiantair,AA-1544-SAN-ORD,empty,11:41 AM,05:25 PM,09:13 AM
+2040,allegiantair,0,04:00 PM,04:12 PM,0,06:15 PM
+2041,allegiantair,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+2042,allegiantair,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+2043,allegiantair,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+2044,allegiantair,0,11:55 AM,11:43 AM,0,05:38 PM
+2045,allegiantair,0,10:40 AM,10:54 AM,0,12:50 PM
+2046,allegiantair,0,06:45 AM,06:57 AM,0,07:40 AM
+2047,allegiantair,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+2048,allegiantair,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+2049,allegiantair,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+2050,allegiantair,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+2051,businesstravellogue,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+2052,businesstravellogue,0,empty,07:42 PM,10:15 PM,09:13 AM
+2053,businesstravellogue,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+2054,businesstravellogue,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+2055,businesstravellogue,0,empty,09:01 AM,09:54 AM,09:13 AM
+2056,businesstravellogue,0,07:45 PM,07:59 PM,10:30 PM,empty
+2057,businesstravellogue,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+2058,businesstravellogue,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+2059,businesstravellogue,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+2060,businesstravellogue,0,empty,10:53 AM,0,09:13 AM
+2061,businesstravellogue,0,11:25 PM,empty,6:55 AM Dec 02,empty
+2062,businesstravellogue,0,empty,06:10 AM,0,09:13 AM
+2063,businesstravellogue,0,12:30 AM,12:41 AM,05:35 AM,09:13 AM
+2064,businesstravellogue,UA-2726-FLL-PHL,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+2065,businesstravellogue,0,empty,07:56 AM,0,09:13 AM
+2066,businesstravellogue,CO-1090-BOS-IAH,empty,10:19 AM,01:16 PM,09:13 AM
+2067,businesstravellogue,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+2068,businesstravellogue,0,empty,08:26 AM,0,09:13 AM
+2069,businesstravellogue,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+2070,businesstravellogue,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+2071,businesstravellogue,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+2072,businesstravellogue,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+2073,businesstravellogue,0,empty,08:00 AM,11:35 AM,09:13 AM
+2074,businesstravellogue,0,empty,03:04 PM,05:00 PM,09:13 AM
+2075,businesstravellogue,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+2076,businesstravellogue,0,empty,12:06 PM,01:17 PM,09:13 AM
+2077,businesstravellogue,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+2078,businesstravellogue,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+2079,businesstravellogue,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+2080,businesstravellogue,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+2081,businesstravellogue,0,10:15 AM,10:19 AM,0,11:50 AM
+2082,businesstravellogue,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+2083,businesstravellogue,0,empty,08:07 AM,01:39 PM,09:13 AM
+2084,businesstravellogue,0,empty,12:56 PM,03:19 PM,09:13 AM
+2085,businesstravellogue,0,empty,12:14 PM,0,09:13 AM
+2086,businesstravellogue,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+2087,businesstravellogue,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+2088,businesstravellogue,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+2089,businesstravellogue,0,empty,08:36 PM,0,09:13 AM
+2090,businesstravellogue,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+2091,businesstravellogue,0,empty,01:43 PM,05:15 PM,09:13 AM
+2092,businesstravellogue,AA-4330-CVG-ORD,empty,03:36 PM,0,09:13 AM
+2093,businesstravellogue,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+2094,businesstravellogue,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+2095,businesstravellogue,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+2096,businesstravellogue,0,07:15 PM,empty,12:21 AM Dec 02,empty
+2097,businesstravellogue,0,empty,02:38 PM,07:53 PM,09:13 AM
+2098,businesstravellogue,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+2099,businesstravellogue,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+2100,businesstravellogue,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+2101,businesstravellogue,0,empty,05:09 PM,0,09:13 AM
+2102,businesstravellogue,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+2103,businesstravellogue,0,empty,04:37 PM,07:35 PM,09:13 AM
+2104,businesstravellogue,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+2105,businesstravellogue,0,10:25 AM,empty,06:44 PM,09:13 AM
+2106,businesstravellogue,0,empty,07:31 AM,0,09:13 AM
+2107,businesstravellogue,0,10:40 AM,11:02 AM,02:59 PM,09:13 AM
+2108,businesstravellogue,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+2109,businesstravellogue,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+2110,businesstravellogue,0,01:29 PM,01:48 PM,04:17 PM,09:13 AM
+2111,businesstravellogue,0,11:55 PM,empty,5:50 AM Dec 02,empty
+2112,businesstravellogue,0,04:25 PM,empty,12:29 AM  Fri 02-Dec-2011,empty
+2113,businesstravellogue,0,09:00 PM,empty,12:15 AM Dec 02,empty
+2114,businesstravellogue,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+2115,businesstravellogue,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+2116,businesstravellogue,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+2117,businesstravellogue,0,empty,08:37 AM,empty,09:13 AM
+2118,businesstravellogue,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+2119,businesstravellogue,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+2120,businesstravellogue,0,empty,07:41 AM,Not Available,09:13 AM
+2121,businesstravellogue,0,11:08 PM,empty,5:11 AMDec 02,empty
+2122,businesstravellogue,0,05:30 PM,empty,06:09 PM,06:15 PM
+2123,businesstravellogue,0,empty,01:45 PM,08:27 AM,09:13 AM
+2124,businesstravellogue,0,empty,11:47 AM,0,09:13 AM
+2125,businesstravellogue,0,empty,08:40 PM,0,09:13 AM
+2126,businesstravellogue,0,empty,03:04 PM,0,09:13 AM
+2127,businesstravellogue,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+2128,businesstravellogue,0,empty,09:43 AM,0,09:13 AM
+2129,businesstravellogue,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+2130,businesstravellogue,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+2131,businesstravellogue,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+2132,businesstravellogue,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+2133,businesstravellogue,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+2134,businesstravellogue,0,empty,08:52 AM,11:53 AM,09:13 AM
+2135,businesstravellogue,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+2136,businesstravellogue,AA-415-BOS-ORD,empty,08:56 AM,0,09:13 AM
+2137,businesstravellogue,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+2138,businesstravellogue,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+2139,businesstravellogue,0,empty,11:41 AM,05:25 PM,09:13 AM
+2140,businesstravellogue,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+2141,businesstravellogue,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+2142,businesstravellogue,AA-2525-DFW-MIA,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+2143,businesstravellogue,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+2144,businesstravellogue,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+2145,businesstravellogue,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+2146,businesstravellogue,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+2147,businesstravellogue,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+2148,businesstravellogue,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+2149,businesstravellogue,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+2150,businesstravellogue,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+2151,den,0,11:25 AM,11:32 AM,0,09:13 AM
+2152,den,0,empty,empty,0,01:14 PM
+2153,den,0,empty,empty,12:15 AM Dec 02,empty
+2154,den,0,empty,04:37 PM,0,09:13 AM
+2155,den,0,01:05 PM,01:19 PM,0,03:13 PM
+2156,gofox,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:32 AM
+2157,gofox,0,empty,07:42 PM,10:15 PM,09:13 AM
+2158,gofox,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+2159,gofox,0,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+2160,gofox,UA-3925-IAD-ORF,empty,09:01 AM,09:54 AM,09:13 AM
+2161,gofox,AA-1733-ORD-PHX,07:45 PM,07:59 PM,10:30 PM,empty
+2162,gofox,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+2163,gofox,0,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+2164,gofox,0,11:25 AM,11:32 AM,02:50 PM,09:13 AM
+2165,gofox,UA-5487-SFO-MRY,empty,10:53 AM,0,09:13 AM
+2166,gofox,AA-204-LAX-MCO,11:25 PM,empty,6:55 AM Dec 02,empty
+2167,gofox,UA-414-LAX-SFO,empty,06:10 AM,07:23 AM,09:13 AM
+2168,gofox,0,12:30 AM,12:58 AM,05:35 AM,09:13 AM
+2169,gofox,0,04:00 PM,03:58 PM,0,06:28 PM
+2170,gofox,CO-52-IAH-LAX,empty,07:56 AM,09:21 AM,09:13 AM
+2171,gofox,0,empty,10:19 AM,01:16 PM,09:13 AM
+2172,gofox,0,09:05 AM,10:10 AM,0,01:27 PM
+2173,gofox,UA-3515-IAD-MSP,empty,08:26 AM,0,09:13 AM
+2174,gofox,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+2175,gofox,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+2176,gofox,AA-1886-BOS-MIA,empty,10:55 AM,02:20 PM,09:13 AM
+2177,gofox,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+2178,gofox,0,empty,08:18 AM,11:35 AM,09:13 AM
+2179,gofox,UA-2314-ATL-PHL,empty,03:04 PM,0,09:13 AM
+2180,gofox,AA-446-DFW-PHL,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+2181,gofox,0,empty,12:06 PM,01:17 PM,09:13 AM
+2182,gofox,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+2183,gofox,0,11:05 AM,11:30 AM,0,05:05 PM
+2184,gofox,0,06:00 AM,06:02 AM,10:20 AM,09:13 AM
+2185,gofox,0,08:40 AM,08:40 AM,10:54 AM,09:13 AM
+2186,gofox,AA-1664-MIA-ATL,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+2187,gofox,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+2188,gofox,UA-854-SFO-IAH,empty,08:07 AM,01:39 PM,09:13 AM
+2189,gofox,UA-382-IAD-LAX,empty,12:56 PM,03:19 PM,09:13 AM
+2190,gofox,AA-4344-ORD-DTW,empty,12:14 PM,0,09:13 AM
+2191,gofox,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+2192,gofox,UA-2945-PHL-CLT,12:00 PM,12:08 PM,0,01:15 PM
+2193,gofox,0,05:25 PM,05:22 PM,08:22 PM,09:13 AM
+2194,gofox,0,empty,08:36 PM,08:56 PM,09:13 AM
+2195,gofox,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+2196,gofox,UA-248-PHX-ORD,empty,01:43 PM,05:15 PM,09:13 AM
+2197,gofox,AA-4330-CVG-ORD,empty,03:36 PM,04:00 PM,09:13 AM
+2198,gofox,0,07:15 AM,07:21 AM,0,10:36 AM
+2199,gofox,AA-1640-MIA-MCO,06:30 PM,empty,07:25 PM,empty
+2200,gofox,0,06:45 PM,06:55 PM,0,08:53 PM
+2201,gofox,0,07:15 PM,empty,12:21 AM Dec 02,empty
+2202,gofox,0,empty,02:38 PM,07:53 PM,09:13 AM
+2203,gofox,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+2204,gofox,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+2205,gofox,0,07:10 AM,07:30 AM,0,09:31 AM
+2206,gofox,0,empty,05:09 PM,08:05 PM,09:13 AM
+2207,gofox,0,03:50 PM,04:28 PM,0,06:38 PM
+2208,gofox,UA-938-DEN-ORD,empty,04:37 PM,07:35 PM,09:13 AM
+2209,gofox,0,08:00 PM,08:23 PM,0,09:53 PM
+2210,gofox,0,10:25 AM,empty,06:44 PM,09:13 AM
+2211,gofox,UA-2515-DFW-CLT,empty,07:31 AM,10:31 AM,09:13 AM
+2212,gofox,AA-400-DFW-JFK,10:40 AM,11:02 AM,02:59 PM,03:04 PM
+2213,gofox,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+2214,gofox,0,12:15 PM,12:41 PM,0,02:46 PM
+2215,gofox,0,01:29 PM,02:01 PM,04:17 PM,09:13 AM
+2216,gofox,AA-1522-SFO-ORD,11:55 PM,empty,5:50 AM Dec 02,empty
+2217,gofox,0,04:25 PM,empty,12:29 AM Dec 02,empty
+2218,gofox,0,09:00 PM,empty,12:15 AM Dec 02,empty
+2219,gofox,AA-2312-DFW-DTW,08:25 PM,empty,11:50 PM,empty
+2220,gofox,0,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+2221,gofox,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+2222,gofox,UA-3373-IAD-PHL,empty,08:37 AM,empty,09:13 AM
+2223,gofox,AA-649-ORD-SNA,01:30 PM,empty,0,04:09 PM
+2224,gofox,0,02:53 PM,03:01 PM,04:48 PM,09:13 AM
+2225,gofox,UA-6273-YYC-SFO,empty,07:41 AM,Not Available,09:13 AM
+2226,gofox,UA-828-SFO-ORD,11:08 PM,empty,5:11 AMDec 02,empty
+2227,gofox,0,05:30 PM,empty,06:09 PM,06:15 PM
+2228,gofox,UA-858-PVG-SFO,empty,01:45 PM,0,09:13 AM
+2229,gofox,UA-2704-DTW-PHX,empty,11:47 AM,01:40 PM,09:13 AM
+2230,gofox,AA-3063-SLC-LAX,empty,08:40 PM,09:20 PM,09:13 AM
+2231,gofox,UA-2708-EWR-CLT,empty,03:04 PM,0,09:13 AM
+2232,gofox,0,02:30 PM,02:48 PM,07:03 PM,09:13 AM
+2233,gofox,UA-1500-IAH-GUA,empty,09:43 AM,11:45 AM,09:13 AM
+2234,gofox,0,02:35 PM,02:44 PM,0,03:43 PM
+2235,gofox,0,02:55 PM,03:27 PM,0,05:43 PM
+2236,gofox,0,07:15 AM,07:22 AM,0,11:06 AM
+2237,gofox,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+2238,gofox,0,07:55 AM,08:04 AM,0,11:01 AM
+2239,gofox,0,empty,09:05 AM,11:53 AM,09:13 AM
+2240,gofox,0,01:05 PM,01:19 PM,0,03:13 PM
+2241,gofox,AA-415-BOS-ORD,empty,08:56 AM,10:40 AM,09:13 AM
+2242,gofox,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+2243,gofox,0,07:30 AM,08:04 AM,0,08:06 AM
+2244,gofox,AA-1544-SAN-ORD,empty,11:41 AM,05:25 PM,09:13 AM
+2245,gofox,0,04:00 PM,04:12 PM,0,06:15 PM
+2246,gofox,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+2247,gofox,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+2248,gofox,0,02:55 PM,03:31 PM,04:49 PM,09:13 AM
+2249,gofox,0,11:55 AM,11:43 AM,0,05:38 PM
+2250,gofox,0,10:40 AM,10:54 AM,0,12:50 PM
+2251,gofox,0,06:45 AM,06:57 AM,0,07:40 AM
+2252,gofox,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+2253,gofox,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+2254,gofox,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+2255,gofox,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+2256,flightaware,0,07:10 AM,07:16 AM,09:40 AM,09:22 AM
+2257,flightaware,0,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+2258,flightaware,0,empty,07:42 PM,09:40 PM,10:24 PM
+2259,flightaware,0,empty,09:01 AM,09:34 AM,09:44 AM
+2260,flightaware,0,07:45 PM,07:59 PM,10:30 PM,empty
+2261,flightaware,0,11:25 PM,empty,6:55 AM Dec 02,empty
+2262,flightaware,0,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+2263,flightaware,0,empty,07:56 AM,09:11 AM,09:08 AM
+2264,flightaware,0,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+2265,flightaware,0,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+2266,flightaware,0,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+2267,flightaware,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+2268,flightaware,0,empty,12:06 PM,12:51 PM,01:07 PM
+2269,flightaware,0,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+2270,flightaware,0,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+2271,flightaware,0,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+2272,flightaware,0,10:15 AM,10:19 AM,12:10 PM,11:50 AM
+2273,flightaware,0,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+2274,flightaware,0,01:00 PM,02:04 PM,02:35 PM,03:13 PM
+2275,flightaware,0,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+2276,flightaware,0,12:15 PM,12:41 PM,02:45 PM,02:50 PM
+2277,flightaware,0,empty,12:56 PM,02:48 PM,03:07 PM
+2278,flightaware,0,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+2279,flightaware,0,12:00 PM,12:08 PM,01:35 PM,01:08 PM
+2280,flightaware,0,05:25 PM,05:22 PM,08:22 PM,08:03 PM
+2281,flightaware,0,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+2282,flightaware,0,empty,08:36 PM,08:46 PM,08:46 PM
+2283,flightaware,0,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+2284,flightaware,0,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+2285,flightaware,0,empty,03:36 PM,empty,empty
+2286,flightaware,0,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+2287,flightaware,0,06:30 PM,empty,07:25 PM,empty
+2288,flightaware,0,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+2289,flightaware,0,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+2290,flightaware,0,07:15 PM,07:25 PM,12:21 AM Dec 02,empty
+2291,flightaware,0,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+2292,flightaware,0,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+2293,flightaware,0,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+2294,flightaware,0,empty,05:09 PM,07:38 PM,07:43 PM
+2295,flightaware,0,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+2296,flightaware,0,08:00 PM,08:23 PM,0,09:53 PM
+2297,flightaware,0,10:40 AM,11:02 AM,02:59 PM,03:13 PM
+2298,flightaware,0,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+2299,flightaware,0,01:29 PM,01:48 PM,04:17 PM,04:17 PM
+2300,flightaware,0,04:25 PM,04:35 PM,12:09 AM,12:19 AM
+2301,flightaware,0,09:00 PM,empty,12:05 AM,12:01 AM
+2302,flightaware,0,08:25 PM,empty,11:50 PM,empty
+2303,flightaware,0,06:59 AM,07:22 AM,10:34 AM,09:28 AM
+2304,flightaware,0,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+2305,flightaware,0,01:30 PM,empty,0,03:14 PM
+2306,flightaware,0,11:08 PM,empty,5:11 AMDec 02,empty
+2307,flightaware,0,05:30 PM,empty,06:09 PM,05:42 PM
+2308,flightaware,0,empty,08:40 PM,0,08:53 PM
+2309,flightaware,0,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+2310,flightaware,0,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+2311,flightaware,0,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+2312,flightaware,0,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+2313,flightaware,0,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+2314,flightaware,0,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+2315,flightaware,0,04:00 PM,04:12 PM,06:40 PM,06:43 PM
+2316,flightaware,0,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+2317,flightaware,0,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+2318,flightaware,0,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+2319,flightaware,0,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+2320,flightaware,0,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+2321,flightaware,0,07:10 AM,07:39 AM,10:45 AM,11:12 AM
+2322,world-flight-tracker,AA-3859-IAH-ORD,07:10 AM,07:16 AM,09:40 AM,09:32 AM
+2323,world-flight-tracker,AA-518-MIA-JFK,06:40 AM,06:54 AM,09:25 AM,09:28 AM
+2324,world-flight-tracker,UA-397-JFK-SFO,08:00 AM,08:29 AM,11:55 AM,11:58 AM
+2325,world-flight-tracker,0,07:45 PM,07:59 PM,0,empty
+2326,world-flight-tracker,0,06:30 PM,empty,0,empty
+2327,world-flight-tracker,0,07:15 PM,7:15 PM (Estimated),12:21 AM,empty
+2328,world-flight-tracker,UA-2830-MCO-CLT,03:27 PM,03:28 PM,05:05 PM,05:17 PM
+2329,world-flight-tracker,0,11:25 PM,empty,6:55 AM Dec 02,empty
+2330,world-flight-tracker,UA-2726-FLL-PHL,04:00 PM,03:58 PM,06:46 PM,06:28 PM
+2331,world-flight-tracker,AA-3468-CVG-MIA,07:00 AM,07:25 AM,09:55 AM,09:45 AM
+2332,world-flight-tracker,AA-484-DFW-MIA,04:15 PM,04:29 PM,07:55 PM,07:39 PM
+2333,world-flight-tracker,AA-616-DFW-DTW,09:05 AM,10:10 AM,12:35 PM,01:27 PM
+2334,world-flight-tracker,0,11:50 AM,12:13 PM,03:50 PM,04:09 PM
+2335,world-flight-tracker,AA-466-IAH-MIA,06:00 AM,06:08 AM,09:20 AM,09:05 AM
+2336,world-flight-tracker,UA-3050-PHX-CLT,11:05 AM,11:30 AM,04:57 PM,05:05 PM
+2337,world-flight-tracker,AA-2957-DFW-CVG,07:55 AM,08:04 AM,11:05 AM,11:01 AM
+2338,world-flight-tracker,0,10:15 AM,10:19 AM,0,11:50 AM
+2339,world-flight-tracker,AA-3979-CVG-ORD,07:30 AM,08:04 AM,08:00 AM,08:06 AM
+2340,world-flight-tracker,AA-1279-DFW-PHX,01:00 PM,02:04 PM,0,03:13 PM
+2341,world-flight-tracker,AA-404-MIA-MCO,06:45 AM,06:57 AM,07:45 AM,07:40 AM
+2342,world-flight-tracker,AA-3756-ORD-SLC,12:15 PM,12:41 PM,0,02:46 PM
+2343,world-flight-tracker,0,12:00 PM,12:08 PM,01:45 PM,01:15 PM
+2344,world-flight-tracker,AA-2525-DFW-MIA,07:25 AM,07:39 AM,11:10 AM,11:06 AM
+2345,world-flight-tracker,AA-271-MIA-LAX,11:35 AM,11:52 AM,02:25 PM,02:27 PM
+2346,world-flight-tracker,AA-2050-ORD-MIA,10:40 AM,11:05 AM,02:45 PM,02:46 PM
+2347,world-flight-tracker,AA-1434-DFW-MCO,07:15 AM,07:21 AM,10:35 AM,10:36 AM
+2348,world-flight-tracker,AA-4307-ORD-DTW,06:45 PM,06:55 PM,09:10 PM,08:53 PM
+2349,world-flight-tracker,AA-3-JFK-LAX,12:00 PM,12:11 PM,03:15 PM,03:16 PM
+2350,world-flight-tracker,CO-1193-EWR-MCO,09:15 AM,09:14 AM,12:18 PM,12:09 PM
+2351,world-flight-tracker,AA-3842-MSP-ORD,06:00 AM,06:56 AM,07:30 AM,07:51 AM
+2352,world-flight-tracker,AA-643-MIA-ORD,07:10 AM,07:30 AM,09:35 AM,09:31 AM
+2353,world-flight-tracker,UA-2906-PHL-MCO,03:50 PM,04:28 PM,06:23 PM,06:38 PM
+2354,world-flight-tracker,AA-1221-MCO-ORD,08:00 PM,08:23 PM,09:45 PM,09:53 PM
+2355,world-flight-tracker,UA-664-ORD-PHL,01:33 PM,01:31 PM,04:31 PM,04:23 PM
+2356,world-flight-tracker,0,11:55 PM,empty,5:50 AM Dec 02,empty
+2357,world-flight-tracker,0,04:25 PM,4:28 PM (Estimated runway),12:29 AM,empty
+2358,world-flight-tracker,0,09:00 PM,9:06 PM (Estimated runway),12:15 AM,11:49 PM (Estimated runway)
+2359,world-flight-tracker,0,08:25 PM,empty,0,empty
+2360,world-flight-tracker,AA-1165-JFK-MIA,06:59 AM,07:22 AM,10:34 AM,10:04 AM
+2361,world-flight-tracker,AA-431-MIA-SFO,08:35 AM,08:51 AM,11:50 AM,11:44 AM
+2362,world-flight-tracker,UA-257-JFK-SFO,02:30 PM,02:26 PM,06:15 PM,05:42 PM
+2363,world-flight-tracker,0,01:30 PM,empty,0,04:09 PM
+2364,world-flight-tracker,AA-3804-PHL-ORD,02:35 PM,02:44 PM,04:05 PM,03:43 PM
+2365,world-flight-tracker,AA-1917-JFK-MCO,02:55 PM,03:27 PM,05:55 PM,05:43 PM
+2366,world-flight-tracker,AA-2268-PHX-ORD,07:15 AM,07:22 AM,11:35 AM,11:06 AM
+2367,world-flight-tracker,AA-4277-CVG-JFK,12:10 PM,12:10 PM,02:15 PM,01:43 PM
+2368,world-flight-tracker,AA-789-ORD-DEN,01:05 PM,01:19 PM,02:35 PM,03:13 PM
+2369,world-flight-tracker,AA-85-JFK-SFO,03:05 PM,03:36 PM,06:30 PM,06:43 PM
+2370,world-flight-tracker,AA-3786-IAH-ORD,04:00 PM,04:12 PM,06:40 PM,06:15 PM
+2371,world-flight-tracker,AA-222-LAX-BOS,07:10 AM,07:31 AM,03:30 PM,03:14 PM
+2372,world-flight-tracker,UA-3099-PHX-PHL,11:55 AM,11:43 AM,06:17 PM,05:38 PM
+2373,world-flight-tracker,AA-4198-ORD-CLE,10:40 AM,10:54 AM,12:55 PM,12:50 PM
+2374,world-flight-tracker,CO-45-EWR-MIA,04:00 PM,03:58 PM,07:05 PM,06:36 PM
+2375,world-flight-tracker,AA-3809-PHX-LAX,06:00 AM,06:10 AM,06:40 AM,06:19 AM
+2376,world-flight-tracker,AA-59-JFK-SFO,07:10 AM,07:39 AM,10:45 AM,11:12 AM
