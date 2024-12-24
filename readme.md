@@ -80,3 +80,5 @@ The `run.sh` script iterates over each dataset in the `datasets/original_dataset
     - **File Naming Format**: `[dataset_name][the actual size of the dataset (if it is not in its original size)]_cleaned_by_[cleaning_system_name].csv`
     - Example: `1_hospital_cleaned_by_baran.csv`
 - `evaluate_result.py`: A script that computes performance metrics for data cleaning, such as accuracy, recall, F1 score, and error reduction rate, allowing comprehensive evaluation of data cleaning effectiveness.
+- `get_holoclean_table.py` A script that transforms datasets into the Holoclean-compatible input CSV format. It transposes data and ensures compliance with Holoclean's required schema for further data cleaning tasks.
+- `get_error_num.py` A script that compares dirty data with clean data to compute the number of erroneous cells and entries. It provides a detailed analysis of the extent of errors, facilitating error quantification and benchmarking.
