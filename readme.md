@@ -46,7 +46,7 @@ chmod +x run.sh
 The `run.sh` script iterates over each dataset in the `datasets/original_datasets/` directory, processes it with Uniclean, and logs the results. Each dataset has its specific configuration, including `mse_attributes` (attributes for Mean Squared Error calculation) and `elapsed_time` parameters. The results of each dataset’s cleaning process are saved in the corresponding subdirectory within `Uniclean_logs/`.
 
 ## Repository Structure
-- `datasets/`:Stores two categories of datasets used for experiments.
+- `datasets_and_rules/`:real word datasets、inject error datasets and their cleaning rules:
   - `artificial_error_datasets/`:Contains datasets with artificially injected errors in eight different proportions (ranging from 0.25% to 2%) for controlled experiments and benchmarking. This folder also includes the *BART script* used for injecting these errors into the datasets.
   - `original_datasets/`: Contains real-world datasets in their native (uncleaned) form.
 - `Uniclean_cleaned_data/`: Datasets that have been cleaned by Uniclean.
