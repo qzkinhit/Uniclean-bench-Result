@@ -3,8 +3,8 @@
 # chmod +x run.sh
 # ./run.sh
 
-# Define datasets, their specific mse_attributes, and pre-calculated elapsed times
-datasets=("1_hospital" "2_flights" "3_beers" "4_rayyan" "5_tax50k")
+# Define datasets_and_rules, their specific mse_attributes, and pre-calculated elapsed times
+datasets_and_rules=("1_hospital" "2_flights" "3_beers" "4_rayyan" "5_tax50k")
 mse_attributes=("Score" "" "abv ibu" "" "rate")
 elapsed_times=("108.115330875" "84.591757375" "31.24922154099" "52.377824583" "12589.6389")
 
@@ -15,8 +15,8 @@ cleaned_base_path="./Uniclean_cleaned_data/original_error_cleaned_data"
 output_base_path="./Uniclean_results/original_error_results"
 
 # Loop through each dataset and execute the main Python script
-for i in "${!datasets[@]}"; do
-    dataset="${datasets[$i]}"
+for i in "${!datasets_and_rules[@]}"; do
+    dataset="${datasets_and_rules[$i]}"
     mse_attr="${mse_attributes[$i]}"
     elapsed_time="${elapsed_times[$i]}"
 
