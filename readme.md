@@ -63,12 +63,12 @@ The `run.sh` script iterates over each dataset in the `datasets/original_dataset
     - `clean_penalty.py`: Calculates cleaning costs (edit distance, semantic penalties, Jaccard penalties).
 
 
-## Template Scripts in ./uniclean_cleaners
+## Conguration script in ./uniclean_cleaners
 - `main.py`: Command-line entry point for one-click data cleaning.
 - `logsetting.py`: Logging configuration for the one-click pipeline.
 - `Clean.py`: Core script for terminal-based cleaning logic.
 - `requirements.txt`: Dependency list for the one-click cleaning system.
-``- `Plantuml.svg`: Flowchart visualizing the cleaning pipeline.
+- `Plantuml.svg`: Flowchart visualizing the cleaning pipeline.
 
 # Repository Structure
 - `datasets_and_rules/`:real word datasets、inject error datasets and their cleaning rules:
