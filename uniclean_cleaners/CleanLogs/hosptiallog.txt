@@ -1,0 +1,1192 @@
+/Users/qianzekai/anaconda3/bin/python /Users/qianzekai/PycharmProjects/CustomClean/main_hosptial.py
+日志文件: CleanLogs/20240914-223815_ZED0A0G4QL.log
+24/09/14 22:38:26 WARN Utils: Your hostname, qianzekaideMacBook-Air.local resolves to a loopback address: 127.0.0.1; using 192.168.3.1 instead (on interface bridge0)
+24/09/14 22:38:26 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+24/09/14 22:38:34 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Logs saved in CleanLogs/20240914-223815_ZED0A0G4QL.log
+初始化清洗器和分析依赖关系...
+执行层级和目标模型分类...
+执行层级 (并行组): [[{'HospitalName', 'ProviderNumber'}, {'MeasureCode'}], [{'ZipCode'}, {'PhoneNumber'}, {'Address1'}, {'HospitalOwner'}, {'City'}, {'MeasureName'}, {'Stateavg'}, {'Condition'}], [{'EmergencyService'}, {'State'}, {'CountyName'}, {'HospitalType'}]]
+目标模型分类: {'HospitalName,ProviderNumber': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x100dd6b80>, <SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1790>], 'HospitalType': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x100dd67c0>], 'State': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x100dd68e0>], 'ZipCode': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x100eaca60>], 'PhoneNumber': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x100eaca00>], 'MeasureName': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf11c0>], 'Stateavg': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1430>], 'Condition': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1910>], 'Address1': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1c10>], 'HospitalOwner': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1dc0>], 'CountyName': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1df0>], 'EmergencyService': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1e20>], 'City': [<SampleScrubber.cleaner.multiple.AttrRelation object at 0x131cf1e80>]}
+
+处理第 1 层级, 包含节点: ['HospitalName,ProviderNumber', 'MeasureCode']
+  当前节点: HospitalName,ProviderNumber 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName', 'ProviderNumber'] -> 目标属性 HospitalName,ProviderNumber
+24/09/14 22:38:51 WARN WindowExec: No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+24/09/14 22:38:59 WARN WindowExec: No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+核心样本抽取时间（秒）: 23.179954051971436
+24/09/14 22:39:04 WARN WindowExec: No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+数据块大小: 49
+Computing Block 1 out of 5
+Processing Block size=10
+begin cleaner[FunctionalDependency:(s: {'HospitalName'}, t: {'ProviderNumber'})]*1.0+[FunctionalDependency:(s: {'ProviderNumber'}, t: {'HospitalName'})]*1.0
+clean_bool length:5
+newest best op: Uniop(df,'HospitalName','marion regional medical center',(['ProviderNumber'], {('10044',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.18), operator: *, right: (1.0, 1.0), result: 0.18}, 0.18), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.09})
+now error: 0.8999999999999999
+newest best op: Uniop(df,'ProviderNumber','10044',(['HospitalName'], {('marion regional medical center',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.415618 seconds
+Computing Block 2 out of 5
+Processing Block size=10
+begin cleaner{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0}
+Block processing time: 0.139122 seconds
+Computing Block 3 out of 5
+Processing Block size=10
+begin cleaner{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0}
+clean_bool length:7
+newest best op: Uniop(df,'HospitalName','helen keller memorial hospital',(['ProviderNumber'], {('01019',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.33999999999999997), operator: *, right: (1.0, 1.0), result: 0.33999999999999997}, 0.33999999999999997), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.16999999999999998})
+now error: 1.7
+newest best op: Uniop(df,'ProviderNumber','10019',(['HospitalName'], {('helen keller memorial hospital',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.258331 seconds
+Computing Block 4 out of 5
+Processing Block size=9
+begin cleaner{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.18), operator: *, right: (1.0, 1.0), result: 0.18}, 0.18), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.09}
+clean_bool length:5
+newest best op: Uniop(df,'HospitalName','fayette medical center',(['ProviderNumber'], {('10045***',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.1975308641975309), operator: *, right: (1.0, 1.0), result: 0.1975308641975309}, 0.1975308641975309), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.09876543209876545})
+now error: 0.8888888888888891
+newest best op: Uniop(df,'ProviderNumber','10045',(['HospitalName'], {('fayette medical center',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.170731 seconds
+Computing Block 5 out of 5
+Processing Block size=10
+begin cleaner{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0}
+clean_bool length:7
+newest best op: Uniop(df,'HospitalName','hartselle medical center',(['ProviderNumber'], {('10018',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.33999999999999997), operator: *, right: (1.0, 1.0), result: 0.33999999999999997}, 0.33999999999999997), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.16999999999999998})
+now error: 1.6999999999999997
+newest best op: Uniop(df,'ProviderNumber','10009',(['HospitalName'], {('hartselle medical center',)}),{left: ({left: ("[FunctionalDependency:(s: {HospitalName}, t: {ProviderNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), operator: +, right: ({left: ("[FunctionalDependency:(s: {ProviderNumber}, t: {HospitalName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}, 0.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.238034 seconds
+  当前节点: MeasureCode 无可用清洗信号
+['HospitalName,ProviderNumber', 'MeasureCode']的清洗完成
+
+本层累积的编辑规则数: 4
+读入数据大小：1000
+处理了 4 条规则，更新数据...
+第 500 个编辑规则更新完成
+正在写入数据
+写入数据大小：1000
+重新读取最新清洗的数据
+读入数据大小1000
+数据清洗后变动，重新进行节点:['HospitalName,ProviderNumber', 'MeasureCode']的清洗
+
+处理第 1 层级, 包含节点: ['HospitalName,ProviderNumber', 'MeasureCode']
+  当前节点: HospitalName,ProviderNumber 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName', 'ProviderNumber'] -> 目标属性 HospitalName,ProviderNumber
+24/09/14 22:39:14 WARN WindowExec: No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+核心样本抽取时间（秒）: 9.924994945526123
+24/09/14 22:39:21 WARN WindowExec: No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+数据块大小: 0
+  跳过已清洗结束的节点: MeasureCode
+['HospitalName,ProviderNumber', 'MeasureCode']的清洗完成
+
+本层累积的编辑规则数: 0
+本层没有可以进行的清洗操作，进行下一层
+
+处理第 2 层级, 包含节点: ['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']
+  当前节点: ZipCode 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 ZipCode
+核心样本抽取时间（秒）: 5.118396043777466
+数据块大小: 13
+Computing Block 1 out of 4
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'HospitalName'}, t: {'ZipCode'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'ZipCode','35570',(['HospitalName'], {('marion regional medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.029557 seconds
+Computing Block 2 out of 4
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'ZipCode','35233',(['HospitalName'], {('callahan eye foundation hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.026629 seconds
+Computing Block 3 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'ZipCode','35957',(['HospitalName'], {('marshall medical center south',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.018041 seconds
+Computing Block 4 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'ZipCode','35007',(['HospitalName'], {('shelby baptist medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {ZipCode})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.016004 seconds
+  当前节点: PhoneNumber 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 PhoneNumber
+核心样本抽取时间（秒）: 4.89998984336853
+数据块大小: 10
+Computing Block 1 out of 3
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'HospitalName'}, t: {'PhoneNumber'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'PhoneNumber','2057552500',(['HospitalName'], {('chilton medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {PhoneNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.022392 seconds
+Computing Block 2 out of 3
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {PhoneNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'PhoneNumber','2569275531',(['HospitalName'], {('cherokee medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {PhoneNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.025118 seconds
+Computing Block 3 out of 3
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {PhoneNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'PhoneNumber','2563864556',(['HospitalName'], {('helen keller memorial hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {PhoneNumber})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.027327 seconds
+  当前节点: Address1 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 Address1
+核心样本抽取时间（秒）: 4.875207901000977
+数据块大小: 16
+Computing Block 1 out of 5
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'HospitalName'}, t: {'Address1'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'Address1','849 south three notch street',(['HospitalName'], {('andalusia regional hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.036219 seconds
+Computing Block 2 out of 5
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Address1','619 south 19th street',(['HospitalName'], {('university of alabama hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.036729 seconds
+Computing Block 3 out of 5
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Address1','1653 temple avenue north',(['HospitalName'], {('fayette medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.025672 seconds
+Computing Block 4 out of 5
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Address1','1300 south montgomery avenue',(['HospitalName'], {('helen keller memorial hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.033063 seconds
+Computing Block 5 out of 5
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Address1','315 w hickory st',(['HospitalName'], {('coosa valley medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {Address1})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.020329 seconds
+  当前节点: HospitalOwner 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 HospitalOwner
+核心样本抽取时间（秒）: 3.8615307807922363
+数据块大小: 16
+Computing Block 1 out of 5
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'HospitalName'}, t: {'HospitalOwner'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'HospitalOwner','voluntary non-profit - private',(['HospitalName'], {('community hospital inc',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015889 seconds
+Computing Block 2 out of 5
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalOwner','government - local',(['HospitalName'], {('wedowee hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015243 seconds
+Computing Block 3 out of 5
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalOwner','voluntary non-profit - other',(['HospitalName'], {('g h lanier memorial hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015489 seconds
+Computing Block 4 out of 5
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalOwner','government - hospital district or authority',(['HospitalName'], {('helen keller memorial hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.018567 seconds
+Computing Block 5 out of 5
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalOwner','voluntary non-profit - private',(['HospitalName'], {('marion regional medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {HospitalOwner})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010429 seconds
+  当前节点: City 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 City
+核心样本抽取时间（秒）: 5.695713996887207
+数据块大小: 13
+Computing Block 1 out of 4
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'HospitalName'}, t: {'City'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'City','clanton',(['HospitalName'], {('chilton medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.057779 seconds
+Computing Block 2 out of 4
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'City','birmingham',(['HospitalName'], {('callahan eye foundation hospital',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.02625 seconds
+Computing Block 3 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'City','hamilton',(['HospitalName'], {('marion regional medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.016658 seconds
+Computing Block 4 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'City','dothan',(['HospitalName'], {('southeast alabama medical center',)}),{left: ("[FunctionalDependency:(s: {HospitalName}, t: {City})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.016181 seconds
+  当前节点: MeasureName 存在可用清洗信号
+  抽样处理：源属性 ['MeasureCode'] -> 目标属性 MeasureName
+核心样本抽取时间（秒）: 8.919851064682007
+数据块大小: 18
+Computing Block 1 out of 4
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'MeasureCode'}, t: {'MeasureName'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'MeasureName','heart failure patients given an evaluation of left ventricular systolic (lvs) function',(['MeasureCode'], {('hf-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.039637 seconds
+Computing Block 2 out of 4
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'MeasureName','heart attack patients given aspirin at arrival',(['MeasureCode'], {('ami-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.03896 seconds
+Computing Block 3 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'MeasureName','heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)',(['MeasureCode'], {('hf-3',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.031909 seconds
+Computing Block 4 out of 4
+Processing Block size=8
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'MeasureName','surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery',(['MeasureCode'], {('scip-card-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {MeasureName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.159029 seconds
+  当前节点: Stateavg 存在可用清洗信号
+  抽样处理：源属性 ['MeasureCode'] -> 目标属性 Stateavg
+核心样本抽取时间（秒）: 5.9283998012542725
+数据块大小: 68
+Computing Block 1 out of 20
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'MeasureCode'}, t: {'Stateavg'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-inf-4',(['MeasureCode'], {('scip-inf-4',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.018507 seconds
+Computing Block 2 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_pn-7',(['MeasureCode'], {('pn-7',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.012003 seconds
+Computing Block 3 out of 20
+Processing Block size=5
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_ami-2',(['MeasureCode'], {('ami-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.018177 seconds
+Computing Block 4 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_hf-2',(['MeasureCode'], {('hf-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.009969 seconds
+Computing Block 5 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_pn-4',(['MeasureCode'], {('pn-4',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.009929 seconds
+Computing Block 6 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-inf-3',(['MeasureCode'], {('scip-inf-3',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.012038 seconds
+Computing Block 7 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_hf-3',(['MeasureCode'], {('hf-3',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010223 seconds
+Computing Block 8 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_pn-6',(['MeasureCode'], {('pn-6',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.009988 seconds
+Computing Block 9 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_hf-1',(['MeasureCode'], {('hf-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.009906 seconds
+Computing Block 10 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-inf-1',(['MeasureCode'], {('scip-inf-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.011366 seconds
+Computing Block 11 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-inf-2',(['MeasureCode'], {('scip-inf-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.011429 seconds
+Computing Block 12 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-inf-6',(['MeasureCode'], {('scip-inf-6',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.011328 seconds
+Computing Block 13 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_ami-1',(['MeasureCode'], {('ami-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010947 seconds
+Computing Block 14 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_hf-4',(['MeasureCode'], {('hf-4',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010218 seconds
+Computing Block 15 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-vte-1',(['MeasureCode'], {('scip-vte-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010473 seconds
+Computing Block 16 out of 20
+Processing Block size=9
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-card-2',(['MeasureCode'], {('scip-card-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.028555 seconds
+Computing Block 17 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_scip-vte-2',(['MeasureCode'], {('scip-vte-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010577 seconds
+Computing Block 18 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_pn-3b',(['MeasureCode'], {('pn-3b',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010974 seconds
+Computing Block 19 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_pn-2',(['MeasureCode'], {('pn-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010607 seconds
+Computing Block 20 out of 20
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Stateavg','al_pn-5c',(['MeasureCode'], {('pn-5c',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Stateavg})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.01072 seconds
+  当前节点: Condition 存在可用清洗信号
+  抽样处理：源属性 ['MeasureCode'] -> 目标属性 Condition
+核心样本抽取时间（秒）: 5.772923946380615
+数据块大小: 23
+Computing Block 1 out of 7
+Processing Block size=4
+begin cleaner[FunctionalDependency:(s: {'MeasureCode'}, t: {'Condition'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'Condition','heart attack',(['MeasureCode'], {('ami-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.025207 seconds
+Computing Block 2 out of 7
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Condition','heart attack',(['MeasureCode'], {('ami-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015474 seconds
+Computing Block 3 out of 7
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Condition','surgical infection prevention',(['MeasureCode'], {('scip-vte-1',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015964 seconds
+Computing Block 4 out of 7
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Condition','surgical infection prevention',(['MeasureCode'], {('scip-vte-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015119 seconds
+Computing Block 5 out of 7
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Condition','surgical infection prevention',(['MeasureCode'], {('scip-card-2',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.015014 seconds
+Computing Block 6 out of 7
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Condition','heart attack',(['MeasureCode'], {('ami-4',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010078 seconds
+Computing Block 7 out of 7
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'Condition','pneumonia',(['MeasureCode'], {('pn-4',)}),{left: ("[FunctionalDependency:(s: {MeasureCode}, t: {Condition})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.009988 seconds
+['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']的清洗完成
+
+本层累积的编辑规则数: 52
+读入数据大小：1000
+处理了 52 条规则，更新数据...
+第 500 个编辑规则更新完成
+正在写入数据
+写入数据大小：1000
+重新读取最新清洗的数据
+读入数据大小1000
+数据清洗后变动，重新进行节点:['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']的清洗
+
+处理第 1 层级, 包含节点: ['HospitalName,ProviderNumber', 'MeasureCode']
+  跳过已清洗结束的节点: HospitalName,ProviderNumber
+  跳过已清洗结束的节点: MeasureCode
+['HospitalName,ProviderNumber', 'MeasureCode']的清洗完成
+
+本层累积的编辑规则数: 0
+本层没有可以进行的清洗操作，进行下一层
+
+处理第 2 层级, 包含节点: ['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']
+  当前节点: ZipCode 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 ZipCode
+核心样本抽取时间（秒）: 3.519984006881714
+数据块大小: 0
+  当前节点: PhoneNumber 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 PhoneNumber
+核心样本抽取时间（秒）: 3.3208189010620117
+数据块大小: 0
+  当前节点: Address1 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 Address1
+核心样本抽取时间（秒）: 3.1035311222076416
+数据块大小: 0
+  当前节点: HospitalOwner 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 HospitalOwner
+核心样本抽取时间（秒）: 2.907460927963257
+数据块大小: 0
+  当前节点: City 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName'] -> 目标属性 City
+核心样本抽取时间（秒）: 3.1907222270965576
+数据块大小: 0
+  当前节点: MeasureName 存在可用清洗信号
+  抽样处理：源属性 ['MeasureCode'] -> 目标属性 MeasureName
+核心样本抽取时间（秒）: 2.463200092315674
+数据块大小: 0
+  当前节点: Stateavg 存在可用清洗信号
+  抽样处理：源属性 ['MeasureCode'] -> 目标属性 Stateavg
+核心样本抽取时间（秒）: 2.5118799209594727
+数据块大小: 0
+  当前节点: Condition 存在可用清洗信号
+  抽样处理：源属性 ['MeasureCode'] -> 目标属性 Condition
+核心样本抽取时间（秒）: 2.3615031242370605
+数据块大小: 0
+['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']的清洗完成
+
+本层累积的编辑规则数: 0
+本层没有可以进行的清洗操作，进行下一层
+
+处理第 3 层级, 包含节点: ['EmergencyService', 'State', 'CountyName', 'HospitalType']
+  当前节点: EmergencyService 存在可用清洗信号
+  抽样处理：源属性 ['ZipCode'] -> 目标属性 EmergencyService
+核心样本抽取时间（秒）: 3.9706568717956543
+数据块大小: 10
+Computing Block 1 out of 3
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'ZipCode'}, t: {'EmergencyService'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'EmergencyService','no',(['ZipCode'], {('36078',)}),{left: ("[FunctionalDependency:(s: {ZipCode}, t: {EmergencyService})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.016989 seconds
+Computing Block 2 out of 3
+Processing Block size=4
+begin cleaner{left: ("[FunctionalDependency:(s: {ZipCode}, t: {EmergencyService})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'EmergencyService','yes',(['ZipCode'], {('35233',)}),{left: ("[FunctionalDependency:(s: {ZipCode}, t: {EmergencyService})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.017787 seconds
+Computing Block 3 out of 3
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {ZipCode}, t: {EmergencyService})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'EmergencyService','yes',(['ZipCode'], {('36116',)}),{left: ("[FunctionalDependency:(s: {ZipCode}, t: {EmergencyService})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.012291 seconds
+  当前节点: State 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName', 'PhoneNumber', 'HospitalOwner'] -> 目标属性 State
+核心样本抽取时间（秒）: 3.7596821784973145
+数据块大小: 6
+Computing Block 1 out of 2
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'HospitalName', 'PhoneNumber', 'HospitalOwner'}, t: {'State'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'State','al',(['HospitalName', 'PhoneNumber', 'HospitalOwner'], {('southwest alabama medical center', '3346366221', 'government - federal')}),{left: ("[FunctionalDependency:(s: {HospitalName, PhoneNumber, HospitalOwner}, t: {State})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.023946 seconds
+Computing Block 2 out of 2
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {HospitalName, PhoneNumber, HospitalOwner}, t: {State})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'State','al',(['HospitalName', 'PhoneNumber', 'HospitalOwner'], {('marion regional medical center', '2059216200', 'voluntary non-profit - private')}),{left: ("[FunctionalDependency:(s: {HospitalName, PhoneNumber, HospitalOwner}, t: {State})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.012517 seconds
+  当前节点: CountyName 存在可用清洗信号
+  抽样处理：源属性 ['City'] -> 目标属性 CountyName
+核心样本抽取时间（秒）: 2.480029821395874
+数据块大小: 9
+Computing Block 1 out of 3
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'City'}, t: {'CountyName'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'CountyName','jefferson',(['City'], {('birmingham',)}),{left: ("[FunctionalDependency:(s: {City}, t: {CountyName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.021173 seconds
+Computing Block 2 out of 3
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {City}, t: {CountyName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'CountyName','marshall',(['City'], {('boaz',)}),{left: ("[FunctionalDependency:(s: {City}, t: {CountyName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.014387 seconds
+Computing Block 3 out of 3
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {City}, t: {CountyName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'CountyName','shelby',(['City'], {('alabaster',)}),{left: ("[FunctionalDependency:(s: {City}, t: {CountyName})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.013209 seconds
+  当前节点: HospitalType 存在可用清洗信号
+  抽样处理：源属性 ['MeasureName', 'Condition'] -> 目标属性 HospitalType
+核心样本抽取时间（秒）: 2.9494080543518066
+数据块大小: 14
+Computing Block 1 out of 4
+Processing Block size=3
+begin cleaner[FunctionalDependency:(s: {'MeasureName', 'Condition'}, t: {'HospitalType'})]*1.0
+clean_bool length:2
+newest best op: Uniop(df,'HospitalType','acute care hospitals',(['MeasureName', 'Condition'], {('pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics', 'pneumonia')}),{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.017142 seconds
+Computing Block 2 out of 4
+Processing Block size=5
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalType','acute care hospitals',(['MeasureName', 'Condition'], {('heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)', 'heart attack')}),{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.021783 seconds
+Computing Block 3 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalType','acute care hospitals',(['MeasureName', 'Condition'], {('heart attack patients given aspirin at arrival', 'heart attack')}),{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.01263 seconds
+Computing Block 4 out of 4
+Processing Block size=3
+begin cleaner{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0}
+clean_bool length:2
+newest best op: Uniop(df,'HospitalType','acute care hospitals',(['MeasureName', 'Condition'], {('all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery', 'surgical infection prevention')}),{left: ("[FunctionalDependency:(s: {MeasureName, Condition}, t: {HospitalType})]", 0.0), operator: *, right: (1.0, 1.0), result: 0.0})
+now error: 0.0
+Block processing time: 0.010745 seconds
+['EmergencyService', 'State', 'CountyName', 'HospitalType']的清洗完成
+
+本层累积的编辑规则数: 12
+读入数据大小：1000
+处理了 12 条规则，更新数据...
+第 500 个编辑规则更新完成
+正在写入数据
+写入数据大小：1000
+重新读取最新清洗的数据
+读入数据大小1000
+数据清洗后变动，重新进行节点:['EmergencyService', 'State', 'CountyName', 'HospitalType']的清洗
+
+处理第 1 层级, 包含节点: ['HospitalName,ProviderNumber', 'MeasureCode']
+  跳过已清洗结束的节点: HospitalName,ProviderNumber
+  跳过已清洗结束的节点: MeasureCode
+['HospitalName,ProviderNumber', 'MeasureCode']的清洗完成
+
+本层累积的编辑规则数: 0
+本层没有可以进行的清洗操作，进行下一层
+
+处理第 2 层级, 包含节点: ['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']
+  跳过已清洗结束的节点: ZipCode
+  跳过已清洗结束的节点: PhoneNumber
+  跳过已清洗结束的节点: Address1
+  跳过已清洗结束的节点: HospitalOwner
+  跳过已清洗结束的节点: City
+  跳过已清洗结束的节点: MeasureName
+  跳过已清洗结束的节点: Stateavg
+  跳过已清洗结束的节点: Condition
+['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']的清洗完成
+
+本层累积的编辑规则数: 0
+本层没有可以进行的清洗操作，进行下一层
+
+处理第 3 层级, 包含节点: ['EmergencyService', 'State', 'CountyName', 'HospitalType']
+  当前节点: EmergencyService 存在可用清洗信号
+  抽样处理：源属性 ['ZipCode'] -> 目标属性 EmergencyService
+核心样本抽取时间（秒）: 3.776093006134033
+数据块大小: 0
+  当前节点: State 存在可用清洗信号
+  抽样处理：源属性 ['HospitalName', 'PhoneNumber', 'HospitalOwner'] -> 目标属性 State
+核心样本抽取时间（秒）: 2.824284076690674
+数据块大小: 0
+  当前节点: CountyName 存在可用清洗信号
+  抽样处理：源属性 ['City'] -> 目标属性 CountyName
+核心样本抽取时间（秒）: 2.594655990600586
+数据块大小: 0
+  当前节点: HospitalType 存在可用清洗信号
+  抽样处理：源属性 ['MeasureName', 'Condition'] -> 目标属性 HospitalType
+核心样本抽取时间（秒）: 2.4520750045776367
+数据块大小: 0
+['EmergencyService', 'State', 'CountyName', 'HospitalType']的清洗完成
+
+本层累积的编辑规则数: 0
+本层没有可以进行的清洗操作，进行下一层
+
+清洗规则溯源分析:
+
+处理第 1 层级, 包含节点: ['HospitalName,ProviderNumber', 'MeasureCode']
+
+处理第 2 层级, 包含节点: ['ZipCode', 'PhoneNumber', 'Address1', 'HospitalOwner', 'City', 'MeasureName', 'Stateavg', 'Condition']
+
+处理第 3 层级, 包含节点: ['EmergencyService', 'State', 'CountyName', 'HospitalType']
+
+清洗流程展示:
+
+绘制清洗流程图: Plantuml.svg
+当前清洗总执行时间: 204.1784 秒
+完成清洗，保存清洗结果，写入数据大小: 1000
+验证清洗性能:
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+19     1300 south montgomeryh avenue
+431                 315 w hickory ts
+453     1300 sout hmontgomery avenue
+686           619 south 19th streemt
+746    849 south thraee notch street
+898        1653 templen avenue north
+Name: Address1, dtype: object
+Clean Values at mismatched indices:
+index
+19     1300 south montgomery avenue
+431                315 w hickory st
+453    1300 south montgomery avenue
+686           619 south 19th street
+746    849 south three notch street
+898        1653 temple avenue north
+Name: Address1, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: Address1, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: Address1, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: Address1, dtype: object)
+Attribute: Address1 修复正确的数据: 6 修复错误的数据: 0 应该修复的数据: 6
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+1      birminghvam
+20      birmingham
+21      birmingham
+311      bimingham
+845         clnton
+855       hmailton
+Name: City, dtype: object
+Clean Values at mismatched indices:
+index
+1      birmingham
+20         dothan
+21         dothan
+311    birmingham
+845       clanton
+855      hamilton
+Name: City, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: City, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: City, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: City, dtype: object)
+Attribute: City 修复正确的数据: 6 修复错误的数据: 0 应该修复的数据: 6
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+327                       penumonia
+395                 heart attack***
+643                   heart atjtack
+667                   hearbt attack
+668                    heart tatack
+765    sugical infection prevention
+852    surgical infection prevenion
+Name: Condition, dtype: object
+Clean Values at mismatched indices:
+index
+327                        pneumonia
+395                     heart attack
+643                     heart attack
+667                     heart attack
+668                     heart attack
+765    surgical infection prevention
+852    surgical infection prevention
+Name: Condition, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: Condition, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: Condition, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: Condition, dtype: object)
+Attribute: Condition 修复正确的数据: 7 修复错误的数据: 4 应该修复的数据: 7
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+64     NaN
+284    NaN
+287    NaN
+688    NaN
+Name: CountyName, dtype: object
+Clean Values at mismatched indices:
+index
+64      marshall
+284       shelby
+287       shelby
+688    jefferson
+Name: CountyName, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: CountyName, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: CountyName, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: CountyName, dtype: object)
+Attribute: CountyName 修复正确的数据: 4 修复错误的数据: 0 应该修复的数据: 4
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+522     es
+680    yse
+681     es
+711    mno
+Name: EmergencyService, dtype: object
+Clean Values at mismatched indices:
+index
+522    yes
+680    yes
+681    yes
+711     no
+Name: EmergencyService, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: EmergencyService, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: EmergencyService, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: EmergencyService, dtype: object)
+Attribute: EmergencyService 修复正确的数据: 4 修复错误的数据: 0 应该修复的数据: 4
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+Series([], Name: HospitalName, dtype: object)
+Clean Values at mismatched indices:
+Series([], Name: HospitalName, dtype: object)
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: HospitalName, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: HospitalName, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: HospitalName, dtype: object)
+Attribute: HospitalName 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+462    government - hospitla district or authority
+463     government - hospital district or autority
+579                   voluntary non-prfoit - other
+661                            government t- local
+714                  voluntary non-profit- private
+858                voluntary non-profit - privarte
+Name: HospitalOwner, dtype: object
+Clean Values at mismatched indices:
+index
+462    government - hospital district or authority
+463    government - hospital district or authority
+579                   voluntary non-profit - other
+661                             government - local
+714                 voluntary non-profit - private
+858                 voluntary non-profit - private
+Name: HospitalOwner, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: HospitalOwner, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: HospitalOwner, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: HospitalOwner, dtype: object)
+Attribute: HospitalOwner 修复正确的数据: 6 修复错误的数据: 0 应该修复的数据: 6
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+47     acutee care hospitals
+351      acue care hospitals
+417    acute care hospitales
+654    aqcute care hospitals
+899     acute car ehospitals
+956    acute care hospidtals
+Name: HospitalType, dtype: object
+Clean Values at mismatched indices:
+index
+47     acute care hospitals
+351    acute care hospitals
+417    acute care hospitals
+654    acute care hospitals
+899    acute care hospitals
+956    acute care hospitals
+Name: HospitalType, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: HospitalType, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: HospitalType, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: HospitalType, dtype: object)
+Attribute: HospitalType 修复正确的数据: 6 修复错误的数据: 0 应该修复的数据: 6
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+41     scimp-inf-4
+50           am-7a
+60             p-6
+257    scip-card-2
+258    scip-card-2
+277    scip-card-2
+278    scip-card-2
+288    scip-card-2
+289    scip-card-2
+488     scip-nif-4
+Name: MeasureCode, dtype: object
+Clean Values at mismatched indices:
+index
+41     scip-inf-4
+50         ami-7a
+60           pn-6
+257         pn-3b
+258          pn-4
+277          hf-1
+278          hf-2
+288    scip-inf-1
+289    scip-inf-2
+488    scip-inf-4
+Name: MeasureCode, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+index
+41     scimp-inf-4
+50           am-7a
+60             p-6
+257    scip-card-2
+258    scip-card-2
+277    scip-card-2
+278    scip-card-2
+288    scip-card-2
+289    scip-card-2
+488     scip-nif-4
+Name: MeasureCode, dtype: object
+Clean Values at false positive indices:
+index
+41     scip-inf-4
+50         ami-7a
+60           pn-6
+257         pn-3b
+258          pn-4
+277          hf-1
+278          hf-2
+288    scip-inf-1
+289    scip-inf-2
+488    scip-inf-4
+Name: MeasureCode, dtype: object
+Cleaned Values at false positive indices:
+index
+41     scimp-inf-4
+50           am-7a
+60             p-6
+257    scip-card-2
+258    scip-card-2
+277    scip-card-2
+278    scip-card-2
+288    scip-card-2
+289    scip-card-2
+488     scip-nif-4
+Name: MeasureCode, dtype: object
+Attribute: MeasureCode 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 10
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+17     surgery patients who were taking heart drugs c...
+18     surgery patients who were taking heart drugs c...
+415        hear attack patients given aspirin at arrival
+617       heart attack patients given sapirin at arrival
+Name: MeasureName, dtype: object
+Clean Values at mismatched indices:
+index
+17     heart failure patients given an evaluation of ...
+18     heart failure patients given ace inhibitor or ...
+415       heart attack patients given aspirin at arrival
+617       heart attack patients given aspirin at arrival
+Name: MeasureName, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: MeasureName, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: MeasureName, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: MeasureName, dtype: object)
+Attribute: MeasureName 修复正确的数据: 4 修复错误的数据: 6 应该修复的数据: 4
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+1       2053258100
+2       2053258100
+3       2053258100
+4       2053258100
+5       2053258100
+           ...
+996     2052743000
+997     2052743000
+998     2052743000
+999     2052743000
+1000    2052743000
+Name: PhoneNumber, Length: 1000, dtype: object
+Clean Values at mismatched indices:
+index
+1       2053258100
+2       2053258100
+3       2053258100
+4       2053258100
+5       2053258100
+           ...
+996     2052743000
+997     2052743000
+998     2052743000
+999     2052743000
+1000    2052743000
+Name: PhoneNumber, Length: 1000, dtype: int64
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: PhoneNumber, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: PhoneNumber, dtype: int64)
+Cleaned Values at false positive indices:
+Series([], Name: PhoneNumber, dtype: int64)
+Attribute: PhoneNumber 修复正确的数据: 1000 修复错误的数据: 0 应该修复的数据: 1000
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+1       10018
+2       10018
+3       10018
+4       10018
+5       10018
+        ...
+996     10050
+997     10050
+998     10050
+999     10050
+1000    10050
+Name: ProviderNumber, Length: 1000, dtype: object
+Clean Values at mismatched indices:
+index
+1       10018
+2       10018
+3       10018
+4       10018
+5       10018
+        ...
+996     10050
+997     10050
+998     10050
+999     10050
+1000    10050
+Name: ProviderNumber, Length: 1000, dtype: int64
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: ProviderNumber, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: ProviderNumber, dtype: int64)
+Cleaned Values at false positive indices:
+Series([], Name: ProviderNumber, dtype: int64)
+Attribute: ProviderNumber 修复正确的数据: 1000 修复错误的数据: 0 应该修复的数据: 1000
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+262    ayl
+856    fal
+Name: State, dtype: object
+Clean Values at mismatched indices:
+index
+262    al
+856    al
+Name: State, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: State, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: State, dtype: object)
+Cleaned Values at false positive indices:
+Series([], Name: State, dtype: object)
+Attribute: State 修复正确的数据: 2 修复错误的数据: 0 应该修复的数据: 2
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+60        a_pn-6
+416    afl_ami-2
+468    al_ambi-2
+Name: Stateavg, dtype: object
+Clean Values at mismatched indices:
+index
+60      al_pn-6
+416    al_ami-2
+468    al_ami-2
+Name: Stateavg, dtype: object
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+index
+60    a_pn-6
+Name: Stateavg, dtype: object
+Clean Values at false positive indices:
+index
+60    al_pn-6
+Name: Stateavg, dtype: object
+Cleaned Values at false positive indices:
+index
+60    a_pn-6
+Name: Stateavg, dtype: object
+Attribute: Stateavg 修复正确的数据: 2 修复错误的数据: 26 应该修复的数据: 3
+========================================
+打印 dirty_values 和 clean_values 不同的那些行
+Dirty Values at mismatched indices:
+index
+1       35233
+2       35233
+3       35233
+4       35233
+5       35233
+        ...
+996     35121
+997     35121
+998     35121
+999     35121
+1000    35121
+Name: ZipCode, Length: 1000, dtype: object
+Clean Values at mismatched indices:
+index
+1       35233
+2       35233
+3       35233
+4       35233
+5       35233
+        ...
+996     35121
+997     35121
+998     35121
+999     35121
+1000    35121
+Name: ZipCode, Length: 1000, dtype: int64
+========================================
+打印没修复的数据
+Dirty Values at false positive indices:
+Series([], Name: ZipCode, dtype: object)
+Clean Values at false positive indices:
+Series([], Name: ZipCode, dtype: int64)
+Cleaned Values at false positive indices:
+Series([], Name: ZipCode, dtype: int64)
+Attribute: ZipCode 修复正确的数据: 1000 修复错误的数据: 0 应该修复的数据: 1000
+========================================
+修复准确率: 0.9883230619526435
+修复召回率: 0.9964028776978417
+
+进程已结束，退出代码为 0

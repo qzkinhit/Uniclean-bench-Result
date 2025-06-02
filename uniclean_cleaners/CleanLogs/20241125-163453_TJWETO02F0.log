@@ -1,0 +1,2912 @@
+2024-11-25 16:34:53,860 - INFO - 日志已保存至 CleanLogs/20241125-163453_TJWETO02F0.log
+2024-11-25 16:34:58,290 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:34:58,295 - INFO - Processing Block size=41
+2024-11-25 16:34:58,295 - INFO - Computing Block 1 out of 28
+2024-11-25 16:34:58,519 - INFO - Block processing time: 0.223904 seconds
+2024-11-25 16:34:58,519 - INFO - Processing Block size=39
+2024-11-25 16:34:58,519 - INFO - Computing Block 2 out of 28
+2024-11-25 16:34:58,746 - INFO - Block processing time: 0.226802 seconds
+2024-11-25 16:34:58,746 - INFO - Processing Block size=40
+2024-11-25 16:34:58,746 - INFO - Computing Block 3 out of 28
+2024-11-25 16:34:58,860 - INFO - Block processing time: 0.114104 seconds
+2024-11-25 16:34:58,860 - INFO - Processing Block size=41
+2024-11-25 16:34:58,860 - INFO - Computing Block 4 out of 28
+2024-11-25 16:34:59,158 - INFO - Block processing time: 0.297856 seconds
+2024-11-25 16:34:59,158 - INFO - Processing Block size=40
+2024-11-25 16:34:59,158 - INFO - Computing Block 5 out of 28
+2024-11-25 16:34:59,367 - INFO - Block processing time: 0.208432 seconds
+2024-11-25 16:34:59,367 - INFO - Processing Block size=40
+2024-11-25 16:34:59,367 - INFO - Computing Block 6 out of 28
+2024-11-25 16:34:59,557 - INFO - Block processing time: 0.190455 seconds
+2024-11-25 16:34:59,558 - INFO - Processing Block size=37
+2024-11-25 16:34:59,558 - INFO - Computing Block 7 out of 28
+2024-11-25 16:34:59,850 - INFO - Block processing time: 0.292675 seconds
+2024-11-25 16:34:59,851 - INFO - Processing Block size=41
+2024-11-25 16:34:59,851 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:00,569 - INFO - Block processing time: 0.71803 seconds
+2024-11-25 16:35:00,569 - INFO - Processing Block size=40
+2024-11-25 16:35:00,569 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:00,784 - INFO - Block processing time: 0.215533 seconds
+2024-11-25 16:35:00,785 - INFO - Processing Block size=3
+2024-11-25 16:35:00,785 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:00,787 - INFO - Block processing time: 0.002203 seconds
+2024-11-25 16:35:00,787 - INFO - Processing Block size=38
+2024-11-25 16:35:00,787 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:00,813 - INFO - Block processing time: 0.025939 seconds
+2024-11-25 16:35:00,813 - INFO - Processing Block size=38
+2024-11-25 16:35:00,813 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:01,047 - INFO - Block processing time: 0.233606 seconds
+2024-11-25 16:35:01,047 - INFO - Processing Block size=37
+2024-11-25 16:35:01,047 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:01,277 - INFO - Block processing time: 0.229524 seconds
+2024-11-25 16:35:01,277 - INFO - Processing Block size=41
+2024-11-25 16:35:01,277 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:01,520 - INFO - Block processing time: 0.24296 seconds
+2024-11-25 16:35:01,520 - INFO - Processing Block size=40
+2024-11-25 16:35:01,520 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:02,326 - INFO - Block processing time: 0.805673 seconds
+2024-11-25 16:35:02,326 - INFO - Processing Block size=3
+2024-11-25 16:35:02,326 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:02,328 - INFO - Block processing time: 0.002213 seconds
+2024-11-25 16:35:02,328 - INFO - Processing Block size=39
+2024-11-25 16:35:02,328 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:02,594 - INFO - Block processing time: 0.26542 seconds
+2024-11-25 16:35:02,594 - INFO - Processing Block size=41
+2024-11-25 16:35:02,594 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:02,695 - INFO - Block processing time: 0.101039 seconds
+2024-11-25 16:35:02,695 - INFO - Processing Block size=40
+2024-11-25 16:35:02,695 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:03,034 - INFO - Block processing time: 0.338457 seconds
+2024-11-25 16:35:03,034 - INFO - Processing Block size=40
+2024-11-25 16:35:03,034 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:03,211 - INFO - Block processing time: 0.17688 seconds
+2024-11-25 16:35:03,211 - INFO - Processing Block size=39
+2024-11-25 16:35:03,211 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:03,499 - INFO - Block processing time: 0.287419 seconds
+2024-11-25 16:35:03,499 - INFO - Processing Block size=39
+2024-11-25 16:35:03,499 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:03,748 - INFO - Block processing time: 0.248791 seconds
+2024-11-25 16:35:03,748 - INFO - Processing Block size=41
+2024-11-25 16:35:03,748 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:03,975 - INFO - Block processing time: 0.22704 seconds
+2024-11-25 16:35:03,975 - INFO - Processing Block size=39
+2024-11-25 16:35:03,975 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:04,502 - INFO - Block processing time: 0.526822 seconds
+2024-11-25 16:35:04,502 - INFO - Processing Block size=40
+2024-11-25 16:35:04,502 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:04,723 - INFO - Block processing time: 0.220485 seconds
+2024-11-25 16:35:04,723 - INFO - Processing Block size=40
+2024-11-25 16:35:04,723 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:04,946 - INFO - Block processing time: 0.222935 seconds
+2024-11-25 16:35:04,946 - INFO - Processing Block size=3
+2024-11-25 16:35:04,946 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:04,948 - INFO - Block processing time: 0.00221 seconds
+2024-11-25 16:35:04,948 - INFO - Processing Block size=40
+2024-11-25 16:35:04,948 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:05,201 - INFO - Block processing time: 0.253055 seconds
+2024-11-25 16:35:05,248 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:05,252 - INFO - Processing Block size=41
+2024-11-25 16:35:05,252 - INFO - Computing Block 1 out of 28
+2024-11-25 16:35:05,369 - INFO - Block processing time: 0.117172 seconds
+2024-11-25 16:35:05,370 - INFO - Processing Block size=39
+2024-11-25 16:35:05,370 - INFO - Computing Block 2 out of 28
+2024-11-25 16:35:05,451 - INFO - Block processing time: 0.081645 seconds
+2024-11-25 16:35:05,452 - INFO - Processing Block size=40
+2024-11-25 16:35:05,452 - INFO - Computing Block 3 out of 28
+2024-11-25 16:35:05,594 - INFO - Block processing time: 0.142437 seconds
+2024-11-25 16:35:05,594 - INFO - Processing Block size=41
+2024-11-25 16:35:05,594 - INFO - Computing Block 4 out of 28
+2024-11-25 16:35:05,708 - INFO - Block processing time: 0.114022 seconds
+2024-11-25 16:35:05,709 - INFO - Processing Block size=40
+2024-11-25 16:35:05,709 - INFO - Computing Block 5 out of 28
+2024-11-25 16:35:05,791 - INFO - Block processing time: 0.082709 seconds
+2024-11-25 16:35:05,791 - INFO - Processing Block size=40
+2024-11-25 16:35:05,792 - INFO - Computing Block 6 out of 28
+2024-11-25 16:35:05,875 - INFO - Block processing time: 0.083611 seconds
+2024-11-25 16:35:05,875 - INFO - Processing Block size=37
+2024-11-25 16:35:05,875 - INFO - Computing Block 7 out of 28
+2024-11-25 16:35:06,008 - INFO - Block processing time: 0.13277 seconds
+2024-11-25 16:35:06,008 - INFO - Processing Block size=41
+2024-11-25 16:35:06,008 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:06,122 - INFO - Block processing time: 0.113517 seconds
+2024-11-25 16:35:06,122 - INFO - Processing Block size=40
+2024-11-25 16:35:06,122 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:06,150 - INFO - Block processing time: 0.027379 seconds
+2024-11-25 16:35:06,150 - INFO - Processing Block size=3
+2024-11-25 16:35:06,150 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:06,152 - INFO - Block processing time: 0.002219 seconds
+2024-11-25 16:35:06,152 - INFO - Processing Block size=38
+2024-11-25 16:35:06,152 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:06,258 - INFO - Block processing time: 0.106136 seconds
+2024-11-25 16:35:06,258 - INFO - Processing Block size=38
+2024-11-25 16:35:06,259 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:06,365 - INFO - Block processing time: 0.106086 seconds
+2024-11-25 16:35:06,365 - INFO - Processing Block size=37
+2024-11-25 16:35:06,365 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:06,442 - INFO - Block processing time: 0.077002 seconds
+2024-11-25 16:35:06,442 - INFO - Processing Block size=41
+2024-11-25 16:35:06,442 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:06,529 - INFO - Block processing time: 0.087069 seconds
+2024-11-25 16:35:06,529 - INFO - Processing Block size=40
+2024-11-25 16:35:06,529 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:06,922 - INFO - Block processing time: 0.39227 seconds
+2024-11-25 16:35:06,922 - INFO - Processing Block size=3
+2024-11-25 16:35:06,922 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:06,924 - INFO - Block processing time: 0.002216 seconds
+2024-11-25 16:35:06,924 - INFO - Processing Block size=39
+2024-11-25 16:35:06,924 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:07,032 - INFO - Block processing time: 0.107669 seconds
+2024-11-25 16:35:07,032 - INFO - Processing Block size=41
+2024-11-25 16:35:07,032 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:07,150 - INFO - Block processing time: 0.117607 seconds
+2024-11-25 16:35:07,150 - INFO - Processing Block size=40
+2024-11-25 16:35:07,150 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:07,233 - INFO - Block processing time: 0.082934 seconds
+2024-11-25 16:35:07,233 - INFO - Processing Block size=40
+2024-11-25 16:35:07,233 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:07,315 - INFO - Block processing time: 0.081623 seconds
+2024-11-25 16:35:07,315 - INFO - Processing Block size=39
+2024-11-25 16:35:07,315 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:07,423 - INFO - Block processing time: 0.108389 seconds
+2024-11-25 16:35:07,424 - INFO - Processing Block size=39
+2024-11-25 16:35:07,424 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:07,533 - INFO - Block processing time: 0.108988 seconds
+2024-11-25 16:35:07,533 - INFO - Processing Block size=41
+2024-11-25 16:35:07,533 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:07,706 - INFO - Block processing time: 0.172772 seconds
+2024-11-25 16:35:07,706 - INFO - Processing Block size=39
+2024-11-25 16:35:07,706 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:07,787 - INFO - Block processing time: 0.081227 seconds
+2024-11-25 16:35:07,787 - INFO - Processing Block size=40
+2024-11-25 16:35:07,787 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:07,870 - INFO - Block processing time: 0.082425 seconds
+2024-11-25 16:35:07,870 - INFO - Processing Block size=40
+2024-11-25 16:35:07,870 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:07,980 - INFO - Block processing time: 0.110353 seconds
+2024-11-25 16:35:07,980 - INFO - Processing Block size=3
+2024-11-25 16:35:07,980 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:07,983 - INFO - Block processing time: 0.002204 seconds
+2024-11-25 16:35:07,983 - INFO - Processing Block size=40
+2024-11-25 16:35:07,983 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:08,065 - INFO - Block processing time: 0.082269 seconds
+2024-11-25 16:35:08,113 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:08,117 - INFO - Processing Block size=41
+2024-11-25 16:35:08,117 - INFO - Computing Block 1 out of 28
+2024-11-25 16:35:08,208 - INFO - Block processing time: 0.090915 seconds
+2024-11-25 16:35:08,208 - INFO - Processing Block size=39
+2024-11-25 16:35:08,208 - INFO - Computing Block 2 out of 28
+2024-11-25 16:35:08,317 - INFO - Block processing time: 0.108519 seconds
+2024-11-25 16:35:08,317 - INFO - Processing Block size=40
+2024-11-25 16:35:08,317 - INFO - Computing Block 3 out of 28
+2024-11-25 16:35:08,691 - INFO - Block processing time: 0.37386 seconds
+2024-11-25 16:35:08,691 - INFO - Processing Block size=41
+2024-11-25 16:35:08,691 - INFO - Computing Block 4 out of 28
+2024-11-25 16:35:08,775 - INFO - Block processing time: 0.084177 seconds
+2024-11-25 16:35:08,775 - INFO - Processing Block size=40
+2024-11-25 16:35:08,776 - INFO - Computing Block 5 out of 28
+2024-11-25 16:35:08,858 - INFO - Block processing time: 0.082938 seconds
+2024-11-25 16:35:08,859 - INFO - Processing Block size=40
+2024-11-25 16:35:08,859 - INFO - Computing Block 6 out of 28
+2024-11-25 16:35:08,941 - INFO - Block processing time: 0.081862 seconds
+2024-11-25 16:35:08,941 - INFO - Processing Block size=37
+2024-11-25 16:35:08,941 - INFO - Computing Block 7 out of 28
+2024-11-25 16:35:08,966 - INFO - Block processing time: 0.025419 seconds
+2024-11-25 16:35:08,966 - INFO - Processing Block size=41
+2024-11-25 16:35:08,966 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:08,995 - INFO - Block processing time: 0.028129 seconds
+2024-11-25 16:35:08,995 - INFO - Processing Block size=40
+2024-11-25 16:35:08,995 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:09,022 - INFO - Block processing time: 0.027429 seconds
+2024-11-25 16:35:09,022 - INFO - Processing Block size=3
+2024-11-25 16:35:09,022 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:09,024 - INFO - Block processing time: 0.002168 seconds
+2024-11-25 16:35:09,025 - INFO - Processing Block size=38
+2024-11-25 16:35:09,025 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:09,051 - INFO - Block processing time: 0.026039 seconds
+2024-11-25 16:35:09,051 - INFO - Processing Block size=38
+2024-11-25 16:35:09,051 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:09,077 - INFO - Block processing time: 0.026387 seconds
+2024-11-25 16:35:09,078 - INFO - Processing Block size=37
+2024-11-25 16:35:09,078 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:09,160 - INFO - Block processing time: 0.082324 seconds
+2024-11-25 16:35:09,160 - INFO - Processing Block size=41
+2024-11-25 16:35:09,160 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:09,279 - INFO - Block processing time: 0.119127 seconds
+2024-11-25 16:35:09,279 - INFO - Processing Block size=40
+2024-11-25 16:35:09,279 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:09,307 - INFO - Block processing time: 0.027441 seconds
+2024-11-25 16:35:09,307 - INFO - Processing Block size=3
+2024-11-25 16:35:09,307 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:09,309 - INFO - Block processing time: 0.002189 seconds
+2024-11-25 16:35:09,309 - INFO - Processing Block size=39
+2024-11-25 16:35:09,309 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:09,336 - INFO - Block processing time: 0.026732 seconds
+2024-11-25 16:35:09,336 - INFO - Processing Block size=41
+2024-11-25 16:35:09,336 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:09,421 - INFO - Block processing time: 0.084702 seconds
+2024-11-25 16:35:09,421 - INFO - Processing Block size=40
+2024-11-25 16:35:09,421 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:09,449 - INFO - Block processing time: 0.027452 seconds
+2024-11-25 16:35:09,449 - INFO - Processing Block size=40
+2024-11-25 16:35:09,449 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:09,531 - INFO - Block processing time: 0.082129 seconds
+2024-11-25 16:35:09,531 - INFO - Processing Block size=39
+2024-11-25 16:35:09,531 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:09,558 - INFO - Block processing time: 0.027161 seconds
+2024-11-25 16:35:09,559 - INFO - Processing Block size=39
+2024-11-25 16:35:09,559 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:09,586 - INFO - Block processing time: 0.027326 seconds
+2024-11-25 16:35:09,586 - INFO - Processing Block size=41
+2024-11-25 16:35:09,586 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:09,671 - INFO - Block processing time: 0.08505 seconds
+2024-11-25 16:35:09,671 - INFO - Processing Block size=39
+2024-11-25 16:35:09,671 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:09,698 - INFO - Block processing time: 0.026886 seconds
+2024-11-25 16:35:09,699 - INFO - Processing Block size=40
+2024-11-25 16:35:09,699 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:09,785 - INFO - Block processing time: 0.086198 seconds
+2024-11-25 16:35:09,785 - INFO - Processing Block size=40
+2024-11-25 16:35:09,785 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:09,923 - INFO - Block processing time: 0.138073 seconds
+2024-11-25 16:35:09,923 - INFO - Processing Block size=3
+2024-11-25 16:35:09,923 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:09,925 - INFO - Block processing time: 0.002212 seconds
+2024-11-25 16:35:09,926 - INFO - Processing Block size=40
+2024-11-25 16:35:09,926 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:10,095 - INFO - Block processing time: 0.169505 seconds
+2024-11-25 16:35:10,139 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:10,142 - INFO - Processing Block size=25
+2024-11-25 16:35:10,142 - INFO - Computing Block 1 out of 45
+2024-11-25 16:35:10,402 - INFO - Block processing time: 0.260263 seconds
+2024-11-25 16:35:10,402 - INFO - Processing Block size=25
+2024-11-25 16:35:10,402 - INFO - Computing Block 2 out of 45
+2024-11-25 16:35:10,459 - INFO - Block processing time: 0.056376 seconds
+2024-11-25 16:35:10,459 - INFO - Processing Block size=25
+2024-11-25 16:35:10,459 - INFO - Computing Block 3 out of 45
+2024-11-25 16:35:10,494 - INFO - Block processing time: 0.034652 seconds
+2024-11-25 16:35:10,494 - INFO - Processing Block size=17
+2024-11-25 16:35:10,494 - INFO - Computing Block 4 out of 45
+2024-11-25 16:35:10,518 - INFO - Block processing time: 0.023753 seconds
+2024-11-25 16:35:10,518 - INFO - Processing Block size=2
+2024-11-25 16:35:10,518 - INFO - Computing Block 5 out of 45
+2024-11-25 16:35:10,519 - INFO - Block processing time: 0.001574 seconds
+2024-11-25 16:35:10,520 - INFO - Processing Block size=13
+2024-11-25 16:35:10,520 - INFO - Computing Block 6 out of 45
+2024-11-25 16:35:10,529 - INFO - Block processing time: 0.009044 seconds
+2024-11-25 16:35:10,529 - INFO - Processing Block size=20
+2024-11-25 16:35:10,529 - INFO - Computing Block 7 out of 45
+2024-11-25 16:35:10,543 - INFO - Block processing time: 0.014123 seconds
+2024-11-25 16:35:10,543 - INFO - Processing Block size=25
+2024-11-25 16:35:10,543 - INFO - Computing Block 8 out of 45
+2024-11-25 16:35:10,601 - INFO - Block processing time: 0.058077 seconds
+2024-11-25 16:35:10,602 - INFO - Processing Block size=25
+2024-11-25 16:35:10,602 - INFO - Computing Block 9 out of 45
+2024-11-25 16:35:10,619 - INFO - Block processing time: 0.017657 seconds
+2024-11-25 16:35:10,619 - INFO - Processing Block size=25
+2024-11-25 16:35:10,619 - INFO - Computing Block 10 out of 45
+2024-11-25 16:35:10,654 - INFO - Block processing time: 0.034537 seconds
+2024-11-25 16:35:10,654 - INFO - Processing Block size=25
+2024-11-25 16:35:10,654 - INFO - Computing Block 11 out of 45
+2024-11-25 16:35:10,671 - INFO - Block processing time: 0.017287 seconds
+2024-11-25 16:35:10,672 - INFO - Processing Block size=18
+2024-11-25 16:35:10,672 - INFO - Computing Block 13 out of 45
+2024-11-25 16:35:10,697 - INFO - Block processing time: 0.024742 seconds
+2024-11-25 16:35:10,697 - INFO - Processing Block size=25
+2024-11-25 16:35:10,697 - INFO - Computing Block 14 out of 45
+2024-11-25 16:35:10,751 - INFO - Block processing time: 0.054091 seconds
+2024-11-25 16:35:10,751 - INFO - Processing Block size=28
+2024-11-25 16:35:10,751 - INFO - Computing Block 15 out of 45
+2024-11-25 16:35:10,789 - INFO - Block processing time: 0.037928 seconds
+2024-11-25 16:35:10,789 - INFO - Processing Block size=25
+2024-11-25 16:35:10,789 - INFO - Computing Block 16 out of 45
+2024-11-25 16:35:10,806 - INFO - Block processing time: 0.017275 seconds
+2024-11-25 16:35:10,807 - INFO - Processing Block size=28
+2024-11-25 16:35:10,807 - INFO - Computing Block 17 out of 45
+2024-11-25 16:35:10,827 - INFO - Block processing time: 0.020601 seconds
+2024-11-25 16:35:10,827 - INFO - Processing Block size=2
+2024-11-25 16:35:10,827 - INFO - Computing Block 18 out of 45
+2024-11-25 16:35:10,831 - INFO - Block processing time: 0.003462 seconds
+2024-11-25 16:35:10,831 - INFO - Processing Block size=25
+2024-11-25 16:35:10,831 - INFO - Computing Block 19 out of 45
+2024-11-25 16:35:10,865 - INFO - Block processing time: 0.033952 seconds
+2024-11-25 16:35:10,865 - INFO - Processing Block size=25
+2024-11-25 16:35:10,865 - INFO - Computing Block 20 out of 45
+2024-11-25 16:35:10,883 - INFO - Block processing time: 0.017289 seconds
+2024-11-25 16:35:10,883 - INFO - Processing Block size=25
+2024-11-25 16:35:10,883 - INFO - Computing Block 21 out of 45
+2024-11-25 16:35:10,938 - INFO - Block processing time: 0.055526 seconds
+2024-11-25 16:35:10,939 - INFO - Processing Block size=25
+2024-11-25 16:35:10,939 - INFO - Computing Block 22 out of 45
+2024-11-25 16:35:10,994 - INFO - Block processing time: 0.055312 seconds
+2024-11-25 16:35:10,994 - INFO - Processing Block size=25
+2024-11-25 16:35:10,994 - INFO - Computing Block 23 out of 45
+2024-11-25 16:35:11,182 - INFO - Block processing time: 0.188122 seconds
+2024-11-25 16:35:11,182 - INFO - Processing Block size=25
+2024-11-25 16:35:11,182 - INFO - Computing Block 24 out of 45
+2024-11-25 16:35:11,200 - INFO - Block processing time: 0.017338 seconds
+2024-11-25 16:35:11,200 - INFO - Processing Block size=5
+2024-11-25 16:35:11,200 - INFO - Computing Block 25 out of 45
+2024-11-25 16:35:11,207 - INFO - Block processing time: 0.007388 seconds
+2024-11-25 16:35:11,208 - INFO - Processing Block size=25
+2024-11-25 16:35:11,208 - INFO - Computing Block 26 out of 45
+2024-11-25 16:35:11,225 - INFO - Block processing time: 0.017368 seconds
+2024-11-25 16:35:11,225 - INFO - Processing Block size=25
+2024-11-25 16:35:11,225 - INFO - Computing Block 27 out of 45
+2024-11-25 16:35:11,302 - INFO - Block processing time: 0.076724 seconds
+2024-11-25 16:35:11,302 - INFO - Processing Block size=25
+2024-11-25 16:35:11,302 - INFO - Computing Block 28 out of 45
+2024-11-25 16:35:11,359 - INFO - Block processing time: 0.056948 seconds
+2024-11-25 16:35:11,359 - INFO - Processing Block size=25
+2024-11-25 16:35:11,359 - INFO - Computing Block 29 out of 45
+2024-11-25 16:35:11,377 - INFO - Block processing time: 0.017322 seconds
+2024-11-25 16:35:11,377 - INFO - Processing Block size=25
+2024-11-25 16:35:11,377 - INFO - Computing Block 30 out of 45
+2024-11-25 16:35:11,394 - INFO - Block processing time: 0.017323 seconds
+2024-11-25 16:35:11,394 - INFO - Processing Block size=25
+2024-11-25 16:35:11,394 - INFO - Computing Block 31 out of 45
+2024-11-25 16:35:11,449 - INFO - Block processing time: 0.054953 seconds
+2024-11-25 16:35:11,449 - INFO - Processing Block size=25
+2024-11-25 16:35:11,449 - INFO - Computing Block 32 out of 45
+2024-11-25 16:35:11,505 - INFO - Block processing time: 0.05571 seconds
+2024-11-25 16:35:11,505 - INFO - Processing Block size=25
+2024-11-25 16:35:11,505 - INFO - Computing Block 33 out of 45
+2024-11-25 16:35:11,539 - INFO - Block processing time: 0.034017 seconds
+2024-11-25 16:35:11,540 - INFO - Processing Block size=25
+2024-11-25 16:35:11,540 - INFO - Computing Block 34 out of 45
+2024-11-25 16:35:11,633 - INFO - Block processing time: 0.093795 seconds
+2024-11-25 16:35:11,634 - INFO - Processing Block size=25
+2024-11-25 16:35:11,634 - INFO - Computing Block 35 out of 45
+2024-11-25 16:35:11,689 - INFO - Block processing time: 0.055894 seconds
+2024-11-25 16:35:11,690 - INFO - Processing Block size=25
+2024-11-25 16:35:11,690 - INFO - Computing Block 36 out of 45
+2024-11-25 16:35:11,724 - INFO - Block processing time: 0.033932 seconds
+2024-11-25 16:35:11,724 - INFO - Processing Block size=25
+2024-11-25 16:35:11,724 - INFO - Computing Block 37 out of 45
+2024-11-25 16:35:11,781 - INFO - Block processing time: 0.057427 seconds
+2024-11-25 16:35:11,781 - INFO - Processing Block size=28
+2024-11-25 16:35:11,781 - INFO - Computing Block 38 out of 45
+2024-11-25 16:35:11,801 - INFO - Block processing time: 0.019357 seconds
+2024-11-25 16:35:11,801 - INFO - Processing Block size=25
+2024-11-25 16:35:11,801 - INFO - Computing Block 39 out of 45
+2024-11-25 16:35:11,857 - INFO - Block processing time: 0.055964 seconds
+2024-11-25 16:35:11,857 - INFO - Processing Block size=20
+2024-11-25 16:35:11,857 - INFO - Computing Block 40 out of 45
+2024-11-25 16:35:11,872 - INFO - Block processing time: 0.014953 seconds
+2024-11-25 16:35:11,872 - INFO - Processing Block size=18
+2024-11-25 16:35:11,872 - INFO - Computing Block 41 out of 45
+2024-11-25 16:35:11,885 - INFO - Block processing time: 0.012423 seconds
+2024-11-25 16:35:11,885 - INFO - Processing Block size=25
+2024-11-25 16:35:11,885 - INFO - Computing Block 42 out of 45
+2024-11-25 16:35:11,902 - INFO - Block processing time: 0.017266 seconds
+2024-11-25 16:35:11,902 - INFO - Processing Block size=25
+2024-11-25 16:35:11,902 - INFO - Computing Block 43 out of 45
+2024-11-25 16:35:11,920 - INFO - Block processing time: 0.017246 seconds
+2024-11-25 16:35:11,920 - INFO - Processing Block size=25
+2024-11-25 16:35:11,920 - INFO - Computing Block 44 out of 45
+2024-11-25 16:35:11,975 - INFO - Block processing time: 0.055503 seconds
+2024-11-25 16:35:11,976 - INFO - Processing Block size=25
+2024-11-25 16:35:11,976 - INFO - Computing Block 45 out of 45
+2024-11-25 16:35:12,010 - INFO - Block processing time: 0.033871 seconds
+2024-11-25 16:35:12,695 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:12,698 - INFO - Processing Block size=41
+2024-11-25 16:35:12,698 - INFO - Computing Block 1 out of 28
+2024-11-25 16:35:12,728 - INFO - Block processing time: 0.029135 seconds
+2024-11-25 16:35:12,728 - INFO - Processing Block size=39
+2024-11-25 16:35:12,728 - INFO - Computing Block 2 out of 28
+2024-11-25 16:35:12,755 - INFO - Block processing time: 0.027544 seconds
+2024-11-25 16:35:12,756 - INFO - Processing Block size=40
+2024-11-25 16:35:12,756 - INFO - Computing Block 3 out of 28
+2024-11-25 16:35:12,783 - INFO - Block processing time: 0.02751 seconds
+2024-11-25 16:35:12,783 - INFO - Processing Block size=41
+2024-11-25 16:35:12,783 - INFO - Computing Block 4 out of 28
+2024-11-25 16:35:12,812 - INFO - Block processing time: 0.028253 seconds
+2024-11-25 16:35:12,812 - INFO - Processing Block size=40
+2024-11-25 16:35:12,812 - INFO - Computing Block 5 out of 28
+2024-11-25 16:35:12,839 - INFO - Block processing time: 0.027483 seconds
+2024-11-25 16:35:12,839 - INFO - Processing Block size=40
+2024-11-25 16:35:12,839 - INFO - Computing Block 6 out of 28
+2024-11-25 16:35:12,867 - INFO - Block processing time: 0.027542 seconds
+2024-11-25 16:35:12,867 - INFO - Processing Block size=37
+2024-11-25 16:35:12,867 - INFO - Computing Block 7 out of 28
+2024-11-25 16:35:12,894 - INFO - Block processing time: 0.026936 seconds
+2024-11-25 16:35:12,894 - INFO - Processing Block size=41
+2024-11-25 16:35:12,894 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:12,925 - INFO - Block processing time: 0.030632 seconds
+2024-11-25 16:35:12,925 - INFO - Processing Block size=40
+2024-11-25 16:35:12,925 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:12,955 - INFO - Block processing time: 0.029656 seconds
+2024-11-25 16:35:12,955 - INFO - Processing Block size=3
+2024-11-25 16:35:12,955 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:12,958 - INFO - Block processing time: 0.002394 seconds
+2024-11-25 16:35:12,958 - INFO - Processing Block size=38
+2024-11-25 16:35:12,958 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:12,985 - INFO - Block processing time: 0.026846 seconds
+2024-11-25 16:35:12,985 - INFO - Processing Block size=38
+2024-11-25 16:35:12,985 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:13,011 - INFO - Block processing time: 0.026335 seconds
+2024-11-25 16:35:13,011 - INFO - Processing Block size=37
+2024-11-25 16:35:13,011 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:13,037 - INFO - Block processing time: 0.025449 seconds
+2024-11-25 16:35:13,037 - INFO - Processing Block size=41
+2024-11-25 16:35:13,037 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:13,065 - INFO - Block processing time: 0.028185 seconds
+2024-11-25 16:35:13,065 - INFO - Processing Block size=40
+2024-11-25 16:35:13,065 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:13,093 - INFO - Block processing time: 0.027508 seconds
+2024-11-25 16:35:13,093 - INFO - Processing Block size=3
+2024-11-25 16:35:13,093 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:13,095 - INFO - Block processing time: 0.00219 seconds
+2024-11-25 16:35:13,096 - INFO - Processing Block size=39
+2024-11-25 16:35:13,096 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:13,123 - INFO - Block processing time: 0.027253 seconds
+2024-11-25 16:35:13,123 - INFO - Processing Block size=41
+2024-11-25 16:35:13,123 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:13,151 - INFO - Block processing time: 0.028102 seconds
+2024-11-25 16:35:13,151 - INFO - Processing Block size=40
+2024-11-25 16:35:13,151 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:13,179 - INFO - Block processing time: 0.02777 seconds
+2024-11-25 16:35:13,179 - INFO - Processing Block size=40
+2024-11-25 16:35:13,179 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:13,207 - INFO - Block processing time: 0.02748 seconds
+2024-11-25 16:35:13,207 - INFO - Processing Block size=39
+2024-11-25 16:35:13,207 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:13,234 - INFO - Block processing time: 0.026808 seconds
+2024-11-25 16:35:13,234 - INFO - Processing Block size=39
+2024-11-25 16:35:13,234 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:13,261 - INFO - Block processing time: 0.026759 seconds
+2024-11-25 16:35:13,261 - INFO - Processing Block size=41
+2024-11-25 16:35:13,261 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:13,289 - INFO - Block processing time: 0.028179 seconds
+2024-11-25 16:35:13,289 - INFO - Processing Block size=39
+2024-11-25 16:35:13,289 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:13,316 - INFO - Block processing time: 0.02676 seconds
+2024-11-25 16:35:13,316 - INFO - Processing Block size=40
+2024-11-25 16:35:13,316 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:13,344 - INFO - Block processing time: 0.027458 seconds
+2024-11-25 16:35:13,344 - INFO - Processing Block size=40
+2024-11-25 16:35:13,344 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:13,371 - INFO - Block processing time: 0.027577 seconds
+2024-11-25 16:35:13,372 - INFO - Processing Block size=3
+2024-11-25 16:35:13,372 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:13,374 - INFO - Block processing time: 0.002179 seconds
+2024-11-25 16:35:13,374 - INFO - Processing Block size=40
+2024-11-25 16:35:13,374 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:13,401 - INFO - Block processing time: 0.027474 seconds
+2024-11-25 16:35:13,437 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:13,441 - INFO - Processing Block size=41
+2024-11-25 16:35:13,441 - INFO - Computing Block 1 out of 28
+2024-11-25 16:35:13,470 - INFO - Block processing time: 0.029508 seconds
+2024-11-25 16:35:13,470 - INFO - Processing Block size=39
+2024-11-25 16:35:13,470 - INFO - Computing Block 2 out of 28
+2024-11-25 16:35:13,497 - INFO - Block processing time: 0.027056 seconds
+2024-11-25 16:35:13,498 - INFO - Processing Block size=40
+2024-11-25 16:35:13,498 - INFO - Computing Block 3 out of 28
+2024-11-25 16:35:13,525 - INFO - Block processing time: 0.027585 seconds
+2024-11-25 16:35:13,525 - INFO - Processing Block size=41
+2024-11-25 16:35:13,525 - INFO - Computing Block 4 out of 28
+2024-11-25 16:35:13,554 - INFO - Block processing time: 0.02811 seconds
+2024-11-25 16:35:13,554 - INFO - Processing Block size=40
+2024-11-25 16:35:13,554 - INFO - Computing Block 5 out of 28
+2024-11-25 16:35:13,581 - INFO - Block processing time: 0.027457 seconds
+2024-11-25 16:35:13,581 - INFO - Processing Block size=40
+2024-11-25 16:35:13,581 - INFO - Computing Block 6 out of 28
+2024-11-25 16:35:13,609 - INFO - Block processing time: 0.027648 seconds
+2024-11-25 16:35:13,609 - INFO - Processing Block size=37
+2024-11-25 16:35:13,609 - INFO - Computing Block 7 out of 28
+2024-11-25 16:35:13,635 - INFO - Block processing time: 0.025852 seconds
+2024-11-25 16:35:13,635 - INFO - Processing Block size=41
+2024-11-25 16:35:13,635 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:13,664 - INFO - Block processing time: 0.028943 seconds
+2024-11-25 16:35:13,665 - INFO - Processing Block size=40
+2024-11-25 16:35:13,665 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:13,692 - INFO - Block processing time: 0.027752 seconds
+2024-11-25 16:35:13,692 - INFO - Processing Block size=3
+2024-11-25 16:35:13,693 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:13,695 - INFO - Block processing time: 0.00221 seconds
+2024-11-25 16:35:13,695 - INFO - Processing Block size=38
+2024-11-25 16:35:13,695 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:13,721 - INFO - Block processing time: 0.026298 seconds
+2024-11-25 16:35:13,721 - INFO - Processing Block size=38
+2024-11-25 16:35:13,721 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:13,748 - INFO - Block processing time: 0.026214 seconds
+2024-11-25 16:35:13,748 - INFO - Processing Block size=37
+2024-11-25 16:35:13,748 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:13,773 - INFO - Block processing time: 0.02547 seconds
+2024-11-25 16:35:13,773 - INFO - Processing Block size=41
+2024-11-25 16:35:13,774 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:13,802 - INFO - Block processing time: 0.028245 seconds
+2024-11-25 16:35:13,802 - INFO - Processing Block size=40
+2024-11-25 16:35:13,802 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:13,830 - INFO - Block processing time: 0.027639 seconds
+2024-11-25 16:35:13,830 - INFO - Processing Block size=3
+2024-11-25 16:35:13,830 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:13,832 - INFO - Block processing time: 0.002182 seconds
+2024-11-25 16:35:13,832 - INFO - Processing Block size=39
+2024-11-25 16:35:13,832 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:13,859 - INFO - Block processing time: 0.026864 seconds
+2024-11-25 16:35:13,859 - INFO - Processing Block size=41
+2024-11-25 16:35:13,859 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:13,887 - INFO - Block processing time: 0.028197 seconds
+2024-11-25 16:35:13,888 - INFO - Processing Block size=40
+2024-11-25 16:35:13,888 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:13,915 - INFO - Block processing time: 0.027683 seconds
+2024-11-25 16:35:13,915 - INFO - Processing Block size=40
+2024-11-25 16:35:13,915 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:13,943 - INFO - Block processing time: 0.027575 seconds
+2024-11-25 16:35:13,943 - INFO - Processing Block size=39
+2024-11-25 16:35:13,943 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:13,970 - INFO - Block processing time: 0.026782 seconds
+2024-11-25 16:35:13,970 - INFO - Processing Block size=39
+2024-11-25 16:35:13,970 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:13,999 - INFO - Block processing time: 0.029124 seconds
+2024-11-25 16:35:14,000 - INFO - Processing Block size=41
+2024-11-25 16:35:14,000 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:14,030 - INFO - Block processing time: 0.030507 seconds
+2024-11-25 16:35:14,030 - INFO - Processing Block size=39
+2024-11-25 16:35:14,030 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:14,060 - INFO - Block processing time: 0.029152 seconds
+2024-11-25 16:35:14,060 - INFO - Processing Block size=40
+2024-11-25 16:35:14,060 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:14,090 - INFO - Block processing time: 0.029837 seconds
+2024-11-25 16:35:14,090 - INFO - Processing Block size=40
+2024-11-25 16:35:14,090 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:14,118 - INFO - Block processing time: 0.02772 seconds
+2024-11-25 16:35:14,118 - INFO - Processing Block size=3
+2024-11-25 16:35:14,118 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:14,120 - INFO - Block processing time: 0.002189 seconds
+2024-11-25 16:35:14,120 - INFO - Processing Block size=40
+2024-11-25 16:35:14,120 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:14,148 - INFO - Block processing time: 0.027719 seconds
+2024-11-25 16:35:14,180 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:14,183 - INFO - Processing Block size=41
+2024-11-25 16:35:14,184 - INFO - Computing Block 1 out of 28
+2024-11-25 16:35:14,213 - INFO - Block processing time: 0.029213 seconds
+2024-11-25 16:35:14,213 - INFO - Processing Block size=39
+2024-11-25 16:35:14,213 - INFO - Computing Block 2 out of 28
+2024-11-25 16:35:14,241 - INFO - Block processing time: 0.027598 seconds
+2024-11-25 16:35:14,241 - INFO - Processing Block size=40
+2024-11-25 16:35:14,241 - INFO - Computing Block 3 out of 28
+2024-11-25 16:35:14,269 - INFO - Block processing time: 0.02829 seconds
+2024-11-25 16:35:14,269 - INFO - Processing Block size=41
+2024-11-25 16:35:14,269 - INFO - Computing Block 4 out of 28
+2024-11-25 16:35:14,298 - INFO - Block processing time: 0.028293 seconds
+2024-11-25 16:35:14,298 - INFO - Processing Block size=40
+2024-11-25 16:35:14,298 - INFO - Computing Block 5 out of 28
+2024-11-25 16:35:14,325 - INFO - Block processing time: 0.027505 seconds
+2024-11-25 16:35:14,326 - INFO - Processing Block size=40
+2024-11-25 16:35:14,326 - INFO - Computing Block 6 out of 28
+2024-11-25 16:35:14,353 - INFO - Block processing time: 0.027446 seconds
+2024-11-25 16:35:14,353 - INFO - Processing Block size=37
+2024-11-25 16:35:14,353 - INFO - Computing Block 7 out of 28
+2024-11-25 16:35:14,379 - INFO - Block processing time: 0.025411 seconds
+2024-11-25 16:35:14,379 - INFO - Processing Block size=41
+2024-11-25 16:35:14,379 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:14,407 - INFO - Block processing time: 0.028167 seconds
+2024-11-25 16:35:14,407 - INFO - Processing Block size=40
+2024-11-25 16:35:14,407 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:14,435 - INFO - Block processing time: 0.027568 seconds
+2024-11-25 16:35:14,435 - INFO - Processing Block size=3
+2024-11-25 16:35:14,435 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:14,437 - INFO - Block processing time: 0.00217 seconds
+2024-11-25 16:35:14,437 - INFO - Processing Block size=38
+2024-11-25 16:35:14,437 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:14,464 - INFO - Block processing time: 0.026071 seconds
+2024-11-25 16:35:14,464 - INFO - Processing Block size=38
+2024-11-25 16:35:14,464 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:14,490 - INFO - Block processing time: 0.026064 seconds
+2024-11-25 16:35:14,490 - INFO - Processing Block size=37
+2024-11-25 16:35:14,490 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:14,515 - INFO - Block processing time: 0.025471 seconds
+2024-11-25 16:35:14,516 - INFO - Processing Block size=41
+2024-11-25 16:35:14,516 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:14,544 - INFO - Block processing time: 0.028105 seconds
+2024-11-25 16:35:14,544 - INFO - Processing Block size=40
+2024-11-25 16:35:14,544 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:14,571 - INFO - Block processing time: 0.027487 seconds
+2024-11-25 16:35:14,572 - INFO - Processing Block size=3
+2024-11-25 16:35:14,572 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:14,574 - INFO - Block processing time: 0.002203 seconds
+2024-11-25 16:35:14,574 - INFO - Processing Block size=39
+2024-11-25 16:35:14,574 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:14,602 - INFO - Block processing time: 0.027473 seconds
+2024-11-25 16:35:14,602 - INFO - Processing Block size=41
+2024-11-25 16:35:14,602 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:14,633 - INFO - Block processing time: 0.030956 seconds
+2024-11-25 16:35:14,633 - INFO - Processing Block size=40
+2024-11-25 16:35:14,633 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:14,661 - INFO - Block processing time: 0.027798 seconds
+2024-11-25 16:35:14,661 - INFO - Processing Block size=40
+2024-11-25 16:35:14,661 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:14,689 - INFO - Block processing time: 0.028031 seconds
+2024-11-25 16:35:14,689 - INFO - Processing Block size=39
+2024-11-25 16:35:14,689 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:14,716 - INFO - Block processing time: 0.026802 seconds
+2024-11-25 16:35:14,716 - INFO - Processing Block size=39
+2024-11-25 16:35:14,716 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:14,743 - INFO - Block processing time: 0.026788 seconds
+2024-11-25 16:35:14,743 - INFO - Processing Block size=41
+2024-11-25 16:35:14,743 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:14,771 - INFO - Block processing time: 0.028151 seconds
+2024-11-25 16:35:14,772 - INFO - Processing Block size=39
+2024-11-25 16:35:14,772 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:14,798 - INFO - Block processing time: 0.026803 seconds
+2024-11-25 16:35:14,799 - INFO - Processing Block size=40
+2024-11-25 16:35:14,799 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:14,826 - INFO - Block processing time: 0.027493 seconds
+2024-11-25 16:35:14,826 - INFO - Processing Block size=40
+2024-11-25 16:35:14,826 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:14,854 - INFO - Block processing time: 0.027579 seconds
+2024-11-25 16:35:14,854 - INFO - Processing Block size=3
+2024-11-25 16:35:14,854 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:14,856 - INFO - Block processing time: 0.002168 seconds
+2024-11-25 16:35:14,856 - INFO - Processing Block size=40
+2024-11-25 16:35:14,856 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:14,884 - INFO - Block processing time: 0.027491 seconds
+2024-11-25 16:35:14,916 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:14,920 - INFO - Processing Block size=25
+2024-11-25 16:35:14,920 - INFO - Computing Block 1 out of 45
+2024-11-25 16:35:14,938 - INFO - Block processing time: 0.018035 seconds
+2024-11-25 16:35:14,938 - INFO - Processing Block size=25
+2024-11-25 16:35:14,938 - INFO - Computing Block 2 out of 45
+2024-11-25 16:35:14,955 - INFO - Block processing time: 0.017418 seconds
+2024-11-25 16:35:14,956 - INFO - Processing Block size=25
+2024-11-25 16:35:14,956 - INFO - Computing Block 3 out of 45
+2024-11-25 16:35:14,973 - INFO - Block processing time: 0.017284 seconds
+2024-11-25 16:35:14,973 - INFO - Processing Block size=17
+2024-11-25 16:35:14,973 - INFO - Computing Block 4 out of 45
+2024-11-25 16:35:14,985 - INFO - Block processing time: 0.011738 seconds
+2024-11-25 16:35:14,985 - INFO - Processing Block size=2
+2024-11-25 16:35:14,985 - INFO - Computing Block 5 out of 45
+2024-11-25 16:35:14,987 - INFO - Block processing time: 0.001499 seconds
+2024-11-25 16:35:14,987 - INFO - Processing Block size=13
+2024-11-25 16:35:14,987 - INFO - Computing Block 6 out of 45
+2024-11-25 16:35:14,996 - INFO - Block processing time: 0.009073 seconds
+2024-11-25 16:35:14,996 - INFO - Processing Block size=20
+2024-11-25 16:35:14,996 - INFO - Computing Block 7 out of 45
+2024-11-25 16:35:15,010 - INFO - Block processing time: 0.013887 seconds
+2024-11-25 16:35:15,010 - INFO - Processing Block size=25
+2024-11-25 16:35:15,010 - INFO - Computing Block 8 out of 45
+2024-11-25 16:35:15,027 - INFO - Block processing time: 0.017296 seconds
+2024-11-25 16:35:15,028 - INFO - Processing Block size=25
+2024-11-25 16:35:15,028 - INFO - Computing Block 9 out of 45
+2024-11-25 16:35:15,045 - INFO - Block processing time: 0.017341 seconds
+2024-11-25 16:35:15,045 - INFO - Processing Block size=25
+2024-11-25 16:35:15,045 - INFO - Computing Block 10 out of 45
+2024-11-25 16:35:15,062 - INFO - Block processing time: 0.017225 seconds
+2024-11-25 16:35:15,063 - INFO - Processing Block size=25
+2024-11-25 16:35:15,063 - INFO - Computing Block 11 out of 45
+2024-11-25 16:35:15,080 - INFO - Block processing time: 0.01729 seconds
+2024-11-25 16:35:15,080 - INFO - Processing Block size=18
+2024-11-25 16:35:15,080 - INFO - Computing Block 13 out of 45
+2024-11-25 16:35:15,093 - INFO - Block processing time: 0.012564 seconds
+2024-11-25 16:35:15,093 - INFO - Processing Block size=25
+2024-11-25 16:35:15,093 - INFO - Computing Block 14 out of 45
+2024-11-25 16:35:15,110 - INFO - Block processing time: 0.017254 seconds
+2024-11-25 16:35:15,110 - INFO - Processing Block size=28
+2024-11-25 16:35:15,110 - INFO - Computing Block 15 out of 45
+2024-11-25 16:35:15,130 - INFO - Block processing time: 0.019747 seconds
+2024-11-25 16:35:15,130 - INFO - Processing Block size=25
+2024-11-25 16:35:15,130 - INFO - Computing Block 16 out of 45
+2024-11-25 16:35:15,149 - INFO - Block processing time: 0.018765 seconds
+2024-11-25 16:35:15,149 - INFO - Processing Block size=28
+2024-11-25 16:35:15,149 - INFO - Computing Block 17 out of 45
+2024-11-25 16:35:15,171 - INFO - Block processing time: 0.021144 seconds
+2024-11-25 16:35:15,171 - INFO - Processing Block size=2
+2024-11-25 16:35:15,171 - INFO - Computing Block 18 out of 45
+2024-11-25 16:35:15,172 - INFO - Block processing time: 0.001646 seconds
+2024-11-25 16:35:15,173 - INFO - Processing Block size=25
+2024-11-25 16:35:15,173 - INFO - Computing Block 19 out of 45
+2024-11-25 16:35:15,191 - INFO - Block processing time: 0.018736 seconds
+2024-11-25 16:35:15,192 - INFO - Processing Block size=25
+2024-11-25 16:35:15,192 - INFO - Computing Block 20 out of 45
+2024-11-25 16:35:15,209 - INFO - Block processing time: 0.017481 seconds
+2024-11-25 16:35:15,209 - INFO - Processing Block size=25
+2024-11-25 16:35:15,209 - INFO - Computing Block 21 out of 45
+2024-11-25 16:35:15,227 - INFO - Block processing time: 0.017381 seconds
+2024-11-25 16:35:15,227 - INFO - Processing Block size=25
+2024-11-25 16:35:15,227 - INFO - Computing Block 22 out of 45
+2024-11-25 16:35:15,245 - INFO - Block processing time: 0.017772 seconds
+2024-11-25 16:35:15,245 - INFO - Processing Block size=25
+2024-11-25 16:35:15,245 - INFO - Computing Block 23 out of 45
+2024-11-25 16:35:15,263 - INFO - Block processing time: 0.017701 seconds
+2024-11-25 16:35:15,263 - INFO - Processing Block size=25
+2024-11-25 16:35:15,263 - INFO - Computing Block 24 out of 45
+2024-11-25 16:35:15,280 - INFO - Block processing time: 0.017347 seconds
+2024-11-25 16:35:15,280 - INFO - Processing Block size=5
+2024-11-25 16:35:15,280 - INFO - Computing Block 25 out of 45
+2024-11-25 16:35:15,284 - INFO - Block processing time: 0.003584 seconds
+2024-11-25 16:35:15,284 - INFO - Processing Block size=25
+2024-11-25 16:35:15,284 - INFO - Computing Block 26 out of 45
+2024-11-25 16:35:15,302 - INFO - Block processing time: 0.017368 seconds
+2024-11-25 16:35:15,302 - INFO - Processing Block size=25
+2024-11-25 16:35:15,302 - INFO - Computing Block 27 out of 45
+2024-11-25 16:35:15,319 - INFO - Block processing time: 0.017266 seconds
+2024-11-25 16:35:15,319 - INFO - Processing Block size=25
+2024-11-25 16:35:15,319 - INFO - Computing Block 28 out of 45
+2024-11-25 16:35:15,337 - INFO - Block processing time: 0.01728 seconds
+2024-11-25 16:35:15,337 - INFO - Processing Block size=25
+2024-11-25 16:35:15,337 - INFO - Computing Block 29 out of 45
+2024-11-25 16:35:15,354 - INFO - Block processing time: 0.01734 seconds
+2024-11-25 16:35:15,354 - INFO - Processing Block size=25
+2024-11-25 16:35:15,354 - INFO - Computing Block 30 out of 45
+2024-11-25 16:35:15,372 - INFO - Block processing time: 0.017314 seconds
+2024-11-25 16:35:15,372 - INFO - Processing Block size=25
+2024-11-25 16:35:15,372 - INFO - Computing Block 31 out of 45
+2024-11-25 16:35:15,389 - INFO - Block processing time: 0.017315 seconds
+2024-11-25 16:35:15,389 - INFO - Processing Block size=25
+2024-11-25 16:35:15,389 - INFO - Computing Block 32 out of 45
+2024-11-25 16:35:15,407 - INFO - Block processing time: 0.017267 seconds
+2024-11-25 16:35:15,407 - INFO - Processing Block size=25
+2024-11-25 16:35:15,407 - INFO - Computing Block 33 out of 45
+2024-11-25 16:35:15,424 - INFO - Block processing time: 0.017266 seconds
+2024-11-25 16:35:15,424 - INFO - Processing Block size=25
+2024-11-25 16:35:15,424 - INFO - Computing Block 34 out of 45
+2024-11-25 16:35:15,442 - INFO - Block processing time: 0.017533 seconds
+2024-11-25 16:35:15,442 - INFO - Processing Block size=25
+2024-11-25 16:35:15,442 - INFO - Computing Block 35 out of 45
+2024-11-25 16:35:15,460 - INFO - Block processing time: 0.017605 seconds
+2024-11-25 16:35:15,460 - INFO - Processing Block size=25
+2024-11-25 16:35:15,460 - INFO - Computing Block 36 out of 45
+2024-11-25 16:35:15,477 - INFO - Block processing time: 0.017493 seconds
+2024-11-25 16:35:15,477 - INFO - Processing Block size=25
+2024-11-25 16:35:15,477 - INFO - Computing Block 37 out of 45
+2024-11-25 16:35:15,495 - INFO - Block processing time: 0.017594 seconds
+2024-11-25 16:35:15,495 - INFO - Processing Block size=28
+2024-11-25 16:35:15,495 - INFO - Computing Block 38 out of 45
+2024-11-25 16:35:15,515 - INFO - Block processing time: 0.01979 seconds
+2024-11-25 16:35:15,515 - INFO - Processing Block size=25
+2024-11-25 16:35:15,515 - INFO - Computing Block 39 out of 45
+2024-11-25 16:35:15,533 - INFO - Block processing time: 0.017557 seconds
+2024-11-25 16:35:15,533 - INFO - Processing Block size=20
+2024-11-25 16:35:15,533 - INFO - Computing Block 40 out of 45
+2024-11-25 16:35:15,547 - INFO - Block processing time: 0.014047 seconds
+2024-11-25 16:35:15,547 - INFO - Processing Block size=18
+2024-11-25 16:35:15,547 - INFO - Computing Block 41 out of 45
+2024-11-25 16:35:15,560 - INFO - Block processing time: 0.012896 seconds
+2024-11-25 16:35:15,560 - INFO - Processing Block size=25
+2024-11-25 16:35:15,560 - INFO - Computing Block 42 out of 45
+2024-11-25 16:35:15,578 - INFO - Block processing time: 0.017587 seconds
+2024-11-25 16:35:15,578 - INFO - Processing Block size=25
+2024-11-25 16:35:15,578 - INFO - Computing Block 43 out of 45
+2024-11-25 16:35:15,596 - INFO - Block processing time: 0.017533 seconds
+2024-11-25 16:35:15,596 - INFO - Processing Block size=25
+2024-11-25 16:35:15,596 - INFO - Computing Block 44 out of 45
+2024-11-25 16:35:15,613 - INFO - Block processing time: 0.017378 seconds
+2024-11-25 16:35:15,613 - INFO - Processing Block size=25
+2024-11-25 16:35:15,613 - INFO - Computing Block 45 out of 45
+2024-11-25 16:35:15,631 - INFO - Block processing time: 0.017427 seconds
+2024-11-25 16:35:15,671 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:15,675 - INFO - Processing Block size=41
+2024-11-25 16:35:15,675 - INFO - Computing Block 1 out of 28
+2024-11-25 16:35:15,706 - INFO - Block processing time: 0.030808 seconds
+2024-11-25 16:35:15,706 - INFO - Processing Block size=39
+2024-11-25 16:35:15,706 - INFO - Computing Block 2 out of 28
+2024-11-25 16:35:15,734 - INFO - Block processing time: 0.027873 seconds
+2024-11-25 16:35:15,734 - INFO - Processing Block size=40
+2024-11-25 16:35:15,734 - INFO - Computing Block 3 out of 28
+2024-11-25 16:35:15,763 - INFO - Block processing time: 0.028604 seconds
+2024-11-25 16:35:15,763 - INFO - Processing Block size=41
+2024-11-25 16:35:15,763 - INFO - Computing Block 4 out of 28
+2024-11-25 16:35:15,792 - INFO - Block processing time: 0.029095 seconds
+2024-11-25 16:35:15,792 - INFO - Processing Block size=40
+2024-11-25 16:35:15,792 - INFO - Computing Block 5 out of 28
+2024-11-25 16:35:15,821 - INFO - Block processing time: 0.028491 seconds
+2024-11-25 16:35:15,821 - INFO - Processing Block size=40
+2024-11-25 16:35:15,821 - INFO - Computing Block 6 out of 28
+2024-11-25 16:35:15,850 - INFO - Block processing time: 0.028556 seconds
+2024-11-25 16:35:15,850 - INFO - Processing Block size=37
+2024-11-25 16:35:15,850 - INFO - Computing Block 7 out of 28
+2024-11-25 16:35:15,876 - INFO - Block processing time: 0.026275 seconds
+2024-11-25 16:35:15,876 - INFO - Processing Block size=40
+2024-11-25 16:35:15,876 - INFO - Computing Block 8 out of 28
+2024-11-25 16:35:15,905 - INFO - Block processing time: 0.028406 seconds
+2024-11-25 16:35:15,905 - INFO - Processing Block size=41
+2024-11-25 16:35:15,905 - INFO - Computing Block 9 out of 28
+2024-11-25 16:35:15,934 - INFO - Block processing time: 0.029029 seconds
+2024-11-25 16:35:15,934 - INFO - Processing Block size=3
+2024-11-25 16:35:15,934 - INFO - Computing Block 10 out of 28
+2024-11-25 16:35:15,937 - INFO - Block processing time: 0.002309 seconds
+2024-11-25 16:35:15,937 - INFO - Processing Block size=38
+2024-11-25 16:35:15,937 - INFO - Computing Block 11 out of 28
+2024-11-25 16:35:15,964 - INFO - Block processing time: 0.027052 seconds
+2024-11-25 16:35:15,964 - INFO - Processing Block size=38
+2024-11-25 16:35:15,964 - INFO - Computing Block 12 out of 28
+2024-11-25 16:35:15,991 - INFO - Block processing time: 0.026963 seconds
+2024-11-25 16:35:15,991 - INFO - Processing Block size=37
+2024-11-25 16:35:15,991 - INFO - Computing Block 13 out of 28
+2024-11-25 16:35:16,018 - INFO - Block processing time: 0.026329 seconds
+2024-11-25 16:35:16,018 - INFO - Processing Block size=41
+2024-11-25 16:35:16,018 - INFO - Computing Block 14 out of 28
+2024-11-25 16:35:16,047 - INFO - Block processing time: 0.029053 seconds
+2024-11-25 16:35:16,047 - INFO - Processing Block size=40
+2024-11-25 16:35:16,047 - INFO - Computing Block 15 out of 28
+2024-11-25 16:35:16,075 - INFO - Block processing time: 0.028349 seconds
+2024-11-25 16:35:16,075 - INFO - Processing Block size=3
+2024-11-25 16:35:16,075 - INFO - Computing Block 16 out of 28
+2024-11-25 16:35:16,078 - INFO - Block processing time: 0.002251 seconds
+2024-11-25 16:35:16,078 - INFO - Processing Block size=39
+2024-11-25 16:35:16,078 - INFO - Computing Block 17 out of 28
+2024-11-25 16:35:16,106 - INFO - Block processing time: 0.027658 seconds
+2024-11-25 16:35:16,106 - INFO - Processing Block size=41
+2024-11-25 16:35:16,106 - INFO - Computing Block 18 out of 28
+2024-11-25 16:35:16,135 - INFO - Block processing time: 0.029133 seconds
+2024-11-25 16:35:16,135 - INFO - Processing Block size=40
+2024-11-25 16:35:16,135 - INFO - Computing Block 19 out of 28
+2024-11-25 16:35:16,164 - INFO - Block processing time: 0.028995 seconds
+2024-11-25 16:35:16,164 - INFO - Processing Block size=40
+2024-11-25 16:35:16,164 - INFO - Computing Block 20 out of 28
+2024-11-25 16:35:16,193 - INFO - Block processing time: 0.028483 seconds
+2024-11-25 16:35:16,193 - INFO - Processing Block size=39
+2024-11-25 16:35:16,193 - INFO - Computing Block 21 out of 28
+2024-11-25 16:35:16,222 - INFO - Block processing time: 0.029187 seconds
+2024-11-25 16:35:16,222 - INFO - Processing Block size=39
+2024-11-25 16:35:16,223 - INFO - Computing Block 22 out of 28
+2024-11-25 16:35:16,250 - INFO - Block processing time: 0.027735 seconds
+2024-11-25 16:35:16,250 - INFO - Processing Block size=41
+2024-11-25 16:35:16,250 - INFO - Computing Block 23 out of 28
+2024-11-25 16:35:16,280 - INFO - Block processing time: 0.029052 seconds
+2024-11-25 16:35:16,280 - INFO - Processing Block size=39
+2024-11-25 16:35:16,280 - INFO - Computing Block 24 out of 28
+2024-11-25 16:35:16,307 - INFO - Block processing time: 0.027724 seconds
+2024-11-25 16:35:16,308 - INFO - Processing Block size=40
+2024-11-25 16:35:16,308 - INFO - Computing Block 25 out of 28
+2024-11-25 16:35:16,336 - INFO - Block processing time: 0.028529 seconds
+2024-11-25 16:35:16,336 - INFO - Processing Block size=40
+2024-11-25 16:35:16,336 - INFO - Computing Block 26 out of 28
+2024-11-25 16:35:16,365 - INFO - Block processing time: 0.028331 seconds
+2024-11-25 16:35:16,365 - INFO - Processing Block size=3
+2024-11-25 16:35:16,365 - INFO - Computing Block 27 out of 28
+2024-11-25 16:35:16,367 - INFO - Block processing time: 0.002234 seconds
+2024-11-25 16:35:16,367 - INFO - Processing Block size=40
+2024-11-25 16:35:16,367 - INFO - Computing Block 28 out of 28
+2024-11-25 16:35:16,396 - INFO - Block processing time: 0.02838 seconds
+2024-11-25 16:35:16,454 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:16,457 - INFO - Processing Block size=25
+2024-11-25 16:35:16,457 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:16,474 - INFO - Block processing time: 0.017405 seconds
+2024-11-25 16:35:16,475 - INFO - Processing Block size=25
+2024-11-25 16:35:16,475 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:16,492 - INFO - Block processing time: 0.017229 seconds
+2024-11-25 16:35:16,492 - INFO - Processing Block size=25
+2024-11-25 16:35:16,492 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:16,544 - INFO - Block processing time: 0.051568 seconds
+2024-11-25 16:35:16,544 - INFO - Processing Block size=17
+2024-11-25 16:35:16,544 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:16,556 - INFO - Block processing time: 0.011752 seconds
+2024-11-25 16:35:16,556 - INFO - Processing Block size=2
+2024-11-25 16:35:16,556 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:16,557 - INFO - Block processing time: 0.001477 seconds
+2024-11-25 16:35:16,557 - INFO - Processing Block size=13
+2024-11-25 16:35:16,557 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:16,566 - INFO - Block processing time: 0.009008 seconds
+2024-11-25 16:35:16,567 - INFO - Processing Block size=20
+2024-11-25 16:35:16,567 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:16,608 - INFO - Block processing time: 0.041212 seconds
+2024-11-25 16:35:16,608 - INFO - Processing Block size=25
+2024-11-25 16:35:16,608 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:16,642 - INFO - Block processing time: 0.033817 seconds
+2024-11-25 16:35:16,642 - INFO - Processing Block size=25
+2024-11-25 16:35:16,642 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:16,694 - INFO - Block processing time: 0.051392 seconds
+2024-11-25 16:35:16,694 - INFO - Processing Block size=25
+2024-11-25 16:35:16,694 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:16,747 - INFO - Block processing time: 0.053201 seconds
+2024-11-25 16:35:16,747 - INFO - Processing Block size=18
+2024-11-25 16:35:16,747 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:16,760 - INFO - Block processing time: 0.012585 seconds
+2024-11-25 16:35:16,760 - INFO - Processing Block size=25
+2024-11-25 16:35:16,760 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:16,777 - INFO - Block processing time: 0.017272 seconds
+2024-11-25 16:35:16,778 - INFO - Processing Block size=28
+2024-11-25 16:35:16,778 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:16,797 - INFO - Block processing time: 0.019342 seconds
+2024-11-25 16:35:16,797 - INFO - Processing Block size=25
+2024-11-25 16:35:16,797 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:16,849 - INFO - Block processing time: 0.051293 seconds
+2024-11-25 16:35:16,849 - INFO - Processing Block size=2
+2024-11-25 16:35:16,849 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:16,850 - INFO - Block processing time: 0.00152 seconds
+2024-11-25 16:35:16,850 - INFO - Processing Block size=28
+2024-11-25 16:35:16,850 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:16,870 - INFO - Block processing time: 0.019306 seconds
+2024-11-25 16:35:16,870 - INFO - Processing Block size=25
+2024-11-25 16:35:16,870 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:16,904 - INFO - Block processing time: 0.033896 seconds
+2024-11-25 16:35:16,904 - INFO - Processing Block size=25
+2024-11-25 16:35:16,904 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:16,921 - INFO - Block processing time: 0.017185 seconds
+2024-11-25 16:35:16,921 - INFO - Processing Block size=25
+2024-11-25 16:35:16,921 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:16,955 - INFO - Block processing time: 0.033934 seconds
+2024-11-25 16:35:16,956 - INFO - Processing Block size=25
+2024-11-25 16:35:16,956 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:17,007 - INFO - Block processing time: 0.051308 seconds
+2024-11-25 16:35:17,007 - INFO - Processing Block size=25
+2024-11-25 16:35:17,007 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:17,024 - INFO - Block processing time: 0.017166 seconds
+2024-11-25 16:35:17,024 - INFO - Processing Block size=25
+2024-11-25 16:35:17,024 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:17,058 - INFO - Block processing time: 0.034046 seconds
+2024-11-25 16:35:17,059 - INFO - Processing Block size=5
+2024-11-25 16:35:17,059 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:17,062 - INFO - Block processing time: 0.003548 seconds
+2024-11-25 16:35:17,062 - INFO - Processing Block size=25
+2024-11-25 16:35:17,062 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:17,080 - INFO - Block processing time: 0.017165 seconds
+2024-11-25 16:35:17,080 - INFO - Processing Block size=50
+2024-11-25 16:35:17,080 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:17,463 - INFO - Block processing time: 0.383371 seconds
+2024-11-25 16:35:17,463 - INFO - Processing Block size=25
+2024-11-25 16:35:17,463 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:17,481 - INFO - Block processing time: 0.017215 seconds
+2024-11-25 16:35:17,481 - INFO - Processing Block size=25
+2024-11-25 16:35:17,481 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:17,550 - INFO - Block processing time: 0.068742 seconds
+2024-11-25 16:35:17,550 - INFO - Processing Block size=25
+2024-11-25 16:35:17,550 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:17,601 - INFO - Block processing time: 0.051089 seconds
+2024-11-25 16:35:17,601 - INFO - Processing Block size=25
+2024-11-25 16:35:17,601 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:17,618 - INFO - Block processing time: 0.017158 seconds
+2024-11-25 16:35:17,618 - INFO - Processing Block size=25
+2024-11-25 16:35:17,618 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:17,652 - INFO - Block processing time: 0.033822 seconds
+2024-11-25 16:35:17,652 - INFO - Processing Block size=25
+2024-11-25 16:35:17,652 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:17,722 - INFO - Block processing time: 0.069932 seconds
+2024-11-25 16:35:17,723 - INFO - Processing Block size=25
+2024-11-25 16:35:17,723 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:17,757 - INFO - Block processing time: 0.034526 seconds
+2024-11-25 16:35:17,757 - INFO - Processing Block size=25
+2024-11-25 16:35:17,757 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:17,792 - INFO - Block processing time: 0.034256 seconds
+2024-11-25 16:35:17,792 - INFO - Processing Block size=25
+2024-11-25 16:35:17,792 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:17,811 - INFO - Block processing time: 0.018733 seconds
+2024-11-25 16:35:17,811 - INFO - Processing Block size=25
+2024-11-25 16:35:17,811 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:17,862 - INFO - Block processing time: 0.05146 seconds
+2024-11-25 16:35:17,862 - INFO - Processing Block size=28
+2024-11-25 16:35:17,862 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:17,882 - INFO - Block processing time: 0.019204 seconds
+2024-11-25 16:35:17,882 - INFO - Processing Block size=25
+2024-11-25 16:35:17,882 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:17,899 - INFO - Block processing time: 0.017191 seconds
+2024-11-25 16:35:17,899 - INFO - Processing Block size=20
+2024-11-25 16:35:17,899 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:17,940 - INFO - Block processing time: 0.041126 seconds
+2024-11-25 16:35:17,941 - INFO - Processing Block size=18
+2024-11-25 16:35:17,941 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:17,978 - INFO - Block processing time: 0.037307 seconds
+2024-11-25 16:35:17,978 - INFO - Processing Block size=25
+2024-11-25 16:35:17,978 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:17,995 - INFO - Block processing time: 0.017141 seconds
+2024-11-25 16:35:17,995 - INFO - Processing Block size=25
+2024-11-25 16:35:17,995 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:18,047 - INFO - Block processing time: 0.051259 seconds
+2024-11-25 16:35:18,047 - INFO - Processing Block size=25
+2024-11-25 16:35:18,047 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:18,081 - INFO - Block processing time: 0.033789 seconds
+2024-11-25 16:35:18,081 - INFO - Processing Block size=25
+2024-11-25 16:35:18,081 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:18,132 - INFO - Block processing time: 0.051086 seconds
+2024-11-25 16:35:18,159 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:18,162 - INFO - Processing Block size=25
+2024-11-25 16:35:18,162 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:18,214 - INFO - Block processing time: 0.052243 seconds
+2024-11-25 16:35:18,215 - INFO - Processing Block size=25
+2024-11-25 16:35:18,215 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:18,232 - INFO - Block processing time: 0.017413 seconds
+2024-11-25 16:35:18,232 - INFO - Processing Block size=25
+2024-11-25 16:35:18,232 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:18,249 - INFO - Block processing time: 0.017163 seconds
+2024-11-25 16:35:18,250 - INFO - Processing Block size=17
+2024-11-25 16:35:18,250 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:18,297 - INFO - Block processing time: 0.047749 seconds
+2024-11-25 16:35:18,298 - INFO - Processing Block size=2
+2024-11-25 16:35:18,298 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:18,299 - INFO - Block processing time: 0.001525 seconds
+2024-11-25 16:35:18,299 - INFO - Processing Block size=13
+2024-11-25 16:35:18,299 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:18,318 - INFO - Block processing time: 0.018353 seconds
+2024-11-25 16:35:18,318 - INFO - Processing Block size=20
+2024-11-25 16:35:18,318 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:18,332 - INFO - Block processing time: 0.013945 seconds
+2024-11-25 16:35:18,332 - INFO - Processing Block size=25
+2024-11-25 16:35:18,332 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:18,349 - INFO - Block processing time: 0.017191 seconds
+2024-11-25 16:35:18,349 - INFO - Processing Block size=25
+2024-11-25 16:35:18,349 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:18,367 - INFO - Block processing time: 0.017201 seconds
+2024-11-25 16:35:18,367 - INFO - Processing Block size=25
+2024-11-25 16:35:18,367 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:18,418 - INFO - Block processing time: 0.051598 seconds
+2024-11-25 16:35:18,419 - INFO - Processing Block size=18
+2024-11-25 16:35:18,419 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:18,456 - INFO - Block processing time: 0.037523 seconds
+2024-11-25 16:35:18,457 - INFO - Processing Block size=25
+2024-11-25 16:35:18,457 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:18,474 - INFO - Block processing time: 0.017288 seconds
+2024-11-25 16:35:18,474 - INFO - Processing Block size=28
+2024-11-25 16:35:18,474 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:18,552 - INFO - Block processing time: 0.077793 seconds
+2024-11-25 16:35:18,552 - INFO - Processing Block size=25
+2024-11-25 16:35:18,552 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:18,586 - INFO - Block processing time: 0.033902 seconds
+2024-11-25 16:35:18,586 - INFO - Processing Block size=2
+2024-11-25 16:35:18,586 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:18,588 - INFO - Block processing time: 0.001485 seconds
+2024-11-25 16:35:18,588 - INFO - Processing Block size=28
+2024-11-25 16:35:18,588 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:18,607 - INFO - Block processing time: 0.019189 seconds
+2024-11-25 16:35:18,607 - INFO - Processing Block size=25
+2024-11-25 16:35:18,607 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:18,641 - INFO - Block processing time: 0.033772 seconds
+2024-11-25 16:35:18,641 - INFO - Processing Block size=25
+2024-11-25 16:35:18,641 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:18,658 - INFO - Block processing time: 0.017239 seconds
+2024-11-25 16:35:18,659 - INFO - Processing Block size=25
+2024-11-25 16:35:18,659 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:18,676 - INFO - Block processing time: 0.017462 seconds
+2024-11-25 16:35:18,676 - INFO - Processing Block size=25
+2024-11-25 16:35:18,676 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:18,711 - INFO - Block processing time: 0.03422 seconds
+2024-11-25 16:35:18,711 - INFO - Processing Block size=25
+2024-11-25 16:35:18,711 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:18,856 - INFO - Block processing time: 0.145085 seconds
+2024-11-25 16:35:18,856 - INFO - Processing Block size=25
+2024-11-25 16:35:18,856 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:18,890 - INFO - Block processing time: 0.033886 seconds
+2024-11-25 16:35:18,890 - INFO - Processing Block size=5
+2024-11-25 16:35:18,890 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:18,894 - INFO - Block processing time: 0.003542 seconds
+2024-11-25 16:35:18,894 - INFO - Processing Block size=25
+2024-11-25 16:35:18,894 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:18,911 - INFO - Block processing time: 0.0173 seconds
+2024-11-25 16:35:18,911 - INFO - Processing Block size=50
+2024-11-25 16:35:18,911 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:19,014 - INFO - Block processing time: 0.102878 seconds
+2024-11-25 16:35:19,014 - INFO - Processing Block size=25
+2024-11-25 16:35:19,014 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:19,066 - INFO - Block processing time: 0.051906 seconds
+2024-11-25 16:35:19,067 - INFO - Processing Block size=25
+2024-11-25 16:35:19,067 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:19,100 - INFO - Block processing time: 0.03378 seconds
+2024-11-25 16:35:19,101 - INFO - Processing Block size=25
+2024-11-25 16:35:19,101 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:19,152 - INFO - Block processing time: 0.051814 seconds
+2024-11-25 16:35:19,153 - INFO - Processing Block size=25
+2024-11-25 16:35:19,153 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:19,187 - INFO - Block processing time: 0.034367 seconds
+2024-11-25 16:35:19,187 - INFO - Processing Block size=25
+2024-11-25 16:35:19,187 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:19,204 - INFO - Block processing time: 0.017199 seconds
+2024-11-25 16:35:19,205 - INFO - Processing Block size=25
+2024-11-25 16:35:19,205 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:19,222 - INFO - Block processing time: 0.017404 seconds
+2024-11-25 16:35:19,222 - INFO - Processing Block size=25
+2024-11-25 16:35:19,222 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:19,256 - INFO - Block processing time: 0.034123 seconds
+2024-11-25 16:35:19,256 - INFO - Processing Block size=25
+2024-11-25 16:35:19,257 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:19,274 - INFO - Block processing time: 0.017278 seconds
+2024-11-25 16:35:19,274 - INFO - Processing Block size=25
+2024-11-25 16:35:19,274 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:19,291 - INFO - Block processing time: 0.017319 seconds
+2024-11-25 16:35:19,291 - INFO - Processing Block size=25
+2024-11-25 16:35:19,291 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:19,343 - INFO - Block processing time: 0.051651 seconds
+2024-11-25 16:35:19,343 - INFO - Processing Block size=28
+2024-11-25 16:35:19,343 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:19,405 - INFO - Block processing time: 0.061175 seconds
+2024-11-25 16:35:19,405 - INFO - Processing Block size=25
+2024-11-25 16:35:19,405 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:19,439 - INFO - Block processing time: 0.033983 seconds
+2024-11-25 16:35:19,439 - INFO - Processing Block size=20
+2024-11-25 16:35:19,439 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:19,453 - INFO - Block processing time: 0.013815 seconds
+2024-11-25 16:35:19,453 - INFO - Processing Block size=18
+2024-11-25 16:35:19,453 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:19,478 - INFO - Block processing time: 0.024604 seconds
+2024-11-25 16:35:19,478 - INFO - Processing Block size=25
+2024-11-25 16:35:19,478 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:19,512 - INFO - Block processing time: 0.033893 seconds
+2024-11-25 16:35:19,512 - INFO - Processing Block size=25
+2024-11-25 16:35:19,512 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:19,529 - INFO - Block processing time: 0.017235 seconds
+2024-11-25 16:35:19,529 - INFO - Processing Block size=25
+2024-11-25 16:35:19,529 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:19,547 - INFO - Block processing time: 0.017244 seconds
+2024-11-25 16:35:19,547 - INFO - Processing Block size=25
+2024-11-25 16:35:19,547 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:19,581 - INFO - Block processing time: 0.033735 seconds
+2024-11-25 16:35:19,610 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:19,613 - INFO - Processing Block size=25
+2024-11-25 16:35:19,613 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:19,669 - INFO - Block processing time: 0.056193 seconds
+2024-11-25 16:35:19,670 - INFO - Processing Block size=25
+2024-11-25 16:35:19,670 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:19,724 - INFO - Block processing time: 0.054275 seconds
+2024-11-25 16:35:19,724 - INFO - Processing Block size=25
+2024-11-25 16:35:19,724 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:19,758 - INFO - Block processing time: 0.03409 seconds
+2024-11-25 16:35:19,758 - INFO - Processing Block size=17
+2024-11-25 16:35:19,758 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:19,771 - INFO - Block processing time: 0.011989 seconds
+2024-11-25 16:35:19,771 - INFO - Processing Block size=2
+2024-11-25 16:35:19,771 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:19,776 - INFO - Block processing time: 0.005181 seconds
+2024-11-25 16:35:19,776 - INFO - Processing Block size=13
+2024-11-25 16:35:19,776 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:19,804 - INFO - Block processing time: 0.028312 seconds
+2024-11-25 16:35:19,805 - INFO - Processing Block size=20
+2024-11-25 16:35:19,805 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:19,818 - INFO - Block processing time: 0.013823 seconds
+2024-11-25 16:35:19,819 - INFO - Processing Block size=25
+2024-11-25 16:35:19,819 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:19,853 - INFO - Block processing time: 0.034024 seconds
+2024-11-25 16:35:19,853 - INFO - Processing Block size=25
+2024-11-25 16:35:19,853 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:19,887 - INFO - Block processing time: 0.034121 seconds
+2024-11-25 16:35:19,887 - INFO - Processing Block size=25
+2024-11-25 16:35:19,887 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:19,964 - INFO - Block processing time: 0.07661 seconds
+2024-11-25 16:35:19,964 - INFO - Processing Block size=18
+2024-11-25 16:35:19,964 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:20,005 - INFO - Block processing time: 0.040873 seconds
+2024-11-25 16:35:20,005 - INFO - Processing Block size=25
+2024-11-25 16:35:20,005 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:20,024 - INFO - Block processing time: 0.018543 seconds
+2024-11-25 16:35:20,024 - INFO - Processing Block size=28
+2024-11-25 16:35:20,024 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:20,044 - INFO - Block processing time: 0.019425 seconds
+2024-11-25 16:35:20,044 - INFO - Processing Block size=25
+2024-11-25 16:35:20,044 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:20,098 - INFO - Block processing time: 0.053867 seconds
+2024-11-25 16:35:20,098 - INFO - Processing Block size=2
+2024-11-25 16:35:20,098 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:20,099 - INFO - Block processing time: 0.00152 seconds
+2024-11-25 16:35:20,100 - INFO - Processing Block size=28
+2024-11-25 16:35:20,100 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:20,119 - INFO - Block processing time: 0.019343 seconds
+2024-11-25 16:35:20,119 - INFO - Processing Block size=25
+2024-11-25 16:35:20,119 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:20,174 - INFO - Block processing time: 0.05467 seconds
+2024-11-25 16:35:20,174 - INFO - Processing Block size=25
+2024-11-25 16:35:20,174 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:20,227 - INFO - Block processing time: 0.053025 seconds
+2024-11-25 16:35:20,227 - INFO - Processing Block size=25
+2024-11-25 16:35:20,227 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:20,245 - INFO - Block processing time: 0.017252 seconds
+2024-11-25 16:35:20,245 - INFO - Processing Block size=25
+2024-11-25 16:35:20,245 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:20,299 - INFO - Block processing time: 0.054555 seconds
+2024-11-25 16:35:20,299 - INFO - Processing Block size=25
+2024-11-25 16:35:20,300 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:20,483 - INFO - Block processing time: 0.182983 seconds
+2024-11-25 16:35:20,483 - INFO - Processing Block size=25
+2024-11-25 16:35:20,483 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:20,539 - INFO - Block processing time: 0.056516 seconds
+2024-11-25 16:35:20,539 - INFO - Processing Block size=5
+2024-11-25 16:35:20,539 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:20,543 - INFO - Block processing time: 0.0039 seconds
+2024-11-25 16:35:20,544 - INFO - Processing Block size=25
+2024-11-25 16:35:20,544 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:20,563 - INFO - Block processing time: 0.018908 seconds
+2024-11-25 16:35:20,563 - INFO - Processing Block size=50
+2024-11-25 16:35:20,563 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:20,675 - INFO - Block processing time: 0.111986 seconds
+2024-11-25 16:35:20,675 - INFO - Processing Block size=25
+2024-11-25 16:35:20,675 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:20,728 - INFO - Block processing time: 0.053261 seconds
+2024-11-25 16:35:20,728 - INFO - Processing Block size=25
+2024-11-25 16:35:20,729 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:20,781 - INFO - Block processing time: 0.052424 seconds
+2024-11-25 16:35:20,781 - INFO - Processing Block size=25
+2024-11-25 16:35:20,781 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:20,834 - INFO - Block processing time: 0.052944 seconds
+2024-11-25 16:35:20,834 - INFO - Processing Block size=25
+2024-11-25 16:35:20,834 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:20,887 - INFO - Block processing time: 0.05311 seconds
+2024-11-25 16:35:20,888 - INFO - Processing Block size=25
+2024-11-25 16:35:20,888 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:20,905 - INFO - Block processing time: 0.017175 seconds
+2024-11-25 16:35:20,905 - INFO - Processing Block size=25
+2024-11-25 16:35:20,905 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:20,922 - INFO - Block processing time: 0.017092 seconds
+2024-11-25 16:35:20,922 - INFO - Processing Block size=25
+2024-11-25 16:35:20,922 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:20,940 - INFO - Block processing time: 0.017257 seconds
+2024-11-25 16:35:20,940 - INFO - Processing Block size=25
+2024-11-25 16:35:20,940 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:20,957 - INFO - Block processing time: 0.017153 seconds
+2024-11-25 16:35:20,957 - INFO - Processing Block size=25
+2024-11-25 16:35:20,957 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:21,012 - INFO - Block processing time: 0.054554 seconds
+2024-11-25 16:35:21,012 - INFO - Processing Block size=25
+2024-11-25 16:35:21,012 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:21,029 - INFO - Block processing time: 0.017149 seconds
+2024-11-25 16:35:21,029 - INFO - Processing Block size=28
+2024-11-25 16:35:21,029 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:21,089 - INFO - Block processing time: 0.059784 seconds
+2024-11-25 16:35:21,089 - INFO - Processing Block size=25
+2024-11-25 16:35:21,089 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:21,142 - INFO - Block processing time: 0.052909 seconds
+2024-11-25 16:35:21,142 - INFO - Processing Block size=20
+2024-11-25 16:35:21,142 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:21,172 - INFO - Block processing time: 0.029453 seconds
+2024-11-25 16:35:21,172 - INFO - Processing Block size=18
+2024-11-25 16:35:21,172 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:21,197 - INFO - Block processing time: 0.02481 seconds
+2024-11-25 16:35:21,197 - INFO - Processing Block size=25
+2024-11-25 16:35:21,197 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:21,231 - INFO - Block processing time: 0.033839 seconds
+2024-11-25 16:35:21,231 - INFO - Processing Block size=25
+2024-11-25 16:35:21,231 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:21,265 - INFO - Block processing time: 0.033897 seconds
+2024-11-25 16:35:21,265 - INFO - Processing Block size=25
+2024-11-25 16:35:21,265 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:21,318 - INFO - Block processing time: 0.053273 seconds
+2024-11-25 16:35:21,319 - INFO - Processing Block size=25
+2024-11-25 16:35:21,319 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:21,372 - INFO - Block processing time: 0.053307 seconds
+2024-11-25 16:35:21,407 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:21,410 - INFO - Processing Block size=25
+2024-11-25 16:35:21,410 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:21,497 - INFO - Block processing time: 0.086764 seconds
+2024-11-25 16:35:21,497 - INFO - Processing Block size=25
+2024-11-25 16:35:21,497 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:21,514 - INFO - Block processing time: 0.017293 seconds
+2024-11-25 16:35:21,515 - INFO - Processing Block size=25
+2024-11-25 16:35:21,515 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:21,549 - INFO - Block processing time: 0.033856 seconds
+2024-11-25 16:35:21,549 - INFO - Processing Block size=17
+2024-11-25 16:35:21,549 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:21,560 - INFO - Block processing time: 0.011742 seconds
+2024-11-25 16:35:21,561 - INFO - Processing Block size=2
+2024-11-25 16:35:21,561 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:21,562 - INFO - Block processing time: 0.001489 seconds
+2024-11-25 16:35:21,562 - INFO - Processing Block size=13
+2024-11-25 16:35:21,562 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:21,571 - INFO - Block processing time: 0.009006 seconds
+2024-11-25 16:35:21,572 - INFO - Processing Block size=20
+2024-11-25 16:35:21,572 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:21,585 - INFO - Block processing time: 0.013777 seconds
+2024-11-25 16:35:21,585 - INFO - Processing Block size=25
+2024-11-25 16:35:21,586 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:21,603 - INFO - Block processing time: 0.017275 seconds
+2024-11-25 16:35:21,603 - INFO - Processing Block size=25
+2024-11-25 16:35:21,603 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:21,620 - INFO - Block processing time: 0.017225 seconds
+2024-11-25 16:35:21,620 - INFO - Processing Block size=25
+2024-11-25 16:35:21,620 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:21,638 - INFO - Block processing time: 0.017117 seconds
+2024-11-25 16:35:21,638 - INFO - Processing Block size=18
+2024-11-25 16:35:21,638 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:21,662 - INFO - Block processing time: 0.024546 seconds
+2024-11-25 16:35:21,663 - INFO - Processing Block size=25
+2024-11-25 16:35:21,663 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:21,681 - INFO - Block processing time: 0.018183 seconds
+2024-11-25 16:35:21,681 - INFO - Processing Block size=28
+2024-11-25 16:35:21,681 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:21,749 - INFO - Block processing time: 0.067879 seconds
+2024-11-25 16:35:21,749 - INFO - Processing Block size=25
+2024-11-25 16:35:21,749 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:21,783 - INFO - Block processing time: 0.03419 seconds
+2024-11-25 16:35:21,783 - INFO - Processing Block size=2
+2024-11-25 16:35:21,783 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:21,789 - INFO - Block processing time: 0.005139 seconds
+2024-11-25 16:35:21,789 - INFO - Processing Block size=28
+2024-11-25 16:35:21,789 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:21,847 - INFO - Block processing time: 0.058555 seconds
+2024-11-25 16:35:21,848 - INFO - Processing Block size=25
+2024-11-25 16:35:21,848 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:21,882 - INFO - Block processing time: 0.033963 seconds
+2024-11-25 16:35:21,882 - INFO - Processing Block size=25
+2024-11-25 16:35:21,882 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:21,916 - INFO - Block processing time: 0.033979 seconds
+2024-11-25 16:35:21,916 - INFO - Processing Block size=25
+2024-11-25 16:35:21,916 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:21,933 - INFO - Block processing time: 0.017242 seconds
+2024-11-25 16:35:21,933 - INFO - Processing Block size=25
+2024-11-25 16:35:21,933 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:21,989 - INFO - Block processing time: 0.055535 seconds
+2024-11-25 16:35:21,989 - INFO - Processing Block size=25
+2024-11-25 16:35:21,989 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:22,006 - INFO - Block processing time: 0.017216 seconds
+2024-11-25 16:35:22,007 - INFO - Processing Block size=25
+2024-11-25 16:35:22,007 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:22,024 - INFO - Block processing time: 0.017264 seconds
+2024-11-25 16:35:22,024 - INFO - Processing Block size=5
+2024-11-25 16:35:22,024 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:22,028 - INFO - Block processing time: 0.003556 seconds
+2024-11-25 16:35:22,028 - INFO - Processing Block size=25
+2024-11-25 16:35:22,028 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:22,083 - INFO - Block processing time: 0.055714 seconds
+2024-11-25 16:35:22,084 - INFO - Processing Block size=50
+2024-11-25 16:35:22,084 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:22,614 - INFO - Block processing time: 0.530227 seconds
+2024-11-25 16:35:22,614 - INFO - Processing Block size=25
+2024-11-25 16:35:22,614 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:22,667 - INFO - Block processing time: 0.053129 seconds
+2024-11-25 16:35:22,667 - INFO - Processing Block size=25
+2024-11-25 16:35:22,667 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:22,724 - INFO - Block processing time: 0.056243 seconds
+2024-11-25 16:35:22,724 - INFO - Processing Block size=25
+2024-11-25 16:35:22,724 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:22,758 - INFO - Block processing time: 0.03422 seconds
+2024-11-25 16:35:22,758 - INFO - Processing Block size=25
+2024-11-25 16:35:22,758 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:22,810 - INFO - Block processing time: 0.05179 seconds
+2024-11-25 16:35:22,810 - INFO - Processing Block size=25
+2024-11-25 16:35:22,810 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:22,862 - INFO - Block processing time: 0.052162 seconds
+2024-11-25 16:35:22,863 - INFO - Processing Block size=25
+2024-11-25 16:35:22,863 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:22,918 - INFO - Block processing time: 0.055674 seconds
+2024-11-25 16:35:22,919 - INFO - Processing Block size=25
+2024-11-25 16:35:22,919 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:22,952 - INFO - Block processing time: 0.03388 seconds
+2024-11-25 16:35:22,953 - INFO - Processing Block size=25
+2024-11-25 16:35:22,953 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:22,970 - INFO - Block processing time: 0.017173 seconds
+2024-11-25 16:35:22,970 - INFO - Processing Block size=25
+2024-11-25 16:35:22,970 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:23,004 - INFO - Block processing time: 0.033869 seconds
+2024-11-25 16:35:23,004 - INFO - Processing Block size=25
+2024-11-25 16:35:23,004 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:23,021 - INFO - Block processing time: 0.017339 seconds
+2024-11-25 16:35:23,022 - INFO - Processing Block size=28
+2024-11-25 16:35:23,022 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:23,059 - INFO - Block processing time: 0.037793 seconds
+2024-11-25 16:35:23,060 - INFO - Processing Block size=25
+2024-11-25 16:35:23,060 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:23,115 - INFO - Block processing time: 0.054928 seconds
+2024-11-25 16:35:23,115 - INFO - Processing Block size=20
+2024-11-25 16:35:23,115 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:23,129 - INFO - Block processing time: 0.013772 seconds
+2024-11-25 16:35:23,129 - INFO - Processing Block size=18
+2024-11-25 16:35:23,129 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:23,141 - INFO - Block processing time: 0.012425 seconds
+2024-11-25 16:35:23,141 - INFO - Processing Block size=25
+2024-11-25 16:35:23,141 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:23,194 - INFO - Block processing time: 0.053085 seconds
+2024-11-25 16:35:23,195 - INFO - Processing Block size=25
+2024-11-25 16:35:23,195 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:23,213 - INFO - Block processing time: 0.017878 seconds
+2024-11-25 16:35:23,213 - INFO - Processing Block size=25
+2024-11-25 16:35:23,213 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:23,231 - INFO - Block processing time: 0.018694 seconds
+2024-11-25 16:35:23,232 - INFO - Processing Block size=25
+2024-11-25 16:35:23,232 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:23,250 - INFO - Block processing time: 0.018657 seconds
+2024-11-25 16:35:23,279 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:23,282 - INFO - Processing Block size=25
+2024-11-25 16:35:23,282 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:23,334 - INFO - Block processing time: 0.051772 seconds
+2024-11-25 16:35:23,334 - INFO - Processing Block size=25
+2024-11-25 16:35:23,334 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:23,403 - INFO - Block processing time: 0.069044 seconds
+2024-11-25 16:35:23,403 - INFO - Processing Block size=25
+2024-11-25 16:35:23,403 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:23,421 - INFO - Block processing time: 0.017285 seconds
+2024-11-25 16:35:23,421 - INFO - Processing Block size=17
+2024-11-25 16:35:23,421 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:23,432 - INFO - Block processing time: 0.011709 seconds
+2024-11-25 16:35:23,433 - INFO - Processing Block size=2
+2024-11-25 16:35:23,433 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:23,434 - INFO - Block processing time: 0.001486 seconds
+2024-11-25 16:35:23,434 - INFO - Processing Block size=13
+2024-11-25 16:35:23,434 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:23,452 - INFO - Block processing time: 0.01803 seconds
+2024-11-25 16:35:23,453 - INFO - Processing Block size=20
+2024-11-25 16:35:23,453 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:23,466 - INFO - Block processing time: 0.013799 seconds
+2024-11-25 16:35:23,467 - INFO - Processing Block size=25
+2024-11-25 16:35:23,467 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:23,518 - INFO - Block processing time: 0.05194 seconds
+2024-11-25 16:35:23,519 - INFO - Processing Block size=25
+2024-11-25 16:35:23,519 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:23,570 - INFO - Block processing time: 0.051677 seconds
+2024-11-25 16:35:23,571 - INFO - Processing Block size=25
+2024-11-25 16:35:23,571 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:23,622 - INFO - Block processing time: 0.051517 seconds
+2024-11-25 16:35:23,622 - INFO - Processing Block size=18
+2024-11-25 16:35:23,622 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:23,635 - INFO - Block processing time: 0.012413 seconds
+2024-11-25 16:35:23,635 - INFO - Processing Block size=25
+2024-11-25 16:35:23,635 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:23,669 - INFO - Block processing time: 0.033843 seconds
+2024-11-25 16:35:23,669 - INFO - Processing Block size=28
+2024-11-25 16:35:23,669 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:23,688 - INFO - Block processing time: 0.01937 seconds
+2024-11-25 16:35:23,689 - INFO - Processing Block size=25
+2024-11-25 16:35:23,689 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:23,706 - INFO - Block processing time: 0.017297 seconds
+2024-11-25 16:35:23,706 - INFO - Processing Block size=2
+2024-11-25 16:35:23,706 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:23,708 - INFO - Block processing time: 0.001481 seconds
+2024-11-25 16:35:23,708 - INFO - Processing Block size=28
+2024-11-25 16:35:23,708 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:23,789 - INFO - Block processing time: 0.081111 seconds
+2024-11-25 16:35:23,789 - INFO - Processing Block size=25
+2024-11-25 16:35:23,789 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:23,823 - INFO - Block processing time: 0.033859 seconds
+2024-11-25 16:35:23,823 - INFO - Processing Block size=25
+2024-11-25 16:35:23,823 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:23,875 - INFO - Block processing time: 0.051512 seconds
+2024-11-25 16:35:23,875 - INFO - Processing Block size=25
+2024-11-25 16:35:23,875 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:23,945 - INFO - Block processing time: 0.069762 seconds
+2024-11-25 16:35:23,945 - INFO - Processing Block size=25
+2024-11-25 16:35:23,945 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:24,015 - INFO - Block processing time: 0.069745 seconds
+2024-11-25 16:35:24,015 - INFO - Processing Block size=25
+2024-11-25 16:35:24,015 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:24,102 - INFO - Block processing time: 0.087047 seconds
+2024-11-25 16:35:24,102 - INFO - Processing Block size=25
+2024-11-25 16:35:24,102 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:24,119 - INFO - Block processing time: 0.017348 seconds
+2024-11-25 16:35:24,120 - INFO - Processing Block size=5
+2024-11-25 16:35:24,120 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:24,123 - INFO - Block processing time: 0.003519 seconds
+2024-11-25 16:35:24,123 - INFO - Processing Block size=25
+2024-11-25 16:35:24,123 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:24,157 - INFO - Block processing time: 0.033849 seconds
+2024-11-25 16:35:24,157 - INFO - Processing Block size=50
+2024-11-25 16:35:24,157 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:24,441 - INFO - Block processing time: 0.283637 seconds
+2024-11-25 16:35:24,441 - INFO - Processing Block size=25
+2024-11-25 16:35:24,441 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:24,493 - INFO - Block processing time: 0.05172 seconds
+2024-11-25 16:35:24,493 - INFO - Processing Block size=25
+2024-11-25 16:35:24,493 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:24,510 - INFO - Block processing time: 0.017302 seconds
+2024-11-25 16:35:24,511 - INFO - Processing Block size=25
+2024-11-25 16:35:24,511 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:24,562 - INFO - Block processing time: 0.051706 seconds
+2024-11-25 16:35:24,563 - INFO - Processing Block size=25
+2024-11-25 16:35:24,563 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:24,597 - INFO - Block processing time: 0.034054 seconds
+2024-11-25 16:35:24,597 - INFO - Processing Block size=25
+2024-11-25 16:35:24,597 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:24,649 - INFO - Block processing time: 0.051868 seconds
+2024-11-25 16:35:24,649 - INFO - Processing Block size=25
+2024-11-25 16:35:24,649 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:24,701 - INFO - Block processing time: 0.052015 seconds
+2024-11-25 16:35:24,701 - INFO - Processing Block size=25
+2024-11-25 16:35:24,701 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:24,719 - INFO - Block processing time: 0.017508 seconds
+2024-11-25 16:35:24,719 - INFO - Processing Block size=25
+2024-11-25 16:35:24,719 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:24,736 - INFO - Block processing time: 0.01733 seconds
+2024-11-25 16:35:24,736 - INFO - Processing Block size=25
+2024-11-25 16:35:24,736 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:24,770 - INFO - Block processing time: 0.03414 seconds
+2024-11-25 16:35:24,771 - INFO - Processing Block size=25
+2024-11-25 16:35:24,771 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:24,788 - INFO - Block processing time: 0.017273 seconds
+2024-11-25 16:35:24,788 - INFO - Processing Block size=28
+2024-11-25 16:35:24,788 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:24,808 - INFO - Block processing time: 0.020304 seconds
+2024-11-25 16:35:24,809 - INFO - Processing Block size=25
+2024-11-25 16:35:24,809 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:24,864 - INFO - Block processing time: 0.05554 seconds
+2024-11-25 16:35:24,864 - INFO - Processing Block size=20
+2024-11-25 16:35:24,864 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:24,909 - INFO - Block processing time: 0.044973 seconds
+2024-11-25 16:35:24,910 - INFO - Processing Block size=18
+2024-11-25 16:35:24,910 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:24,934 - INFO - Block processing time: 0.024749 seconds
+2024-11-25 16:35:24,935 - INFO - Processing Block size=25
+2024-11-25 16:35:24,935 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:24,952 - INFO - Block processing time: 0.01723 seconds
+2024-11-25 16:35:24,952 - INFO - Processing Block size=25
+2024-11-25 16:35:24,952 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:24,986 - INFO - Block processing time: 0.033853 seconds
+2024-11-25 16:35:24,986 - INFO - Processing Block size=25
+2024-11-25 16:35:24,986 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:25,038 - INFO - Block processing time: 0.051583 seconds
+2024-11-25 16:35:25,038 - INFO - Processing Block size=25
+2024-11-25 16:35:25,038 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:25,055 - INFO - Block processing time: 0.01731 seconds
+2024-11-25 16:35:25,465 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:25,468 - INFO - Processing Block size=25
+2024-11-25 16:35:25,468 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:25,487 - INFO - Block processing time: 0.018743 seconds
+2024-11-25 16:35:25,487 - INFO - Processing Block size=25
+2024-11-25 16:35:25,487 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:25,506 - INFO - Block processing time: 0.018536 seconds
+2024-11-25 16:35:25,506 - INFO - Processing Block size=25
+2024-11-25 16:35:25,506 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:25,524 - INFO - Block processing time: 0.0179 seconds
+2024-11-25 16:35:25,524 - INFO - Processing Block size=17
+2024-11-25 16:35:25,524 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:25,536 - INFO - Block processing time: 0.012046 seconds
+2024-11-25 16:35:25,536 - INFO - Processing Block size=2
+2024-11-25 16:35:25,536 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:25,538 - INFO - Block processing time: 0.00151 seconds
+2024-11-25 16:35:25,538 - INFO - Processing Block size=13
+2024-11-25 16:35:25,538 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:25,547 - INFO - Block processing time: 0.009209 seconds
+2024-11-25 16:35:25,548 - INFO - Processing Block size=20
+2024-11-25 16:35:25,548 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:25,562 - INFO - Block processing time: 0.014095 seconds
+2024-11-25 16:35:25,562 - INFO - Processing Block size=25
+2024-11-25 16:35:25,562 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:25,579 - INFO - Block processing time: 0.017557 seconds
+2024-11-25 16:35:25,580 - INFO - Processing Block size=25
+2024-11-25 16:35:25,580 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:25,597 - INFO - Block processing time: 0.017605 seconds
+2024-11-25 16:35:25,597 - INFO - Processing Block size=25
+2024-11-25 16:35:25,597 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:25,615 - INFO - Block processing time: 0.017508 seconds
+2024-11-25 16:35:25,615 - INFO - Processing Block size=18
+2024-11-25 16:35:25,615 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:25,628 - INFO - Block processing time: 0.012503 seconds
+2024-11-25 16:35:25,628 - INFO - Processing Block size=25
+2024-11-25 16:35:25,628 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:25,645 - INFO - Block processing time: 0.017284 seconds
+2024-11-25 16:35:25,645 - INFO - Processing Block size=28
+2024-11-25 16:35:25,645 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:25,665 - INFO - Block processing time: 0.019425 seconds
+2024-11-25 16:35:25,665 - INFO - Processing Block size=25
+2024-11-25 16:35:25,665 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:25,682 - INFO - Block processing time: 0.017278 seconds
+2024-11-25 16:35:25,683 - INFO - Processing Block size=2
+2024-11-25 16:35:25,683 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:25,684 - INFO - Block processing time: 0.001539 seconds
+2024-11-25 16:35:25,684 - INFO - Processing Block size=28
+2024-11-25 16:35:25,684 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:25,704 - INFO - Block processing time: 0.019491 seconds
+2024-11-25 16:35:25,704 - INFO - Processing Block size=25
+2024-11-25 16:35:25,704 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:25,721 - INFO - Block processing time: 0.017282 seconds
+2024-11-25 16:35:25,721 - INFO - Processing Block size=25
+2024-11-25 16:35:25,721 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:25,739 - INFO - Block processing time: 0.017722 seconds
+2024-11-25 16:35:25,739 - INFO - Processing Block size=25
+2024-11-25 16:35:25,739 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:25,757 - INFO - Block processing time: 0.017383 seconds
+2024-11-25 16:35:25,757 - INFO - Processing Block size=25
+2024-11-25 16:35:25,757 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:25,774 - INFO - Block processing time: 0.017273 seconds
+2024-11-25 16:35:25,774 - INFO - Processing Block size=25
+2024-11-25 16:35:25,774 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:25,792 - INFO - Block processing time: 0.0174 seconds
+2024-11-25 16:35:25,792 - INFO - Processing Block size=25
+2024-11-25 16:35:25,792 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:25,809 - INFO - Block processing time: 0.017264 seconds
+2024-11-25 16:35:25,809 - INFO - Processing Block size=5
+2024-11-25 16:35:25,810 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:25,813 - INFO - Block processing time: 0.00355 seconds
+2024-11-25 16:35:25,813 - INFO - Processing Block size=25
+2024-11-25 16:35:25,813 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:25,831 - INFO - Block processing time: 0.017324 seconds
+2024-11-25 16:35:25,831 - INFO - Processing Block size=50
+2024-11-25 16:35:25,831 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:25,865 - INFO - Block processing time: 0.034386 seconds
+2024-11-25 16:35:25,865 - INFO - Processing Block size=25
+2024-11-25 16:35:25,865 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:25,883 - INFO - Block processing time: 0.017219 seconds
+2024-11-25 16:35:25,883 - INFO - Processing Block size=25
+2024-11-25 16:35:25,883 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:25,900 - INFO - Block processing time: 0.017273 seconds
+2024-11-25 16:35:25,900 - INFO - Processing Block size=25
+2024-11-25 16:35:25,900 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:25,919 - INFO - Block processing time: 0.018284 seconds
+2024-11-25 16:35:25,919 - INFO - Processing Block size=25
+2024-11-25 16:35:25,919 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:25,938 - INFO - Block processing time: 0.018778 seconds
+2024-11-25 16:35:25,938 - INFO - Processing Block size=25
+2024-11-25 16:35:25,938 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:25,957 - INFO - Block processing time: 0.018734 seconds
+2024-11-25 16:35:25,957 - INFO - Processing Block size=25
+2024-11-25 16:35:25,957 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:25,974 - INFO - Block processing time: 0.017257 seconds
+2024-11-25 16:35:25,974 - INFO - Processing Block size=25
+2024-11-25 16:35:25,974 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:25,992 - INFO - Block processing time: 0.017364 seconds
+2024-11-25 16:35:25,992 - INFO - Processing Block size=25
+2024-11-25 16:35:25,992 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:26,009 - INFO - Block processing time: 0.017189 seconds
+2024-11-25 16:35:26,009 - INFO - Processing Block size=25
+2024-11-25 16:35:26,009 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:26,026 - INFO - Block processing time: 0.017222 seconds
+2024-11-25 16:35:26,027 - INFO - Processing Block size=25
+2024-11-25 16:35:26,027 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:26,044 - INFO - Block processing time: 0.017252 seconds
+2024-11-25 16:35:26,044 - INFO - Processing Block size=28
+2024-11-25 16:35:26,044 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:26,063 - INFO - Block processing time: 0.019296 seconds
+2024-11-25 16:35:26,063 - INFO - Processing Block size=25
+2024-11-25 16:35:26,064 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:26,081 - INFO - Block processing time: 0.017185 seconds
+2024-11-25 16:35:26,081 - INFO - Processing Block size=20
+2024-11-25 16:35:26,081 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:26,095 - INFO - Block processing time: 0.013865 seconds
+2024-11-25 16:35:26,095 - INFO - Processing Block size=18
+2024-11-25 16:35:26,095 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:26,107 - INFO - Block processing time: 0.01246 seconds
+2024-11-25 16:35:26,108 - INFO - Processing Block size=25
+2024-11-25 16:35:26,108 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:26,125 - INFO - Block processing time: 0.017371 seconds
+2024-11-25 16:35:26,125 - INFO - Processing Block size=25
+2024-11-25 16:35:26,125 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:26,142 - INFO - Block processing time: 0.017223 seconds
+2024-11-25 16:35:26,143 - INFO - Processing Block size=25
+2024-11-25 16:35:26,143 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:26,160 - INFO - Block processing time: 0.017239 seconds
+2024-11-25 16:35:26,160 - INFO - Processing Block size=25
+2024-11-25 16:35:26,160 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:26,177 - INFO - Block processing time: 0.017187 seconds
+2024-11-25 16:35:26,206 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:26,209 - INFO - Processing Block size=25
+2024-11-25 16:35:26,209 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:26,227 - INFO - Block processing time: 0.017475 seconds
+2024-11-25 16:35:26,227 - INFO - Processing Block size=25
+2024-11-25 16:35:26,227 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:26,244 - INFO - Block processing time: 0.017459 seconds
+2024-11-25 16:35:26,245 - INFO - Processing Block size=25
+2024-11-25 16:35:26,245 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:26,262 - INFO - Block processing time: 0.017261 seconds
+2024-11-25 16:35:26,262 - INFO - Processing Block size=17
+2024-11-25 16:35:26,262 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:26,274 - INFO - Block processing time: 0.011748 seconds
+2024-11-25 16:35:26,274 - INFO - Processing Block size=2
+2024-11-25 16:35:26,274 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:26,275 - INFO - Block processing time: 0.001479 seconds
+2024-11-25 16:35:26,276 - INFO - Processing Block size=13
+2024-11-25 16:35:26,276 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:26,285 - INFO - Block processing time: 0.009007 seconds
+2024-11-25 16:35:26,285 - INFO - Processing Block size=20
+2024-11-25 16:35:26,285 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:26,299 - INFO - Block processing time: 0.013832 seconds
+2024-11-25 16:35:26,299 - INFO - Processing Block size=25
+2024-11-25 16:35:26,299 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:26,316 - INFO - Block processing time: 0.017265 seconds
+2024-11-25 16:35:26,316 - INFO - Processing Block size=25
+2024-11-25 16:35:26,316 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:26,333 - INFO - Block processing time: 0.017191 seconds
+2024-11-25 16:35:26,334 - INFO - Processing Block size=25
+2024-11-25 16:35:26,334 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:26,351 - INFO - Block processing time: 0.017229 seconds
+2024-11-25 16:35:26,351 - INFO - Processing Block size=18
+2024-11-25 16:35:26,351 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:26,364 - INFO - Block processing time: 0.012417 seconds
+2024-11-25 16:35:26,364 - INFO - Processing Block size=25
+2024-11-25 16:35:26,364 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:26,381 - INFO - Block processing time: 0.017184 seconds
+2024-11-25 16:35:26,381 - INFO - Processing Block size=28
+2024-11-25 16:35:26,381 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:26,400 - INFO - Block processing time: 0.019263 seconds
+2024-11-25 16:35:26,401 - INFO - Processing Block size=25
+2024-11-25 16:35:26,401 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:26,418 - INFO - Block processing time: 0.017229 seconds
+2024-11-25 16:35:26,418 - INFO - Processing Block size=2
+2024-11-25 16:35:26,418 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:26,420 - INFO - Block processing time: 0.00148 seconds
+2024-11-25 16:35:26,420 - INFO - Processing Block size=28
+2024-11-25 16:35:26,420 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:26,439 - INFO - Block processing time: 0.019216 seconds
+2024-11-25 16:35:26,439 - INFO - Processing Block size=25
+2024-11-25 16:35:26,439 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:26,456 - INFO - Block processing time: 0.017131 seconds
+2024-11-25 16:35:26,456 - INFO - Processing Block size=25
+2024-11-25 16:35:26,456 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:26,475 - INFO - Block processing time: 0.018589 seconds
+2024-11-25 16:35:26,475 - INFO - Processing Block size=25
+2024-11-25 16:35:26,475 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:26,494 - INFO - Block processing time: 0.018728 seconds
+2024-11-25 16:35:26,494 - INFO - Processing Block size=25
+2024-11-25 16:35:26,494 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:26,513 - INFO - Block processing time: 0.018647 seconds
+2024-11-25 16:35:26,513 - INFO - Processing Block size=25
+2024-11-25 16:35:26,513 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:26,532 - INFO - Block processing time: 0.018541 seconds
+2024-11-25 16:35:26,532 - INFO - Processing Block size=25
+2024-11-25 16:35:26,532 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:26,549 - INFO - Block processing time: 0.017281 seconds
+2024-11-25 16:35:26,549 - INFO - Processing Block size=5
+2024-11-25 16:35:26,549 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:26,553 - INFO - Block processing time: 0.003546 seconds
+2024-11-25 16:35:26,553 - INFO - Processing Block size=25
+2024-11-25 16:35:26,553 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:26,570 - INFO - Block processing time: 0.017147 seconds
+2024-11-25 16:35:26,570 - INFO - Processing Block size=50
+2024-11-25 16:35:26,570 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:26,605 - INFO - Block processing time: 0.034321 seconds
+2024-11-25 16:35:26,605 - INFO - Processing Block size=25
+2024-11-25 16:35:26,605 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:26,622 - INFO - Block processing time: 0.017133 seconds
+2024-11-25 16:35:26,622 - INFO - Processing Block size=25
+2024-11-25 16:35:26,622 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:26,639 - INFO - Block processing time: 0.017081 seconds
+2024-11-25 16:35:26,640 - INFO - Processing Block size=25
+2024-11-25 16:35:26,640 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:26,657 - INFO - Block processing time: 0.017188 seconds
+2024-11-25 16:35:26,657 - INFO - Processing Block size=25
+2024-11-25 16:35:26,657 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:26,674 - INFO - Block processing time: 0.017073 seconds
+2024-11-25 16:35:26,674 - INFO - Processing Block size=25
+2024-11-25 16:35:26,674 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:26,691 - INFO - Block processing time: 0.017155 seconds
+2024-11-25 16:35:26,692 - INFO - Processing Block size=25
+2024-11-25 16:35:26,692 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:26,709 - INFO - Block processing time: 0.017194 seconds
+2024-11-25 16:35:26,709 - INFO - Processing Block size=25
+2024-11-25 16:35:26,709 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:26,726 - INFO - Block processing time: 0.017364 seconds
+2024-11-25 16:35:26,726 - INFO - Processing Block size=25
+2024-11-25 16:35:26,726 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:26,744 - INFO - Block processing time: 0.017609 seconds
+2024-11-25 16:35:26,744 - INFO - Processing Block size=25
+2024-11-25 16:35:26,744 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:26,762 - INFO - Block processing time: 0.017287 seconds
+2024-11-25 16:35:26,762 - INFO - Processing Block size=25
+2024-11-25 16:35:26,762 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:26,779 - INFO - Block processing time: 0.017257 seconds
+2024-11-25 16:35:26,779 - INFO - Processing Block size=28
+2024-11-25 16:35:26,779 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:26,799 - INFO - Block processing time: 0.019356 seconds
+2024-11-25 16:35:26,799 - INFO - Processing Block size=25
+2024-11-25 16:35:26,799 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:26,816 - INFO - Block processing time: 0.017173 seconds
+2024-11-25 16:35:26,816 - INFO - Processing Block size=20
+2024-11-25 16:35:26,816 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:26,830 - INFO - Block processing time: 0.013836 seconds
+2024-11-25 16:35:26,830 - INFO - Processing Block size=18
+2024-11-25 16:35:26,830 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:26,843 - INFO - Block processing time: 0.012398 seconds
+2024-11-25 16:35:26,843 - INFO - Processing Block size=25
+2024-11-25 16:35:26,843 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:26,860 - INFO - Block processing time: 0.017274 seconds
+2024-11-25 16:35:26,860 - INFO - Processing Block size=25
+2024-11-25 16:35:26,860 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:26,877 - INFO - Block processing time: 0.017186 seconds
+2024-11-25 16:35:26,878 - INFO - Processing Block size=25
+2024-11-25 16:35:26,878 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:26,895 - INFO - Block processing time: 0.017165 seconds
+2024-11-25 16:35:26,895 - INFO - Processing Block size=25
+2024-11-25 16:35:26,895 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:26,912 - INFO - Block processing time: 0.017171 seconds
+2024-11-25 16:35:26,945 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:26,948 - INFO - Processing Block size=25
+2024-11-25 16:35:26,948 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:26,966 - INFO - Block processing time: 0.017561 seconds
+2024-11-25 16:35:26,966 - INFO - Processing Block size=25
+2024-11-25 16:35:26,966 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:26,983 - INFO - Block processing time: 0.017187 seconds
+2024-11-25 16:35:26,983 - INFO - Processing Block size=25
+2024-11-25 16:35:26,983 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:27,001 - INFO - Block processing time: 0.017266 seconds
+2024-11-25 16:35:27,001 - INFO - Processing Block size=17
+2024-11-25 16:35:27,001 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:27,013 - INFO - Block processing time: 0.011752 seconds
+2024-11-25 16:35:27,013 - INFO - Processing Block size=2
+2024-11-25 16:35:27,013 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:27,014 - INFO - Block processing time: 0.001485 seconds
+2024-11-25 16:35:27,014 - INFO - Processing Block size=13
+2024-11-25 16:35:27,015 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:27,023 - INFO - Block processing time: 0.008968 seconds
+2024-11-25 16:35:27,024 - INFO - Processing Block size=20
+2024-11-25 16:35:27,024 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:27,038 - INFO - Block processing time: 0.014079 seconds
+2024-11-25 16:35:27,038 - INFO - Processing Block size=25
+2024-11-25 16:35:27,038 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:27,057 - INFO - Block processing time: 0.018667 seconds
+2024-11-25 16:35:27,057 - INFO - Processing Block size=25
+2024-11-25 16:35:27,057 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:27,076 - INFO - Block processing time: 0.018587 seconds
+2024-11-25 16:35:27,076 - INFO - Processing Block size=25
+2024-11-25 16:35:27,076 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:27,094 - INFO - Block processing time: 0.018639 seconds
+2024-11-25 16:35:27,095 - INFO - Processing Block size=18
+2024-11-25 16:35:27,095 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:27,108 - INFO - Block processing time: 0.013449 seconds
+2024-11-25 16:35:27,108 - INFO - Processing Block size=25
+2024-11-25 16:35:27,109 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:27,126 - INFO - Block processing time: 0.017389 seconds
+2024-11-25 16:35:27,126 - INFO - Processing Block size=28
+2024-11-25 16:35:27,126 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:27,145 - INFO - Block processing time: 0.019277 seconds
+2024-11-25 16:35:27,146 - INFO - Processing Block size=25
+2024-11-25 16:35:27,146 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:27,163 - INFO - Block processing time: 0.017182 seconds
+2024-11-25 16:35:27,163 - INFO - Processing Block size=2
+2024-11-25 16:35:27,163 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:27,164 - INFO - Block processing time: 0.001486 seconds
+2024-11-25 16:35:27,165 - INFO - Processing Block size=28
+2024-11-25 16:35:27,165 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:27,184 - INFO - Block processing time: 0.019212 seconds
+2024-11-25 16:35:27,184 - INFO - Processing Block size=25
+2024-11-25 16:35:27,184 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:27,201 - INFO - Block processing time: 0.017229 seconds
+2024-11-25 16:35:27,201 - INFO - Processing Block size=25
+2024-11-25 16:35:27,201 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:27,219 - INFO - Block processing time: 0.017324 seconds
+2024-11-25 16:35:27,219 - INFO - Processing Block size=25
+2024-11-25 16:35:27,219 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:27,237 - INFO - Block processing time: 0.017712 seconds
+2024-11-25 16:35:27,237 - INFO - Processing Block size=25
+2024-11-25 16:35:27,237 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:27,254 - INFO - Block processing time: 0.017362 seconds
+2024-11-25 16:35:27,255 - INFO - Processing Block size=25
+2024-11-25 16:35:27,255 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:27,272 - INFO - Block processing time: 0.017257 seconds
+2024-11-25 16:35:27,272 - INFO - Processing Block size=25
+2024-11-25 16:35:27,272 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:27,289 - INFO - Block processing time: 0.017345 seconds
+2024-11-25 16:35:27,290 - INFO - Processing Block size=5
+2024-11-25 16:35:27,290 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:27,293 - INFO - Block processing time: 0.003533 seconds
+2024-11-25 16:35:27,293 - INFO - Processing Block size=25
+2024-11-25 16:35:27,293 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:27,311 - INFO - Block processing time: 0.017294 seconds
+2024-11-25 16:35:27,311 - INFO - Processing Block size=50
+2024-11-25 16:35:27,311 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:27,345 - INFO - Block processing time: 0.034533 seconds
+2024-11-25 16:35:27,345 - INFO - Processing Block size=25
+2024-11-25 16:35:27,345 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:27,363 - INFO - Block processing time: 0.017221 seconds
+2024-11-25 16:35:27,363 - INFO - Processing Block size=25
+2024-11-25 16:35:27,363 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:27,380 - INFO - Block processing time: 0.017284 seconds
+2024-11-25 16:35:27,380 - INFO - Processing Block size=25
+2024-11-25 16:35:27,380 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:27,398 - INFO - Block processing time: 0.017233 seconds
+2024-11-25 16:35:27,398 - INFO - Processing Block size=25
+2024-11-25 16:35:27,398 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:27,415 - INFO - Block processing time: 0.017215 seconds
+2024-11-25 16:35:27,415 - INFO - Processing Block size=25
+2024-11-25 16:35:27,415 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:27,432 - INFO - Block processing time: 0.017237 seconds
+2024-11-25 16:35:27,433 - INFO - Processing Block size=25
+2024-11-25 16:35:27,433 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:27,450 - INFO - Block processing time: 0.017264 seconds
+2024-11-25 16:35:27,450 - INFO - Processing Block size=25
+2024-11-25 16:35:27,450 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:27,467 - INFO - Block processing time: 0.017207 seconds
+2024-11-25 16:35:27,467 - INFO - Processing Block size=25
+2024-11-25 16:35:27,467 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:27,485 - INFO - Block processing time: 0.017342 seconds
+2024-11-25 16:35:27,485 - INFO - Processing Block size=25
+2024-11-25 16:35:27,485 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:27,502 - INFO - Block processing time: 0.017185 seconds
+2024-11-25 16:35:27,502 - INFO - Processing Block size=25
+2024-11-25 16:35:27,502 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:27,520 - INFO - Block processing time: 0.01731 seconds
+2024-11-25 16:35:27,520 - INFO - Processing Block size=28
+2024-11-25 16:35:27,520 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:27,539 - INFO - Block processing time: 0.019303 seconds
+2024-11-25 16:35:27,539 - INFO - Processing Block size=25
+2024-11-25 16:35:27,539 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:27,557 - INFO - Block processing time: 0.017297 seconds
+2024-11-25 16:35:27,557 - INFO - Processing Block size=20
+2024-11-25 16:35:27,557 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:27,571 - INFO - Block processing time: 0.013851 seconds
+2024-11-25 16:35:27,571 - INFO - Processing Block size=18
+2024-11-25 16:35:27,571 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:27,583 - INFO - Block processing time: 0.012445 seconds
+2024-11-25 16:35:27,584 - INFO - Processing Block size=25
+2024-11-25 16:35:27,584 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:27,601 - INFO - Block processing time: 0.017324 seconds
+2024-11-25 16:35:27,601 - INFO - Processing Block size=25
+2024-11-25 16:35:27,601 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:27,619 - INFO - Block processing time: 0.017993 seconds
+2024-11-25 16:35:27,619 - INFO - Processing Block size=25
+2024-11-25 16:35:27,619 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:27,638 - INFO - Block processing time: 0.018743 seconds
+2024-11-25 16:35:27,638 - INFO - Processing Block size=25
+2024-11-25 16:35:27,638 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:27,657 - INFO - Block processing time: 0.018685 seconds
+2024-11-25 16:35:27,685 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:27,688 - INFO - Processing Block size=25
+2024-11-25 16:35:27,688 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:27,706 - INFO - Block processing time: 0.017472 seconds
+2024-11-25 16:35:27,706 - INFO - Processing Block size=25
+2024-11-25 16:35:27,706 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:27,723 - INFO - Block processing time: 0.017393 seconds
+2024-11-25 16:35:27,723 - INFO - Processing Block size=25
+2024-11-25 16:35:27,723 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:27,741 - INFO - Block processing time: 0.017178 seconds
+2024-11-25 16:35:27,741 - INFO - Processing Block size=17
+2024-11-25 16:35:27,741 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:27,753 - INFO - Block processing time: 0.012155 seconds
+2024-11-25 16:35:27,753 - INFO - Processing Block size=2
+2024-11-25 16:35:27,753 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:27,755 - INFO - Block processing time: 0.001548 seconds
+2024-11-25 16:35:27,755 - INFO - Processing Block size=13
+2024-11-25 16:35:27,755 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:27,764 - INFO - Block processing time: 0.00905 seconds
+2024-11-25 16:35:27,764 - INFO - Processing Block size=20
+2024-11-25 16:35:27,764 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:27,778 - INFO - Block processing time: 0.013793 seconds
+2024-11-25 16:35:27,778 - INFO - Processing Block size=25
+2024-11-25 16:35:27,778 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:27,795 - INFO - Block processing time: 0.017277 seconds
+2024-11-25 16:35:27,796 - INFO - Processing Block size=25
+2024-11-25 16:35:27,796 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:27,813 - INFO - Block processing time: 0.017381 seconds
+2024-11-25 16:35:27,813 - INFO - Processing Block size=25
+2024-11-25 16:35:27,813 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:27,831 - INFO - Block processing time: 0.017304 seconds
+2024-11-25 16:35:27,831 - INFO - Processing Block size=18
+2024-11-25 16:35:27,831 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:27,843 - INFO - Block processing time: 0.012473 seconds
+2024-11-25 16:35:27,843 - INFO - Processing Block size=25
+2024-11-25 16:35:27,843 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:27,861 - INFO - Block processing time: 0.017251 seconds
+2024-11-25 16:35:27,861 - INFO - Processing Block size=28
+2024-11-25 16:35:27,861 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:27,880 - INFO - Block processing time: 0.019401 seconds
+2024-11-25 16:35:27,881 - INFO - Processing Block size=25
+2024-11-25 16:35:27,881 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:27,898 - INFO - Block processing time: 0.017289 seconds
+2024-11-25 16:35:27,898 - INFO - Processing Block size=2
+2024-11-25 16:35:27,898 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:27,900 - INFO - Block processing time: 0.001533 seconds
+2024-11-25 16:35:27,900 - INFO - Processing Block size=28
+2024-11-25 16:35:27,900 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:27,919 - INFO - Block processing time: 0.019356 seconds
+2024-11-25 16:35:27,919 - INFO - Processing Block size=25
+2024-11-25 16:35:27,919 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:27,937 - INFO - Block processing time: 0.017379 seconds
+2024-11-25 16:35:27,937 - INFO - Processing Block size=25
+2024-11-25 16:35:27,937 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:27,954 - INFO - Block processing time: 0.017222 seconds
+2024-11-25 16:35:27,954 - INFO - Processing Block size=25
+2024-11-25 16:35:27,954 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:27,972 - INFO - Block processing time: 0.017722 seconds
+2024-11-25 16:35:27,972 - INFO - Processing Block size=25
+2024-11-25 16:35:27,972 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:27,989 - INFO - Block processing time: 0.017162 seconds
+2024-11-25 16:35:27,990 - INFO - Processing Block size=25
+2024-11-25 16:35:27,990 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:28,007 - INFO - Block processing time: 0.017347 seconds
+2024-11-25 16:35:28,007 - INFO - Processing Block size=25
+2024-11-25 16:35:28,007 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:28,024 - INFO - Block processing time: 0.017165 seconds
+2024-11-25 16:35:28,024 - INFO - Processing Block size=5
+2024-11-25 16:35:28,024 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:28,028 - INFO - Block processing time: 0.003525 seconds
+2024-11-25 16:35:28,028 - INFO - Processing Block size=25
+2024-11-25 16:35:28,028 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:28,045 - INFO - Block processing time: 0.017218 seconds
+2024-11-25 16:35:28,046 - INFO - Processing Block size=50
+2024-11-25 16:35:28,046 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:28,080 - INFO - Block processing time: 0.034443 seconds
+2024-11-25 16:35:28,080 - INFO - Processing Block size=25
+2024-11-25 16:35:28,080 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:28,097 - INFO - Block processing time: 0.017188 seconds
+2024-11-25 16:35:28,098 - INFO - Processing Block size=25
+2024-11-25 16:35:28,098 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:28,115 - INFO - Block processing time: 0.017299 seconds
+2024-11-25 16:35:28,115 - INFO - Processing Block size=25
+2024-11-25 16:35:28,115 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:28,132 - INFO - Block processing time: 0.017283 seconds
+2024-11-25 16:35:28,133 - INFO - Processing Block size=25
+2024-11-25 16:35:28,133 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:28,150 - INFO - Block processing time: 0.017197 seconds
+2024-11-25 16:35:28,150 - INFO - Processing Block size=25
+2024-11-25 16:35:28,150 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:28,168 - INFO - Block processing time: 0.017968 seconds
+2024-11-25 16:35:28,168 - INFO - Processing Block size=25
+2024-11-25 16:35:28,168 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:28,187 - INFO - Block processing time: 0.018719 seconds
+2024-11-25 16:35:28,187 - INFO - Processing Block size=25
+2024-11-25 16:35:28,187 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:28,206 - INFO - Block processing time: 0.018666 seconds
+2024-11-25 16:35:28,206 - INFO - Processing Block size=25
+2024-11-25 16:35:28,206 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:28,225 - INFO - Block processing time: 0.018794 seconds
+2024-11-25 16:35:28,225 - INFO - Processing Block size=25
+2024-11-25 16:35:28,225 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:28,244 - INFO - Block processing time: 0.018619 seconds
+2024-11-25 16:35:28,244 - INFO - Processing Block size=25
+2024-11-25 16:35:28,244 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:28,263 - INFO - Block processing time: 0.018943 seconds
+2024-11-25 16:35:28,263 - INFO - Processing Block size=28
+2024-11-25 16:35:28,263 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:28,284 - INFO - Block processing time: 0.020902 seconds
+2024-11-25 16:35:28,284 - INFO - Processing Block size=25
+2024-11-25 16:35:28,284 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:28,303 - INFO - Block processing time: 0.018752 seconds
+2024-11-25 16:35:28,303 - INFO - Processing Block size=20
+2024-11-25 16:35:28,303 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:28,317 - INFO - Block processing time: 0.013952 seconds
+2024-11-25 16:35:28,318 - INFO - Processing Block size=18
+2024-11-25 16:35:28,318 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:28,330 - INFO - Block processing time: 0.01248 seconds
+2024-11-25 16:35:28,330 - INFO - Processing Block size=25
+2024-11-25 16:35:28,330 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:28,348 - INFO - Block processing time: 0.017265 seconds
+2024-11-25 16:35:28,348 - INFO - Processing Block size=25
+2024-11-25 16:35:28,348 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:28,365 - INFO - Block processing time: 0.017187 seconds
+2024-11-25 16:35:28,365 - INFO - Processing Block size=25
+2024-11-25 16:35:28,365 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:28,382 - INFO - Block processing time: 0.017195 seconds
+2024-11-25 16:35:28,383 - INFO - Processing Block size=25
+2024-11-25 16:35:28,383 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:28,400 - INFO - Block processing time: 0.017136 seconds
+2024-11-25 16:35:28,429 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:28,432 - INFO - Processing Block size=25
+2024-11-25 16:35:28,432 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:28,449 - INFO - Block processing time: 0.01748 seconds
+2024-11-25 16:35:28,449 - INFO - Processing Block size=25
+2024-11-25 16:35:28,449 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:28,467 - INFO - Block processing time: 0.017153 seconds
+2024-11-25 16:35:28,467 - INFO - Processing Block size=25
+2024-11-25 16:35:28,467 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:28,484 - INFO - Block processing time: 0.01725 seconds
+2024-11-25 16:35:28,484 - INFO - Processing Block size=17
+2024-11-25 16:35:28,484 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:28,496 - INFO - Block processing time: 0.011763 seconds
+2024-11-25 16:35:28,496 - INFO - Processing Block size=2
+2024-11-25 16:35:28,496 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:28,498 - INFO - Block processing time: 0.001479 seconds
+2024-11-25 16:35:28,498 - INFO - Processing Block size=13
+2024-11-25 16:35:28,498 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:28,507 - INFO - Block processing time: 0.009048 seconds
+2024-11-25 16:35:28,507 - INFO - Processing Block size=20
+2024-11-25 16:35:28,507 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:28,521 - INFO - Block processing time: 0.013804 seconds
+2024-11-25 16:35:28,521 - INFO - Processing Block size=25
+2024-11-25 16:35:28,521 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:28,538 - INFO - Block processing time: 0.017112 seconds
+2024-11-25 16:35:28,538 - INFO - Processing Block size=25
+2024-11-25 16:35:28,538 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:28,556 - INFO - Block processing time: 0.017164 seconds
+2024-11-25 16:35:28,556 - INFO - Processing Block size=25
+2024-11-25 16:35:28,556 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:28,573 - INFO - Block processing time: 0.017223 seconds
+2024-11-25 16:35:28,573 - INFO - Processing Block size=18
+2024-11-25 16:35:28,573 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:28,586 - INFO - Block processing time: 0.01247 seconds
+2024-11-25 16:35:28,586 - INFO - Processing Block size=25
+2024-11-25 16:35:28,586 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:28,603 - INFO - Block processing time: 0.017155 seconds
+2024-11-25 16:35:28,603 - INFO - Processing Block size=28
+2024-11-25 16:35:28,603 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:28,623 - INFO - Block processing time: 0.019254 seconds
+2024-11-25 16:35:28,623 - INFO - Processing Block size=25
+2024-11-25 16:35:28,623 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:28,640 - INFO - Block processing time: 0.01717 seconds
+2024-11-25 16:35:28,640 - INFO - Processing Block size=2
+2024-11-25 16:35:28,640 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:28,642 - INFO - Block processing time: 0.00147 seconds
+2024-11-25 16:35:28,642 - INFO - Processing Block size=28
+2024-11-25 16:35:28,642 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:28,661 - INFO - Block processing time: 0.019328 seconds
+2024-11-25 16:35:28,661 - INFO - Processing Block size=25
+2024-11-25 16:35:28,661 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:28,679 - INFO - Block processing time: 0.017142 seconds
+2024-11-25 16:35:28,679 - INFO - Processing Block size=25
+2024-11-25 16:35:28,679 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:28,696 - INFO - Block processing time: 0.017161 seconds
+2024-11-25 16:35:28,696 - INFO - Processing Block size=25
+2024-11-25 16:35:28,696 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:28,713 - INFO - Block processing time: 0.017276 seconds
+2024-11-25 16:35:28,713 - INFO - Processing Block size=25
+2024-11-25 16:35:28,713 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:28,731 - INFO - Block processing time: 0.017287 seconds
+2024-11-25 16:35:28,731 - INFO - Processing Block size=25
+2024-11-25 16:35:28,731 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:28,748 - INFO - Block processing time: 0.017458 seconds
+2024-11-25 16:35:28,749 - INFO - Processing Block size=25
+2024-11-25 16:35:28,749 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:28,766 - INFO - Block processing time: 0.017521 seconds
+2024-11-25 16:35:28,766 - INFO - Processing Block size=5
+2024-11-25 16:35:28,766 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:28,770 - INFO - Block processing time: 0.003552 seconds
+2024-11-25 16:35:28,770 - INFO - Processing Block size=25
+2024-11-25 16:35:28,770 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:28,787 - INFO - Block processing time: 0.017265 seconds
+2024-11-25 16:35:28,788 - INFO - Processing Block size=50
+2024-11-25 16:35:28,788 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:28,824 - INFO - Block processing time: 0.036084 seconds
+2024-11-25 16:35:28,824 - INFO - Processing Block size=25
+2024-11-25 16:35:28,824 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:28,841 - INFO - Block processing time: 0.017192 seconds
+2024-11-25 16:35:28,841 - INFO - Processing Block size=25
+2024-11-25 16:35:28,841 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:28,859 - INFO - Block processing time: 0.017213 seconds
+2024-11-25 16:35:28,859 - INFO - Processing Block size=25
+2024-11-25 16:35:28,859 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:28,876 - INFO - Block processing time: 0.017213 seconds
+2024-11-25 16:35:28,876 - INFO - Processing Block size=25
+2024-11-25 16:35:28,876 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:28,893 - INFO - Block processing time: 0.017232 seconds
+2024-11-25 16:35:28,894 - INFO - Processing Block size=25
+2024-11-25 16:35:28,894 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:28,911 - INFO - Block processing time: 0.017182 seconds
+2024-11-25 16:35:28,911 - INFO - Processing Block size=25
+2024-11-25 16:35:28,911 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:28,928 - INFO - Block processing time: 0.017231 seconds
+2024-11-25 16:35:28,928 - INFO - Processing Block size=25
+2024-11-25 16:35:28,928 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:28,946 - INFO - Block processing time: 0.017199 seconds
+2024-11-25 16:35:28,946 - INFO - Processing Block size=25
+2024-11-25 16:35:28,946 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:28,963 - INFO - Block processing time: 0.017168 seconds
+2024-11-25 16:35:28,963 - INFO - Processing Block size=25
+2024-11-25 16:35:28,963 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:28,981 - INFO - Block processing time: 0.017597 seconds
+2024-11-25 16:35:28,981 - INFO - Processing Block size=25
+2024-11-25 16:35:28,981 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:28,998 - INFO - Block processing time: 0.017219 seconds
+2024-11-25 16:35:28,998 - INFO - Processing Block size=28
+2024-11-25 16:35:28,998 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:29,018 - INFO - Block processing time: 0.019201 seconds
+2024-11-25 16:35:29,018 - INFO - Processing Block size=25
+2024-11-25 16:35:29,018 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:29,035 - INFO - Block processing time: 0.017179 seconds
+2024-11-25 16:35:29,035 - INFO - Processing Block size=20
+2024-11-25 16:35:29,035 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:29,049 - INFO - Block processing time: 0.013766 seconds
+2024-11-25 16:35:29,049 - INFO - Processing Block size=18
+2024-11-25 16:35:29,049 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:29,061 - INFO - Block processing time: 0.012392 seconds
+2024-11-25 16:35:29,062 - INFO - Processing Block size=25
+2024-11-25 16:35:29,062 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:29,079 - INFO - Block processing time: 0.017597 seconds
+2024-11-25 16:35:29,079 - INFO - Processing Block size=25
+2024-11-25 16:35:29,079 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:29,096 - INFO - Block processing time: 0.017109 seconds
+2024-11-25 16:35:29,097 - INFO - Processing Block size=25
+2024-11-25 16:35:29,097 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:29,114 - INFO - Block processing time: 0.017101 seconds
+2024-11-25 16:35:29,114 - INFO - Processing Block size=25
+2024-11-25 16:35:29,114 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:29,131 - INFO - Block processing time: 0.017123 seconds
+2024-11-25 16:35:29,168 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:29,171 - INFO - Processing Block size=25
+2024-11-25 16:35:29,171 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:29,223 - INFO - Block processing time: 0.051701 seconds
+2024-11-25 16:35:29,223 - INFO - Processing Block size=25
+2024-11-25 16:35:29,223 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:29,240 - INFO - Block processing time: 0.01745 seconds
+2024-11-25 16:35:29,240 - INFO - Processing Block size=25
+2024-11-25 16:35:29,240 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:29,258 - INFO - Block processing time: 0.017651 seconds
+2024-11-25 16:35:29,258 - INFO - Processing Block size=17
+2024-11-25 16:35:29,258 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:29,270 - INFO - Block processing time: 0.011844 seconds
+2024-11-25 16:35:29,270 - INFO - Processing Block size=2
+2024-11-25 16:35:29,270 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:29,272 - INFO - Block processing time: 0.001508 seconds
+2024-11-25 16:35:29,272 - INFO - Processing Block size=13
+2024-11-25 16:35:29,272 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:29,299 - INFO - Block processing time: 0.027339 seconds
+2024-11-25 16:35:29,300 - INFO - Processing Block size=20
+2024-11-25 16:35:29,300 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:29,342 - INFO - Block processing time: 0.042382 seconds
+2024-11-25 16:35:29,342 - INFO - Processing Block size=25
+2024-11-25 16:35:29,342 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:29,361 - INFO - Block processing time: 0.018761 seconds
+2024-11-25 16:35:29,361 - INFO - Processing Block size=25
+2024-11-25 16:35:29,361 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:29,417 - INFO - Block processing time: 0.055389 seconds
+2024-11-25 16:35:29,417 - INFO - Processing Block size=25
+2024-11-25 16:35:29,417 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:29,468 - INFO - Block processing time: 0.051195 seconds
+2024-11-25 16:35:29,468 - INFO - Processing Block size=18
+2024-11-25 16:35:29,469 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:29,481 - INFO - Block processing time: 0.012391 seconds
+2024-11-25 16:35:29,481 - INFO - Processing Block size=25
+2024-11-25 16:35:29,481 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:29,515 - INFO - Block processing time: 0.033846 seconds
+2024-11-25 16:35:29,515 - INFO - Processing Block size=28
+2024-11-25 16:35:29,515 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:29,535 - INFO - Block processing time: 0.01933 seconds
+2024-11-25 16:35:29,535 - INFO - Processing Block size=25
+2024-11-25 16:35:29,535 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:29,552 - INFO - Block processing time: 0.017213 seconds
+2024-11-25 16:35:29,552 - INFO - Processing Block size=2
+2024-11-25 16:35:29,552 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:29,554 - INFO - Block processing time: 0.001499 seconds
+2024-11-25 16:35:29,554 - INFO - Processing Block size=28
+2024-11-25 16:35:29,554 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:29,573 - INFO - Block processing time: 0.019383 seconds
+2024-11-25 16:35:29,573 - INFO - Processing Block size=25
+2024-11-25 16:35:29,573 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:29,607 - INFO - Block processing time: 0.033737 seconds
+2024-11-25 16:35:29,607 - INFO - Processing Block size=25
+2024-11-25 16:35:29,607 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:29,676 - INFO - Block processing time: 0.068613 seconds
+2024-11-25 16:35:29,676 - INFO - Processing Block size=25
+2024-11-25 16:35:29,676 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:29,710 - INFO - Block processing time: 0.033849 seconds
+2024-11-25 16:35:29,710 - INFO - Processing Block size=25
+2024-11-25 16:35:29,710 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:29,762 - INFO - Block processing time: 0.051603 seconds
+2024-11-25 16:35:29,762 - INFO - Processing Block size=25
+2024-11-25 16:35:29,762 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:29,814 - INFO - Block processing time: 0.051573 seconds
+2024-11-25 16:35:29,814 - INFO - Processing Block size=25
+2024-11-25 16:35:29,814 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:29,848 - INFO - Block processing time: 0.034074 seconds
+2024-11-25 16:35:29,848 - INFO - Processing Block size=5
+2024-11-25 16:35:29,848 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:29,852 - INFO - Block processing time: 0.003632 seconds
+2024-11-25 16:35:29,852 - INFO - Processing Block size=25
+2024-11-25 16:35:29,852 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:29,886 - INFO - Block processing time: 0.033885 seconds
+2024-11-25 16:35:29,886 - INFO - Processing Block size=50
+2024-11-25 16:35:29,886 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:30,163 - INFO - Block processing time: 0.27664 seconds
+2024-11-25 16:35:30,163 - INFO - Processing Block size=25
+2024-11-25 16:35:30,163 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:30,180 - INFO - Block processing time: 0.017203 seconds
+2024-11-25 16:35:30,180 - INFO - Processing Block size=25
+2024-11-25 16:35:30,180 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:30,214 - INFO - Block processing time: 0.033771 seconds
+2024-11-25 16:35:30,214 - INFO - Processing Block size=25
+2024-11-25 16:35:30,214 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:30,231 - INFO - Block processing time: 0.01722 seconds
+2024-11-25 16:35:30,232 - INFO - Processing Block size=25
+2024-11-25 16:35:30,232 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:30,249 - INFO - Block processing time: 0.017319 seconds
+2024-11-25 16:35:30,249 - INFO - Processing Block size=25
+2024-11-25 16:35:30,249 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:30,283 - INFO - Block processing time: 0.034177 seconds
+2024-11-25 16:35:30,284 - INFO - Processing Block size=25
+2024-11-25 16:35:30,284 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:30,335 - INFO - Block processing time: 0.051237 seconds
+2024-11-25 16:35:30,335 - INFO - Processing Block size=25
+2024-11-25 16:35:30,335 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:30,403 - INFO - Block processing time: 0.068459 seconds
+2024-11-25 16:35:30,404 - INFO - Processing Block size=25
+2024-11-25 16:35:30,404 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:30,438 - INFO - Block processing time: 0.034074 seconds
+2024-11-25 16:35:30,438 - INFO - Processing Block size=25
+2024-11-25 16:35:30,438 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:30,474 - INFO - Block processing time: 0.035651 seconds
+2024-11-25 16:35:30,474 - INFO - Processing Block size=25
+2024-11-25 16:35:30,474 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:30,529 - INFO - Block processing time: 0.055582 seconds
+2024-11-25 16:35:30,530 - INFO - Processing Block size=28
+2024-11-25 16:35:30,530 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:30,549 - INFO - Block processing time: 0.019646 seconds
+2024-11-25 16:35:30,550 - INFO - Processing Block size=25
+2024-11-25 16:35:30,550 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:30,602 - INFO - Block processing time: 0.052272 seconds
+2024-11-25 16:35:30,602 - INFO - Processing Block size=20
+2024-11-25 16:35:30,602 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:30,616 - INFO - Block processing time: 0.014039 seconds
+2024-11-25 16:35:30,616 - INFO - Processing Block size=18
+2024-11-25 16:35:30,616 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:30,629 - INFO - Block processing time: 0.01262 seconds
+2024-11-25 16:35:30,629 - INFO - Processing Block size=25
+2024-11-25 16:35:30,629 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:30,680 - INFO - Block processing time: 0.051208 seconds
+2024-11-25 16:35:30,681 - INFO - Processing Block size=25
+2024-11-25 16:35:30,681 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:30,732 - INFO - Block processing time: 0.051059 seconds
+2024-11-25 16:35:30,732 - INFO - Processing Block size=25
+2024-11-25 16:35:30,732 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:30,784 - INFO - Block processing time: 0.051785 seconds
+2024-11-25 16:35:30,784 - INFO - Processing Block size=25
+2024-11-25 16:35:30,784 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:30,818 - INFO - Block processing time: 0.033941 seconds
+2024-11-25 16:35:30,858 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:30,862 - INFO - Processing Block size=25
+2024-11-25 16:35:30,863 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:30,903 - INFO - Block processing time: 0.040383 seconds
+2024-11-25 16:35:30,903 - INFO - Processing Block size=25
+2024-11-25 16:35:30,903 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:30,963 - INFO - Block processing time: 0.059856 seconds
+2024-11-25 16:35:30,963 - INFO - Processing Block size=25
+2024-11-25 16:35:30,963 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:31,022 - INFO - Block processing time: 0.058896 seconds
+2024-11-25 16:35:31,022 - INFO - Processing Block size=17
+2024-11-25 16:35:31,022 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:31,065 - INFO - Block processing time: 0.042895 seconds
+2024-11-25 16:35:31,066 - INFO - Processing Block size=2
+2024-11-25 16:35:31,066 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:31,072 - INFO - Block processing time: 0.005924 seconds
+2024-11-25 16:35:31,072 - INFO - Processing Block size=13
+2024-11-25 16:35:31,072 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:31,092 - INFO - Block processing time: 0.020534 seconds
+2024-11-25 16:35:31,093 - INFO - Processing Block size=20
+2024-11-25 16:35:31,093 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:31,156 - INFO - Block processing time: 0.063576 seconds
+2024-11-25 16:35:31,156 - INFO - Processing Block size=25
+2024-11-25 16:35:31,156 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:31,175 - INFO - Block processing time: 0.01832 seconds
+2024-11-25 16:35:31,175 - INFO - Processing Block size=25
+2024-11-25 16:35:31,175 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:31,213 - INFO - Block processing time: 0.038304 seconds
+2024-11-25 16:35:31,213 - INFO - Processing Block size=25
+2024-11-25 16:35:31,213 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:31,252 - INFO - Block processing time: 0.03828 seconds
+2024-11-25 16:35:31,252 - INFO - Processing Block size=18
+2024-11-25 16:35:31,252 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:31,266 - INFO - Block processing time: 0.013535 seconds
+2024-11-25 16:35:31,266 - INFO - Processing Block size=25
+2024-11-25 16:35:31,266 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:31,325 - INFO - Block processing time: 0.059392 seconds
+2024-11-25 16:35:31,325 - INFO - Processing Block size=28
+2024-11-25 16:35:31,325 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:31,392 - INFO - Block processing time: 0.066095 seconds
+2024-11-25 16:35:31,392 - INFO - Processing Block size=25
+2024-11-25 16:35:31,392 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:31,430 - INFO - Block processing time: 0.038324 seconds
+2024-11-25 16:35:31,430 - INFO - Processing Block size=2
+2024-11-25 16:35:31,430 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:31,432 - INFO - Block processing time: 0.001607 seconds
+2024-11-25 16:35:31,432 - INFO - Processing Block size=28
+2024-11-25 16:35:31,432 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:31,498 - INFO - Block processing time: 0.065855 seconds
+2024-11-25 16:35:31,498 - INFO - Processing Block size=25
+2024-11-25 16:35:31,498 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:31,517 - INFO - Block processing time: 0.018478 seconds
+2024-11-25 16:35:31,517 - INFO - Processing Block size=25
+2024-11-25 16:35:31,517 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:31,555 - INFO - Block processing time: 0.038304 seconds
+2024-11-25 16:35:31,555 - INFO - Processing Block size=25
+2024-11-25 16:35:31,555 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:31,616 - INFO - Block processing time: 0.060668 seconds
+2024-11-25 16:35:31,616 - INFO - Processing Block size=25
+2024-11-25 16:35:31,616 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:31,655 - INFO - Block processing time: 0.038364 seconds
+2024-11-25 16:35:31,655 - INFO - Processing Block size=25
+2024-11-25 16:35:31,655 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:31,734 - INFO - Block processing time: 0.079159 seconds
+2024-11-25 16:35:31,734 - INFO - Processing Block size=25
+2024-11-25 16:35:31,734 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:31,773 - INFO - Block processing time: 0.038297 seconds
+2024-11-25 16:35:31,773 - INFO - Processing Block size=5
+2024-11-25 16:35:31,773 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:31,777 - INFO - Block processing time: 0.003793 seconds
+2024-11-25 16:35:31,777 - INFO - Processing Block size=25
+2024-11-25 16:35:31,777 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:31,836 - INFO - Block processing time: 0.059206 seconds
+2024-11-25 16:35:31,836 - INFO - Processing Block size=50
+2024-11-25 16:35:31,836 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:32,077 - INFO - Block processing time: 0.240686 seconds
+2024-11-25 16:35:32,077 - INFO - Processing Block size=25
+2024-11-25 16:35:32,077 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:32,137 - INFO - Block processing time: 0.059981 seconds
+2024-11-25 16:35:32,137 - INFO - Processing Block size=25
+2024-11-25 16:35:32,137 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:32,156 - INFO - Block processing time: 0.018342 seconds
+2024-11-25 16:35:32,156 - INFO - Processing Block size=25
+2024-11-25 16:35:32,156 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:32,174 - INFO - Block processing time: 0.018335 seconds
+2024-11-25 16:35:32,174 - INFO - Processing Block size=25
+2024-11-25 16:35:32,174 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:32,233 - INFO - Block processing time: 0.058661 seconds
+2024-11-25 16:35:32,233 - INFO - Processing Block size=25
+2024-11-25 16:35:32,233 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:32,252 - INFO - Block processing time: 0.018276 seconds
+2024-11-25 16:35:32,252 - INFO - Processing Block size=25
+2024-11-25 16:35:32,252 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:32,270 - INFO - Block processing time: 0.018446 seconds
+2024-11-25 16:35:32,270 - INFO - Processing Block size=25
+2024-11-25 16:35:32,270 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:32,289 - INFO - Block processing time: 0.018526 seconds
+2024-11-25 16:35:32,289 - INFO - Processing Block size=25
+2024-11-25 16:35:32,289 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:32,308 - INFO - Block processing time: 0.018323 seconds
+2024-11-25 16:35:32,308 - INFO - Processing Block size=25
+2024-11-25 16:35:32,308 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:32,326 - INFO - Block processing time: 0.018272 seconds
+2024-11-25 16:35:32,326 - INFO - Processing Block size=25
+2024-11-25 16:35:32,326 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:32,364 - INFO - Block processing time: 0.038063 seconds
+2024-11-25 16:35:32,364 - INFO - Processing Block size=28
+2024-11-25 16:35:32,365 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:32,431 - INFO - Block processing time: 0.066608 seconds
+2024-11-25 16:35:32,431 - INFO - Processing Block size=25
+2024-11-25 16:35:32,431 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:32,450 - INFO - Block processing time: 0.018829 seconds
+2024-11-25 16:35:32,450 - INFO - Processing Block size=20
+2024-11-25 16:35:32,450 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:32,465 - INFO - Block processing time: 0.014646 seconds
+2024-11-25 16:35:32,465 - INFO - Processing Block size=18
+2024-11-25 16:35:32,465 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:32,508 - INFO - Block processing time: 0.042486 seconds
+2024-11-25 16:35:32,508 - INFO - Processing Block size=25
+2024-11-25 16:35:32,508 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:32,526 - INFO - Block processing time: 0.018399 seconds
+2024-11-25 16:35:32,527 - INFO - Processing Block size=25
+2024-11-25 16:35:32,527 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:32,545 - INFO - Block processing time: 0.018308 seconds
+2024-11-25 16:35:32,545 - INFO - Processing Block size=25
+2024-11-25 16:35:32,545 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:32,604 - INFO - Block processing time: 0.058646 seconds
+2024-11-25 16:35:32,604 - INFO - Processing Block size=25
+2024-11-25 16:35:32,604 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:32,623 - INFO - Block processing time: 0.018599 seconds
+2024-11-25 16:35:32,654 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:32,657 - INFO - Processing Block size=2
+2024-11-25 16:35:32,658 - INFO - Computing Block 1 out of 39
+2024-11-25 16:35:32,659 - INFO - Block processing time: 0.001685 seconds
+2024-11-25 16:35:32,659 - INFO - Processing Block size=25
+2024-11-25 16:35:32,659 - INFO - Computing Block 2 out of 39
+2024-11-25 16:35:32,729 - INFO - Block processing time: 0.069562 seconds
+2024-11-25 16:35:32,729 - INFO - Processing Block size=25
+2024-11-25 16:35:32,729 - INFO - Computing Block 3 out of 39
+2024-11-25 16:35:32,763 - INFO - Block processing time: 0.034027 seconds
+2024-11-25 16:35:32,763 - INFO - Processing Block size=13
+2024-11-25 16:35:32,763 - INFO - Computing Block 4 out of 39
+2024-11-25 16:35:32,782 - INFO - Block processing time: 0.018395 seconds
+2024-11-25 16:35:32,782 - INFO - Processing Block size=20
+2024-11-25 16:35:32,782 - INFO - Computing Block 5 out of 39
+2024-11-25 16:35:32,796 - INFO - Block processing time: 0.014028 seconds
+2024-11-25 16:35:32,796 - INFO - Processing Block size=25
+2024-11-25 16:35:32,796 - INFO - Computing Block 6 out of 39
+2024-11-25 16:35:32,814 - INFO - Block processing time: 0.017336 seconds
+2024-11-25 16:35:32,814 - INFO - Processing Block size=25
+2024-11-25 16:35:32,814 - INFO - Computing Block 7 out of 39
+2024-11-25 16:35:32,831 - INFO - Block processing time: 0.017309 seconds
+2024-11-25 16:35:32,831 - INFO - Processing Block size=18
+2024-11-25 16:35:32,831 - INFO - Computing Block 9 out of 39
+2024-11-25 16:35:32,844 - INFO - Block processing time: 0.012585 seconds
+2024-11-25 16:35:32,844 - INFO - Processing Block size=25
+2024-11-25 16:35:32,844 - INFO - Computing Block 10 out of 39
+2024-11-25 16:35:32,878 - INFO - Block processing time: 0.03411 seconds
+2024-11-25 16:35:32,879 - INFO - Processing Block size=28
+2024-11-25 16:35:32,879 - INFO - Computing Block 11 out of 39
+2024-11-25 16:35:32,936 - INFO - Block processing time: 0.057765 seconds
+2024-11-25 16:35:32,937 - INFO - Processing Block size=25
+2024-11-25 16:35:32,937 - INFO - Computing Block 12 out of 39
+2024-11-25 16:35:32,954 - INFO - Block processing time: 0.017296 seconds
+2024-11-25 16:35:32,954 - INFO - Processing Block size=28
+2024-11-25 16:35:32,954 - INFO - Computing Block 13 out of 39
+2024-11-25 16:35:32,973 - INFO - Block processing time: 0.019407 seconds
+2024-11-25 16:35:32,974 - INFO - Processing Block size=50
+2024-11-25 16:35:32,974 - INFO - Computing Block 14 out of 39
+2024-11-25 16:35:33,041 - INFO - Block processing time: 0.067476 seconds
+2024-11-25 16:35:33,041 - INFO - Processing Block size=2
+2024-11-25 16:35:33,041 - INFO - Computing Block 15 out of 39
+2024-11-25 16:35:33,043 - INFO - Block processing time: 0.001529 seconds
+2024-11-25 16:35:33,043 - INFO - Processing Block size=25
+2024-11-25 16:35:33,043 - INFO - Computing Block 16 out of 39
+2024-11-25 16:35:33,095 - INFO - Block processing time: 0.051791 seconds
+2024-11-25 16:35:33,095 - INFO - Processing Block size=53
+2024-11-25 16:35:33,095 - INFO - Computing Block 17 out of 39
+2024-11-25 16:35:33,132 - INFO - Block processing time: 0.037197 seconds
+2024-11-25 16:35:33,132 - INFO - Processing Block size=25
+2024-11-25 16:35:33,132 - INFO - Computing Block 18 out of 39
+2024-11-25 16:35:33,291 - INFO - Block processing time: 0.15819 seconds
+2024-11-25 16:35:33,291 - INFO - Processing Block size=25
+2024-11-25 16:35:33,291 - INFO - Computing Block 19 out of 39
+2024-11-25 16:35:33,308 - INFO - Block processing time: 0.017299 seconds
+2024-11-25 16:35:33,308 - INFO - Processing Block size=25
+2024-11-25 16:35:33,308 - INFO - Computing Block 20 out of 39
+2024-11-25 16:35:33,342 - INFO - Block processing time: 0.03392 seconds
+2024-11-25 16:35:33,343 - INFO - Processing Block size=25
+2024-11-25 16:35:33,343 - INFO - Computing Block 21 out of 39
+2024-11-25 16:35:33,377 - INFO - Block processing time: 0.033955 seconds
+2024-11-25 16:35:33,377 - INFO - Processing Block size=55
+2024-11-25 16:35:33,377 - INFO - Computing Block 22 out of 39
+2024-11-25 16:35:33,490 - INFO - Block processing time: 0.113061 seconds
+2024-11-25 16:35:33,490 - INFO - Processing Block size=50
+2024-11-25 16:35:33,490 - INFO - Computing Block 23 out of 39
+2024-11-25 16:35:33,627 - INFO - Block processing time: 0.137327 seconds
+2024-11-25 16:35:33,627 - INFO - Processing Block size=42
+2024-11-25 16:35:33,628 - INFO - Computing Block 24 out of 39
+2024-11-25 16:35:33,776 - INFO - Block processing time: 0.14894 seconds
+2024-11-25 16:35:33,777 - INFO - Processing Block size=25
+2024-11-25 16:35:33,777 - INFO - Computing Block 25 out of 39
+2024-11-25 16:35:33,794 - INFO - Block processing time: 0.017463 seconds
+2024-11-25 16:35:33,794 - INFO - Processing Block size=25
+2024-11-25 16:35:33,794 - INFO - Computing Block 26 out of 39
+2024-11-25 16:35:33,829 - INFO - Block processing time: 0.034455 seconds
+2024-11-25 16:35:33,829 - INFO - Processing Block size=25
+2024-11-25 16:35:33,829 - INFO - Computing Block 27 out of 39
+2024-11-25 16:35:33,917 - INFO - Block processing time: 0.087819 seconds
+2024-11-25 16:35:33,917 - INFO - Processing Block size=25
+2024-11-25 16:35:33,917 - INFO - Computing Block 28 out of 39
+2024-11-25 16:35:33,934 - INFO - Block processing time: 0.017317 seconds
+2024-11-25 16:35:33,935 - INFO - Processing Block size=25
+2024-11-25 16:35:33,935 - INFO - Computing Block 29 out of 39
+2024-11-25 16:35:33,952 - INFO - Block processing time: 0.017262 seconds
+2024-11-25 16:35:33,952 - INFO - Processing Block size=25
+2024-11-25 16:35:33,952 - INFO - Computing Block 30 out of 39
+2024-11-25 16:35:33,969 - INFO - Block processing time: 0.017273 seconds
+2024-11-25 16:35:33,970 - INFO - Processing Block size=25
+2024-11-25 16:35:33,970 - INFO - Computing Block 31 out of 39
+2024-11-25 16:35:33,987 - INFO - Block processing time: 0.017244 seconds
+2024-11-25 16:35:33,987 - INFO - Processing Block size=25
+2024-11-25 16:35:33,987 - INFO - Computing Block 32 out of 39
+2024-11-25 16:35:34,039 - INFO - Block processing time: 0.051609 seconds
+2024-11-25 16:35:34,039 - INFO - Processing Block size=25
+2024-11-25 16:35:34,039 - INFO - Computing Block 33 out of 39
+2024-11-25 16:35:34,056 - INFO - Block processing time: 0.017251 seconds
+2024-11-25 16:35:34,056 - INFO - Processing Block size=25
+2024-11-25 16:35:34,056 - INFO - Computing Block 34 out of 39
+2024-11-25 16:35:34,090 - INFO - Block processing time: 0.033979 seconds
+2024-11-25 16:35:34,090 - INFO - Processing Block size=20
+2024-11-25 16:35:34,090 - INFO - Computing Block 35 out of 39
+2024-11-25 16:35:34,132 - INFO - Block processing time: 0.041705 seconds
+2024-11-25 16:35:34,132 - INFO - Processing Block size=18
+2024-11-25 16:35:34,132 - INFO - Computing Block 36 out of 39
+2024-11-25 16:35:34,145 - INFO - Block processing time: 0.012515 seconds
+2024-11-25 16:35:34,145 - INFO - Processing Block size=25
+2024-11-25 16:35:34,145 - INFO - Computing Block 37 out of 39
+2024-11-25 16:35:34,197 - INFO - Block processing time: 0.051533 seconds
+2024-11-25 16:35:34,197 - INFO - Processing Block size=25
+2024-11-25 16:35:34,197 - INFO - Computing Block 38 out of 39
+2024-11-25 16:35:34,231 - INFO - Block processing time: 0.034083 seconds
+2024-11-25 16:35:34,231 - INFO - Processing Block size=25
+2024-11-25 16:35:34,231 - INFO - Computing Block 39 out of 39
+2024-11-25 16:35:34,249 - INFO - Block processing time: 0.017434 seconds
+2024-11-25 16:35:34,733 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:34,736 - INFO - Processing Block size=25
+2024-11-25 16:35:34,736 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:34,753 - INFO - Block processing time: 0.017365 seconds
+2024-11-25 16:35:34,753 - INFO - Processing Block size=25
+2024-11-25 16:35:34,753 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:34,771 - INFO - Block processing time: 0.017273 seconds
+2024-11-25 16:35:34,771 - INFO - Processing Block size=25
+2024-11-25 16:35:34,771 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:34,788 - INFO - Block processing time: 0.017417 seconds
+2024-11-25 16:35:34,789 - INFO - Processing Block size=17
+2024-11-25 16:35:34,789 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:34,801 - INFO - Block processing time: 0.01204 seconds
+2024-11-25 16:35:34,801 - INFO - Processing Block size=2
+2024-11-25 16:35:34,801 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:34,802 - INFO - Block processing time: 0.001567 seconds
+2024-11-25 16:35:34,803 - INFO - Processing Block size=13
+2024-11-25 16:35:34,803 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:34,812 - INFO - Block processing time: 0.008964 seconds
+2024-11-25 16:35:34,812 - INFO - Processing Block size=20
+2024-11-25 16:35:34,812 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:34,826 - INFO - Block processing time: 0.013819 seconds
+2024-11-25 16:35:34,826 - INFO - Processing Block size=25
+2024-11-25 16:35:34,826 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:34,843 - INFO - Block processing time: 0.017214 seconds
+2024-11-25 16:35:34,843 - INFO - Processing Block size=25
+2024-11-25 16:35:34,843 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:34,860 - INFO - Block processing time: 0.017213 seconds
+2024-11-25 16:35:34,861 - INFO - Processing Block size=25
+2024-11-25 16:35:34,861 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:34,878 - INFO - Block processing time: 0.01723 seconds
+2024-11-25 16:35:34,878 - INFO - Processing Block size=18
+2024-11-25 16:35:34,878 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:34,891 - INFO - Block processing time: 0.012414 seconds
+2024-11-25 16:35:34,891 - INFO - Processing Block size=25
+2024-11-25 16:35:34,891 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:34,908 - INFO - Block processing time: 0.017251 seconds
+2024-11-25 16:35:34,908 - INFO - Processing Block size=28
+2024-11-25 16:35:34,908 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:34,927 - INFO - Block processing time: 0.019338 seconds
+2024-11-25 16:35:34,928 - INFO - Processing Block size=25
+2024-11-25 16:35:34,928 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:34,945 - INFO - Block processing time: 0.017197 seconds
+2024-11-25 16:35:34,945 - INFO - Processing Block size=2
+2024-11-25 16:35:34,945 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:34,947 - INFO - Block processing time: 0.001507 seconds
+2024-11-25 16:35:34,947 - INFO - Processing Block size=28
+2024-11-25 16:35:34,947 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:34,966 - INFO - Block processing time: 0.019224 seconds
+2024-11-25 16:35:34,966 - INFO - Processing Block size=25
+2024-11-25 16:35:34,966 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:34,983 - INFO - Block processing time: 0.017133 seconds
+2024-11-25 16:35:34,983 - INFO - Processing Block size=25
+2024-11-25 16:35:34,983 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:35,001 - INFO - Block processing time: 0.017264 seconds
+2024-11-25 16:35:35,001 - INFO - Processing Block size=25
+2024-11-25 16:35:35,001 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:35,018 - INFO - Block processing time: 0.01726 seconds
+2024-11-25 16:35:35,018 - INFO - Processing Block size=25
+2024-11-25 16:35:35,018 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:35,036 - INFO - Block processing time: 0.01715 seconds
+2024-11-25 16:35:35,036 - INFO - Processing Block size=25
+2024-11-25 16:35:35,036 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:35,053 - INFO - Block processing time: 0.01715 seconds
+2024-11-25 16:35:35,053 - INFO - Processing Block size=25
+2024-11-25 16:35:35,053 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:35,070 - INFO - Block processing time: 0.017172 seconds
+2024-11-25 16:35:35,070 - INFO - Processing Block size=5
+2024-11-25 16:35:35,070 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:35,074 - INFO - Block processing time: 0.003539 seconds
+2024-11-25 16:35:35,074 - INFO - Processing Block size=25
+2024-11-25 16:35:35,074 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:35,091 - INFO - Block processing time: 0.017197 seconds
+2024-11-25 16:35:35,092 - INFO - Processing Block size=50
+2024-11-25 16:35:35,092 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:35,126 - INFO - Block processing time: 0.034777 seconds
+2024-11-25 16:35:35,126 - INFO - Processing Block size=25
+2024-11-25 16:35:35,127 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:35,144 - INFO - Block processing time: 0.017131 seconds
+2024-11-25 16:35:35,144 - INFO - Processing Block size=25
+2024-11-25 16:35:35,144 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:35,161 - INFO - Block processing time: 0.017142 seconds
+2024-11-25 16:35:35,161 - INFO - Processing Block size=25
+2024-11-25 16:35:35,161 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:35,178 - INFO - Block processing time: 0.01714 seconds
+2024-11-25 16:35:35,178 - INFO - Processing Block size=25
+2024-11-25 16:35:35,178 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:35,196 - INFO - Block processing time: 0.017229 seconds
+2024-11-25 16:35:35,196 - INFO - Processing Block size=25
+2024-11-25 16:35:35,196 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:35,214 - INFO - Block processing time: 0.01858 seconds
+2024-11-25 16:35:35,215 - INFO - Processing Block size=25
+2024-11-25 16:35:35,215 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:35,232 - INFO - Block processing time: 0.017495 seconds
+2024-11-25 16:35:35,232 - INFO - Processing Block size=25
+2024-11-25 16:35:35,232 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:35,250 - INFO - Block processing time: 0.01722 seconds
+2024-11-25 16:35:35,250 - INFO - Processing Block size=25
+2024-11-25 16:35:35,250 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:35,267 - INFO - Block processing time: 0.017276 seconds
+2024-11-25 16:35:35,267 - INFO - Processing Block size=25
+2024-11-25 16:35:35,267 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:35,285 - INFO - Block processing time: 0.017368 seconds
+2024-11-25 16:35:35,285 - INFO - Processing Block size=25
+2024-11-25 16:35:35,285 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:35,302 - INFO - Block processing time: 0.017522 seconds
+2024-11-25 16:35:35,303 - INFO - Processing Block size=28
+2024-11-25 16:35:35,303 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:35,322 - INFO - Block processing time: 0.019329 seconds
+2024-11-25 16:35:35,322 - INFO - Processing Block size=25
+2024-11-25 16:35:35,322 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:35,339 - INFO - Block processing time: 0.017187 seconds
+2024-11-25 16:35:35,340 - INFO - Processing Block size=20
+2024-11-25 16:35:35,340 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:35,353 - INFO - Block processing time: 0.013869 seconds
+2024-11-25 16:35:35,354 - INFO - Processing Block size=18
+2024-11-25 16:35:35,354 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:35,366 - INFO - Block processing time: 0.012409 seconds
+2024-11-25 16:35:35,366 - INFO - Processing Block size=25
+2024-11-25 16:35:35,366 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:35,384 - INFO - Block processing time: 0.017257 seconds
+2024-11-25 16:35:35,384 - INFO - Processing Block size=25
+2024-11-25 16:35:35,384 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:35,401 - INFO - Block processing time: 0.01724 seconds
+2024-11-25 16:35:35,401 - INFO - Processing Block size=25
+2024-11-25 16:35:35,401 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:35,418 - INFO - Block processing time: 0.017193 seconds
+2024-11-25 16:35:35,419 - INFO - Processing Block size=25
+2024-11-25 16:35:35,419 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:35,436 - INFO - Block processing time: 0.017345 seconds
+2024-11-25 16:35:35,482 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:35,485 - INFO - Processing Block size=25
+2024-11-25 16:35:35,485 - INFO - Computing Block 1 out of 44
+2024-11-25 16:35:35,504 - INFO - Block processing time: 0.018949 seconds
+2024-11-25 16:35:35,505 - INFO - Processing Block size=25
+2024-11-25 16:35:35,505 - INFO - Computing Block 2 out of 44
+2024-11-25 16:35:35,523 - INFO - Block processing time: 0.018487 seconds
+2024-11-25 16:35:35,523 - INFO - Processing Block size=25
+2024-11-25 16:35:35,523 - INFO - Computing Block 3 out of 44
+2024-11-25 16:35:35,542 - INFO - Block processing time: 0.018761 seconds
+2024-11-25 16:35:35,542 - INFO - Processing Block size=17
+2024-11-25 16:35:35,542 - INFO - Computing Block 4 out of 44
+2024-11-25 16:35:35,555 - INFO - Block processing time: 0.012699 seconds
+2024-11-25 16:35:35,555 - INFO - Processing Block size=2
+2024-11-25 16:35:35,555 - INFO - Computing Block 5 out of 44
+2024-11-25 16:35:35,557 - INFO - Block processing time: 0.001603 seconds
+2024-11-25 16:35:35,557 - INFO - Processing Block size=13
+2024-11-25 16:35:35,557 - INFO - Computing Block 6 out of 44
+2024-11-25 16:35:35,567 - INFO - Block processing time: 0.00979 seconds
+2024-11-25 16:35:35,567 - INFO - Processing Block size=20
+2024-11-25 16:35:35,567 - INFO - Computing Block 7 out of 44
+2024-11-25 16:35:35,582 - INFO - Block processing time: 0.014707 seconds
+2024-11-25 16:35:35,582 - INFO - Processing Block size=25
+2024-11-25 16:35:35,582 - INFO - Computing Block 8 out of 44
+2024-11-25 16:35:35,601 - INFO - Block processing time: 0.018629 seconds
+2024-11-25 16:35:35,601 - INFO - Processing Block size=25
+2024-11-25 16:35:35,601 - INFO - Computing Block 9 out of 44
+2024-11-25 16:35:35,619 - INFO - Block processing time: 0.018709 seconds
+2024-11-25 16:35:35,620 - INFO - Processing Block size=25
+2024-11-25 16:35:35,620 - INFO - Computing Block 10 out of 44
+2024-11-25 16:35:35,638 - INFO - Block processing time: 0.018526 seconds
+2024-11-25 16:35:35,639 - INFO - Processing Block size=18
+2024-11-25 16:35:35,639 - INFO - Computing Block 12 out of 44
+2024-11-25 16:35:35,652 - INFO - Block processing time: 0.013204 seconds
+2024-11-25 16:35:35,652 - INFO - Processing Block size=25
+2024-11-25 16:35:35,652 - INFO - Computing Block 13 out of 44
+2024-11-25 16:35:35,670 - INFO - Block processing time: 0.018218 seconds
+2024-11-25 16:35:35,670 - INFO - Processing Block size=28
+2024-11-25 16:35:35,670 - INFO - Computing Block 14 out of 44
+2024-11-25 16:35:35,691 - INFO - Block processing time: 0.020454 seconds
+2024-11-25 16:35:35,691 - INFO - Processing Block size=25
+2024-11-25 16:35:35,691 - INFO - Computing Block 15 out of 44
+2024-11-25 16:35:35,709 - INFO - Block processing time: 0.018314 seconds
+2024-11-25 16:35:35,710 - INFO - Processing Block size=2
+2024-11-25 16:35:35,710 - INFO - Computing Block 16 out of 44
+2024-11-25 16:35:35,711 - INFO - Block processing time: 0.001567 seconds
+2024-11-25 16:35:35,711 - INFO - Processing Block size=28
+2024-11-25 16:35:35,711 - INFO - Computing Block 17 out of 44
+2024-11-25 16:35:35,733 - INFO - Block processing time: 0.021828 seconds
+2024-11-25 16:35:35,733 - INFO - Processing Block size=25
+2024-11-25 16:35:35,733 - INFO - Computing Block 18 out of 44
+2024-11-25 16:35:35,752 - INFO - Block processing time: 0.018437 seconds
+2024-11-25 16:35:35,752 - INFO - Processing Block size=25
+2024-11-25 16:35:35,752 - INFO - Computing Block 19 out of 44
+2024-11-25 16:35:35,770 - INFO - Block processing time: 0.018273 seconds
+2024-11-25 16:35:35,771 - INFO - Processing Block size=25
+2024-11-25 16:35:35,771 - INFO - Computing Block 20 out of 44
+2024-11-25 16:35:35,789 - INFO - Block processing time: 0.018567 seconds
+2024-11-25 16:35:35,789 - INFO - Processing Block size=25
+2024-11-25 16:35:35,789 - INFO - Computing Block 21 out of 44
+2024-11-25 16:35:35,808 - INFO - Block processing time: 0.018287 seconds
+2024-11-25 16:35:35,808 - INFO - Processing Block size=25
+2024-11-25 16:35:35,808 - INFO - Computing Block 22 out of 44
+2024-11-25 16:35:35,827 - INFO - Block processing time: 0.018884 seconds
+2024-11-25 16:35:35,827 - INFO - Processing Block size=25
+2024-11-25 16:35:35,827 - INFO - Computing Block 23 out of 44
+2024-11-25 16:35:35,845 - INFO - Block processing time: 0.018437 seconds
+2024-11-25 16:35:35,846 - INFO - Processing Block size=5
+2024-11-25 16:35:35,846 - INFO - Computing Block 24 out of 44
+2024-11-25 16:35:35,849 - INFO - Block processing time: 0.00377 seconds
+2024-11-25 16:35:35,850 - INFO - Processing Block size=25
+2024-11-25 16:35:35,850 - INFO - Computing Block 25 out of 44
+2024-11-25 16:35:35,868 - INFO - Block processing time: 0.01836 seconds
+2024-11-25 16:35:35,868 - INFO - Processing Block size=50
+2024-11-25 16:35:35,868 - INFO - Computing Block 26 out of 44
+2024-11-25 16:35:35,905 - INFO - Block processing time: 0.036861 seconds
+2024-11-25 16:35:35,905 - INFO - Processing Block size=25
+2024-11-25 16:35:35,905 - INFO - Computing Block 27 out of 44
+2024-11-25 16:35:35,924 - INFO - Block processing time: 0.01844 seconds
+2024-11-25 16:35:35,924 - INFO - Processing Block size=25
+2024-11-25 16:35:35,924 - INFO - Computing Block 28 out of 44
+2024-11-25 16:35:35,942 - INFO - Block processing time: 0.018352 seconds
+2024-11-25 16:35:35,942 - INFO - Processing Block size=25
+2024-11-25 16:35:35,942 - INFO - Computing Block 29 out of 44
+2024-11-25 16:35:35,961 - INFO - Block processing time: 0.018323 seconds
+2024-11-25 16:35:35,961 - INFO - Processing Block size=25
+2024-11-25 16:35:35,961 - INFO - Computing Block 30 out of 44
+2024-11-25 16:35:35,979 - INFO - Block processing time: 0.018343 seconds
+2024-11-25 16:35:35,980 - INFO - Processing Block size=25
+2024-11-25 16:35:35,980 - INFO - Computing Block 31 out of 44
+2024-11-25 16:35:35,998 - INFO - Block processing time: 0.01831 seconds
+2024-11-25 16:35:35,998 - INFO - Processing Block size=25
+2024-11-25 16:35:35,998 - INFO - Computing Block 32 out of 44
+2024-11-25 16:35:36,016 - INFO - Block processing time: 0.018364 seconds
+2024-11-25 16:35:36,017 - INFO - Processing Block size=25
+2024-11-25 16:35:36,017 - INFO - Computing Block 33 out of 44
+2024-11-25 16:35:36,035 - INFO - Block processing time: 0.018481 seconds
+2024-11-25 16:35:36,035 - INFO - Processing Block size=25
+2024-11-25 16:35:36,035 - INFO - Computing Block 34 out of 44
+2024-11-25 16:35:36,054 - INFO - Block processing time: 0.018369 seconds
+2024-11-25 16:35:36,054 - INFO - Processing Block size=25
+2024-11-25 16:35:36,054 - INFO - Computing Block 35 out of 44
+2024-11-25 16:35:36,072 - INFO - Block processing time: 0.018329 seconds
+2024-11-25 16:35:36,072 - INFO - Processing Block size=25
+2024-11-25 16:35:36,072 - INFO - Computing Block 36 out of 44
+2024-11-25 16:35:36,091 - INFO - Block processing time: 0.018312 seconds
+2024-11-25 16:35:36,091 - INFO - Processing Block size=28
+2024-11-25 16:35:36,091 - INFO - Computing Block 37 out of 44
+2024-11-25 16:35:36,112 - INFO - Block processing time: 0.020557 seconds
+2024-11-25 16:35:36,112 - INFO - Processing Block size=25
+2024-11-25 16:35:36,112 - INFO - Computing Block 38 out of 44
+2024-11-25 16:35:36,130 - INFO - Block processing time: 0.018289 seconds
+2024-11-25 16:35:36,130 - INFO - Processing Block size=20
+2024-11-25 16:35:36,130 - INFO - Computing Block 39 out of 44
+2024-11-25 16:35:36,145 - INFO - Block processing time: 0.014681 seconds
+2024-11-25 16:35:36,145 - INFO - Processing Block size=18
+2024-11-25 16:35:36,145 - INFO - Computing Block 40 out of 44
+2024-11-25 16:35:36,159 - INFO - Block processing time: 0.013672 seconds
+2024-11-25 16:35:36,159 - INFO - Processing Block size=25
+2024-11-25 16:35:36,159 - INFO - Computing Block 41 out of 44
+2024-11-25 16:35:36,177 - INFO - Block processing time: 0.018314 seconds
+2024-11-25 16:35:36,178 - INFO - Processing Block size=25
+2024-11-25 16:35:36,178 - INFO - Computing Block 42 out of 44
+2024-11-25 16:35:36,196 - INFO - Block processing time: 0.018322 seconds
+2024-11-25 16:35:36,196 - INFO - Processing Block size=25
+2024-11-25 16:35:36,196 - INFO - Computing Block 43 out of 44
+2024-11-25 16:35:36,214 - INFO - Block processing time: 0.01828 seconds
+2024-11-25 16:35:36,215 - INFO - Processing Block size=25
+2024-11-25 16:35:36,215 - INFO - Computing Block 44 out of 44
+2024-11-25 16:35:36,233 - INFO - Block processing time: 0.018362 seconds
+2024-11-25 16:35:36,265 - WARNING - No partitioning rule specified, processing might be slow
+2024-11-25 16:35:36,268 - INFO - Processing Block size=2
+2024-11-25 16:35:36,268 - INFO - Computing Block 1 out of 39
+2024-11-25 16:35:36,269 - INFO - Block processing time: 0.001614 seconds
+2024-11-25 16:35:36,270 - INFO - Processing Block size=25
+2024-11-25 16:35:36,270 - INFO - Computing Block 2 out of 39
+2024-11-25 16:35:36,287 - INFO - Block processing time: 0.017248 seconds
+2024-11-25 16:35:36,287 - INFO - Processing Block size=25
+2024-11-25 16:35:36,287 - INFO - Computing Block 3 out of 39
+2024-11-25 16:35:36,305 - INFO - Block processing time: 0.017529 seconds
+2024-11-25 16:35:36,305 - INFO - Processing Block size=13
+2024-11-25 16:35:36,305 - INFO - Computing Block 4 out of 39
+2024-11-25 16:35:36,314 - INFO - Block processing time: 0.009167 seconds
+2024-11-25 16:35:36,314 - INFO - Processing Block size=20
+2024-11-25 16:35:36,314 - INFO - Computing Block 5 out of 39
+2024-11-25 16:35:36,328 - INFO - Block processing time: 0.013867 seconds
+2024-11-25 16:35:36,328 - INFO - Processing Block size=25
+2024-11-25 16:35:36,328 - INFO - Computing Block 6 out of 39
+2024-11-25 16:35:36,346 - INFO - Block processing time: 0.017235 seconds
+2024-11-25 16:35:36,346 - INFO - Processing Block size=25
+2024-11-25 16:35:36,346 - INFO - Computing Block 7 out of 39
+2024-11-25 16:35:36,363 - INFO - Block processing time: 0.017184 seconds
+2024-11-25 16:35:36,363 - INFO - Processing Block size=18
+2024-11-25 16:35:36,363 - INFO - Computing Block 9 out of 39
+2024-11-25 16:35:36,376 - INFO - Block processing time: 0.012517 seconds
+2024-11-25 16:35:36,376 - INFO - Processing Block size=25
+2024-11-25 16:35:36,376 - INFO - Computing Block 10 out of 39
+2024-11-25 16:35:36,393 - INFO - Block processing time: 0.017156 seconds
+2024-11-25 16:35:36,393 - INFO - Processing Block size=28
+2024-11-25 16:35:36,393 - INFO - Computing Block 11 out of 39
+2024-11-25 16:35:36,413 - INFO - Block processing time: 0.019316 seconds
+2024-11-25 16:35:36,413 - INFO - Processing Block size=25
+2024-11-25 16:35:36,413 - INFO - Computing Block 12 out of 39
+2024-11-25 16:35:36,430 - INFO - Block processing time: 0.017313 seconds
+2024-11-25 16:35:36,430 - INFO - Processing Block size=28
+2024-11-25 16:35:36,430 - INFO - Computing Block 13 out of 39
+2024-11-25 16:35:36,450 - INFO - Block processing time: 0.019336 seconds
+2024-11-25 16:35:36,450 - INFO - Processing Block size=50
+2024-11-25 16:35:36,450 - INFO - Computing Block 14 out of 39
+2024-11-25 16:35:36,484 - INFO - Block processing time: 0.034261 seconds
+2024-11-25 16:35:36,484 - INFO - Processing Block size=2
+2024-11-25 16:35:36,484 - INFO - Computing Block 15 out of 39
+2024-11-25 16:35:36,486 - INFO - Block processing time: 0.001505 seconds
+2024-11-25 16:35:36,486 - INFO - Processing Block size=25
+2024-11-25 16:35:36,486 - INFO - Computing Block 16 out of 39
+2024-11-25 16:35:36,503 - INFO - Block processing time: 0.017242 seconds
+2024-11-25 16:35:36,503 - INFO - Processing Block size=53
+2024-11-25 16:35:36,503 - INFO - Computing Block 17 out of 39
+2024-11-25 16:35:36,540 - INFO - Block processing time: 0.036371 seconds
+2024-11-25 16:35:36,540 - INFO - Processing Block size=25
+2024-11-25 16:35:36,540 - INFO - Computing Block 18 out of 39
+2024-11-25 16:35:36,557 - INFO - Block processing time: 0.017132 seconds
+2024-11-25 16:35:36,557 - INFO - Processing Block size=25
+2024-11-25 16:35:36,557 - INFO - Computing Block 19 out of 39
+2024-11-25 16:35:36,575 - INFO - Block processing time: 0.01719 seconds
+2024-11-25 16:35:36,575 - INFO - Processing Block size=25
+2024-11-25 16:35:36,575 - INFO - Computing Block 20 out of 39
+2024-11-25 16:35:36,592 - INFO - Block processing time: 0.017229 seconds
+2024-11-25 16:35:36,592 - INFO - Processing Block size=25
+2024-11-25 16:35:36,592 - INFO - Computing Block 21 out of 39
+2024-11-25 16:35:36,609 - INFO - Block processing time: 0.01714 seconds
+2024-11-25 16:35:36,609 - INFO - Processing Block size=55
+2024-11-25 16:35:36,609 - INFO - Computing Block 22 out of 39
+2024-11-25 16:35:36,647 - INFO - Block processing time: 0.03775 seconds
+2024-11-25 16:35:36,647 - INFO - Processing Block size=50
+2024-11-25 16:35:36,647 - INFO - Computing Block 23 out of 39
+2024-11-25 16:35:36,682 - INFO - Block processing time: 0.034253 seconds
+2024-11-25 16:35:36,682 - INFO - Processing Block size=42
+2024-11-25 16:35:36,682 - INFO - Computing Block 24 out of 39
+2024-11-25 16:35:36,711 - INFO - Block processing time: 0.028781 seconds
+2024-11-25 16:35:36,711 - INFO - Processing Block size=25
+2024-11-25 16:35:36,711 - INFO - Computing Block 25 out of 39
+2024-11-25 16:35:36,728 - INFO - Block processing time: 0.017159 seconds
+2024-11-25 16:35:36,728 - INFO - Processing Block size=25
+2024-11-25 16:35:36,728 - INFO - Computing Block 26 out of 39
+2024-11-25 16:35:36,746 - INFO - Block processing time: 0.018047 seconds
+2024-11-25 16:35:36,746 - INFO - Processing Block size=25
+2024-11-25 16:35:36,746 - INFO - Computing Block 27 out of 39
+2024-11-25 16:35:36,766 - INFO - Block processing time: 0.019032 seconds
+2024-11-25 16:35:36,766 - INFO - Processing Block size=25
+2024-11-25 16:35:36,766 - INFO - Computing Block 28 out of 39
+2024-11-25 16:35:36,783 - INFO - Block processing time: 0.017428 seconds
+2024-11-25 16:35:36,783 - INFO - Processing Block size=25
+2024-11-25 16:35:36,783 - INFO - Computing Block 29 out of 39
+2024-11-25 16:35:36,801 - INFO - Block processing time: 0.017845 seconds
+2024-11-25 16:35:36,802 - INFO - Processing Block size=25
+2024-11-25 16:35:36,802 - INFO - Computing Block 30 out of 39
+2024-11-25 16:35:36,819 - INFO - Block processing time: 0.017304 seconds
+2024-11-25 16:35:36,819 - INFO - Processing Block size=25
+2024-11-25 16:35:36,819 - INFO - Computing Block 31 out of 39
+2024-11-25 16:35:36,836 - INFO - Block processing time: 0.017363 seconds
+2024-11-25 16:35:36,837 - INFO - Processing Block size=25
+2024-11-25 16:35:36,837 - INFO - Computing Block 32 out of 39
+2024-11-25 16:35:36,854 - INFO - Block processing time: 0.017396 seconds
+2024-11-25 16:35:36,854 - INFO - Processing Block size=25
+2024-11-25 16:35:36,854 - INFO - Computing Block 33 out of 39
+2024-11-25 16:35:36,872 - INFO - Block processing time: 0.017305 seconds
+2024-11-25 16:35:36,872 - INFO - Processing Block size=25
+2024-11-25 16:35:36,872 - INFO - Computing Block 34 out of 39
+2024-11-25 16:35:36,889 - INFO - Block processing time: 0.017317 seconds
+2024-11-25 16:35:36,889 - INFO - Processing Block size=20
+2024-11-25 16:35:36,889 - INFO - Computing Block 35 out of 39
+2024-11-25 16:35:36,903 - INFO - Block processing time: 0.013926 seconds
+2024-11-25 16:35:36,903 - INFO - Processing Block size=18
+2024-11-25 16:35:36,903 - INFO - Computing Block 36 out of 39
+2024-11-25 16:35:36,916 - INFO - Block processing time: 0.012466 seconds
+2024-11-25 16:35:36,916 - INFO - Processing Block size=25
+2024-11-25 16:35:36,916 - INFO - Computing Block 37 out of 39
+2024-11-25 16:35:36,933 - INFO - Block processing time: 0.017237 seconds
+2024-11-25 16:35:36,933 - INFO - Processing Block size=25
+2024-11-25 16:35:36,933 - INFO - Computing Block 38 out of 39
+2024-11-25 16:35:36,951 - INFO - Block processing time: 0.017338 seconds
+2024-11-25 16:35:36,951 - INFO - Processing Block size=25
+2024-11-25 16:35:36,951 - INFO - Computing Block 39 out of 39
+2024-11-25 16:35:36,968 - INFO - Block processing time: 0.017231 seconds

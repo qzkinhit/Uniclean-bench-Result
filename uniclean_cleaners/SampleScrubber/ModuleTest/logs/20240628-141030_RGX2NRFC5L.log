@@ -1,0 +1,93 @@
+WARNING:root:Logs saved in logs/20240628-141030_RGX2NRFC5L.log
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+DEBUG:root:Starting the select with the following config: (13, 3) {'maxSearch': 10, 'editCost': 1, 'simfunc': {}, 'w2v': '../../resources/GoogleNews-vectors-negative300.bin'}
+WARNING:root:No partitioning rule specified, processing might be slow
+DEBUG:root:Predicate Sampler get 10
+DEBUG:root:Predicate Sampler get 10
+DEBUG:root:Library generator created 19 operations
+DEBUG:root:select depth=0
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['a'], {('San Mateo',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('San Mateo',)}), took 0.000344
+DEBUG:root:selected op=0: Uniop(df,'a','New York',(['a'], {('San Mateo',)}),{left: ({left: ("[FunctionalDependency:(s: {a}, t: {b})]", 0.2948717948717949), operator: ^, right: ("[FunctionalDependency:(s: {b}, t: {a})]", 0.20512820512820515), result: 0.3974358974358974}, 0.3974358974358974), operator: *, right: (0.5, 0.5), result: 0.1987179487179487})
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['a'], {('San',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('San',)}), took 0.00026
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['a'], {('San Francisco',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('San Francisco',)}), took 0.000248
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['a'], {('New Yorks',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('New Yorks',)}), took 0.000271
+DEBUG:root:selected op=3: Uniop(df,'a','New York',(['a'], {('New Yorks',)}),{left: ({left: ("[FunctionalDependency:(s: {a}, t: {b})]", 0.1794871794871795), operator: ^, right: ("[FunctionalDependency:(s: {b}, t: {a})]", 0.10256410256410257), result: 0.2435897435897436}, 0.2435897435897436), operator: *, right: (0.5, 0.5), result: 0.1217948717948718})
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['b'], {('SFO',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SFO',)}), took 0.000256
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['b'], {('SMO',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SMO',)}), took 0.000264
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['b'], {('SM',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SM',)}), took 0.000265
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['b'], {('SF',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SF',)}), took 0.00026
+DEBUG:root:At op=0: Uniop(df,'a','New York',(['b'], {('NY',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('NY',)}), took 0.000254
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['a'], {('San Mateo',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('San Mateo',)}), took 0.000266
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['a'], {('New York',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('New York',)}), took 0.000454
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['a'], {('San',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('San',)}), took 0.000317
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['a'], {('New Yorks',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('New Yorks',)}), took 0.000353
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['b'], {('SFO',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SFO',)}), took 0.000391
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['b'], {('SMO',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SMO',)}), took 0.000438
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['b'], {('SM',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SM',)}), took 0.000396
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['b'], {('SF',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SF',)}), took 0.000304
+DEBUG:root:At op=0: Uniop(df,'a','San Francisco',(['b'], {('NY',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('NY',)}), took 0.000308
+DEBUG:root:At op=0: NOOP
+DEBUG:root:Search Depth=0 took 0.337348
+DEBUG:root:select depth=1
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['a'], {('San Mateo',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('San Mateo',)}), took 0.000264
+DEBUG:root:pruned op=0: Uniop(df,'a','San Francisco',(['a'], {('San Mateo',)}),
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['b'], {('SF',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SF',)}), took 0.00025
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['b'], {('SMO',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SMO',)}), took 0.000234
+DEBUG:root:pruned op=2: Uniop(df,'a','San Francisco',(['b'], {('SMO',)}),
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['b'], {('NY',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('NY',)}), took 0.000268
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['b'], {('SMO',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SMO',)}), took 0.000261
+DEBUG:root:pruned op=4: Uniop(df,'a','New York',(['b'], {('SMO',)}),
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['a'], {('San Francisco',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('San Francisco',)}), took 0.000239
+DEBUG:root:pruned op=5: Uniop(df,'a','New York',(['a'], {('San Francisco',)}),
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['a'], {('San Mateo',)}),{left: ({left: ("[FunctionalDependency:(s: {a}, t: {b})]", 0.2948717948717949), operator: ^, right: ("[FunctionalDependency:(s: {b}, t: {a})]", 0.20512820512820515), result: 0.3974358974358974}, 0.3974358974358974), operator: *, right: (0.5, 0.5), result: 0.1987179487179487})
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('San Mateo',)}),{left: ({left: ("[FunctionalDependency:(s: {a}, t: {b})]", 0.2948717948717949), operator: ^, right: ("[FunctionalDependency:(s: {b}, t: {a})]", 0.20512820512820515), result: 0.3974358974358974}, 0.3974358974358974), operator: *, right: (0.5, 0.5), result: 0.1987179487179487}) took 0.000232
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['b'], {('SM',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SM',)}), took 0.000239
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['a'], {('New York',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('New York',)}), took 0.000253
+DEBUG:root:pruned op=8: Uniop(df,'a','San Francisco',(['a'], {('New York',)}),
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['b'], {('SFO',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SFO',)}), took 0.000273
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['a'], {('San',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['a'], {('San',)}), took 0.000231
+DEBUG:root:pruned op=10: Uniop(df,'a','New York',(['a'], {('San',)}),
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['b'], {('SM',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('SM',)}), took 0.000233
+DEBUG:root:pruned op=11: Uniop(df,'a','San Francisco',(['b'], {('SM',)}),
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['b'], {('NY',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['b'], {('NY',)}), took 0.000233
+DEBUG:root:pruned op=12: Uniop(df,'a','San Francisco',(['b'], {('NY',)}),
+DEBUG:root:At op=1: NOOP
+DEBUG:root:At op=1: Uniop(df,'a','San Francisco',(['a'], {('San',)}),
+DEBUG:root:Running Uniop(df,'a','San Francisco',(['a'], {('San',)}), took 0.000226
+DEBUG:root:pruned op=14: Uniop(df,'a','San Francisco',(['a'], {('San',)}),
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['b'], {('SFO',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SFO',)}), took 0.00024
+DEBUG:root:At op=1: Uniop(df,'a','New York',(['b'], {('SF',)}),
+DEBUG:root:Running Uniop(df,'a','New York',(['b'], {('SF',)}), took 0.000239
+DEBUG:root:pruned op=16: Uniop(df,'a','New York',(['b'], {('SF',)}),
+DEBUG:root:Search  took 0.554352

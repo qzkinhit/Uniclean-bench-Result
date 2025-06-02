@@ -1,6 +1,6 @@
 # UnicleanResult: A Benchmark Repository for Data Cleaning Performance
 
-## Overview
+# Overview
 **UnicleanResult** is a repository dedicated to showcasing the performance of Uniclean, a state-of-the-art data cleaning system. While we cannot open source the system code due to commercial confidentiality, this repository provides comprehensive performance metrics and detailed cleaning results, establishing a benchmark for data cleaning. This enables researchers to evaluate and compare the performance of their own cleaning systems on various real-world datasets. The benchmark allows for direct comparisons between Uniclean’s performance, other baseline cleaning systems, and new approaches, offering a standardized framework for assessing data cleaning effectiveness across diverse datasets.
 
 The repository includes:
@@ -10,7 +10,7 @@ The repository includes:
 - **Baseline performance logs** for comparison with Uniclean’s results.
 - An **evaluation script** (`evaluateResult.py`) that calculates various performance metrics, providing an objective assessment of the cleaning effectiveness.
 
-## Dataset Information
+# Dataset Information
 
 The following table summarizes the datasets used in this repository, including their error types and dimensions:
 
@@ -30,11 +30,11 @@ The following table summarizes the datasets used in this repository, including t
 - **VAD**: Violated attribute dependencies
 
 
-## Running Uniclean’s Cleaning Performance Test
+# Running Uniclean’s Cleaning Performance Test
 
 To evaluate Uniclean’s cleaning performance, run the `run.sh` script. This script automates the cleaning process across all datasets and saves performance logs in the `Uniclean_logs/` directory.
 
-### Usage
+## Usage
 ```bash
 # Give execution permissions
 chmod +x run.sh
@@ -45,7 +45,32 @@ chmod +x run.sh
 
 The `run.sh` script iterates over each dataset in the `datasets/original_datasets/` directory, processes it with Uniclean, and logs the results. Each dataset has its specific configuration, including `mse_attributes` (attributes for Mean Squared Error calculation) and `elapsed_time` parameters. The results of each dataset’s cleaning process are saved in the corresponding subdirectory within `Uniclean_logs/`.
 
-## Repository Structure
+# Cleaners  Library Overview
+
+## uniclean_cleaners/SampleScrubber
+**Sample Cleaning Tools**
+- **ModuleTest**: Unit tests for modules.
+- **util**
+    - `distance.py`: Computes distances between values.
+    - `getNum.py`: Evaluates cleaning accuracy.
+- `uniop_model.py`: Rule mining model.
+- `param_builder.py`: Constructs rule parameters.
+- `param_selector.py`: Selects optimal parameters.
+- **cleaners**
+    - `single.py`: Single-attribute operators.
+    - `multiple.py`: Multi-attribute relational operators.
+    - `soft.py`: Experimental or soft operators.
+    - `clean_penalty.py`: Calculates cleaning costs (edit distance, semantic penalties, Jaccard penalties).
+
+
+## Template Scripts in ./uniclean_cleaners
+- `main.py`: Command-line entry point for one-click data cleaning.
+- `logsetting.py`: Logging configuration for the one-click pipeline.
+- `Clean.py`: Core script for terminal-based cleaning logic.
+- `requirements.txt`: Dependency list for the one-click cleaning system.
+``- `Plantuml.svg`: Flowchart visualizing the cleaning pipeline.
+
+# Repository Structure
 - `datasets_and_rules/`:real word datasets、inject error datasets and their cleaning rules:
   - `artificial_error_datasets/`:Contains datasets with artificially injected errors in eight different proportions (ranging from 0.25% to 2%) for controlled experiments and benchmarking. This folder also includes the *BART script* used for injecting these errors into the datasets.
   - `original_datasets/`: Contains real-world datasets in their native (uncleaned) form.
