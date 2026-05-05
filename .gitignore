@@ -24,3 +24,8 @@ D:\\*
 # Per-run intermediate cleaning outputs (the *_runtime/ dirs created by run_clean.sh)
 Uniclean_cleaned_data/original_error_cleaned_data/*_runtime/
 Uniclean_cleaned_data/artificial_error_cleaned_data/*_runtime/
+
+# Cloud sync metadata (Baidu Netdisk client temp files)
+*.baiduyun.uploading.cfg
+.baiduyun.uploading.cfg
+*.baiduyun.downloading.cfg
