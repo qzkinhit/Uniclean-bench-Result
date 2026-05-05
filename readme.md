@@ -8,7 +8,7 @@ The repository includes:
 - **Cleaned datasets** that have been processed by Uniclean.
 - **Cleaning logs** generated during the Uniclean cleaning process.
 - **Baseline performance logs** for comparison with Uniclean’s results.
-- An **evaluation script** (`evaluateResult.py`) that calculates various performance metrics, providing an objective assessment of the cleaning effectiveness.
+- An **evaluation script** (`evaluate_result.py`) that calculates various performance metrics, providing an objective assessment of the cleaning effectiveness.
 
 # Important Note on Missing Value Representation
 
@@ -32,12 +32,12 @@ The following table summarizes the datasets used in this repository, including t
 
 | Dataset  | Error Type     | Shape        | Link                                                                             |
 |----------|----------------|--------------|----------------------------------------------------------------------------------|
-| Hospital | T, VAD         | 1,000 × 20   | [datasets/original_datasets/1_hospital](datasets_and_rules/original_datasets/1_hospital) |
-| Flights  | MV, FI, VAD    | 2,376 × 7    | [datasets/original_datasets/2_flights](datasets_and_rules/original_datasets/2_flights)   |
-| Beers    | MV, FI, VAD    | 2,410 × 111  | [datasets/original_datasets/3_beers](datasets_and_rules/original_datasets/3_beers)       |
-| Rayyan   | MV, T, FI, VAD | 1,000 × 11   | [datasets/original_datasets/4_rayyan](datasets_and_rules/original_datasets/4_rayyan)     |
-| Tax      | T, FI, VAD     | 200,000 × 15 | [datasets/original_datasets/5_tax](datasets_and_rules/original_datasets/5_tax)           |
-| Soccer   | T, VAD         | 200,000 × 15 | [datasets/original_datasets/6_soccer](datasets_and_rules/original_datasets/6_soccer)     |
+| Hospital | T, VAD         | 1,000 × 20   | [datasets_and_rules/original_datasets/1_hospital](datasets_and_rules/original_datasets/1_hospital) |
+| Flights  | MV, FI, VAD    | 2,376 × 7    | [datasets_and_rules/original_datasets/2_flights](datasets_and_rules/original_datasets/2_flights)   |
+| Beers    | MV, FI, VAD    | 2,410 × 11   | [datasets_and_rules/original_datasets/3_beers](datasets_and_rules/original_datasets/3_beers)       |
+| Rayyan   | MV, T, FI, VAD | 1,000 × 11   | [datasets_and_rules/original_datasets/4_rayyan](datasets_and_rules/original_datasets/4_rayyan)     |
+| Tax      | T, FI, VAD     | 200,000 × 15 | [datasets_and_rules/original_datasets/5_tax](datasets_and_rules/original_datasets/5_tax)           |
+| Soccer   | T, VAD         | 200,000 × 15 | [datasets_and_rules/original_datasets/6_soccer](datasets_and_rules/original_datasets/6_soccer)     |
 
 **Error Type Abbreviations:**
 - **T**: Typographical errors
@@ -45,6 +45,36 @@ The following table summarizes the datasets used in this repository, including t
 - **FI**: Format inconsistencies
 - **VAD**: Violated attribute dependencies
 
+
+# Setup
+
+## Prerequisites
+
+- **Python ≥ 3.8** (tested on 3.8 / 3.10)
+- **Java JDK 8 or 11** (required by PySpark; verify with `java -version`)
+- ~4 GB free RAM (PySpark drivers default to 8 GB heap; lower in main scripts if needed)
+
+## Install dependencies
+
+```bash
+# (recommended) create a clean env first
+python3 -m venv .venv && source .venv/bin/activate
+# then install
+pip install -r uniclean_cleaners/requirements.txt
+```
+
+The pinned dependencies live in [`uniclean_cleaners/requirements.txt`](uniclean_cleaners/requirements.txt) (key entries: `pyspark~=3.1.1`, `pandas~=1.5.3`, `numpy~=1.24.3`, `scikit-learn~=1.3.0`, `networkx~=3.1`).
+
+## Smoke test
+
+After install, the fastest way to confirm everything works is to re-evaluate the prebuilt cleaned files (Stage 2 only — no PySpark cleaning needed):
+
+```bash
+chmod +x run.sh
+./run.sh
+```
+
+If you see `Completed processing for dataset: ...` for all four datasets and `Uniclean_results/original_error_results/<X>/output.log` is populated, the environment is good.
 
 # Reproducing Uniclean Results
 
@@ -138,12 +168,14 @@ python3 uniclean_cleaners/main_hospitals.py \
     - `clean_penalty.py`: Calculates cleaning costs (edit distance, semantic penalties, Jaccard penalties).
 
 
-## Conguration script in ./uniclean_cleaners
-- `main.py`: Command-line entry point for one-click data cleaning.
-- `logsetting.py`: Logging configuration for the one-click pipeline.
-- `Clean.py`: Core script for terminal-based cleaning logic.
-- `requirements.txt`: Dependency list for the one-click cleaning system.
-- `Plantuml.svg`: Flowchart visualizing the cleaning pipeline.
+## Configuration scripts in ./uniclean_cleaners
+- `main_<dataset>.py` (`main_hospitals.py`, `main_flights.py`, `main_beers.py`, `main_rayyan.py`, `main_tax.py`, `main_soccer.py`, `main_commercial.py`): per-dataset command-line entry points. Each carries its dataset-specific cleaner rule list and exposes the same CLI flags (see *Running on your own data* above).
+- `run_clean.sh`: one-shot driver that runs Stage 1 cleaning + Stage 2 evaluation across all default datasets.
+- `Clean.py`: core orchestration logic — cycle detection, level scheduling, per-block PySpark cleaning.
+- `util.py`: shared evaluation helpers (`evaluate_cleaning_performance`, `normalize_cleaned_against_clean`, `save_cleaned_data`).
+- `logsetting.py`: log file configuration shared by all `main_<dataset>.py` entries.
+- `requirements.txt`: pinned Python dependencies (see *Setup* above).
+- `CleanerPlantuml.svg`: flowchart visualizing the cleaning pipeline.
 
 # Repository Structure
 - `datasets_and_rules/`:real word datasets、inject error datasets and their cleaning rules:
