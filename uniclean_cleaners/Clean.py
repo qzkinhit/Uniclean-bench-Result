@@ -627,11 +627,16 @@ def CleanonLocalWithnoSmple(spark, cleanners, data, table_path, batch_size=500, 
                     sset = list(sset)
                     tset = list(tset)
 
+                    # 合并节点（来自环检测，形如 'HospitalName,ProviderNumber'）需 split 还原为真实列；
+                    # 单点节点直接当列名。这样既支持双向 FD（环），又避免把合并字符串当 Spark 列名 select。
+                    node_cols = node.split(',') if isinstance(node, str) and ',' in node else [node]
+                    select_cols = list(dict.fromkeys(['index'] + sset + node_cols))  # 保持顺序去重
+
                     # 将 Spark DataFrame 转换为 Pandas DataFrame
-                    df_pandas = data.select(['index']+sset + [node]).toPandas()
+                    df_pandas = data.select(select_cols).toPandas()
                     print(f"数据块大小: {df_pandas.shape[0]}")
 
-                    preCleaners = [single for single in singles if single.domain in (sset + [node])]
+                    preCleaners = [single for single in singles if single.domain in (sset + node_cols)]
                     _, output, _, _ = customclean(df_pandas, precleaners=preCleaners)
 
                     blockModels = None

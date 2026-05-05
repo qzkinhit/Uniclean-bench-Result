@@ -4,7 +4,7 @@ Distance (Repaired to Clean): 0
 ========================================
 Attribute: ProviderNumber
 Distance (Dirty to Clean): 28
-Distance (Repaired to Clean): 28
+Distance (Repaired to Clean): 0
 ========================================
 Attribute: HospitalName
 Distance (Dirty to Clean): 24
@@ -44,7 +44,7 @@ Distance (Repaired to Clean): 0
 ========================================
 Attribute: HospitalType
 Distance (Dirty to Clean): 32
-Distance (Repaired to Clean): 0
+Distance (Repaired to Clean): 2
 ========================================
 Attribute: HospitalOwner
 Distance (Dirty to Clean): 27
@@ -64,7 +64,7 @@ Distance (Repaired to Clean): 29
 ========================================
 Attribute: MeasureName
 Distance (Dirty to Clean): 36
-Distance (Repaired to Clean): 0
+Distance (Repaired to Clean): 2
 ========================================
 Attribute: Score
 Distance (Dirty to Clean): 23
@@ -79,5 +79,5 @@ Distance (Dirty to Clean): 27
 Distance (Repaired to Clean): 21
 ========================================
 Total Distance (Dirty to Clean): 509
-Total Distance (Repaired to Clean): 132
-Error Drop Rate (EDR): 0.7406679764243614
+Total Distance (Repaired to Clean): 108
+Error Drop Rate (EDR): 0.787819253438114

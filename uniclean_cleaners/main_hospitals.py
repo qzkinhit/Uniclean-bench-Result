@@ -17,11 +17,7 @@ from util import evaluate_cleaning_performance, save_cleaned_data
 
 # 清洗配置
 cleaners = [
-    # NOTE: AttrRelation(["HospitalName"], ["ProviderNumber"], '1') is intentionally disabled.
-    # Combined with line ↓ "ProviderNumber → HospitalName" it forms a bidirectional FD that triggers
-    # a Clean.py bug where the joint source key gets concatenated into a single column name
-    # (e.g. 'HospitalName,ProviderNumber') and Spark fails to resolve it.
-    # ProviderNumber repairs are still produced via the reverse direction below (entry '8').
+    AttrRelation(["HospitalName"], ["ProviderNumber"], '1'),
     AttrRelation(["Condition", "MeasureName"], ["HospitalType"], '2'),
     AttrRelation(["HospitalName", "PhoneNumber", "HospitalOwner"], ["State"], '3'),
     AttrRelation(["HospitalName"], ["ZipCode"], '4'),

@@ -6,12 +6,12 @@ EDR result saved to: ./Uniclean_results/original_error_results/1_hospital/1_hosp
 Hybrid distance results saved to: ./Uniclean_results/original_error_results/1_hospital/1_hospital_hybrid_distance_evaluation.txt
 R-EDR result saved to: ./Uniclean_results/original_error_results/1_hospital/1_hospital_record_based_edr_evaluation.txt
 Results saved to: ./Uniclean_results/original_error_results/1_hospital/1_hospital_total_evaluation.txt
-accuracy: 0.9520383693045563
-recall: 0.7799607072691552
-f1_score: 0.8574514038381825
-edr: 0.7406679764243614
-hybrid_distance: 0.046176897626264375
-r_edr: 0.6953316953316954
+accuracy: 0.950561797752809
+recall: 0.831041257367387
+f1_score: 0.8867924527804137
+edr: 0.787819253438114
+hybrid_distance: 0.05084397860297179
+r_edr: 0.7542997542997543
 Cleaning Speed: 10.811533087499999 seconds/100 records
 ===============================================================
-evaluation Time: 0.4253268241882324 seconds
+evaluation Time: 0.4207279682159424 seconds

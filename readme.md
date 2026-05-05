@@ -88,7 +88,7 @@ The metrics below come from running the default scripts on the four primary data
 
 | Dataset    | Accuracy | Recall | F1     | EDR    | R-EDR  |
 |------------|---------:|-------:|-------:|-------:|-------:|
-| hospital   | 0.952    | 0.780  | 0.857  | +0.741 | +0.695 |
+| hospital   | 0.951    | 0.831  | 0.887  | +0.788 | +0.754 |
 | flights    | 0.681    | 0.630  | 0.655  | +0.519 | +0.043 |
 | beers      | 0.839    | 0.835  | 0.837  | +0.832 | +0.773 |
 | rayyan     | 0.938    | 0.905  | 0.922  | +0.900 | +0.883 |
