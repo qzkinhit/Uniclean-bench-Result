@@ -61,16 +61,22 @@ TMP_DIR="$(mktemp -d)"
 trap 'rm -rf "$TMP_DIR"' EXIT
 
 sanitize_cleaned() {
-    # args: <cleaned_csv> <clean_csv> ; prints a path to a possibly-rewritten tmp file
+    # args: <cleaned_csv> <clean_csv> ; prints the path to a tmp copy of the cleaned CSV
+    # (always copied — evaluate_result.py rewrites cleaned_path in-place via
+    # format_empty_data, so we never want it to touch the file shipped in the repo).
     local cleaned="$1" clean="$2"
     python3 - "$cleaned" "$clean" "$TMP_DIR" <<'PY'
-import sys, os, pandas as pd
+import sys, os, shutil, pandas as pd
 cleaned_path, clean_path, tmp_dir = sys.argv[1:4]
 cl_cols = pd.read_csv(clean_path, nrows=0).columns.tolist()
 cd_cols = pd.read_csv(cleaned_path, nrows=0).columns.tolist()
 
+out = os.path.join(tmp_dir, os.path.basename(cleaned_path))
+
+# Case 0: columns already aligned — just copy verbatim so the original is never touched.
 if cl_cols == cd_cols:
-    print(cleaned_path)              # already aligned
+    shutil.copyfile(cleaned_path, out)
+    print(out)
     sys.exit(0)
 
 df = pd.read_csv(cleaned_path, dtype=str, keep_default_na=False)
@@ -80,7 +86,6 @@ if len(cl_cols) == len(cd_cols):
     rename_map = {old: new for old, new in zip(cd_cols, cl_cols) if old != new}
     if rename_map:
         df.rename(columns=rename_map, inplace=True)
-        out = os.path.join(tmp_dir, os.path.basename(cleaned_path))
         df.to_csv(out, index=False)
         print(out)
         sys.exit(0)
@@ -93,13 +98,13 @@ if 'index' in cl_cols and 'index' not in df.columns:
     if sorted(other_cl) == sorted(other_cd):
         df['index'] = range(1, len(df) + 1)
         df = df[cl_cols]
-        out = os.path.join(tmp_dir, os.path.basename(cleaned_path))
         df.to_csv(out, index=False)
         print(out)
         sys.exit(0)
 
-# Fallback: column sets just don't match — let downstream evaluate_result.py error out
-print(cleaned_path)
+# Fallback: column sets just don't match — copy as-is and let evaluate_result.py error out
+shutil.copyfile(cleaned_path, out)
+print(out)
 PY
 }
 
