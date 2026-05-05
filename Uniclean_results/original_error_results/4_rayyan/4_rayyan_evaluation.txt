@@ -2,25 +2,25 @@ Attribute: index Correctly repaired data: 0 Incorrectly repaired data: 0 Data th
 ========================================
 Attribute: id Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: article_title Correctly repaired data: 1 Incorrectly repaired data: 7 Data that should be repaired: 15
+Attribute: article_title Correctly repaired data: 7 Incorrectly repaired data: 8 Data that should be repaired: 15
 ========================================
 Attribute: article_language Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: journal_title Correctly repaired data: 2 Incorrectly repaired data: 0 Data that should be repaired: 11
+Attribute: journal_title Correctly repaired data: 8 Incorrectly repaired data: 3 Data that should be repaired: 11
 ========================================
 Attribute: journal_abbreviation Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: journal_issn Correctly repaired data: 0 Incorrectly repaired data: 2 Data that should be repaired: 47
+Attribute: journal_issn Correctly repaired data: 24 Incorrectly repaired data: 8 Data that should be repaired: 46
 ========================================
-Attribute: article_jvolumn Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 22
+Attribute: article_jvolumn Correctly repaired data: 20 Incorrectly repaired data: 2 Data that should be repaired: 22
 ========================================
-Attribute: article_jissue Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 53
+Attribute: article_jissue Correctly repaired data: 50 Incorrectly repaired data: 3 Data that should be repaired: 53
 ========================================
-Attribute: article_jcreated_at Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 722
+Attribute: article_jcreated_at Correctly repaired data: 722 Incorrectly repaired data: 0 Data that should be repaired: 722
 ========================================
-Attribute: article_pagination Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 34
+Attribute: article_pagination Correctly repaired data: 18 Incorrectly repaired data: 1 Data that should be repaired: 33
 ========================================
-Attribute: author_list Correctly repaired data: 0 Incorrectly repaired data: 937 Data that should be repaired: 91
+Attribute: author_list Correctly repaired data: 50 Incorrectly repaired data: 34 Data that should be repaired: 91
 ========================================
-Repair Accuracy: 0.003161222339304531
-Repair Recall: 0.003015075376884422
+Repair Accuracy: 0.9384133611691023
+Repair Recall: 0.905337361530715

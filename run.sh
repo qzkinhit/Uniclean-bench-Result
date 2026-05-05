@@ -3,14 +3,18 @@
 # chmod +x run.sh
 # ./run.sh
 
-# Define datasets_and_rules, their specific mse_attributes, and pre-calculated elapsed times
-datasets_and_rules=("1_hospital" "2_flights" "3_beers" "4_rayyan" "5_tax50k")
-mse_attributes=("Score" "" "abv ibu" "" "rate")
-elapsed_times=("108.115330875" "84.591757375" "31.24922154099" "52.377824583" "12589.6389")
+# Define datasets_and_rules, their specific mse_attributes, and pre-calculated elapsed times.
+# tax/soccer disabled by default (200k rows, ~3.5h each) -- uncomment to enable.
+datasets_and_rules=("1_hospital" "2_flights" "3_beers" "4_rayyan")
+mse_attributes=("Score" "" "abv ibu" "")
+elapsed_times=("108.115330875" "84.591757375" "31.24922154099" "52.377824583")
+# datasets_and_rules+=("5_tax" "6_soccer")
+# mse_attributes+=("rate" "")
+# elapsed_times+=("12589.6389" "11000.0")
 
-# Define base paths
-dirty_base_path="./datasets/original_datasets"
-clean_base_path="./datasets/original_datasets"
+# Define base paths (datasets live under datasets_and_rules/original_datasets/<X>/{dirty,clean}.csv)
+dirty_base_path="./datasets_and_rules/original_datasets"
+clean_base_path="./datasets_and_rules/original_datasets"
 cleaned_base_path="./Uniclean_cleaned_data/original_error_cleaned_data"
 output_base_path="./Uniclean_results/original_error_results"
 
@@ -23,6 +27,7 @@ for i in "${!datasets_and_rules[@]}"; do
     echo "Processing dataset: $dataset"
 
     # Define paths for the current dataset
+    # Use the *_index.csv variants which include the 'index' column required by evaluate_result.py
     dirty_path="${dirty_base_path}/${dataset}/dirty_index.csv"
     clean_path="${clean_base_path}/${dataset}/clean_index.csv"
     cleaned_path="${cleaned_base_path}/${dataset}_cleaned_by_uniclean.csv"

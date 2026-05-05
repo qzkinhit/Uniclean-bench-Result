@@ -3102,8 +3102,8 @@ abv,2408,0.06%,0.06
 abv,2409,0.06%,0.06
 city,21,San Francisco CA,San Francisco
 city,48,Saint Louis MO,Saint Louis
-city,122,Hayward WI,Hayward
-city,136,Denton,Denton TX
+city,121,Hayward,Hayward WI
+city,135,Denton TX,Denton
 city,140,Asheville NC,Asheville
 city,156,Detroit MI,Detroit
 city,184,San Diego CA,San Diego
@@ -3112,7 +3112,7 @@ city,311,Afton VA,Afton
 city,353,Eagle CO,Eagle
 city,382,Denver CO,Denver
 city,411,Grand Rapids MI,Grand Rapids
-city,452,Tampa Bay FL,Tampa Bay
+city,451,Tampa Bay,Tampa Bay FL
 city,462,Brooklyn NY,Brooklyn
 city,467,Reno NV,Reno
 city,473,Houston TX,Houston
@@ -3157,7 +3157,7 @@ city,1159,Soldotna AK,Soldotna
 city,1188,Albuquerque NM,Albuquerque
 city,1204,Helena MT,Helena
 city,1212,York PA,York
-city,1241,Portland,Portland OR
+city,1240,Portland OR,Portland
 city,1247,Cincinnati OH,Cincinnati
 city,1285,Fort Worth TX,Fort Worth
 city,1288,Fort Worth TX,Fort Worth
@@ -3168,26 +3168,26 @@ city,1368,Monroe WI,Monroe
 city,1375,San Diego CA,San Diego
 city,1377,San Diego CA,San Diego
 city,1431,Portland OR,Portland
-city,1481,Myrtle Beach SC,Myrtle Beach
+city,1482,Myrtle Beach,Myrtle Beach SC
 city,1559,Longmont CO,Longmont
 city,1560,Longmont CO,Longmont
 city,1583,Longmont CO,Longmont
 city,1588,Lyons CO,Lyons
 city,1592,Lyons CO,Lyons
-city,1620,Portland,Portland ME
+city,1621,Portland ME,Portland
 city,1642,Petoskey MI,Petoskey
 city,1671,Dillon CO,Dillon
 city,1692,Marietta GA,Marietta
 city,1709,Denver CO,Denver
 city,1715,Paonia CO,Paonia
 city,1736,Cincinnati OH,Cincinnati
-city,1738,Portland,Portland ME
+city,1739,Portland ME,Portland
 city,1744,Export PA,Export
 city,1748,Export PA,Export
 city,1760,Rochester MI,Rochester
 city,1773,Lansdale PA,Lansdale
 city,1801,Chandler AZ,Chandler
-city,1832,Silverton OR,Silverton
+city,1833,Silverton,Silverton OR
 city,1852,Chico CA,Chico
 city,1861,Brooklyn NY,Brooklyn
 city,1866,Brooklyn NY,Brooklyn
@@ -3219,7 +3219,7 @@ city,2320,Westminster MA,Westminster
 city,2365,Lake Barrington IL,Lake Barrington
 city,2371,Nellysford VA,Nellysford
 city,2377,Stevensville MT,Stevensville
-city,2394,North Woodstock NH,North Woodstock
+city,2395,North Woodstock,North Woodstock NH
 state,21,empty,CA
 state,48,empty,MO
 state,122,empty,WI

@@ -8,7 +8,7 @@ Distance (Repaired to Clean): 0
 ========================================
 Attribute: article_title
 Distance (Dirty to Clean): 15
-Distance (Repaired to Clean): 21
+Distance (Repaired to Clean): 8
 ========================================
 Attribute: article_language
 Distance (Dirty to Clean): 0
@@ -16,36 +16,36 @@ Distance (Repaired to Clean): 0
 ========================================
 Attribute: journal_title
 Distance (Dirty to Clean): 11
-Distance (Repaired to Clean): 9
+Distance (Repaired to Clean): 3
 ========================================
 Attribute: journal_abbreviation
 Distance (Dirty to Clean): 0
 Distance (Repaired to Clean): 0
 ========================================
 Attribute: journal_issn
-Distance (Dirty to Clean): 47
-Distance (Repaired to Clean): 48
+Distance (Dirty to Clean): 46
+Distance (Repaired to Clean): 27
 ========================================
 Attribute: article_jvolumn
 Distance (Dirty to Clean): 22
-Distance (Repaired to Clean): 22
+Distance (Repaired to Clean): 2
 ========================================
 Attribute: article_jissue
 Distance (Dirty to Clean): 53
-Distance (Repaired to Clean): 53
+Distance (Repaired to Clean): 3
 ========================================
 Attribute: article_jcreated_at
 Distance (Dirty to Clean): 722
-Distance (Repaired to Clean): 722
+Distance (Repaired to Clean): 0
 ========================================
 Attribute: article_pagination
-Distance (Dirty to Clean): 34
-Distance (Repaired to Clean): 34
+Distance (Dirty to Clean): 33
+Distance (Repaired to Clean): 15
 ========================================
 Attribute: author_list
 Distance (Dirty to Clean): 91
-Distance (Repaired to Clean): 937
+Distance (Repaired to Clean): 41
 ========================================
-Total Distance (Dirty to Clean): 995
-Total Distance (Repaired to Clean): 1846
-Error Drop Rate (EDR): -0.8552763819095477
+Total Distance (Dirty to Clean): 993
+Total Distance (Repaired to Clean): 99
+Error Drop Rate (EDR): 0.9003021148036254

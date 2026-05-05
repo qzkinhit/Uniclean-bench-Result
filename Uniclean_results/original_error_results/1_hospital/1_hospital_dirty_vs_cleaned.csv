@@ -1,32 +1,4 @@
 Attribute,Index,Dirty Value,Cleaned Value
-ProviderNumber,14,1xx19,10019
-ProviderNumber,46,x0005,10005
-ProviderNumber,82,1000x,10006
-ProviderNumber,214,x00xx,10011
-ProviderNumber,245,x00x5,10015
-ProviderNumber,254,1xx15,10015
-ProviderNumber,274,1xx16,10016
-ProviderNumber,315,100x8,10038
-ProviderNumber,361,100x6,10086
-ProviderNumber,409,x0x08,10108
-ProviderNumber,560,1xx24,10024
-ProviderNumber,609,x0027,10027
-ProviderNumber,628,x0029,10029
-ProviderNumber,640,1xx29,10029
-ProviderNumber,646,1xx32,10032
-ProviderNumber,656,1xx32,10032
-ProviderNumber,705,100x4,10034
-ProviderNumber,722,100x5,10035
-ProviderNumber,725,1xx35,10035
-ProviderNumber,756,1xx36,10036
-ProviderNumber,781,1003x,10039
-ProviderNumber,790,1xx39,10039
-ProviderNumber,794,100x9,10039
-ProviderNumber,860,1xx44,10044
-ProviderNumber,879,1xx45,10045
-ProviderNumber,889,x0045,10045
-ProviderNumber,934,1xx47,10047
-ProviderNumber,956,1004x,10049
 HospitalName,27,southeast alabama medxcal center,southeast alabama medical center
 HospitalName,132,crenshaw cxmmunity hxspital,crenshaw community hospital
 HospitalName,172,marshall medical cenxer norxh,marshall medical center north
@@ -68,7 +40,7 @@ Address1,394,124xsxmemorialxdr,124 s memorial dr
 Address1,412,124 s mxmorial dr,124 s memorial dr
 Address1,416,315 w hickxry st,315 w hickory st
 Address1,432,315xwxhickoryxst,315 w hickory st
-Address1,451,po box 287,poxboxx287
+Address1,452,poxboxx287,po box 287
 Address1,473,126xhospitalxave,126 hospital ave
 Address1,485,1x6 hospital ave,126 hospital ave
 Address1,653,209 xorth maix street,209 north main street
@@ -265,12 +237,12 @@ HospitalType,635,acuxe care hospixals,acute care hospitals
 HospitalType,696,acute cxre hospitxls,acute care hospitals
 HospitalType,706,acutexcarexhospitals,acute care hospitals
 HospitalType,730,acutexcarexhospitals,acute care hospitals
-HospitalType,767,acute care hospitals,acutexcarexhospitals
 HospitalType,780,acutexcarexhospitals,acute care hospitals
 HospitalType,783,acute care hospitaxs,acute care hospitals
 HospitalType,815,axute care hospitals,acute care hospitals
 HospitalType,849,acute caxe hospitals,acute care hospitals
 HospitalType,878,acute care hoxpitalx,acute care hospitals
+HospitalType,903,acutexcarexhospitals,acute care hospitals
 HospitalType,927,acuxe care hospixals,acute care hospitals
 HospitalType,950,acute care hosxitals,acute care hospitals
 HospitalType,957,acute xare hospitals,acute care hospitals
@@ -391,11 +363,11 @@ MeasureName,673,heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival,hea
 MeasureName,706,pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
 MeasureName,707,pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s),pneumonia patients given the most appropriate initial antibiotic(s)
 MeasureName,714,surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
-MeasureName,767,children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma
 MeasureName,786,heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function,heart failure patients given an evaluation of left ventricular systolic (lvs) function
 MeasureName,803,heart attack patxents gxven aspxrxn at arrxval,heart attack patients given aspirin at arrival
 MeasureName,817,pneumonix pxtients given initixl antibiotic(s) within 6 hours after arrivxl,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
 MeasureName,894,pneumonia patients assessed and given influenza vaxxination,pneumonia patients assessed and given influenza vaccination
+MeasureName,903,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma,children who received reliever medication while hospitalized for asthma
 MeasureName,916,hearx failure paxienxs given smoking cessaxion advice/counseling,heart failure patients given smoking cessation advice/counseling
 MeasureName,998,surgery pxtients who were txking hexrt drugs cxlled betx blockers before coming to the hospitxl who were kept on the betx blockers during the period just before xnd xfter their surgery,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
 Stateavg,57,al_pn-xb,al_pn-3b

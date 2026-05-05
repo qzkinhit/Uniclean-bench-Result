@@ -18,15 +18,84 @@ def save_cleaned_data(data, table_path, table_name):
     print(f"清洗结果已保存到: {target_file}")
 
 
-def evaluate_cleaning_performance(clean_path, dirty_path, cleaned_path, elapsed_time, output_path,table_name,mse_attributes = []):
+def _is_intish(s):
+    """判断字符串是否是整数形式（不含小数点）。"""
+    return bool(s) and s.lstrip('-').isdigit()
+
+
+def _strip_dot_zero(v):
+    """把 '1436.0' → '1436'，非整型 .0 不动。"""
+    if isinstance(v, str) and v.endswith('.0') and _is_intish(v[:-2]):
+        return v[:-2]
+    return v
+
+
+def normalize_cleaned_against_clean(cleaned_path, clean_path, missing_token='empty'):
+    """让磁盘上的 cleaned.csv 与 clean.csv 在格式细节上对齐：
+       - 整数列里 Spark 写出的 '1436.0' 还原成 '1436'（仅当 clean 同列里没有 'n.0' 形式）
+       - 当 clean 同列不用 missing_token 这种占位（即 clean 里没出现 missing_token 字符串），
+         把 cleaned 里 inject_missing_values 写出的 missing_token 改成空字符串，与 clean 形态一致
+       不动 cleaned 里 dirty 原本就为空（''）的位置——那是"未填补"而非"占位"。
+       不动列名/列序/行数。
+    """
+    clean = pd.read_csv(clean_path, dtype=str, keep_default_na=False)
+    cleaned = pd.read_csv(cleaned_path, dtype=str, keep_default_na=False)
+    for col in cleaned.columns:
+        if col not in clean.columns:
+            continue
+        clean_vals = set(clean[col].unique())
+        # .0 残留处理
+        if not any(v.endswith('.0') and _is_intish(v[:-2]) for v in clean_vals):
+            cleaned[col] = cleaned[col].apply(_strip_dot_zero)
+        # 占位字符串规整：clean 同列若不用 missing_token，把 cleaned 里写的 missing_token 改成 ''
+        if missing_token and missing_token not in clean_vals:
+            cleaned[col] = cleaned[col].replace(missing_token, '')
+    cleaned.to_csv(cleaned_path, index=False)
+
+
+def evaluate_cleaning_performance(clean_path, dirty_path, cleaned_path, elapsed_time, output_path,table_name,mse_attributes = [], index_col='index', missing_token='empty', col_alias=None):
+    """评估清洗效果。
+
+    参数：
+        missing_token: 三方共用的缺失值占位字符串。默认 'empty' 兼容原 inject_missing_values 行为。
+                       不同数据集 clean.csv 用法不同（如 train/beers 用 'nan'、train/hospital 用 'empty'），
+                       应按数据集传入对应值，确保 cleaned.csv 与 clean.csv 缺失表示一致。
+        col_alias: dict[str, str]，把 clean/dirty 中的旧列名重命名为新列名（如 train/rayyan 拼写错误的 jounral_abbreviation）。
+    """
     print("测评性能开始：")
     inject_missing_values(csv_file=cleaned_path, output_file=cleaned_path, attributes_error_ratio=None,
-                          missing_value_in_ori_data='NULL', missing_value_representation='empty')
+                          missing_value_in_ori_data='NULL', missing_value_representation=missing_token)
+    # 文件级对齐：参照 clean.csv 把 cleaned.csv 的整数列 .0 残留剥掉、缺失占位统一
+    normalize_cleaned_against_clean(cleaned_path, clean_path, missing_token=missing_token)
     clean_data = pd.read_csv(clean_path)
     dirty_data = pd.read_csv(dirty_path)
     cleaned_data = pd.read_csv(cleaned_path)
+    # 统一索引列名为 'index'，兼容外部数据使用其它名称（如 'ID'）
+    if index_col != 'index':
+        for df in (clean_data, dirty_data, cleaned_data):
+            if index_col in df.columns and 'index' not in df.columns:
+                df.rename(columns={index_col: 'index'}, inplace=True)
+    # 列重命名（处理上游数据列拼写错误等）
+    if col_alias:
+        for df in (clean_data, dirty_data, cleaned_data):
+            rename_map = {old: new for old, new in col_alias.items() if old in df.columns and new not in df.columns}
+            if rename_map:
+                df.rename(columns=rename_map, inplace=True)
+    # 归一化缺失值表示（仅内存中）：把 NaN / 'nan' / 'NaN' / 'NULL' / 'null' / '' 统一成 missing_token
+    # 让三方在同一基准下比较；磁盘上的 cleaned.csv 由 inject_missing_values 已对齐到 missing_token，不再写回
+    _missing_tokens = {'nan', 'NaN', 'NULL', 'null', 'None', 'NONE', ''} | {missing_token}
+    for df in (clean_data, dirty_data, cleaned_data):
+        df.fillna(missing_token, inplace=True)
+        for col in df.columns:
+            if df[col].dtype == object:
+                df[col] = df[col].astype(str).where(~df[col].astype(str).isin(_missing_tokens), missing_token)
     index_attribute = 'index'
-    results = calculate_all_metrics(clean_data, dirty_data, cleaned_data, clean_data.columns.tolist(), output_path,
+    # 仅评估三方共有的列，避免 cleaned 因清洗器只覆盖部分列而缺列时报 KeyError
+    common_cols = (set(clean_data.columns) & set(dirty_data.columns) & set(cleaned_data.columns)) - {index_attribute}
+    eval_attrs = [c for c in clean_data.columns if c in common_cols]
+    if not eval_attrs:
+        eval_attrs = clean_data.columns.tolist()
+    results = calculate_all_metrics(clean_data, dirty_data, cleaned_data, eval_attrs, output_path,
                                     table_name, index_attribute=index_attribute, mse_attributes=mse_attributes)
 
     results_path = os.path.join(output_path, f"{table_name}_total_evaluation.txt")

@@ -10,6 +10,22 @@ The repository includes:
 - **Baseline performance logs** for comparison with Uniclean’s results.
 - An **evaluation script** (`evaluateResult.py`) that calculates various performance metrics, providing an objective assessment of the cleaning effectiveness.
 
+# Important Note on Missing Value Representation
+
+**All CSV files in this repository (clean / dirty / cleaned) use the literal string `empty` to denote missing cells.** It is a placeholder, **not** a meaningful value. When evaluating Uniclean's outputs against your own pipeline, you **must** normalize this token before comparison, otherwise metrics will be misleading.
+
+Recommended pre-processing for any consumer of these files:
+```python
+import pandas as pd
+df = pd.read_csv(path, keep_default_na=False)
+# Treat 'empty' (and other common placeholders) as true missing
+df.replace({'empty': '', 'nan': '', 'NULL': '', 'NaN': '', 'None': ''}, inplace=True)
+```
+
+Notes:
+- The rayyan dataset additionally uses `-1` in `article_jvolumn` / `article_jissue` as a disguised-missing placeholder (kept for backward compatibility with the original release).
+- The index column is `index` (integer, 1-based) and aligns row-by-row across `clean_index.csv` / `dirty_index.csv` / `<dataset>_cleaned_by_uniclean.csv`.
+
 # Dataset Information
 
 The following table summarizes the datasets used in this repository, including their error types and dimensions:
@@ -30,20 +46,79 @@ The following table summarizes the datasets used in this repository, including t
 - **VAD**: Violated attribute dependencies
 
 
-# Running Uniclean’s Cleaning Performance Test
+# Reproducing Uniclean Results
 
-To evaluate Uniclean’s cleaning performance, run the `run.sh` script. This script automates the cleaning process across all datasets and saves performance logs in the `Uniclean_logs/` directory.
+The pipeline is split into two stages so you can run them independently:
 
-## Usage
+## Stage 1 — Run the cleaning pipeline
+
 ```bash
-# Give execution permissions
-chmod +x run.sh
+chmod +x uniclean_cleaners/run_clean.sh
+./uniclean_cleaners/run_clean.sh
+```
 
-# Run the script
+What it does:
+- Iterates over `1_hospital`, `2_flights`, `3_beers`, `4_rayyan` (defaults; `5_tax` / `6_soccer` are commented out due to ~3h+ runtime each — uncomment in the script to enable).
+- Runs the corresponding `uniclean_cleaners/main_<dataset>.py` for each, reading `dirty_index.csv` / `clean_index.csv` from `datasets_and_rules/original_datasets/<dataset>/`.
+- Writes the cleaned CSV to `Uniclean_cleaned_data/original_error_cleaned_data/<dataset>_cleaned_by_uniclean.csv`.
+- Saves per-dataset stdout/stderr to `Uniclean_cleaner_workflow_logs/original_error_cleaner_workflow_logs/<dataset>/clean_run.log`.
+- After cleaning succeeds, automatically invokes `./run.sh` to evaluate the freshly produced cleaned files.
+
+Optional flags:
+```bash
+./uniclean_cleaners/run_clean.sh hospital flights   # only run a subset
+FORCE=1 ./uniclean_cleaners/run_clean.sh            # rerun even if cleaned/result already exists
+PYTHON=python3.10 ./uniclean_cleaners/run_clean.sh  # pin a specific interpreter
+```
+
+## Stage 2 — Evaluate cleaning performance
+
+```bash
+chmod +x run.sh
 ./run.sh
 ```
 
-The `run.sh` script iterates over each dataset in the `datasets/original_datasets/` directory, processes it with Uniclean, and logs the results. Each dataset has its specific configuration, including `mse_attributes` (attributes for Mean Squared Error calculation) and `elapsed_time` parameters. The results of each dataset’s cleaning process are saved in the corresponding subdirectory within `Uniclean_logs/`.
+Reads the cleaned files in `Uniclean_cleaned_data/original_error_cleaned_data/` (either freshly produced by Stage 1, or the prebuilt ones shipped in this repo) and compares against the corresponding `clean_index.csv`. Per-dataset metrics are written to `Uniclean_results/original_error_results/<dataset>/output.log`.
+
+`run.sh` is a thin wrapper around `evaluate_result.py` and can be executed standalone if you only want to re-score existing cleaned files.
+
+## Expected baseline (Uniclean default config)
+
+The metrics below come from running the default scripts on the four primary datasets. Use them as a sanity check after cloning:
+
+| Dataset    | Accuracy | Recall | F1     | EDR    | R-EDR  |
+|------------|---------:|-------:|-------:|-------:|-------:|
+| hospital   | 0.952    | 0.780  | 0.857  | +0.741 | +0.695 |
+| flights    | 0.681    | 0.630  | 0.655  | +0.519 | +0.043 |
+| beers      | 0.839    | 0.835  | 0.837  | +0.832 | +0.773 |
+| rayyan     | 0.938    | 0.905  | 0.922  | +0.900 | +0.883 |
+
+If any EDR drifts more than a few hundredths, double-check that you ran on the `*_index.csv` variants (the same `index` column that's used as the join key during evaluation).
+
+## Running on your own data
+
+Each `main_<dataset>.py` accepts the same set of CLI flags so you can repurpose the cleaners for new datasets:
+
+| Flag              | Default     | Meaning |
+|-------------------|-------------|---------|
+| `--file_load`     | (per-script) | Path to the dirty CSV |
+| `--clean_path`    | (per-script) | Path to the ground-truth clean CSV |
+| `--save_path`     | `TestDataset/result/` | Directory where the cleaned CSV is written |
+| `--table_name`    | `<dataset>` | Subfolder name + filename prefix for the cleaned CSV |
+| `--index_col`     | `index`     | Name of the index column in your dirty/clean CSV. If different (e.g. `ID`) the scripts will rename it transparently |
+| `--missing_token` | `empty`     | Placeholder string used to denote missing cells in the cleaned CSV (must match how your `clean.csv` represents missingness). See the *Important Note* above |
+
+Example: cleaning a custom hospital-like dataset whose index column is `ID` and which uses the bare empty string as the missing marker:
+
+```bash
+python3 uniclean_cleaners/main_hospitals.py \
+    --file_load   path/to/dirty.csv \
+    --clean_path  path/to/clean.csv \
+    --save_path   ./out/ \
+    --table_name  myhospital \
+    --index_col   ID \
+    --missing_token ""
+```
 
 # Cleaners  Library Overview
 

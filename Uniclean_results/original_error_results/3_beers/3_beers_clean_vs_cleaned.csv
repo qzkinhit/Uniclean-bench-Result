@@ -532,10 +532,12 @@ abv,2408,0.055,0.06
 abv,2409,0.055,0.06
 brewery_id,41,267,67
 city,91,Madison,Madison WI
-city,135,Denton,Denton TX
-city,136,Denton,Denton TX
+city,121,Hayward,Hayward WI
+city,122,Hayward,Hayward WI
 city,310,Canton,Canton MA
 city,387,Plainfield,Plainfield IN
+city,451,Tampa Bay,Tampa Bay FL
+city,452,Tampa Bay,Tampa Bay FL
 city,519,Cambridge,Cambridge MA
 city,520,Cambridge,Cambridge MA
 city,543,Mooresville,Mooresville NC
@@ -545,15 +547,15 @@ city,572,Edwards,Edwards CO
 city,573,Edwards,Edwards CO
 city,837,Latrobe,Latrobe PA
 city,890,Pineland,Pineland ME
-city,1240,Portland,Portland OR
-city,1241,Portland,Portland OR
-city,1620,Portland,Portland ME
-city,1621,Portland,Portland ME
-city,1738,Portland,Portland ME
-city,1739,Portland,Portland ME
+city,1481,Myrtle Beach,Myrtle Beach SC
+city,1482,Myrtle Beach,Myrtle Beach SC
+city,1832,Silverton,Silverton OR
+city,1833,Silverton,Silverton OR
 city,2136,Athens,Athens GA
 city,2204,Idaho Springs,Idaho Springs CO
 city,2205,Idaho Springs,Idaho Springs CO
+city,2394,North Woodstock,North Woodstock NH
+city,2395,North Woodstock,North Woodstock NH
 state,91,WI,empty
 state,310,MA,empty
 state,387,IN,empty

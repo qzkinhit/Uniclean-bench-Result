@@ -16,9 +16,9 @@ Attribute: brewery_id Correctly repaired data: 0 Incorrectly repaired data: 0 Da
 ========================================
 Attribute: brewery_name Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: city Correctly repaired data: 112 Incorrectly repaired data: 8 Data that should be repaired: 127
+Attribute: city Correctly repaired data: 111 Incorrectly repaired data: 9 Data that should be repaired: 127
 ========================================
 Attribute: state Correctly repaired data: 121 Incorrectly repaired data: 0 Data that should be repaired: 127
 ========================================
-Repair Accuracy: 0.8393177737881508
-Repair Recall: 0.8353186420488385
+Repair Accuracy: 0.83901855176541
+Repair Recall: 0.8350208457415128

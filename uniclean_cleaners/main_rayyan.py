@@ -17,7 +17,7 @@ cleaners = [
     Outlier("author_list", [], '8'),
     Date("journal_issn", "%y-%b", '5', valid_date_pattern=r'^[A-Za-z]{3}-\d{2}$|^\d{2}-[A-Za-z]{3}$'),
     Date("article_pagination", "%b-%y", '9', valid_date_pattern=r'^(?:\d{1}-\d{2}|\d{2}-\d{1})$'),
-    # Date("article_jcreated_at", "%-m/%-d/%y", currenFormat="%y/%m/%d", name='10'),
+    Date("article_jcreated_at", "%-m/%-d/%y", currenFormat="%y/%m/%d", name='10'),
     DisguisedMissHandler("article_jvolumn", "-1", "6"),
     DisguisedMissHandler("article_jissue", "-1", "7"),
     AttrRelation(["journal_abbreviation"], ["journal_title"], '0'),

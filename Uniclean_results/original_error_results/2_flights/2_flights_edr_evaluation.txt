@@ -16,16 +16,16 @@ Distance (Repaired to Clean): 24
 ========================================
 Attribute: act_dep_time
 Distance (Dirty to Clean): 1558
-Distance (Repaired to Clean): 1510
+Distance (Repaired to Clean): 1645
 ========================================
 Attribute: sched_arr_time
 Distance (Dirty to Clean): 1100
-Distance (Repaired to Clean): 21
+Distance (Repaired to Clean): 0
 ========================================
 Attribute: act_arr_time
 Distance (Dirty to Clean): 1351
-Distance (Repaired to Clean): 819
+Distance (Repaired to Clean): 697
 ========================================
 Total Distance (Dirty to Clean): 4920
-Total Distance (Repaired to Clean): 2374
-Error Drop Rate (EDR): 0.517479674796748
+Total Distance (Repaired to Clean): 2366
+Error Drop Rate (EDR): 0.5191056910569106

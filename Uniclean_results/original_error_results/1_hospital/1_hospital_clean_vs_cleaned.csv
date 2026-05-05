@@ -1,8 +1,32 @@
 Attribute,Index,Clean Value,Cleaned Value
-Address1,451,po box 287,poxboxx287
-Address1,452,po box 287,poxboxx287
-HospitalType,767,acute care hospitals,acutexcarexhospitals
-HospitalType,903,acute care hospitals,acutexcarexhospitals
+ProviderNumber,14,10019,1xx19
+ProviderNumber,46,10005,x0005
+ProviderNumber,82,10006,1000x
+ProviderNumber,214,10011,x00xx
+ProviderNumber,245,10015,x00x5
+ProviderNumber,254,10015,1xx15
+ProviderNumber,274,10016,1xx16
+ProviderNumber,315,10038,100x8
+ProviderNumber,361,10086,100x6
+ProviderNumber,409,10108,x0x08
+ProviderNumber,560,10024,1xx24
+ProviderNumber,609,10027,x0027
+ProviderNumber,628,10029,x0029
+ProviderNumber,640,10029,1xx29
+ProviderNumber,646,10032,1xx32
+ProviderNumber,656,10032,1xx32
+ProviderNumber,705,10034,100x4
+ProviderNumber,722,10035,100x5
+ProviderNumber,725,10035,1xx35
+ProviderNumber,756,10036,1xx36
+ProviderNumber,781,10039,1003x
+ProviderNumber,790,10039,1xx39
+ProviderNumber,794,10039,100x9
+ProviderNumber,860,10044,1xx44
+ProviderNumber,879,10045,1xx45
+ProviderNumber,889,10045,x0045
+ProviderNumber,934,10047,1xx47
+ProviderNumber,956,10049,1004x
 MeasureCode,98,ami-4,axi-4
 MeasureCode,102,hf-1,hfx1
 MeasureCode,109,pn-5c,pnx5c
@@ -32,8 +56,6 @@ MeasureCode,789,pn-2,pn-x
 MeasureCode,843,pn-6,pnx6
 MeasureCode,866,pn-4,px-4
 MeasureCode,931,ami-1,amix1
-MeasureName,767,children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma
-MeasureName,903,children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma
 Score,121,100%,x00%
 Score,159,98%,9x%
 Score,164,57%,x7%

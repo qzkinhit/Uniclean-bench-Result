@@ -898,6 +898,7 @@ act_dep_time,3,empty,06:47 PM
 act_dep_time,5,12:41 PM,12:42 PM
 act_dep_time,6,empty,11:29 PM
 act_dep_time,9,12:12 PM,12:13 PM
+act_dep_time,10,06:08 AM,06:09 AM
 act_dep_time,13,10:18 AM,10:19 AM
 act_dep_time,16,10:10 AM,10:11 AM
 act_dep_time,17,12:13 PM,12:14 PM
@@ -906,6 +907,7 @@ act_dep_time,21,11:05 AM,11:06 AM
 act_dep_time,23,07:21 AM,07:22 AM
 act_dep_time,24,06:55 PM,06:56 PM
 act_dep_time,25,12:11 PM,12:12 PM
+act_dep_time,27,07:30 AM,07:31 AM
 act_dep_time,28,05:08 PM,05:09 PM
 act_dep_time,30,11:01 AM,11:02 AM
 act_dep_time,31,10:54 AM,10:55 AM
@@ -913,18 +915,21 @@ act_dep_time,32,empty,12:11 AM
 act_dep_time,33,empty,09:06 PM
 act_dep_time,34,empty,08:29 PM
 act_dep_time,35,07:22 AM,07:23 AM
+act_dep_time,36,08:51 AM,08:52 AM
 act_dep_time,37,empty,01:41 PM
-act_dep_time,38,08:39 PM,08:30 PM
+act_dep_time,38,08:39 PM,08:40 PM
+act_dep_time,40,03:27 PM,03:28 PM
 act_dep_time,41,07:22 AM,07:23 AM
 act_dep_time,42,12:10 PM,12:11 PM
+act_dep_time,43,01:19 PM,01:20 PM
 act_dep_time,45,03:36 PM,03:38 PM
+act_dep_time,46,11:40 AM,11:41 AM
 act_dep_time,48,07:31 AM,07:32 AM
 act_dep_time,50,07:39 AM,07:40 AM
 act_dep_time,52,empty,07:42 PM
 act_dep_time,54,08:48 AM,08:49 AM
 act_dep_time,55,09:00 AM,09:01 AM
 act_dep_time,58,empty,11:32 AM
-act_dep_time,59,11:41 AM,11:40 AM
 act_dep_time,63,empty,12:41 AM
 act_dep_time,65,empty,07:56 AM
 act_dep_time,66,empty,10:19 AM
@@ -932,9 +937,8 @@ act_dep_time,71,10:54 AM,10:55 AM
 act_dep_time,72,empty,02:48 PM
 act_dep_time,73,empty,08:18 AM
 act_dep_time,76,empty,12:06 PM
-act_dep_time,77,06:09 AM,06:08 AM
 act_dep_time,79,empty,06:02 AM
-act_dep_time,80,empty,09:01 AM
+act_dep_time,80,empty,08:40 AM
 act_dep_time,82,02:03 PM,02:04 PM
 act_dep_time,87,12:07 PM,12:08 PM
 act_dep_time,88,empty,05:38 PM
@@ -944,22 +948,17 @@ act_dep_time,97,empty,07:25 PM
 act_dep_time,98,02:04 PM,02:38 PM
 act_dep_time,99,empty,09:14 AM
 act_dep_time,100,06:57 AM,06:56 AM
-act_dep_time,101,07:31 AM,07:30 AM
 act_dep_time,104,04:44 PM,04:46 PM
 act_dep_time,107,empty,10:20 AM
 act_dep_time,108,07:30 AM,07:31 AM
 act_dep_time,112,empty,02:01 PM
-act_dep_time,118,08:52 AM,08:51 AM
 act_dep_time,121,empty,03:01 PM
 act_dep_time,123,empty,11:35 PM
 act_dep_time,125,1:50 PM (+8:00),01:45 PM
-act_dep_time,127,08:40 PM,08:30 PM
 act_dep_time,129,empty,02:48 PM
 act_dep_time,130,empty,09:43 AM
-act_dep_time,132,03:28 PM,03:27 PM
 act_dep_time,133,07:22 AM,07:23 AM
 act_dep_time,136,empty,09:05 AM
-act_dep_time,137,01:20 PM,01:19 PM
 act_dep_time,138,08:55 AM,08:56 AM
 act_dep_time,143,empty,03:31 PM
 act_dep_time,147,empty,03:58 PM
@@ -970,32 +969,26 @@ act_dep_time,163,12:58 AM,12:41 AM
 act_dep_time,166,10:35 AM,10:19 AM
 act_dep_time,170,04:30 PM,04:29 PM
 act_dep_time,172,02:59 PM,02:48 PM
-act_dep_time,177,06:09 AM,06:08 AM
 act_dep_time,179,06:17 AM,06:02 AM
+act_dep_time,180,09:01 AM,08:40 AM
 act_dep_time,189,08:36 PM,08:25 PM
 act_dep_time,191,empty,01:43 PM
 act_dep_time,194,Not Available,06:47 PM
 act_dep_time,196,Not Available,07:25 PM
 act_dep_time,198,09:58 AM,09:14 AM
 act_dep_time,199,06:57 AM,06:56 AM
-act_dep_time,200,07:31 AM,07:30 AM
 act_dep_time,205,10:37 AM,10:20 AM
 act_dep_time,211,empty,12:11 AM
 act_dep_time,212,Not Available,04:28 PM
 act_dep_time,213,Not Available,09:06 PM
 act_dep_time,214,Not Available,08:29 PM
-act_dep_time,216,08:52 AM,08:51 AM
 act_dep_time,218,Not Available,01:41 PM
 act_dep_time,219,03:17 PM,03:01 PM
 act_dep_time,221,empty,11:35 PM
 act_dep_time,222,empty,05:38 PM
 act_dep_time,223,12:45 AM,01:45 PM
-act_dep_time,225,08:40 PM,08:30 PM
 act_dep_time,227,02:59 PM,02:48 PM
-act_dep_time,230,03:28 PM,03:27 PM
 act_dep_time,233,08:05 AM,08:04 AM
-act_dep_time,235,01:20 PM,01:19 PM
-act_dep_time,239,11:41 AM,11:40 AM
 act_dep_time,242,07:40 AM,07:39 AM
 act_dep_time,243,04:02 PM,03:31 PM
 act_dep_time,247,04:15 PM,03:58 PM
@@ -1006,7 +999,7 @@ act_dep_time,255,empty,07:59 PM
 act_dep_time,256,06:56 PM,06:47 PM
 act_dep_time,257,empty,03:50 PM
 act_dep_time,258,empty,11:32 AM
-act_dep_time,259,empty,11:40 AM
+act_dep_time,259,empty,11:41 AM
 act_dep_time,260,empty,10:53 AM
 act_dep_time,261,11:58 PM,11:29 PM
 act_dep_time,262,empty,06:10 AM
@@ -1018,10 +1011,9 @@ act_dep_time,267,empty,08:26 AM
 act_dep_time,268,empty,04:29 PM
 act_dep_time,269,empty,02:48 PM
 act_dep_time,270,empty,12:13 PM
-act_dep_time,271,06:09 AM,06:08 AM
 act_dep_time,272,empty,11:45 AM
 act_dep_time,273,empty,06:02 AM
-act_dep_time,274,empty,09:01 AM
+act_dep_time,274,empty,08:40 AM
 act_dep_time,275,empty,10:55 AM
 act_dep_time,277,empty,08:04 AM
 act_dep_time,279,empty,12:41 AM
@@ -1034,7 +1026,6 @@ act_dep_time,290,empty,07:25 PM
 act_dep_time,291,empty,02:38 PM
 act_dep_time,292,empty,09:14 AM
 act_dep_time,293,empty,06:56 AM
-act_dep_time,294,07:31 AM,07:30 AM
 act_dep_time,295,empty,04:46 PM
 act_dep_time,296,empty,04:37 PM
 act_dep_time,297,empty,08:23 PM
@@ -1044,7 +1035,6 @@ act_dep_time,301,empty,01:48 PM
 act_dep_time,303,04:30 PM,04:28 PM
 act_dep_time,304,empty,09:06 PM
 act_dep_time,305,08:44 PM,08:29 PM
-act_dep_time,307,08:52 AM,08:51 AM
 act_dep_time,308,empty,02:43 PM
 act_dep_time,309,empty,08:37 AM
 act_dep_time,310,empty,01:41 PM
@@ -1052,16 +1042,15 @@ act_dep_time,311,empty,03:01 PM
 act_dep_time,312,empty,07:41 AM
 act_dep_time,313,empty,01:45 PM
 act_dep_time,314,empty,11:47 AM
-act_dep_time,315,empty,08:30 PM
+act_dep_time,315,empty,08:40 PM
 act_dep_time,316,empty,03:04 PM
 act_dep_time,317,empty,02:48 PM
 act_dep_time,318,empty,02:44 PM
-act_dep_time,319,empty,03:27 PM
+act_dep_time,319,empty,03:28 PM
 act_dep_time,321,empty,03:04 PM
 act_dep_time,322,empty,12:11 PM
 act_dep_time,323,empty,08:04 AM
 act_dep_time,324,empty,09:05 AM
-act_dep_time,325,01:20 PM,01:19 PM
 act_dep_time,327,empty,08:56 AM
 act_dep_time,328,empty,03:38 PM
 act_dep_time,329,empty,04:12 PM
@@ -1075,7 +1064,6 @@ act_dep_time,339,empty,07:42 PM
 act_dep_time,341,08:48 AM,08:49 AM
 act_dep_time,342,09:00 AM,09:01 AM
 act_dep_time,345,empty,11:32 AM
-act_dep_time,346,11:41 AM,11:40 AM
 act_dep_time,350,empty,12:41 AM
 act_dep_time,352,empty,07:56 AM
 act_dep_time,353,empty,10:19 AM
@@ -1083,9 +1071,8 @@ act_dep_time,358,10:54 AM,10:55 AM
 act_dep_time,359,empty,02:48 PM
 act_dep_time,360,empty,08:18 AM
 act_dep_time,363,empty,12:06 PM
-act_dep_time,364,06:09 AM,06:08 AM
 act_dep_time,366,empty,06:02 AM
-act_dep_time,367,empty,09:01 AM
+act_dep_time,367,empty,08:40 AM
 act_dep_time,369,02:03 PM,02:04 PM
 act_dep_time,374,12:07 PM,12:08 PM
 act_dep_time,375,empty,05:38 PM
@@ -1095,22 +1082,17 @@ act_dep_time,384,empty,07:25 PM
 act_dep_time,385,02:04 PM,02:38 PM
 act_dep_time,386,empty,09:14 AM
 act_dep_time,387,06:57 AM,06:56 AM
-act_dep_time,388,07:31 AM,07:30 AM
 act_dep_time,391,04:44 PM,04:46 PM
 act_dep_time,394,empty,10:20 AM
 act_dep_time,395,07:30 AM,07:31 AM
 act_dep_time,399,empty,02:01 PM
-act_dep_time,405,08:52 AM,08:51 AM
 act_dep_time,408,empty,03:01 PM
 act_dep_time,410,empty,11:35 PM
 act_dep_time,412,1:50 PM (+8:00),01:45 PM
-act_dep_time,414,08:40 PM,08:30 PM
 act_dep_time,416,empty,02:48 PM
 act_dep_time,417,empty,09:43 AM
-act_dep_time,419,03:28 PM,03:27 PM
 act_dep_time,420,07:22 AM,07:23 AM
 act_dep_time,423,empty,09:05 AM
-act_dep_time,424,01:20 PM,01:19 PM
 act_dep_time,425,08:55 AM,08:56 AM
 act_dep_time,430,empty,03:31 PM
 act_dep_time,434,empty,03:58 PM
@@ -1121,30 +1103,24 @@ act_dep_time,450,12:58 AM,12:41 AM
 act_dep_time,453,10:35 AM,10:19 AM
 act_dep_time,457,04:30 PM,04:29 PM
 act_dep_time,459,02:59 PM,02:48 PM
-act_dep_time,464,06:09 AM,06:08 AM
 act_dep_time,466,06:17 AM,06:02 AM
+act_dep_time,467,09:01 AM,08:40 AM
 act_dep_time,476,08:36 PM,08:25 PM
 act_dep_time,481,empty,06:47 PM
 act_dep_time,483,empty,07:25 PM
 act_dep_time,485,09:58 AM,09:14 AM
 act_dep_time,486,06:57 AM,06:56 AM
-act_dep_time,487,07:31 AM,07:30 AM
 act_dep_time,492,10:37 AM,10:20 AM
 act_dep_time,498,empty,12:11 AM
 act_dep_time,499,empty,04:28 PM
 act_dep_time,500,empty,09:06 PM
 act_dep_time,501,empty,08:29 PM
-act_dep_time,503,08:52 AM,08:51 AM
 act_dep_time,505,empty,01:41 PM
 act_dep_time,506,03:17 PM,03:01 PM
 act_dep_time,508,empty,11:35 PM
 act_dep_time,509,empty,05:38 PM
-act_dep_time,512,08:40 PM,08:30 PM
 act_dep_time,514,02:59 PM,02:48 PM
-act_dep_time,517,03:28 PM,03:27 PM
 act_dep_time,520,08:05 AM,08:04 AM
-act_dep_time,522,01:20 PM,01:19 PM
-act_dep_time,526,11:41 AM,11:40 AM
 act_dep_time,529,07:40 AM,07:39 AM
 act_dep_time,530,04:02 PM,03:31 PM
 act_dep_time,534,04:15 PM,03:58 PM
@@ -1165,8 +1141,8 @@ act_dep_time,557,10:10 AM,10:11 AM
 act_dep_time,559,05:22 PM,05:38 PM
 act_dep_time,560,12:12 PM,12:13 PM
 act_dep_time,561,11:56 AM,12:06 PM
+act_dep_time,562,06:08 AM,06:09 AM
 act_dep_time,563,11:30 AM,11:45 AM
-act_dep_time,565,08:40 AM,09:01 AM
 act_dep_time,567,10:18 AM,10:19 AM
 act_dep_time,570,06:57 AM,06:58 AM
 act_dep_time,571,12:41 PM,12:42 PM
@@ -1180,6 +1156,7 @@ act_dep_time,581,06:55 PM,06:56 PM
 act_dep_time,582,12:11 PM,12:12 PM
 act_dep_time,583,7:15 PM (Estimated),07:25 PM
 act_dep_time,584,02:10 PM,02:38 PM
+act_dep_time,587,07:30 AM,07:31 AM
 act_dep_time,588,05:08 PM,05:09 PM
 act_dep_time,590,04:28 PM,04:46 PM
 act_dep_time,591,04:15 PM,04:37 PM
@@ -1193,15 +1170,18 @@ act_dep_time,600,9:06 PM (Estimated runway),09:06 PM
 act_dep_time,601,8:29 PM (Estimated runway),08:29 PM
 act_dep_time,602,02:46 PM,03:04 PM
 act_dep_time,603,07:22 AM,07:23 AM
+act_dep_time,604,08:51 AM,08:52 AM
 act_dep_time,605,02:26 PM,02:43 PM
 act_dep_time,606,08:26 AM,08:37 AM
 act_dep_time,608,empty,11:35 PM
 act_dep_time,609,5:30 PM (Estimated),05:38 PM
 act_dep_time,610,11:15 AM,11:47 AM
-act_dep_time,611,08:39 PM,08:30 PM
+act_dep_time,611,08:39 PM,08:40 PM
 act_dep_time,612,02:52 PM,03:04 PM
+act_dep_time,615,03:27 PM,03:28 PM
 act_dep_time,616,07:22 AM,07:23 AM
 act_dep_time,617,12:10 PM,12:11 PM
+act_dep_time,618,01:19 PM,01:20 PM
 act_dep_time,619,07:49 AM,08:07 AM
 act_dep_time,621,03:36 PM,03:38 PM
 act_dep_time,623,07:31 AM,07:32 AM
@@ -1214,30 +1194,24 @@ act_dep_time,642,12:58 AM,12:41 AM
 act_dep_time,645,10:35 AM,10:19 AM
 act_dep_time,649,04:30 PM,04:29 PM
 act_dep_time,651,02:59 PM,02:48 PM
-act_dep_time,656,06:09 AM,06:08 AM
 act_dep_time,658,06:17 AM,06:02 AM
+act_dep_time,659,09:01 AM,08:40 AM
 act_dep_time,668,08:36 PM,08:25 PM
 act_dep_time,673,empty,06:47 PM
 act_dep_time,675,empty,07:25 PM
 act_dep_time,677,09:58 AM,09:14 AM
 act_dep_time,678,06:57 AM,06:56 AM
-act_dep_time,679,07:31 AM,07:30 AM
 act_dep_time,684,10:37 AM,10:20 AM
 act_dep_time,690,empty,12:11 AM
 act_dep_time,691,empty,04:28 PM
 act_dep_time,692,empty,09:06 PM
 act_dep_time,693,empty,08:29 PM
-act_dep_time,695,08:52 AM,08:51 AM
 act_dep_time,697,empty,01:41 PM
 act_dep_time,698,03:17 PM,03:01 PM
 act_dep_time,700,empty,11:35 PM
 act_dep_time,701,empty,05:38 PM
-act_dep_time,704,08:40 PM,08:30 PM
 act_dep_time,706,02:59 PM,02:48 PM
-act_dep_time,709,03:28 PM,03:27 PM
 act_dep_time,712,08:05 AM,08:04 AM
-act_dep_time,714,01:20 PM,01:19 PM
-act_dep_time,718,11:41 AM,11:40 AM
 act_dep_time,721,07:40 AM,07:39 AM
 act_dep_time,722,04:02 PM,03:31 PM
 act_dep_time,726,04:15 PM,03:58 PM
@@ -1245,20 +1219,17 @@ act_dep_time,727,06:11 AM,06:10 AM
 act_dep_time,732,07:41 PM,07:42 PM
 act_dep_time,733,08:47 AM,08:49 AM
 act_dep_time,735,empty,06:47 PM
-act_dep_time,736,11:41 AM,11:40 AM
 act_dep_time,738,empty,11:29 PM
 act_dep_time,739,06:09 AM,06:10 AM
 act_dep_time,740,12:57 AM,12:41 AM
 act_dep_time,743,04:30 PM,04:29 PM
 act_dep_time,746,12:05 PM,12:06 PM
-act_dep_time,747,06:09 AM,06:08 AM
 act_dep_time,748,08:05 AM,08:04 AM
 act_dep_time,752,12:55 PM,12:56 PM
 act_dep_time,754,02:41 PM,02:43 PM
 act_dep_time,757,empty,01:43 PM
 act_dep_time,762,09:56 AM,09:14 AM
 act_dep_time,763,06:57 AM,06:56 AM
-act_dep_time,764,07:31 AM,07:30 AM
 act_dep_time,766,07:40 AM,07:39 AM
 act_dep_time,767,04:35 PM,04:37 PM
 act_dep_time,770,01:46 PM,01:48 PM
@@ -1266,18 +1237,16 @@ act_dep_time,771,01:59 PM,02:01 PM
 act_dep_time,772,empty,12:11 AM
 act_dep_time,773,empty,09:06 PM
 act_dep_time,774,empty,08:29 PM
-act_dep_time,776,08:52 AM,08:51 AM
 act_dep_time,778,empty,01:41 PM
 act_dep_time,779,11/30/2011 11:34 PM,11:35 PM
 act_dep_time,780,empty,05:38 PM
 act_dep_time,781,08:17 AM,08:18 AM
 act_dep_time,784,empty,04:28 PM
-act_dep_time,787,01:20 PM,01:19 PM
 act_dep_time,791,06:11 AM,06:10 AM
 act_dep_time,793,empty,11:06 AM
 act_dep_time,794,empty,07:23 AM
 act_dep_time,795,empty,04:29 PM
-act_dep_time,796,empty,06:08 AM
+act_dep_time,796,empty,06:09 AM
 act_dep_time,797,empty,07:39 AM
 act_dep_time,798,12:30,12:56 PM
 act_dep_time,799,empty,02:04 PM
@@ -1286,7 +1255,7 @@ act_dep_time,801,empty,12:13 PM
 act_dep_time,802,empty,11:02 AM
 act_dep_time,803,empty,04:29 PM
 act_dep_time,804,empty,07:42 PM
-act_dep_time,805,empty,03:27 PM
+act_dep_time,805,empty,03:28 PM
 act_dep_time,806,empty,06:47 PM
 act_dep_time,807,empty,06:58 AM
 act_dep_time,808,empty,11:29 PM
@@ -1310,8 +1279,8 @@ act_dep_time,834,08:00 AM,08:18 AM
 act_dep_time,835,02:46 PM,03:04 PM
 act_dep_time,836,12:12 PM,12:13 PM
 act_dep_time,837,11:56 AM,12:06 PM
+act_dep_time,838,06:08 AM,06:09 AM
 act_dep_time,839,11:30 AM,11:45 AM
-act_dep_time,841,08:40 AM,09:01 AM
 act_dep_time,842,10:18 AM,10:19 AM
 act_dep_time,844,07:49 AM,08:07 AM
 act_dep_time,845,12:35 PM,12:56 PM
@@ -1326,6 +1295,7 @@ act_dep_time,855,empty,06:47 PM
 act_dep_time,856,06:55 PM,06:56 PM
 act_dep_time,857,empty,07:25 PM
 act_dep_time,858,02:10 PM,02:38 PM
+act_dep_time,861,07:30 AM,07:31 AM
 act_dep_time,862,05:08 PM,05:09 PM
 act_dep_time,863,04:28 PM,04:46 PM
 act_dep_time,864,04:15 PM,04:37 PM
@@ -1339,6 +1309,7 @@ act_dep_time,873,empty,04:28 PM
 act_dep_time,874,empty,09:06 PM
 act_dep_time,875,empty,08:29 PM
 act_dep_time,876,07:22 AM,07:23 AM
+act_dep_time,877,08:51 AM,08:52 AM
 act_dep_time,878,08:26 AM,08:37 AM
 act_dep_time,879,empty,01:41 PM
 act_dep_time,881,07:27 AM,07:41 AM
@@ -1346,13 +1317,16 @@ act_dep_time,882,empty,11:35 PM
 act_dep_time,883,empty,05:38 PM
 act_dep_time,884,01:32 PM,01:45 PM
 act_dep_time,885,11:15 AM,11:47 AM
-act_dep_time,886,08:39 PM,08:30 PM
+act_dep_time,886,08:39 PM,08:40 PM
 act_dep_time,887,02:52 PM,03:04 PM
 act_dep_time,889,09:16 AM,09:43 AM
+act_dep_time,891,03:27 PM,03:28 PM
 act_dep_time,892,07:22 AM,07:23 AM
 act_dep_time,893,12:10 PM,12:11 PM
 act_dep_time,895,08:52 AM,09:05 AM
+act_dep_time,896,01:19 PM,01:20 PM
 act_dep_time,898,03:36 PM,03:38 PM
+act_dep_time,900,11:40 AM,11:41 AM
 act_dep_time,905,11:43 AM,11:55 AM
 act_dep_time,906,10:54 AM,10:55 AM
 act_dep_time,907,06:57 AM,06:58 AM
@@ -1365,7 +1339,6 @@ act_dep_time,917,empty,12:41 AM
 act_dep_time,919,empty,10:19 AM
 act_dep_time,920,empty,07:25 AM
 act_dep_time,921,empty,02:48 PM
-act_dep_time,922,06:09 AM,06:08 AM
 act_dep_time,925,06:57 AM,06:58 AM
 act_dep_time,927,04:02 PM,03:31 PM
 act_dep_time,931,06:55 PM,06:56 PM
@@ -1376,20 +1349,20 @@ act_dep_time,938,empty,10:20 AM
 act_dep_time,942,01:48 PM,02:01 PM
 act_dep_time,943,4:28 PM (Estimated runway),04:28 PM
 act_dep_time,944,8:29 PM (Estimated runway),08:29 PM
-act_dep_time,945,08:52 AM,08:51 AM
 act_dep_time,947,empty,08:37 AM
 act_dep_time,948,empty,11:35 PM
 act_dep_time,949,empty,05:38 PM
 act_dep_time,950,empty,01:45 PM
-act_dep_time,952,08:39 PM,08:30 PM
+act_dep_time,952,08:39 PM,08:40 PM
 act_dep_time,956,empty,03:04 PM
 act_dep_time,957,empty,07:41 AM
 act_dep_time,959,empty,08:04 AM
 act_dep_time,960,empty,09:05 AM
-act_dep_time,963,empty,11:40 AM
+act_dep_time,963,empty,11:41 AM
 act_dep_time,964,empty,04:12 PM
-act_dep_time,972,07:31 AM,07:30 AM
+act_dep_time,965,09:01 AM,08:40 AM
 act_dep_time,976,08:51 AM,09:01 AM
+act_dep_time,978,01:19 PM,01:20 PM
 act_dep_time,983,07:27 PM,08:25 PM
 act_dep_time,984,07:21 AM,07:22 AM
 act_dep_time,987,07:39 AM,07:40 AM
@@ -1402,7 +1375,7 @@ act_dep_time,994,07:45 PM,07:59 PM
 act_dep_time,995,Not Available,06:47 PM
 act_dep_time,996,11:54 AM,12:12 PM
 act_dep_time,997,Contact Airline,03:50 PM
-act_dep_time,998,11:20 AM,11:40 AM
+act_dep_time,998,11:20 AM,11:41 AM
 act_dep_time,999,Not Available,11:29 PM
 act_dep_time,1000,06:09 AM,06:10 AM
 act_dep_time,1001,12:10 PM,12:42 PM
@@ -1411,9 +1384,8 @@ act_dep_time,1003,07:04 AM,07:25 AM
 act_dep_time,1004,08:24 AM,08:26 AM
 act_dep_time,1005,04:16 PM,04:29 PM
 act_dep_time,1007,11:54 AM,12:13 PM
-act_dep_time,1008,05:58 AM,06:08 AM
+act_dep_time,1008,05:58 AM,06:09 AM
 act_dep_time,1009,Contact Airline,11:45 AM
-act_dep_time,1011,08:40 AM,09:01 AM
 act_dep_time,1012,10:42 AM,10:55 AM
 act_dep_time,1013,07:51 AM,08:04 AM
 act_dep_time,1014,10:10 AM,10:19 AM
@@ -1431,7 +1403,7 @@ act_dep_time,1025,06:40 PM,06:56 PM
 act_dep_time,1026,Contact Airline,07:25 PM
 act_dep_time,1027,02:37 PM,02:38 PM
 act_dep_time,1029,05:59 AM,06:56 AM
-act_dep_time,1030,07:10 AM,07:30 AM
+act_dep_time,1030,07:10 AM,07:31 AM
 act_dep_time,1031,Contact Airline,04:46 PM
 act_dep_time,1032,08:01 PM,08:23 PM
 act_dep_time,1033,Contact Airline,07:31 AM
@@ -1442,21 +1414,22 @@ act_dep_time,1037,Not Available,04:28 PM
 act_dep_time,1038,Not Available,09:06 PM
 act_dep_time,1039,Not Available,08:29 PM
 act_dep_time,1040,06:56 AM,07:23 AM
-act_dep_time,1041,08:31 AM,08:51 AM
+act_dep_time,1041,08:31 AM,08:52 AM
 act_dep_time,1042,02:42 PM,02:43 PM
 act_dep_time,1043,08:35 AM,08:37 AM
 act_dep_time,1044,Not Available,01:41 PM
 act_dep_time,1047,01:50 PM,01:45 PM
 act_dep_time,1048,Contact Airline,11:47 AM
+act_dep_time,1049,08:30 PM,08:40 PM
 act_dep_time,1050,Contact Airline,03:04 PM
 act_dep_time,1051,Contact Airline,02:48 PM
 act_dep_time,1052,02:32 PM,02:44 PM
-act_dep_time,1053,03:00 PM,03:27 PM
+act_dep_time,1053,03:00 PM,03:28 PM
 act_dep_time,1054,07:10 AM,07:23 AM
 act_dep_time,1055,Contact Airline,03:04 PM
 act_dep_time,1056,12:01 PM,12:11 PM
 act_dep_time,1057,Contact Airline,09:05 AM
-act_dep_time,1058,01:06 PM,01:19 PM
+act_dep_time,1058,01:06 PM,01:20 PM
 act_dep_time,1060,08:32 AM,08:56 AM
 act_dep_time,1061,03:09 PM,03:38 PM
 act_dep_time,1062,03:52 PM,04:12 PM
@@ -1472,30 +1445,24 @@ act_dep_time,1083,12:58 AM,12:41 AM
 act_dep_time,1086,10:35 AM,10:19 AM
 act_dep_time,1090,04:30 PM,04:29 PM
 act_dep_time,1092,02:59 PM,02:48 PM
-act_dep_time,1097,06:09 AM,06:08 AM
 act_dep_time,1099,06:17 AM,06:02 AM
+act_dep_time,1100,09:01 AM,08:40 AM
 act_dep_time,1109,08:36 PM,08:25 PM
 act_dep_time,1114,empty,06:47 PM
 act_dep_time,1116,empty,07:25 PM
 act_dep_time,1118,09:58 AM,09:14 AM
 act_dep_time,1119,06:57 AM,06:56 AM
-act_dep_time,1120,07:31 AM,07:30 AM
 act_dep_time,1125,10:37 AM,10:20 AM
 act_dep_time,1131,empty,12:11 AM
 act_dep_time,1132,empty,04:28 PM
 act_dep_time,1133,empty,09:06 PM
 act_dep_time,1134,empty,08:29 PM
-act_dep_time,1136,08:52 AM,08:51 AM
 act_dep_time,1138,empty,01:41 PM
 act_dep_time,1139,03:17 PM,03:01 PM
 act_dep_time,1141,empty,11:35 PM
 act_dep_time,1142,empty,05:38 PM
-act_dep_time,1145,08:40 PM,08:30 PM
 act_dep_time,1147,02:59 PM,02:48 PM
-act_dep_time,1150,03:28 PM,03:27 PM
 act_dep_time,1153,08:05 AM,08:04 AM
-act_dep_time,1155,01:20 PM,01:19 PM
-act_dep_time,1159,11:41 AM,11:40 AM
 act_dep_time,1162,07:40 AM,07:39 AM
 act_dep_time,1163,04:02 PM,03:31 PM
 act_dep_time,1167,04:15 PM,03:58 PM
@@ -1504,7 +1471,6 @@ act_dep_time,1171,empty,07:16 AM
 act_dep_time,1174,empty,09:01 AM
 act_dep_time,1175,empty,07:59 PM
 act_dep_time,1179,empty,04:29 PM
-act_dep_time,1181,06:09 AM,06:08 AM
 act_dep_time,1182,empty,11:45 AM
 act_dep_time,1183,empty,10:55 AM
 act_dep_time,1185,06:57 AM,06:58 AM
@@ -1523,16 +1489,16 @@ act_dep_time,1212,Not Available,04:28 PM
 act_dep_time,1213,empty,12:11 PM
 act_dep_time,1214,empty,08:04 AM
 act_dep_time,1215,empty,09:05 AM
+act_dep_time,1216,01:19 PM,01:20 PM
 act_dep_time,1217,07:49 AM,08:07 AM
 act_dep_time,1219,06:56 PM,06:47 PM
-act_dep_time,1220,empty,11:40 AM
+act_dep_time,1220,empty,11:41 AM
 act_dep_time,1221,empty,04:12 PM
 act_dep_time,1222,empty,06:10 AM
 act_dep_time,1225,empty,07:42 PM
 act_dep_time,1227,08:48 AM,08:49 AM
 act_dep_time,1228,09:00 AM,09:01 AM
 act_dep_time,1231,empty,11:32 AM
-act_dep_time,1232,11:41 AM,11:40 AM
 act_dep_time,1236,empty,12:41 AM
 act_dep_time,1238,empty,07:56 AM
 act_dep_time,1239,empty,10:19 AM
@@ -1540,9 +1506,8 @@ act_dep_time,1244,10:54 AM,10:55 AM
 act_dep_time,1245,empty,02:48 PM
 act_dep_time,1246,empty,08:18 AM
 act_dep_time,1249,empty,12:06 PM
-act_dep_time,1250,06:09 AM,06:08 AM
 act_dep_time,1252,empty,06:02 AM
-act_dep_time,1253,empty,09:01 AM
+act_dep_time,1253,empty,08:40 AM
 act_dep_time,1255,02:03 PM,02:04 PM
 act_dep_time,1260,12:07 PM,12:08 PM
 act_dep_time,1261,empty,05:38 PM
@@ -1552,22 +1517,17 @@ act_dep_time,1270,empty,07:25 PM
 act_dep_time,1271,02:04 PM,02:38 PM
 act_dep_time,1272,empty,09:14 AM
 act_dep_time,1273,06:57 AM,06:56 AM
-act_dep_time,1274,07:31 AM,07:30 AM
 act_dep_time,1277,04:44 PM,04:46 PM
 act_dep_time,1280,empty,10:20 AM
 act_dep_time,1281,07:30 AM,07:31 AM
 act_dep_time,1285,empty,02:01 PM
-act_dep_time,1291,08:52 AM,08:51 AM
 act_dep_time,1294,empty,03:01 PM
 act_dep_time,1296,empty,11:35 PM
 act_dep_time,1298,1:50 PM (+8:00),01:45 PM
-act_dep_time,1300,08:40 PM,08:30 PM
 act_dep_time,1302,empty,02:48 PM
 act_dep_time,1303,empty,09:43 AM
-act_dep_time,1305,03:28 PM,03:27 PM
 act_dep_time,1306,07:22 AM,07:23 AM
 act_dep_time,1309,empty,09:05 AM
-act_dep_time,1310,01:20 PM,01:19 PM
 act_dep_time,1311,08:55 AM,08:56 AM
 act_dep_time,1316,empty,03:31 PM
 act_dep_time,1320,empty,03:58 PM
@@ -1597,10 +1557,10 @@ act_dep_time,1346,8:00aDec 1,08:18 AM
 act_dep_time,1347,02:46 PM,03:04 PM
 act_dep_time,1348,11:54aDec 1,12:13 PM
 act_dep_time,1349,11:56aDec 1,12:06 PM
-act_dep_time,1350,5:58aDec 1,06:08 AM
+act_dep_time,1350,5:58aDec 1,06:09 AM
 act_dep_time,1351,11:30aDec 1,11:45 AM
 act_dep_time,1352,6:02aDec 1,06:02 AM
-act_dep_time,1353,8:40aDec 1,09:01 AM
+act_dep_time,1353,8:40aDec 1,08:40 AM
 act_dep_time,1354,10:10aDec 1,10:19 AM
 act_dep_time,1355,01:48 PM,02:04 PM
 act_dep_time,1356,7:49aDec 1,08:07 AM
@@ -1619,7 +1579,7 @@ act_dep_time,1369,empty,07:25 PM
 act_dep_time,1370,02:37 PM,02:38 PM
 act_dep_time,1371,9:14aDec 1,09:14 AM
 act_dep_time,1372,5:59aDec 1,06:56 AM
-act_dep_time,1373,7:10aDec 1,07:30 AM
+act_dep_time,1373,7:10aDec 1,07:31 AM
 act_dep_time,1374,04:56 PM,05:09 PM
 act_dep_time,1375,04:28 PM,04:46 PM
 act_dep_time,1376,04:15 PM,04:37 PM
@@ -1635,26 +1595,27 @@ act_dep_time,1385,empty,04:28 PM
 act_dep_time,1386,empty,09:06 PM
 act_dep_time,1387,empty,08:29 PM
 act_dep_time,1388,6:56aDec 1,07:23 AM
-act_dep_time,1389,8:31aDec 1,08:51 AM
+act_dep_time,1389,8:31aDec 1,08:52 AM
 act_dep_time,1390,empty,01:41 PM
 act_dep_time,1392,7:27aDec 1,07:41 AM
 act_dep_time,1393,empty,11:35 PM
 act_dep_time,1394,empty,05:38 PM
 act_dep_time,1395,01:32 PM,01:45 PM
 act_dep_time,1396,11:15aDec 1,11:47 AM
+act_dep_time,1397,08:30 PM,08:40 PM
 act_dep_time,1398,02:52 PM,03:04 PM
 act_dep_time,1400,9:16aDec 1,09:43 AM
 act_dep_time,1401,02:32 PM,02:44 PM
-act_dep_time,1402,03:00 PM,03:27 PM
+act_dep_time,1402,03:00 PM,03:28 PM
 act_dep_time,1403,7:10aDec 1,07:23 AM
 act_dep_time,1404,12:01 PM,12:11 PM
 act_dep_time,1405,7:51aDec 1,08:04 AM
 act_dep_time,1406,8:52aDec 1,09:05 AM
-act_dep_time,1407,01:06 PM,01:19 PM
+act_dep_time,1407,01:06 PM,01:20 PM
 act_dep_time,1408,8:32aDec 1,08:56 AM
 act_dep_time,1409,03:09 PM,03:38 PM
 act_dep_time,1410,7:28aDec 1,08:04 AM
-act_dep_time,1411,11:20aDec 1,11:40 AM
+act_dep_time,1411,11:20aDec 1,11:41 AM
 act_dep_time,1412,03:52 PM,04:12 PM
 act_dep_time,1413,11:33aDec 1,11:52 AM
 act_dep_time,1414,7:22aDec 1,07:39 AM
@@ -1672,24 +1633,26 @@ act_dep_time,1427,07:14 PM,07:42 PM
 act_dep_time,1428,07:29 AM,07:56 AM
 act_dep_time,1429,11:56 AM,12:06 PM
 act_dep_time,1431,07:15 PM,07:25 PM
-act_dep_time,1433,08:40 AM,09:01 AM
 act_dep_time,1442,05:30 PM,05:38 PM
 act_dep_time,1444,05:22 PM,05:38 PM
 act_dep_time,1445,08:00 AM,08:18 AM
+act_dep_time,1449,03:27 PM,03:28 PM
 act_dep_time,1450,04:28 PM,04:46 PM
 act_dep_time,1452,04:15 PM,04:37 PM
 act_dep_time,1453,08:42 AM,09:01 AM
+act_dep_time,1454,01:19 PM,01:20 PM
 act_dep_time,1455,07:21 AM,07:22 AM
 act_dep_time,1456,01:31 PM,01:48 PM
 act_dep_time,1457,12:41 PM,12:42 PM
 act_dep_time,1460,4:28 PM (Estimated runway),04:28 PM
 act_dep_time,1462,9:06 PM (Estimated runway),09:06 PM
+act_dep_time,1464,08:51 AM,08:52 AM
 act_dep_time,1465,07:58 PM,07:59 PM
 act_dep_time,1466,08:26 AM,08:37 AM
 act_dep_time,1467,11:43 AM,11:55 AM
 act_dep_time,1468,02:46 PM,03:04 PM
 act_dep_time,1472,11:05 AM,11:06 AM
-act_dep_time,1474,08:39 PM,08:30 PM
+act_dep_time,1474,08:39 PM,08:40 PM
 act_dep_time,1476,07:39 AM,07:40 AM
 act_dep_time,1478,10:10 AM,10:11 AM
 act_dep_time,1479,12:11 PM,12:12 PM
@@ -1697,7 +1660,7 @@ act_dep_time,1480,7:15 PM (Estimated),07:25 PM
 act_dep_time,1481,12:12 PM,12:13 PM
 act_dep_time,1482,empty,08:49 AM
 act_dep_time,1483,empty,03:38 PM
-act_dep_time,1484,empty,08:51 AM
+act_dep_time,1484,empty,08:52 AM
 act_dep_time,1485,empty,07:40 AM
 act_dep_time,1486,empty,02:43 PM
 act_dep_time,1487,empty,06:10 AM
@@ -1705,7 +1668,6 @@ act_dep_time,1489,empty,07:42 PM
 act_dep_time,1491,08:48 AM,08:49 AM
 act_dep_time,1492,09:00 AM,09:01 AM
 act_dep_time,1495,empty,11:32 AM
-act_dep_time,1496,11:41 AM,11:40 AM
 act_dep_time,1500,empty,12:41 AM
 act_dep_time,1502,empty,07:56 AM
 act_dep_time,1503,empty,10:19 AM
@@ -1713,9 +1675,8 @@ act_dep_time,1508,10:54 AM,10:55 AM
 act_dep_time,1509,empty,02:48 PM
 act_dep_time,1510,empty,08:18 AM
 act_dep_time,1513,empty,12:06 PM
-act_dep_time,1514,06:09 AM,06:08 AM
 act_dep_time,1516,empty,06:02 AM
-act_dep_time,1517,empty,09:01 AM
+act_dep_time,1517,empty,08:40 AM
 act_dep_time,1519,02:03 PM,02:04 PM
 act_dep_time,1524,12:07 PM,12:08 PM
 act_dep_time,1525,empty,05:38 PM
@@ -1725,22 +1686,17 @@ act_dep_time,1534,empty,07:25 PM
 act_dep_time,1535,02:04 PM,02:38 PM
 act_dep_time,1536,empty,09:14 AM
 act_dep_time,1537,06:57 AM,06:56 AM
-act_dep_time,1538,07:31 AM,07:30 AM
 act_dep_time,1541,04:44 PM,04:46 PM
 act_dep_time,1544,empty,10:20 AM
 act_dep_time,1545,07:30 AM,07:31 AM
 act_dep_time,1549,empty,02:01 PM
-act_dep_time,1555,08:52 AM,08:51 AM
 act_dep_time,1558,empty,03:01 PM
 act_dep_time,1560,empty,11:35 PM
 act_dep_time,1562,1:50 PM (+8:00),01:45 PM
-act_dep_time,1564,08:40 PM,08:30 PM
 act_dep_time,1566,empty,02:48 PM
 act_dep_time,1567,empty,09:43 AM
-act_dep_time,1569,03:28 PM,03:27 PM
 act_dep_time,1570,07:22 AM,07:23 AM
 act_dep_time,1573,empty,09:05 AM
-act_dep_time,1574,01:20 PM,01:19 PM
 act_dep_time,1575,08:55 AM,08:56 AM
 act_dep_time,1580,empty,03:31 PM
 act_dep_time,1584,empty,03:58 PM
@@ -1757,7 +1713,7 @@ act_dep_time,1596,03:58 PM,04:10 PM
 act_dep_time,1597,10:19aDec 1,10:19 AM
 act_dep_time,1598,7:04aDec 1,07:25 AM
 act_dep_time,1600,11:56aDec 1,12:06 PM
-act_dep_time,1601,5:58aDec 1,06:08 AM
+act_dep_time,1601,5:58aDec 1,06:09 AM
 act_dep_time,1602,11:30aDec 1,11:45 AM
 act_dep_time,1603,10:10 AM,10:19 AM
 act_dep_time,1604,7:28aDec 1,08:04 AM
@@ -1767,7 +1723,7 @@ act_dep_time,1607,11:47aDec 1,12:14 PM
 act_dep_time,1608,11:51aDec 1,12:08 PM
 act_dep_time,1610,11:33 AM,11:52 AM
 act_dep_time,1611,5:59aDec 1,06:56 AM
-act_dep_time,1612,7:10aDec 1,07:30 AM
+act_dep_time,1612,7:10aDec 1,07:31 AM
 act_dep_time,1613,04:56 PM,05:09 PM
 act_dep_time,1614,7:22aDec 1,07:39 AM
 act_dep_time,1615,08:01 PM,08:23 PM
@@ -1777,33 +1733,34 @@ act_dep_time,1618,empty,04:28 PM
 act_dep_time,1619,Not Available,09:06 PM
 act_dep_time,1620,empty,08:29 PM
 act_dep_time,1621,6:56aDec 1,07:23 AM
-act_dep_time,1622,8:31aDec 1,08:51 AM
+act_dep_time,1622,8:31aDec 1,08:52 AM
 act_dep_time,1623,02:42 PM,02:43 PM
 act_dep_time,1624,Not Available,01:41 PM
 act_dep_time,1626,empty,11:35 PM
-act_dep_time,1628,03:00 PM,03:27 PM
+act_dep_time,1627,08:30 PM,08:40 PM
+act_dep_time,1628,03:00 PM,03:28 PM
 act_dep_time,1630,12:01 PM,12:11 PM
 act_dep_time,1631,8:52aDec 1,09:05 AM
 act_dep_time,1632,7:14aDec 1,07:40 AM
 act_dep_time,1633,8:32aDec 1,08:56 AM
-act_dep_time,1634,11:20aDec 1,11:40 AM
+act_dep_time,1634,11:20aDec 1,11:41 AM
 act_dep_time,1635,03:52 PM,04:12 PM
 act_dep_time,1637,6:41aDec 1,06:58 AM
 act_dep_time,1638,empty,07:16 AM
 act_dep_time,1639,empty,06:56 AM
-act_dep_time,1640,empty,07:30 AM
+act_dep_time,1640,empty,07:31 AM
 act_dep_time,1641,empty,02:44 PM
 act_dep_time,1642,empty,07:23 AM
 act_dep_time,1643,empty,08:23 PM
 act_dep_time,1644,empty,04:37 PM
-act_dep_time,1645,empty,01:19 PM
+act_dep_time,1645,empty,01:20 PM
 act_dep_time,1646,empty,06:56 PM
 act_dep_time,1647,empty,08:04 AM
 act_dep_time,1648,empty,01:48 PM
 act_dep_time,1649,empty,12:42 PM
 act_dep_time,1650,empty,04:12 PM
 act_dep_time,1651,empty,12:11 AM
-act_dep_time,1652,empty,11:40 AM
+act_dep_time,1652,empty,11:41 AM
 act_dep_time,1653,empty,12:14 PM
 act_dep_time,1654,empty,07:59 PM
 act_dep_time,1655,empty,10:55 AM
@@ -1816,6 +1773,7 @@ act_dep_time,1661,empty,02:38 PM
 act_dep_time,1665,08:51 AM,09:01 AM
 act_dep_time,1667,11:57 PM,11:29 PM
 act_dep_time,1672,10:10 AM,10:11 AM
+act_dep_time,1675,06:08 AM,06:09 AM
 act_dep_time,1677,08:05 AM,08:04 AM
 act_dep_time,1681,06:57 AM,06:58 AM
 act_dep_time,1684,02:42 PM,02:43 PM
@@ -1824,17 +1782,18 @@ act_dep_time,1688,07:27 PM,08:25 PM
 act_dep_time,1690,11:05 AM,11:06 AM
 act_dep_time,1692,07:21 AM,07:22 AM
 act_dep_time,1697,09:57 AM,09:14 AM
-act_dep_time,1699,07:31 AM,07:30 AM
 act_dep_time,1700,05:08 PM,05:09 PM
 act_dep_time,1701,04:45 PM,04:46 PM
 act_dep_time,1703,11:01 AM,11:02 AM
 act_dep_time,1706,04:35 PM,04:28 PM
 act_dep_time,1707,09:16 PM,09:06 PM
 act_dep_time,1709,07:22 AM,07:23 AM
+act_dep_time,1710,08:51 AM,08:52 AM
 act_dep_time,1711,01:40 PM,01:41 PM
 act_dep_time,1713,06:11 PM,05:38 PM
-act_dep_time,1714,08:40 PM,08:30 PM
+act_dep_time,1716,03:27 PM,03:28 PM
 act_dep_time,1718,12:10 PM,12:11 PM
+act_dep_time,1719,01:19 PM,01:20 PM
 act_dep_time,1720,03:36 PM,03:38 PM
 act_dep_time,1725,04:14 PM,03:58 PM
 act_dep_time,1727,07:39 AM,07:40 AM
@@ -1884,8 +1843,8 @@ act_dep_time,1781,08:00 AM,08:18 AM
 act_dep_time,1782,02:46 PM,03:04 PM
 act_dep_time,1783,12:12 PM,12:13 PM
 act_dep_time,1784,11:56 AM,12:06 PM
+act_dep_time,1785,06:08 AM,06:09 AM
 act_dep_time,1786,11:30 AM,11:45 AM
-act_dep_time,1788,08:40 AM,09:01 AM
 act_dep_time,1789,10:18 AM,10:19 AM
 act_dep_time,1791,07:49 AM,08:07 AM
 act_dep_time,1792,12:35 PM,12:56 PM
@@ -1900,6 +1859,7 @@ act_dep_time,1802,empty,06:47 PM
 act_dep_time,1803,06:55 PM,06:56 PM
 act_dep_time,1804,empty,07:25 PM
 act_dep_time,1805,02:10 PM,02:38 PM
+act_dep_time,1808,07:30 AM,07:31 AM
 act_dep_time,1809,05:08 PM,05:09 PM
 act_dep_time,1810,04:28 PM,04:46 PM
 act_dep_time,1811,04:15 PM,04:37 PM
@@ -1913,6 +1873,7 @@ act_dep_time,1820,empty,04:28 PM
 act_dep_time,1821,empty,09:06 PM
 act_dep_time,1822,empty,08:29 PM
 act_dep_time,1823,07:22 AM,07:23 AM
+act_dep_time,1824,08:51 AM,08:52 AM
 act_dep_time,1825,08:26 AM,08:37 AM
 act_dep_time,1826,empty,01:41 PM
 act_dep_time,1828,07:27 AM,07:41 AM
@@ -1920,13 +1881,16 @@ act_dep_time,1829,empty,11:35 PM
 act_dep_time,1830,empty,05:38 PM
 act_dep_time,1831,01:32 PM,01:45 PM
 act_dep_time,1832,11:15 AM,11:47 AM
-act_dep_time,1833,08:39 PM,08:30 PM
+act_dep_time,1833,08:39 PM,08:40 PM
 act_dep_time,1834,02:52 PM,03:04 PM
 act_dep_time,1836,09:16 AM,09:43 AM
+act_dep_time,1838,03:27 PM,03:28 PM
 act_dep_time,1839,07:22 AM,07:23 AM
 act_dep_time,1840,12:10 PM,12:11 PM
 act_dep_time,1842,08:52 AM,09:05 AM
+act_dep_time,1843,01:19 PM,01:20 PM
 act_dep_time,1845,03:36 PM,03:38 PM
+act_dep_time,1847,11:40 AM,11:41 AM
 act_dep_time,1852,11:43 AM,11:55 AM
 act_dep_time,1853,10:54 AM,10:55 AM
 act_dep_time,1854,06:57 AM,06:58 AM
@@ -1948,8 +1912,8 @@ act_dep_time,1878,10:10 AM,10:11 AM
 act_dep_time,1880,05:22 PM,05:38 PM
 act_dep_time,1881,12:12 PM,12:13 PM
 act_dep_time,1882,11:56 AM,12:06 PM
+act_dep_time,1883,06:08 AM,06:09 AM
 act_dep_time,1884,11:30 AM,11:45 AM
-act_dep_time,1886,08:40 AM,09:01 AM
 act_dep_time,1888,10:18 AM,10:19 AM
 act_dep_time,1891,06:57 AM,06:58 AM
 act_dep_time,1892,12:41 PM,12:42 PM
@@ -1963,6 +1927,7 @@ act_dep_time,1902,06:55 PM,06:56 PM
 act_dep_time,1903,12:11 PM,12:12 PM
 act_dep_time,1904,7:15 PM (Estimated),07:25 PM
 act_dep_time,1905,02:10 PM,02:38 PM
+act_dep_time,1908,07:30 AM,07:31 AM
 act_dep_time,1909,05:08 PM,05:09 PM
 act_dep_time,1911,04:28 PM,04:46 PM
 act_dep_time,1912,04:15 PM,04:37 PM
@@ -1976,15 +1941,18 @@ act_dep_time,1921,9:06 PM (Estimated runway),09:06 PM
 act_dep_time,1922,8:29 PM (Estimated runway),08:29 PM
 act_dep_time,1923,02:46 PM,03:04 PM
 act_dep_time,1924,07:22 AM,07:23 AM
+act_dep_time,1925,08:51 AM,08:52 AM
 act_dep_time,1926,02:26 PM,02:43 PM
 act_dep_time,1927,08:26 AM,08:37 AM
 act_dep_time,1929,empty,11:35 PM
 act_dep_time,1930,5:30 PM (Estimated),05:38 PM
 act_dep_time,1931,11:15 AM,11:47 AM
-act_dep_time,1932,08:39 PM,08:30 PM
+act_dep_time,1932,08:39 PM,08:40 PM
 act_dep_time,1933,02:52 PM,03:04 PM
+act_dep_time,1936,03:27 PM,03:28 PM
 act_dep_time,1937,07:22 AM,07:23 AM
 act_dep_time,1938,12:10 PM,12:11 PM
+act_dep_time,1939,01:19 PM,01:20 PM
 act_dep_time,1940,07:49 AM,08:07 AM
 act_dep_time,1942,03:36 PM,03:38 PM
 act_dep_time,1944,07:31 AM,07:32 AM
@@ -1997,30 +1965,24 @@ act_dep_time,1963,12:58 AM,12:41 AM
 act_dep_time,1966,10:35 AM,10:19 AM
 act_dep_time,1970,04:30 PM,04:29 PM
 act_dep_time,1972,02:59 PM,02:48 PM
-act_dep_time,1977,06:09 AM,06:08 AM
 act_dep_time,1979,06:17 AM,06:02 AM
+act_dep_time,1980,09:01 AM,08:40 AM
 act_dep_time,1989,08:36 PM,08:25 PM
 act_dep_time,1994,empty,06:47 PM
 act_dep_time,1996,empty,07:25 PM
 act_dep_time,1998,09:58 AM,09:14 AM
 act_dep_time,1999,06:57 AM,06:56 AM
-act_dep_time,2000,07:31 AM,07:30 AM
 act_dep_time,2005,10:37 AM,10:20 AM
 act_dep_time,2011,empty,12:11 AM
 act_dep_time,2012,empty,04:28 PM
 act_dep_time,2013,empty,09:06 PM
 act_dep_time,2014,empty,08:29 PM
-act_dep_time,2016,08:52 AM,08:51 AM
 act_dep_time,2018,empty,01:41 PM
 act_dep_time,2019,03:17 PM,03:01 PM
 act_dep_time,2021,empty,11:35 PM
 act_dep_time,2022,empty,05:38 PM
-act_dep_time,2025,08:40 PM,08:30 PM
 act_dep_time,2027,02:59 PM,02:48 PM
-act_dep_time,2030,03:28 PM,03:27 PM
 act_dep_time,2033,08:05 AM,08:04 AM
-act_dep_time,2035,01:20 PM,01:19 PM
-act_dep_time,2039,11:41 AM,11:40 AM
 act_dep_time,2042,07:40 AM,07:39 AM
 act_dep_time,2043,04:02 PM,03:31 PM
 act_dep_time,2047,04:15 PM,03:58 PM
@@ -2042,8 +2004,8 @@ act_dep_time,2073,08:00 AM,08:18 AM
 act_dep_time,2074,02:46 PM,03:04 PM
 act_dep_time,2075,12:12 PM,12:13 PM
 act_dep_time,2076,11:56 AM,12:06 PM
+act_dep_time,2077,06:08 AM,06:09 AM
 act_dep_time,2078,11:30 AM,11:45 AM
-act_dep_time,2080,08:40 AM,09:01 AM
 act_dep_time,2081,10:18 AM,10:19 AM
 act_dep_time,2083,07:49 AM,08:07 AM
 act_dep_time,2084,12:35 PM,12:56 PM
@@ -2058,6 +2020,7 @@ act_dep_time,2094,empty,06:47 PM
 act_dep_time,2095,06:55 PM,06:56 PM
 act_dep_time,2096,empty,07:25 PM
 act_dep_time,2097,02:10 PM,02:38 PM
+act_dep_time,2100,07:30 AM,07:31 AM
 act_dep_time,2101,05:08 PM,05:09 PM
 act_dep_time,2102,04:28 PM,04:46 PM
 act_dep_time,2103,04:15 PM,04:37 PM
@@ -2071,6 +2034,7 @@ act_dep_time,2112,empty,04:28 PM
 act_dep_time,2113,empty,09:06 PM
 act_dep_time,2114,empty,08:29 PM
 act_dep_time,2115,07:22 AM,07:23 AM
+act_dep_time,2116,08:51 AM,08:52 AM
 act_dep_time,2117,08:26 AM,08:37 AM
 act_dep_time,2118,empty,01:41 PM
 act_dep_time,2120,07:27 AM,07:41 AM
@@ -2078,13 +2042,16 @@ act_dep_time,2121,empty,11:35 PM
 act_dep_time,2122,empty,05:38 PM
 act_dep_time,2123,01:32 PM,01:45 PM
 act_dep_time,2124,11:15 AM,11:47 AM
-act_dep_time,2125,08:39 PM,08:30 PM
+act_dep_time,2125,08:39 PM,08:40 PM
 act_dep_time,2126,02:52 PM,03:04 PM
 act_dep_time,2128,09:16 AM,09:43 AM
+act_dep_time,2130,03:27 PM,03:28 PM
 act_dep_time,2131,07:22 AM,07:23 AM
 act_dep_time,2132,12:10 PM,12:11 PM
 act_dep_time,2134,08:52 AM,09:05 AM
+act_dep_time,2135,01:19 PM,01:20 PM
 act_dep_time,2137,03:36 PM,03:38 PM
+act_dep_time,2139,11:40 AM,11:41 AM
 act_dep_time,2144,11:43 AM,11:55 AM
 act_dep_time,2145,10:54 AM,10:55 AM
 act_dep_time,2146,06:57 AM,06:58 AM
@@ -2094,37 +2061,31 @@ act_dep_time,2151,empty,11:32 AM
 act_dep_time,2152,empty,12:06 PM
 act_dep_time,2153,empty,09:06 PM
 act_dep_time,2154,empty,04:37 PM
-act_dep_time,2155,empty,01:19 PM
+act_dep_time,2155,empty,01:20 PM
 act_dep_time,2164,12:37 PM,11:32 AM
 act_dep_time,2166,empty,11:29 PM
 act_dep_time,2168,12:58 AM,12:41 AM
 act_dep_time,2171,10:35 AM,10:19 AM
 act_dep_time,2175,04:30 PM,04:29 PM
 act_dep_time,2177,02:59 PM,02:48 PM
-act_dep_time,2182,06:09 AM,06:08 AM
 act_dep_time,2184,06:17 AM,06:02 AM
+act_dep_time,2185,09:01 AM,08:40 AM
 act_dep_time,2194,08:36 PM,08:25 PM
 act_dep_time,2199,empty,06:47 PM
 act_dep_time,2201,empty,07:25 PM
 act_dep_time,2203,09:58 AM,09:14 AM
 act_dep_time,2204,06:57 AM,06:56 AM
-act_dep_time,2205,07:31 AM,07:30 AM
 act_dep_time,2210,10:37 AM,10:20 AM
 act_dep_time,2216,empty,12:11 AM
 act_dep_time,2217,empty,04:28 PM
 act_dep_time,2218,empty,09:06 PM
 act_dep_time,2219,empty,08:29 PM
-act_dep_time,2221,08:52 AM,08:51 AM
 act_dep_time,2223,empty,01:41 PM
 act_dep_time,2224,03:17 PM,03:01 PM
 act_dep_time,2226,empty,11:35 PM
 act_dep_time,2227,empty,05:38 PM
-act_dep_time,2230,08:40 PM,08:30 PM
 act_dep_time,2232,02:59 PM,02:48 PM
-act_dep_time,2235,03:28 PM,03:27 PM
 act_dep_time,2238,08:05 AM,08:04 AM
-act_dep_time,2240,01:20 PM,01:19 PM
-act_dep_time,2244,11:41 AM,11:40 AM
 act_dep_time,2247,07:40 AM,07:39 AM
 act_dep_time,2248,04:02 PM,03:31 PM
 act_dep_time,2252,04:15 PM,03:58 PM
@@ -2132,6 +2093,7 @@ act_dep_time,2253,06:11 AM,06:10 AM
 act_dep_time,2259,08:51 AM,09:01 AM
 act_dep_time,2261,11:57 PM,11:29 PM
 act_dep_time,2266,10:10 AM,10:11 AM
+act_dep_time,2269,06:08 AM,06:09 AM
 act_dep_time,2271,08:05 AM,08:04 AM
 act_dep_time,2275,06:57 AM,06:58 AM
 act_dep_time,2278,02:42 PM,02:43 PM
@@ -2140,17 +2102,18 @@ act_dep_time,2282,07:27 PM,08:25 PM
 act_dep_time,2284,11:05 AM,11:06 AM
 act_dep_time,2286,07:21 AM,07:22 AM
 act_dep_time,2291,09:57 AM,09:14 AM
-act_dep_time,2293,07:31 AM,07:30 AM
 act_dep_time,2294,05:08 PM,05:09 PM
 act_dep_time,2295,04:45 PM,04:46 PM
 act_dep_time,2297,11:01 AM,11:02 AM
 act_dep_time,2300,04:35 PM,04:28 PM
 act_dep_time,2301,09:16 PM,09:06 PM
 act_dep_time,2303,07:22 AM,07:23 AM
+act_dep_time,2304,08:51 AM,08:52 AM
 act_dep_time,2305,01:40 PM,01:41 PM
 act_dep_time,2307,06:11 PM,05:38 PM
-act_dep_time,2308,08:40 PM,08:30 PM
+act_dep_time,2310,03:27 PM,03:28 PM
 act_dep_time,2312,12:10 PM,12:11 PM
+act_dep_time,2313,01:19 PM,01:20 PM
 act_dep_time,2314,03:36 PM,03:38 PM
 act_dep_time,2319,04:14 PM,03:58 PM
 act_dep_time,2321,07:39 AM,07:40 AM
@@ -2163,6 +2126,7 @@ act_dep_time,2329,11:29 PM (Estimated runway),11:29 PM
 act_dep_time,2330,03:58 PM,04:10 PM
 act_dep_time,2333,10:10 AM,10:11 AM
 act_dep_time,2334,12:12 PM,12:13 PM
+act_dep_time,2335,06:08 AM,06:09 AM
 act_dep_time,2336,11:30 AM,11:45 AM
 act_dep_time,2338,10:18 AM,10:19 AM
 act_dep_time,2341,06:57 AM,06:58 AM
@@ -2172,6 +2136,7 @@ act_dep_time,2346,11:05 AM,11:06 AM
 act_dep_time,2347,07:21 AM,07:22 AM
 act_dep_time,2348,06:55 PM,06:56 PM
 act_dep_time,2349,12:11 PM,12:12 PM
+act_dep_time,2352,07:30 AM,07:31 AM
 act_dep_time,2353,04:28 PM,04:46 PM
 act_dep_time,2355,01:31 PM,01:48 PM
 act_dep_time,2356,12:10 AM (Estimated runway),12:11 AM
@@ -2179,10 +2144,13 @@ act_dep_time,2357,4:28 PM (Estimated runway),04:28 PM
 act_dep_time,2358,9:06 PM (Estimated runway),09:06 PM
 act_dep_time,2359,8:29 PM (Estimated runway),08:29 PM
 act_dep_time,2360,07:22 AM,07:23 AM
+act_dep_time,2361,08:51 AM,08:52 AM
 act_dep_time,2362,02:26 PM,02:43 PM
 act_dep_time,2363,1:41 PM (Estimated runway),01:41 PM
+act_dep_time,2365,03:27 PM,03:28 PM
 act_dep_time,2366,07:22 AM,07:23 AM
 act_dep_time,2367,12:10 PM,12:11 PM
+act_dep_time,2368,01:19 PM,01:20 PM
 act_dep_time,2369,03:36 PM,03:38 PM
 act_dep_time,2371,07:31 AM,07:32 AM
 act_dep_time,2372,11:43 AM,11:55 AM
@@ -2218,7 +2186,6 @@ sched_arr_time,84,empty,03:19 PM
 sched_arr_time,85,empty,02:00 PM
 sched_arr_time,86,empty,06:15 PM
 sched_arr_time,87,empty,01:45 PM
-sched_arr_time,89,08:56 PM,08:46 PM
 sched_arr_time,90,empty,02:45 PM
 sched_arr_time,91,empty,05:15 PM
 sched_arr_time,93,empty,10:35 AM
@@ -2291,7 +2258,7 @@ sched_arr_time,183,empty,01:39 PM
 sched_arr_time,184,empty,03:19 PM
 sched_arr_time,185,empty,02:00 PM
 sched_arr_time,188,empty,08:22 PM
-sched_arr_time,189,empty,08:46 PM
+sched_arr_time,189,empty,08:56 PM
 sched_arr_time,191,04:52 PM,05:15 PM
 sched_arr_time,192,empty,04:00 PM
 sched_arr_time,196,12:21 AM Dec 02,12:21 AM
@@ -2346,7 +2313,6 @@ sched_arr_time,371,empty,03:19 PM
 sched_arr_time,372,empty,02:00 PM
 sched_arr_time,373,empty,06:15 PM
 sched_arr_time,374,empty,01:45 PM
-sched_arr_time,376,08:56 PM,08:46 PM
 sched_arr_time,377,empty,02:45 PM
 sched_arr_time,378,empty,05:15 PM
 sched_arr_time,380,empty,10:35 AM
@@ -2419,7 +2385,7 @@ sched_arr_time,470,empty,01:39 PM
 sched_arr_time,471,empty,03:19 PM
 sched_arr_time,472,empty,02:00 PM
 sched_arr_time,475,empty,08:22 PM
-sched_arr_time,476,empty,08:46 PM
+sched_arr_time,476,empty,08:56 PM
 sched_arr_time,478,empty,05:15 PM
 sched_arr_time,479,empty,04:00 PM
 sched_arr_time,483,12:21 AM Dec 02,12:21 AM
@@ -2446,7 +2412,6 @@ sched_arr_time,521,empty,11:53 AM
 sched_arr_time,523,empty,10:40 AM
 sched_arr_time,526,empty,05:25 PM
 sched_arr_time,530,empty,04:49 PM
-sched_arr_time,574,08:56 PM,08:46 PM
 sched_arr_time,631,empty,10:15 PM
 sched_arr_time,634,empty,09:54 AM
 sched_arr_time,638,empty,02:50 PM
@@ -2468,7 +2433,7 @@ sched_arr_time,662,empty,01:39 PM
 sched_arr_time,663,empty,03:19 PM
 sched_arr_time,664,empty,02:00 PM
 sched_arr_time,667,empty,08:22 PM
-sched_arr_time,668,empty,08:46 PM
+sched_arr_time,668,empty,08:56 PM
 sched_arr_time,670,empty,05:15 PM
 sched_arr_time,671,empty,04:00 PM
 sched_arr_time,675,12:21 AM Dec 02,12:21 AM
@@ -2594,7 +2559,7 @@ sched_arr_time,844,empty,01:39 PM
 sched_arr_time,845,empty,03:19 PM
 sched_arr_time,846,empty,02:00 PM
 sched_arr_time,849,empty,08:22 PM
-sched_arr_time,850,empty,08:46 PM
+sched_arr_time,850,empty,08:56 PM
 sched_arr_time,852,empty,05:15 PM
 sched_arr_time,853,empty,04:00 PM
 sched_arr_time,857,12:21 AM  Fri 02-Dec-2011,12:21 AM
@@ -2647,6 +2612,7 @@ sched_arr_time,979,11:31 PM,11:50 PM
 sched_arr_time,980,11:52 PM,12:21 AM
 sched_arr_time,981,08:04 PM,08:22 PM
 sched_arr_time,982,06:30 PM,06:40 PM
+sched_arr_time,983,08:46 PM,08:56 PM
 sched_arr_time,984,10:18 AM,10:35 AM
 sched_arr_time,985,03:50 PM,04:00 PM
 sched_arr_time,986,06:30 AM,06:40 AM
@@ -2689,7 +2655,7 @@ sched_arr_time,1103,empty,01:39 PM
 sched_arr_time,1104,empty,03:19 PM
 sched_arr_time,1105,empty,02:00 PM
 sched_arr_time,1108,empty,08:22 PM
-sched_arr_time,1109,empty,08:46 PM
+sched_arr_time,1109,empty,08:56 PM
 sched_arr_time,1111,empty,05:15 PM
 sched_arr_time,1112,empty,04:00 PM
 sched_arr_time,1116,12:21 AM Dec 02,12:21 AM
@@ -2758,7 +2724,6 @@ sched_arr_time,1257,empty,03:19 PM
 sched_arr_time,1258,empty,02:00 PM
 sched_arr_time,1259,empty,06:15 PM
 sched_arr_time,1260,empty,01:45 PM
-sched_arr_time,1262,08:56 PM,08:46 PM
 sched_arr_time,1263,empty,02:45 PM
 sched_arr_time,1264,empty,05:15 PM
 sched_arr_time,1266,empty,10:35 AM
@@ -2826,7 +2791,7 @@ sched_arr_time,1350,9:20aDec 1,09:20 AM
 sched_arr_time,1352,10:20aDec 1,10:20 AM
 sched_arr_time,1353,10:54aDec 1,10:54 AM
 sched_arr_time,1357,03:03 PM,03:19 PM
-sched_arr_time,1362,10:48 PM,08:46 PM
+sched_arr_time,1362,10:48 PM,08:56 PM
 sched_arr_time,1366,10:35aDec 1,10:35 AM
 sched_arr_time,1369,12:21aDec 2,12:21 AM
 sched_arr_time,1372,7:30aDec 1,07:30 AM
@@ -2852,7 +2817,6 @@ sched_arr_time,1418,7:45aDec 1,07:45 AM
 sched_arr_time,1420,6:40aDec 1,06:40 AM
 sched_arr_time,1421,10:45aDec 1,10:45 AM
 sched_arr_time,1425,empty,04:05 PM
-sched_arr_time,1441,08:56 PM,08:46 PM
 sched_arr_time,1488,empty,09:40 AM
 sched_arr_time,1490,empty,09:25 AM
 sched_arr_time,1491,empty,11:55 AM
@@ -2880,7 +2844,6 @@ sched_arr_time,1521,empty,03:19 PM
 sched_arr_time,1522,empty,02:00 PM
 sched_arr_time,1523,empty,06:15 PM
 sched_arr_time,1524,empty,01:45 PM
-sched_arr_time,1526,08:56 PM,08:46 PM
 sched_arr_time,1527,empty,02:45 PM
 sched_arr_time,1528,empty,05:15 PM
 sched_arr_time,1530,empty,10:35 AM
@@ -2940,7 +2903,7 @@ sched_arr_time,1598,9:55aDec 1,09:55 AM
 sched_arr_time,1601,9:20aDec 1,09:20 AM
 sched_arr_time,1604,8:00aDec 1,08:00 AM
 sched_arr_time,1605,03:03 PM,03:19 PM
-sched_arr_time,1609,10:48 PM,08:46 PM
+sched_arr_time,1609,10:48 PM,08:56 PM
 sched_arr_time,1611,7:30aDec 1,07:30 AM
 sched_arr_time,1612,9:35aDec 1,09:35 AM
 sched_arr_time,1614,11:10aDec 1,11:10 AM
@@ -2991,6 +2954,7 @@ sched_arr_time,1684,05:40 PM,06:15 PM
 sched_arr_time,1685,01:35 PM,01:45 PM
 sched_arr_time,1686,08:04 PM,08:22 PM
 sched_arr_time,1687,10:43 AM,11:10 AM
+sched_arr_time,1688,08:46 PM,08:56 PM
 sched_arr_time,1689,01:57 PM,02:25 PM
 sched_arr_time,1690,02:10 PM,02:45 PM
 sched_arr_time,1691,03:50 PM,04:00 PM
@@ -3053,7 +3017,7 @@ sched_arr_time,1791,empty,01:39 PM
 sched_arr_time,1792,empty,03:19 PM
 sched_arr_time,1793,empty,02:00 PM
 sched_arr_time,1796,empty,08:22 PM
-sched_arr_time,1797,empty,08:46 PM
+sched_arr_time,1797,empty,08:56 PM
 sched_arr_time,1799,empty,05:15 PM
 sched_arr_time,1800,empty,04:00 PM
 sched_arr_time,1804,12:21 AM  Fri 02-Dec-2011,12:21 AM
@@ -3080,7 +3044,6 @@ sched_arr_time,1842,empty,11:53 AM
 sched_arr_time,1844,empty,10:40 AM
 sched_arr_time,1847,empty,05:25 PM
 sched_arr_time,1851,empty,04:49 PM
-sched_arr_time,1895,08:56 PM,08:46 PM
 sched_arr_time,1952,empty,10:15 PM
 sched_arr_time,1955,empty,09:54 AM
 sched_arr_time,1959,empty,02:50 PM
@@ -3102,7 +3065,7 @@ sched_arr_time,1983,empty,01:39 PM
 sched_arr_time,1984,empty,03:19 PM
 sched_arr_time,1985,empty,02:00 PM
 sched_arr_time,1988,empty,08:22 PM
-sched_arr_time,1989,empty,08:46 PM
+sched_arr_time,1989,empty,08:56 PM
 sched_arr_time,1991,empty,05:15 PM
 sched_arr_time,1992,empty,04:00 PM
 sched_arr_time,1996,12:21 AM Dec 02,12:21 AM
@@ -3150,7 +3113,7 @@ sched_arr_time,2083,empty,01:39 PM
 sched_arr_time,2084,empty,03:19 PM
 sched_arr_time,2085,empty,02:00 PM
 sched_arr_time,2088,empty,08:22 PM
-sched_arr_time,2089,empty,08:46 PM
+sched_arr_time,2089,empty,08:56 PM
 sched_arr_time,2091,empty,05:15 PM
 sched_arr_time,2092,empty,04:00 PM
 sched_arr_time,2096,12:21 AM  Fri 02-Dec-2011,12:21 AM
@@ -3200,7 +3163,7 @@ sched_arr_time,2188,empty,01:39 PM
 sched_arr_time,2189,empty,03:19 PM
 sched_arr_time,2190,empty,02:00 PM
 sched_arr_time,2193,empty,08:22 PM
-sched_arr_time,2194,empty,08:46 PM
+sched_arr_time,2194,empty,08:56 PM
 sched_arr_time,2196,empty,05:15 PM
 sched_arr_time,2197,empty,04:00 PM
 sched_arr_time,2201,12:21 AM Dec 02,12:21 AM
@@ -3253,6 +3216,7 @@ sched_arr_time,2278,05:40 PM,06:15 PM
 sched_arr_time,2279,01:35 PM,01:45 PM
 sched_arr_time,2280,08:04 PM,08:22 PM
 sched_arr_time,2281,10:43 AM,11:10 AM
+sched_arr_time,2282,08:46 PM,08:56 PM
 sched_arr_time,2283,01:57 PM,02:25 PM
 sched_arr_time,2284,02:10 PM,02:45 PM
 sched_arr_time,2285,03:50 PM,04:00 PM
@@ -3296,16 +3260,14 @@ act_arr_time,1,09:32 AM,09:22 AM
 act_arr_time,2,empty,10:31 PM
 act_arr_time,3,empty,07:25 PM
 act_arr_time,6,empty,06:35 AM
-act_arr_time,10,09:05 AM,09:00 AM
 act_arr_time,13,11:56 AM,11:50 AM
 act_arr_time,14,08:06 AM,07:59 AM
 act_arr_time,15,03:30 PM,03:13 PM
 act_arr_time,16,01:27 PM,01:11 PM
-act_arr_time,19,07:40 AM,07:32 AM
-act_arr_time,21,02:46 PM,02:36 PM
+act_arr_time,22,03:33 PM,03:25 PM
 act_arr_time,27,09:31 AM,09:26 AM
 act_arr_time,28,07:55 PM,07:53 PM
-act_arr_time,30,03:04 PM,02:58 PM
+act_arr_time,29,09:53 PM,09:47 PM
 act_arr_time,32,empty,05:52 AM
 act_arr_time,33,empty,11:49 PM
 act_arr_time,34,empty,11:35 PM
@@ -3315,10 +3277,12 @@ act_arr_time,39,03:43 PM,03:36 PM
 act_arr_time,41,11:06 AM,11:04 AM
 act_arr_time,52,empty,10:29 PM
 act_arr_time,53,09:14 AM,09:28 AM
+act_arr_time,54,11:30 AM,11:58 AM
 act_arr_time,55,09:29 AM,09:43 AM
 act_arr_time,57,05:14 PM,05:17 PM
 act_arr_time,58,empty,03:31 PM
 act_arr_time,59,04:54 PM,04:56 PM
+act_arr_time,60,11:11 AM,11:21 AM
 act_arr_time,61,12/2/11 6:35 AM,06:35 AM
 act_arr_time,62,07:04 AM,07:17 AM
 act_arr_time,63,empty,05:26 AM
@@ -3332,19 +3296,20 @@ act_arr_time,73,empty,11:32 AM
 act_arr_time,74,04:43 PM,04:47 PM
 act_arr_time,75,04:08 PM,04:09 PM
 act_arr_time,76,empty,01:14 PM
-act_arr_time,77,08:50 AM,09:00 AM
+act_arr_time,77,08:50 AM,09:05 AM
 act_arr_time,78,05:00 PM,05:05 PM
 act_arr_time,79,empty,10:27 AM
 act_arr_time,80,empty,10:56 AM
 act_arr_time,83,01:23 PM,01:30 PM
 act_arr_time,84,03:09 PM,03:21 PM
 act_arr_time,85,01:55 PM,02:10 PM
+act_arr_time,86,05:22 PM,05:42 PM
 act_arr_time,87,01:11 PM,01:15 PM
 act_arr_time,88,empty,08:03 PM
-act_arr_time,89,empty,08:56 PM
-act_arr_time,90,02:39 PM,02:36 PM
+act_arr_time,89,empty,09:38 PM
+act_arr_time,90,02:39 PM,02:46 PM
 act_arr_time,91,05:24 PM,05:34 PM
-act_arr_time,92,empty,03:33 PM
+act_arr_time,92,empty,03:25 PM
 act_arr_time,93,10:34 AM,10:36 AM
 act_arr_time,95,08:38 PM,08:53 PM
 act_arr_time,96,03:04 PM,03:16 PM
@@ -3356,9 +3321,9 @@ act_arr_time,102,07:43 PM,07:53 PM
 act_arr_time,103,10:43 AM,11:06 AM
 act_arr_time,104,06:28 PM,06:38 PM
 act_arr_time,105,07:23 PM,07:36 PM
-act_arr_time,106,09:47 PM,09:53 PM
 act_arr_time,107,empty,06:34 PM
 act_arr_time,108,10:43 AM,10:45 AM
+act_arr_time,109,02:58 PM,03:04 PM
 act_arr_time,110,04:20 PM,04:23 PM
 act_arr_time,112,empty,04:17 PM
 act_arr_time,114,12/2/11 12:01 AM,12:01 AM
@@ -3385,19 +3350,19 @@ act_arr_time,142,02:21 PM,02:27 PM
 act_arr_time,143,empty,05:26 PM
 act_arr_time,144,05:34 PM,05:38 PM
 act_arr_time,145,12:37 PM,12:50 PM
-act_arr_time,146,07:37 AM,07:32 AM
+act_arr_time,146,07:37 AM,07:40 AM
 act_arr_time,147,empty,06:36 PM
 act_arr_time,148,06:15 AM,06:19 AM
 act_arr_time,149,10:52 AM,11:12 AM
 act_arr_time,150,03:12 PM,03:14 PM
 act_arr_time,152,10:23 PM,10:29 PM
 act_arr_time,153,09:12 AM,09:28 AM
-act_arr_time,154,11:35 AM,11:30 AM
+act_arr_time,154,11:35 AM,11:58 AM
 act_arr_time,155,09:40 AM,09:43 AM
 act_arr_time,156,10:39 PM&nbsp(Estimated),10:31 PM
 act_arr_time,157,03:10 PM,03:16 PM
 act_arr_time,159,03:25 PM,03:31 PM
-act_arr_time,160,11:18 AM,11:11 AM
+act_arr_time,160,11:18 AM,11:21 AM
 act_arr_time,161,Not Available,06:35 AM
 act_arr_time,162,07:10 AM,07:17 AM
 act_arr_time,163,05:23 AM,05:26 AM
@@ -3411,6 +3376,7 @@ act_arr_time,172,06:59 PM,07:10 PM
 act_arr_time,173,11:26 AM,11:32 AM
 act_arr_time,174,04:45 PM,04:47 PM
 act_arr_time,176,01:12 PM,01:14 PM
+act_arr_time,177,09:00 AM,09:05 AM
 act_arr_time,178,05:03 PM,05:05 PM
 act_arr_time,179,10:18 AM,10:27 AM
 act_arr_time,180,10:47 AM,10:56 AM
@@ -3418,13 +3384,11 @@ act_arr_time,182,03:19 PM,03:13 PM
 act_arr_time,183,01:27 PM,01:30 PM
 act_arr_time,184,03:20 PM,03:21 PM
 act_arr_time,185,02:01 PM,02:10 PM
-act_arr_time,186,05:28 PM,05:22 PM
+act_arr_time,186,05:28 PM,05:42 PM
 act_arr_time,187,01:14 PM,01:15 PM
 act_arr_time,188,07:55 PM,08:03 PM
-act_arr_time,189,09:38 PM,08:56 PM
-act_arr_time,190,02:37 PM,02:36 PM
+act_arr_time,190,02:37 PM,02:46 PM
 act_arr_time,191,empty,05:34 PM
-act_arr_time,192,03:25 PM,03:33 PM
 act_arr_time,193,10:29 AM,10:36 AM
 act_arr_time,194,Not Available,07:25 PM
 act_arr_time,195,08:43 PM,08:53 PM
@@ -3434,9 +3398,9 @@ act_arr_time,198,12:03 PM,12:09 PM
 act_arr_time,200,09:29 AM,09:26 AM
 act_arr_time,202,06:36 PM,06:38 PM
 act_arr_time,203,07:26 PM,07:36 PM
-act_arr_time,204,09:49 PM,09:53 PM
+act_arr_time,204,09:49 PM,09:47 PM
 act_arr_time,205,06:13 PM,06:34 PM
-act_arr_time,207,02:56 PM,02:58 PM
+act_arr_time,207,02:56 PM,03:04 PM
 act_arr_time,208,04:18 PM,04:23 PM
 act_arr_time,209,02:52 PM,02:50 PM
 act_arr_time,210,04:06 PM,04:17 PM
@@ -3471,20 +3435,21 @@ act_arr_time,242,10:53 AM,11:06 AM
 act_arr_time,243,05:09 PM,05:26 PM
 act_arr_time,244,05:35 PM,05:38 PM
 act_arr_time,245,12:48 PM,12:50 PM
+act_arr_time,246,07:32 AM,07:40 AM
 act_arr_time,247,06:33 PM,06:36 PM
 act_arr_time,248,06:07 AM,06:19 AM
 act_arr_time,249,11:00 AM,11:12 AM
 act_arr_time,250,03:09 PM,03:14 PM
 act_arr_time,251,empty,09:22 AM
 act_arr_time,252,09:09 AM,09:28 AM
-act_arr_time,253,11:34 AM,11:30 AM
+act_arr_time,253,11:34 AM,11:58 AM
 act_arr_time,254,empty,09:43 AM
 act_arr_time,255,empty,10:31 PM
 act_arr_time,256,07:35 PM,07:25 PM
 act_arr_time,257,empty,05:17 PM
 act_arr_time,258,empty,03:31 PM
 act_arr_time,259,empty,04:56 PM
-act_arr_time,260,empty,11:11 AM
+act_arr_time,260,empty,11:21 AM
 act_arr_time,261,07:02 AM,06:35 AM
 act_arr_time,262,empty,07:17 AM
 act_arr_time,263,empty,02:50 PM
@@ -3495,7 +3460,7 @@ act_arr_time,267,empty,09:56 AM
 act_arr_time,268,empty,07:39 PM
 act_arr_time,269,empty,07:10 PM
 act_arr_time,270,empty,04:09 PM
-act_arr_time,271,08:50 AM,09:00 AM
+act_arr_time,271,08:50 AM,09:05 AM
 act_arr_time,272,empty,05:05 PM
 act_arr_time,273,empty,10:27 AM
 act_arr_time,274,empty,10:56 AM
@@ -3506,6 +3471,7 @@ act_arr_time,281,empty,02:10 PM
 act_arr_time,282,empty,01:15 PM
 act_arr_time,283,10:52 AM,11:06 AM
 act_arr_time,284,02:17 PM,02:27 PM
+act_arr_time,285,02:36 PM,02:46 PM
 act_arr_time,286,10:34 AM,10:36 AM
 act_arr_time,287,empty,11:32 AM
 act_arr_time,288,empty,08:53 PM
@@ -3517,10 +3483,10 @@ act_arr_time,293,empty,07:51 AM
 act_arr_time,294,09:23 AM,09:26 AM
 act_arr_time,295,empty,06:38 PM
 act_arr_time,296,empty,07:36 PM
-act_arr_time,297,empty,09:53 PM
+act_arr_time,297,empty,09:47 PM
 act_arr_time,298,empty,06:34 PM
 act_arr_time,299,empty,10:45 AM
-act_arr_time,300,02:52 PM,02:58 PM
+act_arr_time,300,02:52 PM,03:04 PM
 act_arr_time,301,empty,04:23 PM
 act_arr_time,302,05:49 AM,05:52 AM
 act_arr_time,303,11:56 PM,12:01 AM
@@ -3528,7 +3494,7 @@ act_arr_time,304,empty,11:49 PM
 act_arr_time,305,11:54 PM,11:35 PM
 act_arr_time,306,09:56 AM,10:04 AM
 act_arr_time,307,11:39 AM,11:44 AM
-act_arr_time,308,empty,05:22 PM
+act_arr_time,308,empty,05:42 PM
 act_arr_time,309,empty,09:13 AM
 act_arr_time,310,empty,03:29 PM
 act_arr_time,311,empty,04:59 PM
@@ -3552,17 +3518,18 @@ act_arr_time,329,empty,06:15 PM
 act_arr_time,330,empty,05:26 PM
 act_arr_time,331,empty,05:38 PM
 act_arr_time,332,empty,12:50 PM
-act_arr_time,333,07:40 AM,07:32 AM
 act_arr_time,334,empty,06:36 PM
 act_arr_time,335,empty,06:19 AM
 act_arr_time,336,10:49 AM,11:12 AM
 act_arr_time,337,empty,03:14 PM
 act_arr_time,339,empty,10:29 PM
 act_arr_time,340,09:14 AM,09:28 AM
+act_arr_time,341,11:30 AM,11:58 AM
 act_arr_time,342,09:29 AM,09:43 AM
 act_arr_time,344,05:14 PM,05:17 PM
 act_arr_time,345,empty,03:31 PM
 act_arr_time,346,04:54 PM,04:56 PM
+act_arr_time,347,11:11 AM,11:21 AM
 act_arr_time,348,12/2/11 6:35 AM,06:35 AM
 act_arr_time,349,07:04 AM,07:17 AM
 act_arr_time,350,empty,05:26 AM
@@ -3576,19 +3543,20 @@ act_arr_time,360,empty,11:32 AM
 act_arr_time,361,04:43 PM,04:47 PM
 act_arr_time,362,04:08 PM,04:09 PM
 act_arr_time,363,empty,01:14 PM
-act_arr_time,364,08:50 AM,09:00 AM
+act_arr_time,364,08:50 AM,09:05 AM
 act_arr_time,365,05:00 PM,05:05 PM
 act_arr_time,366,empty,10:27 AM
 act_arr_time,367,empty,10:56 AM
 act_arr_time,370,01:23 PM,01:30 PM
 act_arr_time,371,03:09 PM,03:21 PM
 act_arr_time,372,01:55 PM,02:10 PM
+act_arr_time,373,05:22 PM,05:42 PM
 act_arr_time,374,01:11 PM,01:15 PM
 act_arr_time,375,empty,08:03 PM
-act_arr_time,376,empty,08:56 PM
-act_arr_time,377,02:39 PM,02:36 PM
+act_arr_time,376,empty,09:38 PM
+act_arr_time,377,02:39 PM,02:46 PM
 act_arr_time,378,05:24 PM,05:34 PM
-act_arr_time,379,empty,03:33 PM
+act_arr_time,379,empty,03:25 PM
 act_arr_time,380,10:34 AM,10:36 AM
 act_arr_time,382,08:38 PM,08:53 PM
 act_arr_time,383,03:04 PM,03:16 PM
@@ -3600,9 +3568,9 @@ act_arr_time,389,07:43 PM,07:53 PM
 act_arr_time,390,10:43 AM,11:06 AM
 act_arr_time,391,06:28 PM,06:38 PM
 act_arr_time,392,07:23 PM,07:36 PM
-act_arr_time,393,09:47 PM,09:53 PM
 act_arr_time,394,empty,06:34 PM
 act_arr_time,395,10:43 AM,10:45 AM
+act_arr_time,396,02:58 PM,03:04 PM
 act_arr_time,397,04:20 PM,04:23 PM
 act_arr_time,399,empty,04:17 PM
 act_arr_time,401,12/2/11 12:01 AM,12:01 AM
@@ -3629,34 +3597,26 @@ act_arr_time,429,02:21 PM,02:27 PM
 act_arr_time,430,empty,05:26 PM
 act_arr_time,431,05:34 PM,05:38 PM
 act_arr_time,432,12:37 PM,12:50 PM
-act_arr_time,433,07:37 AM,07:32 AM
+act_arr_time,433,07:37 AM,07:40 AM
 act_arr_time,434,empty,06:36 PM
 act_arr_time,435,06:15 AM,06:19 AM
 act_arr_time,436,10:52 AM,11:12 AM
 act_arr_time,437,03:12 PM,03:14 PM
-act_arr_time,441,11:58 AM,11:30 AM
 act_arr_time,443,empty,10:31 PM
-act_arr_time,447,11:21 AM,11:11 AM
 act_arr_time,448,empty,06:35 AM
 act_arr_time,454,01:18 PM,01:11 PM
 act_arr_time,461,05:00 PM,04:47 PM
-act_arr_time,464,09:05 AM,09:00 AM
 act_arr_time,465,05:03 PM,05:05 PM
 act_arr_time,469,03:19 PM,03:13 PM
 act_arr_time,472,02:01 PM,02:10 PM
-act_arr_time,473,05:42 PM,05:22 PM
 act_arr_time,474,01:14 PM,01:15 PM
-act_arr_time,476,09:38 PM,08:56 PM
-act_arr_time,477,02:46 PM,02:36 PM
-act_arr_time,479,03:25 PM,03:33 PM
 act_arr_time,480,10:29 AM,10:36 AM
 act_arr_time,481,empty,07:25 PM
 act_arr_time,482,08:43 PM,08:53 PM
 act_arr_time,483,empty,12:02 AM
 act_arr_time,487,09:29 AM,09:26 AM
 act_arr_time,489,06:35 PM,06:38 PM
-act_arr_time,491,09:49 PM,09:53 PM
-act_arr_time,494,03:04 PM,02:58 PM
+act_arr_time,491,09:49 PM,09:47 PM
 act_arr_time,496,02:52 PM,02:50 PM
 act_arr_time,498,empty,05:52 AM
 act_arr_time,499,empty,12:01 AM
@@ -3674,31 +3634,28 @@ act_arr_time,525,07:57 AM,07:59 AM
 act_arr_time,527,06:09 PM,06:15 PM
 act_arr_time,531,06:17 PM,05:38 PM
 act_arr_time,532,12:48 PM,12:50 PM
+act_arr_time,533,07:32 AM,07:40 AM
 act_arr_time,538,09:32 AM,09:22 AM
-act_arr_time,541,11:58 AM,11:30 AM
 act_arr_time,543,10:30 PM (Estimated),10:31 PM
 act_arr_time,545,7:25 PM (Estimated runway),07:25 PM
 act_arr_time,548,6:35 AM (Estimated runway),06:35 AM
 act_arr_time,551,06:28 PM,06:25 PM
 act_arr_time,552,09:14 AM,09:09 AM
 act_arr_time,557,01:27 PM,01:11 PM
-act_arr_time,562,09:05 AM,09:00 AM
 act_arr_time,567,11:56 AM,11:50 AM
 act_arr_time,568,08:06 AM,07:59 AM
 act_arr_time,569,3:20 PM (runway),03:13 PM
-act_arr_time,570,07:40 AM,07:32 AM
-act_arr_time,574,9:52 PM (Estimated),08:56 PM
-act_arr_time,576,02:46 PM,02:36 PM
+act_arr_time,574,9:52 PM (Estimated),09:38 PM
+act_arr_time,578,03:33 PM,03:25 PM
 act_arr_time,583,12:21 AM (Estimated),12:02 AM
 act_arr_time,587,09:31 AM,09:26 AM
 act_arr_time,588,07:55 PM,07:53 PM
+act_arr_time,592,09:53 PM,09:47 PM
 act_arr_time,594,10:47 AM,10:45 AM
-act_arr_time,595,03:04 PM,02:58 PM
 act_arr_time,598,5:42 AM (Estimated runway),05:52 AM
 act_arr_time,599,12:01 AM (Estimated runway),12:01 AM
 act_arr_time,600,11:49 PM (Estimated runway),11:49 PM
 act_arr_time,601,11:35 PM (Estimated runway),11:35 PM
-act_arr_time,605,05:42 PM,05:22 PM
 act_arr_time,608,empty,05:21 AM
 act_arr_time,609,6:40 PM (Estimated),06:19 PM
 act_arr_time,610,02:00 PM,02:02 PM
@@ -3706,29 +3663,21 @@ act_arr_time,611,9:19 PM (Estimated),09:11 PM
 act_arr_time,612,04:44 PM,04:24 PM
 act_arr_time,614,03:43 PM,03:36 PM
 act_arr_time,616,11:06 AM,11:04 AM
-act_arr_time,633,11:58 AM,11:30 AM
 act_arr_time,635,empty,10:31 PM
-act_arr_time,639,11:21 AM,11:11 AM
 act_arr_time,640,empty,06:35 AM
 act_arr_time,646,01:18 PM,01:11 PM
 act_arr_time,653,05:00 PM,04:47 PM
-act_arr_time,656,09:05 AM,09:00 AM
 act_arr_time,657,05:03 PM,05:05 PM
 act_arr_time,661,03:19 PM,03:13 PM
 act_arr_time,664,02:01 PM,02:10 PM
-act_arr_time,665,05:42 PM,05:22 PM
 act_arr_time,666,01:14 PM,01:15 PM
-act_arr_time,668,09:38 PM,08:56 PM
-act_arr_time,669,02:46 PM,02:36 PM
-act_arr_time,671,03:25 PM,03:33 PM
 act_arr_time,672,10:29 AM,10:36 AM
 act_arr_time,673,empty,07:25 PM
 act_arr_time,674,08:43 PM,08:53 PM
 act_arr_time,675,empty,12:02 AM
 act_arr_time,679,09:29 AM,09:26 AM
 act_arr_time,681,06:35 PM,06:38 PM
-act_arr_time,683,09:49 PM,09:53 PM
-act_arr_time,686,03:04 PM,02:58 PM
+act_arr_time,683,09:49 PM,09:47 PM
 act_arr_time,688,02:52 PM,02:50 PM
 act_arr_time,690,empty,05:52 AM
 act_arr_time,691,empty,12:01 AM
@@ -3746,12 +3695,14 @@ act_arr_time,717,07:57 AM,07:59 AM
 act_arr_time,719,06:09 PM,06:15 PM
 act_arr_time,723,06:17 PM,05:38 PM
 act_arr_time,724,12:48 PM,12:50 PM
+act_arr_time,725,07:32 AM,07:40 AM
 act_arr_time,731,10:28 PM,10:31 PM
 act_arr_time,732,10:22 PM,10:29 PM
+act_arr_time,733,11:30 AM,11:58 AM
 act_arr_time,734,09:39 AM,09:43 AM
 act_arr_time,735,empty,07:25 PM
 act_arr_time,736,04:54 PM,04:56 PM
-act_arr_time,737,11:16 AM,11:11 AM
+act_arr_time,737,11:16 AM,11:21 AM
 act_arr_time,738,empty,06:35 AM
 act_arr_time,739,07:04 AM,07:17 AM
 act_arr_time,740,05:25 AM,05:26 AM
@@ -3760,14 +3711,15 @@ act_arr_time,743,07:37 PM,07:39 PM
 act_arr_time,744,01:19 PM,01:11 PM
 act_arr_time,745,04:08 PM,04:09 PM
 act_arr_time,746,01:06 PM,01:14 PM
-act_arr_time,747,08:50 AM,09:00 AM
+act_arr_time,747,08:50 AM,09:05 AM
 act_arr_time,748,10:58 AM,11:01 AM
 act_arr_time,752,03:07 PM,03:21 PM
 act_arr_time,753,01:55 PM,02:10 PM
+act_arr_time,754,05:22 PM,05:42 PM
 act_arr_time,755,02:21 PM,02:27 PM
-act_arr_time,756,02:39 PM,02:36 PM
+act_arr_time,756,02:39 PM,02:46 PM
 act_arr_time,757,empty,05:34 PM
-act_arr_time,758,03:26 PM,03:33 PM
+act_arr_time,758,03:26 PM,03:25 PM
 act_arr_time,759,10:34 AM,10:36 AM
 act_arr_time,760,08:38 PM,08:53 PM
 act_arr_time,761,03:04 PM,03:16 PM
@@ -3776,7 +3728,6 @@ act_arr_time,763,07:49 AM,07:51 AM
 act_arr_time,765,07:43 PM,07:53 PM
 act_arr_time,766,10:43 AM,11:06 AM
 act_arr_time,767,07:23 PM,07:36 PM
-act_arr_time,768,09:47 PM,09:53 PM
 act_arr_time,769,01:36 PM,01:40 PM
 act_arr_time,770,04:20 PM,04:23 PM
 act_arr_time,771,04:05 PM,04:17 PM
@@ -3795,47 +3746,44 @@ act_arr_time,786,01:42 PM,01:43 PM
 act_arr_time,787,02:49 PM,03:13 PM
 act_arr_time,788,03:12 PM,03:14 PM
 act_arr_time,789,12:37 PM,12:50 PM
-act_arr_time,790,07:37 AM,07:32 AM
+act_arr_time,790,07:37 AM,07:40 AM
 act_arr_time,791,06:13 AM,06:19 AM
 act_arr_time,792,10:52 AM,11:12 AM
-act_arr_time,793,2:46P,02:36 PM
+act_arr_time,793,2:46P,02:46 PM
 act_arr_time,794,10:08A,10:04 AM
 act_arr_time,795,7:39P,07:39 PM
-act_arr_time,796,9:04A,09:00 AM
+act_arr_time,796,9:04A,09:05 AM
 act_arr_time,797,11:06A,11:06 AM
 act_arr_time,798,empty,03:21 PM
 act_arr_time,799,empty,03:13 PM
 act_arr_time,800,empty,11:35 PM
 act_arr_time,801,empty,04:09 PM
-act_arr_time,802,empty,02:58 PM
+act_arr_time,802,empty,03:04 PM
 act_arr_time,803,empty,07:39 PM
 act_arr_time,804,Thu  22:25,10:29 PM
 act_arr_time,805,Thu  17:40,05:43 PM
 act_arr_time,806,Thu  19:33,07:25 PM
-act_arr_time,807,Thu  7:31,07:32 AM
+act_arr_time,807,Thu  7:31,07:40 AM
 act_arr_time,808,Thu  6:50,06:35 AM
-act_arr_time,809,empty,09:53 PM
+act_arr_time,809,empty,09:47 PM
 act_arr_time,810,Thu  10:28,10:36 AM
 act_arr_time,811,empty,12:09 PM
 act_arr_time,812,09:32 AM,09:22 AM
-act_arr_time,815,11:58 AM,11:30 AM
 act_arr_time,817,empty,10:31 PM
-act_arr_time,821,11:21 AM,11:11 AM
 act_arr_time,822,empty,06:35 AM
 act_arr_time,825,06:28 PM,06:25 PM
 act_arr_time,826,09:14 AM,09:09 AM
 act_arr_time,828,01:27 PM,01:11 PM
-act_arr_time,838,09:05 AM,09:00 AM
 act_arr_time,842,11:56 AM,11:50 AM
 act_arr_time,843,3:20 PM (Runway),03:13 PM
-act_arr_time,847,05:42 PM,05:22 PM
-act_arr_time,851,02:46 PM,02:36 PM
+act_arr_time,850,08:56 PM,09:38 PM
+act_arr_time,853,03:33 PM,03:25 PM
 act_arr_time,855,empty,07:25 PM
 act_arr_time,857,empty,12:02 AM
 act_arr_time,861,09:31 AM,09:26 AM
 act_arr_time,862,07:55 PM,07:53 PM
+act_arr_time,865,09:53 PM,09:47 PM
 act_arr_time,867,10:47 AM,10:45 AM
-act_arr_time,868,03:04 PM,02:58 PM
 act_arr_time,872,empty,05:52 AM
 act_arr_time,873,empty,12:01 AM
 act_arr_time,874,empty,11:49 PM
@@ -3850,7 +3798,6 @@ act_arr_time,889,11:45 AM,12:12 PM
 act_arr_time,890,03:43 PM,03:36 PM
 act_arr_time,892,11:06 AM,11:04 AM
 act_arr_time,899,08:06 AM,07:59 AM
-act_arr_time,907,07:40 AM,07:32 AM
 act_arr_time,913,07:35 PM,07:25 PM
 act_arr_time,914,empty,09:43 AM
 act_arr_time,915,02:01 PM,02:10 PM
@@ -3859,24 +3806,25 @@ act_arr_time,917,empty,05:26 AM
 act_arr_time,919,empty,01:19 PM
 act_arr_time,920,empty,09:45 AM
 act_arr_time,921,empty,07:10 PM
+act_arr_time,922,09:00 AM,09:05 AM
 act_arr_time,924,03:19 PM,03:13 PM
-act_arr_time,925,07:40 AM,07:32 AM
 act_arr_time,926,03:20 PM,03:21 PM
 act_arr_time,927,05:09 PM,05:26 PM
 act_arr_time,929,02:17 PM,02:27 PM
+act_arr_time,930,02:36 PM,02:46 PM
 act_arr_time,932,03:10 PM,03:16 PM
 act_arr_time,933,12:21 AM (Estimated),12:02 AM
 act_arr_time,934,empty,12:09 PM
 act_arr_time,935,06:36 PM,06:38 PM
 act_arr_time,936,07:26 PM,07:36 PM
-act_arr_time,937,empty,09:53 PM
+act_arr_time,937,empty,09:47 PM
 act_arr_time,938,empty,06:34 PM
-act_arr_time,940,02:52 PM,02:58 PM
+act_arr_time,940,02:52 PM,03:04 PM
 act_arr_time,941,04:18 PM,04:23 PM
 act_arr_time,943,12:01 AM (Estimated runway),12:01 AM
 act_arr_time,944,11:35 PM (Estimated runway),11:35 PM
 act_arr_time,945,11:40 AM,11:44 AM
-act_arr_time,946,05:28 PM,05:22 PM
+act_arr_time,946,05:28 PM,05:42 PM
 act_arr_time,947,empty,09:13 AM
 act_arr_time,948,empty,05:21 AM
 act_arr_time,949,empty,06:19 PM
@@ -3905,38 +3853,34 @@ act_arr_time,977,04:20 PM,04:23 PM
 act_arr_time,978,02:49 PM,03:13 PM
 act_arr_time,981,07:43 PM,08:03 PM
 act_arr_time,982,06:11 PM,06:15 PM
-act_arr_time,983,08:46 PM,08:56 PM
+act_arr_time,983,08:46 PM,09:38 PM
 act_arr_time,984,10:29 AM,10:36 AM
-act_arr_time,985,03:26 PM,03:33 PM
+act_arr_time,985,03:26 PM,03:25 PM
 act_arr_time,986,06:09 AM,06:19 AM
 act_arr_time,987,10:52 AM,11:12 AM
 act_arr_time,988,08:38 PM,08:53 PM
 act_arr_time,989,06:30 PM,06:43 PM
 act_arr_time,990,09:32 AM,09:22 AM
-act_arr_time,992,11:58 AM,11:30 AM
 act_arr_time,994,10:30 PM*,10:31 PM
 act_arr_time,995,Not Available,07:25 PM
 act_arr_time,997,Contact Airline,05:17 PM
 act_arr_time,999,Dec 02 Not Available,06:35 AM
 act_arr_time,1002,Contact Airline,06:25 PM
-act_arr_time,1008,09:05 AM,09:00 AM
 act_arr_time,1009,Contact Airline,05:05 PM
 act_arr_time,1014,11:56 AM,11:50 AM
 act_arr_time,1015,08:06 AM,07:59 AM
 act_arr_time,1016,03:30 PM,03:13 PM
 act_arr_time,1017,01:27 PM,01:11 PM
 act_arr_time,1019,Contact Airline,01:15 PM
-act_arr_time,1022,02:46 PM,02:36 PM
 act_arr_time,1026,Dec 02 Contact Airline,12:02 AM
 act_arr_time,1030,09:31 AM,09:26 AM
 act_arr_time,1031,Contact Airline,06:38 PM
+act_arr_time,1032,09:53 PM,09:47 PM
 act_arr_time,1033,Contact Airline,10:45 AM
-act_arr_time,1034,03:04 PM,02:58 PM
 act_arr_time,1036,Dec 02 Not Available,05:52 AM
 act_arr_time,1037,Not Available,12:01 AM
 act_arr_time,1038,Dec 02 Not Available,11:49 PM
 act_arr_time,1039,Not Available,11:35 PM
-act_arr_time,1042,05:42 PM,05:22 PM
 act_arr_time,1044,Not Available,03:29 PM
 act_arr_time,1048,Contact Airline,02:02 PM
 act_arr_time,1049,9:19 PM*,09:11 PM
@@ -3947,30 +3891,21 @@ act_arr_time,1054,11:06 AM,11:04 AM
 act_arr_time,1055,Contact Airline,04:47 PM
 act_arr_time,1057,Contact Airline,12:09 PM
 act_arr_time,1064,Contact Airline,05:38 PM
-act_arr_time,1067,07:40 AM,07:32 AM
-act_arr_time,1074,11:58 AM,11:30 AM
 act_arr_time,1076,empty,10:31 PM
-act_arr_time,1080,11:21 AM,11:11 AM
 act_arr_time,1081,empty,06:35 AM
 act_arr_time,1087,01:18 PM,01:11 PM
 act_arr_time,1094,05:00 PM,04:47 PM
-act_arr_time,1097,09:05 AM,09:00 AM
 act_arr_time,1098,05:03 PM,05:05 PM
 act_arr_time,1102,03:19 PM,03:13 PM
 act_arr_time,1105,02:01 PM,02:10 PM
-act_arr_time,1106,05:42 PM,05:22 PM
 act_arr_time,1107,01:14 PM,01:15 PM
-act_arr_time,1109,09:38 PM,08:56 PM
-act_arr_time,1110,02:46 PM,02:36 PM
-act_arr_time,1112,03:25 PM,03:33 PM
 act_arr_time,1113,10:29 AM,10:36 AM
 act_arr_time,1114,empty,07:25 PM
 act_arr_time,1115,08:43 PM,08:53 PM
 act_arr_time,1116,empty,12:02 AM
 act_arr_time,1120,09:29 AM,09:26 AM
 act_arr_time,1122,06:35 PM,06:38 PM
-act_arr_time,1124,09:49 PM,09:53 PM
-act_arr_time,1127,03:04 PM,02:58 PM
+act_arr_time,1124,09:49 PM,09:47 PM
 act_arr_time,1129,02:52 PM,02:50 PM
 act_arr_time,1131,empty,05:52 AM
 act_arr_time,1132,empty,12:01 AM
@@ -3988,6 +3923,7 @@ act_arr_time,1158,07:57 AM,07:59 AM
 act_arr_time,1160,06:09 PM,06:15 PM
 act_arr_time,1164,06:17 PM,05:38 PM
 act_arr_time,1165,12:48 PM,12:50 PM
+act_arr_time,1166,07:32 AM,07:40 AM
 act_arr_time,1171,empty,09:22 AM
 act_arr_time,1172,09:09 AM,09:28 AM
 act_arr_time,1173,10:23 PM,10:29 PM
@@ -3997,22 +3933,23 @@ act_arr_time,1176,07:10 AM,07:17 AM
 act_arr_time,1177,09:54 AM,09:56 AM
 act_arr_time,1179,empty,07:39 PM
 act_arr_time,1180,07:55 PM,08:03 PM
+act_arr_time,1181,09:00 AM,09:05 AM
 act_arr_time,1182,empty,05:05 PM
 act_arr_time,1183,empty,01:40 PM
-act_arr_time,1185,07:40 AM,07:32 AM
 act_arr_time,1186,02:52 PM,02:50 PM
 act_arr_time,1187,03:20 PM,03:21 PM
 act_arr_time,1188,01:14 PM,01:15 PM
+act_arr_time,1189,02:36 PM,02:46 PM
 act_arr_time,1190,empty,05:34 PM
+act_arr_time,1191,03:33 PM,03:25 PM
 act_arr_time,1192,empty,08:53 PM
 act_arr_time,1193,Not Available,12:02 AM
 act_arr_time,1194,07:53 PM,07:58 PM
-act_arr_time,1196,09:49 PM,09:53 PM
+act_arr_time,1196,09:49 PM,09:47 PM
 act_arr_time,1197,empty,06:34 PM
-act_arr_time,1198,03:04 PM,02:58 PM
 act_arr_time,1199,empty,04:23 PM
 act_arr_time,1200,5:42 AM (Estimated runway),05:52 AM
-act_arr_time,1201,05:28 PM,05:22 PM
+act_arr_time,1201,05:28 PM,05:42 PM
 act_arr_time,1203,04:55 PM,04:59 PM
 act_arr_time,1204,08:41 AM,08:45 AM
 act_arr_time,1205,empty,05:21 AM
@@ -4032,10 +3969,12 @@ act_arr_time,1222,empty,06:19 AM
 act_arr_time,1223,10:49 AM,11:12 AM
 act_arr_time,1225,empty,10:29 PM
 act_arr_time,1226,09:14 AM,09:28 AM
+act_arr_time,1227,11:30 AM,11:58 AM
 act_arr_time,1228,09:29 AM,09:43 AM
 act_arr_time,1230,05:14 PM,05:17 PM
 act_arr_time,1231,empty,03:31 PM
 act_arr_time,1232,04:54 PM,04:56 PM
+act_arr_time,1233,11:11 AM,11:21 AM
 act_arr_time,1234,12/2/11 6:35 AM,06:35 AM
 act_arr_time,1235,07:04 AM,07:17 AM
 act_arr_time,1236,empty,05:26 AM
@@ -4049,19 +3988,20 @@ act_arr_time,1246,empty,11:32 AM
 act_arr_time,1247,04:43 PM,04:47 PM
 act_arr_time,1248,04:08 PM,04:09 PM
 act_arr_time,1249,empty,01:14 PM
-act_arr_time,1250,08:50 AM,09:00 AM
+act_arr_time,1250,08:50 AM,09:05 AM
 act_arr_time,1251,05:00 PM,05:05 PM
 act_arr_time,1252,empty,10:27 AM
 act_arr_time,1253,empty,10:56 AM
 act_arr_time,1256,01:23 PM,01:30 PM
 act_arr_time,1257,03:09 PM,03:21 PM
 act_arr_time,1258,01:55 PM,02:10 PM
+act_arr_time,1259,05:22 PM,05:42 PM
 act_arr_time,1260,01:11 PM,01:15 PM
 act_arr_time,1261,empty,08:03 PM
-act_arr_time,1262,empty,08:56 PM
-act_arr_time,1263,02:39 PM,02:36 PM
+act_arr_time,1262,empty,09:38 PM
+act_arr_time,1263,02:39 PM,02:46 PM
 act_arr_time,1264,05:24 PM,05:34 PM
-act_arr_time,1265,empty,03:33 PM
+act_arr_time,1265,empty,03:25 PM
 act_arr_time,1266,10:34 AM,10:36 AM
 act_arr_time,1268,08:38 PM,08:53 PM
 act_arr_time,1269,03:04 PM,03:16 PM
@@ -4073,9 +4013,9 @@ act_arr_time,1275,07:43 PM,07:53 PM
 act_arr_time,1276,10:43 AM,11:06 AM
 act_arr_time,1277,06:28 PM,06:38 PM
 act_arr_time,1278,07:23 PM,07:36 PM
-act_arr_time,1279,09:47 PM,09:53 PM
 act_arr_time,1280,empty,06:34 PM
 act_arr_time,1281,10:43 AM,10:45 AM
+act_arr_time,1282,02:58 PM,03:04 PM
 act_arr_time,1283,04:20 PM,04:23 PM
 act_arr_time,1285,empty,04:17 PM
 act_arr_time,1287,12/2/11 12:01 AM,12:01 AM
@@ -4102,7 +4042,7 @@ act_arr_time,1315,02:21 PM,02:27 PM
 act_arr_time,1316,empty,05:26 PM
 act_arr_time,1317,05:34 PM,05:38 PM
 act_arr_time,1318,12:37 PM,12:50 PM
-act_arr_time,1319,07:37 AM,07:32 AM
+act_arr_time,1319,07:37 AM,07:40 AM
 act_arr_time,1320,empty,06:36 PM
 act_arr_time,1321,06:15 AM,06:19 AM
 act_arr_time,1322,10:52 AM,11:12 AM
@@ -4110,10 +4050,10 @@ act_arr_time,1323,03:12 PM,03:14 PM
 act_arr_time,1324,9:32aDec 1,09:22 AM
 act_arr_time,1325,10:02 PM,10:29 PM
 act_arr_time,1326,9:28aDec 1,09:28 AM
-act_arr_time,1327,11:58aDec 1,11:30 AM
+act_arr_time,1327,11:58aDec 1,11:58 AM
 act_arr_time,1328,empty,09:43 AM
 act_arr_time,1329,empty,10:31 PM
-act_arr_time,1333,empty,11:11 AM
+act_arr_time,1333,empty,11:21 AM
 act_arr_time,1334,empty,06:35 AM
 act_arr_time,1335,7:17aDec 1,07:17 AM
 act_arr_time,1336,5:26aDec 1,05:26 AM
@@ -4123,23 +4063,22 @@ act_arr_time,1340,01:27 PM,01:11 PM
 act_arr_time,1341,9:56aDec 1,09:56 AM
 act_arr_time,1342,9:45aDec 1,09:45 AM
 act_arr_time,1346,11:32aDec 1,11:32 AM
-act_arr_time,1350,9:05aDec 1,09:00 AM
+act_arr_time,1350,9:05aDec 1,09:05 AM
 act_arr_time,1352,10:27aDec 1,10:27 AM
 act_arr_time,1353,10:56aDec 1,10:56 AM
 act_arr_time,1354,11:56aDec 1,11:50 AM
 act_arr_time,1355,03:30 PM,03:13 PM
 act_arr_time,1357,empty,03:21 PM
-act_arr_time,1359,05:42 PM,05:22 PM
-act_arr_time,1362,empty,08:56 PM
-act_arr_time,1363,02:46 PM,02:36 PM
+act_arr_time,1362,empty,09:38 PM
+act_arr_time,1365,03:33 PM,03:25 PM
 act_arr_time,1366,10:36aDec 1,10:36 AM
 act_arr_time,1367,empty,07:25 PM
 act_arr_time,1369,empty,12:02 AM
 act_arr_time,1372,7:51aDec 1,07:51 AM
 act_arr_time,1373,9:31aDec 1,09:26 AM
 act_arr_time,1374,07:55 PM,07:53 PM
+act_arr_time,1377,09:53 PM,09:47 PM
 act_arr_time,1379,10:47aDec 1,10:45 AM
-act_arr_time,1380,03:04 PM,02:58 PM
 act_arr_time,1384,empty,05:52 AM
 act_arr_time,1385,empty,12:01 AM
 act_arr_time,1386,empty,11:49 PM
@@ -4161,7 +4100,7 @@ act_arr_time,1405,11:01aDec 1,11:01 AM
 act_arr_time,1408,10:16aDec 1,10:16 AM
 act_arr_time,1410,8:06aDec 1,07:59 AM
 act_arr_time,1414,11:06aDec 1,11:06 AM
-act_arr_time,1418,7:40aDec 1,07:32 AM
+act_arr_time,1418,7:40aDec 1,07:40 AM
 act_arr_time,1420,6:19aDec 1,06:19 AM
 act_arr_time,1421,11:12aDec 1,11:12 AM
 act_arr_time,1423,empty,04:09 PM
@@ -4170,29 +4109,30 @@ act_arr_time,1425,empty,03:36 PM
 act_arr_time,1426,empty,04:23 PM
 act_arr_time,1428,09:14 AM,09:09 AM
 act_arr_time,1431,12:21 AM,12:02 AM
-act_arr_time,1441,09:52 PM,08:56 PM
+act_arr_time,1441,09:52 PM,09:38 PM
 act_arr_time,1442,06:40 PM,06:19 PM
 act_arr_time,1447,03:43 PM,03:36 PM
 act_arr_time,1460,12:01 AM (Estimated runway),12:01 AM
 act_arr_time,1461,08:06 AM,07:59 AM
 act_arr_time,1462,11:49 PM (Estimated runway),11:49 PM
 act_arr_time,1465,10:30 PM (Estimated),10:31 PM
-act_arr_time,1472,02:46 PM,02:36 PM
 act_arr_time,1474,9:19 PM (Estimated),09:11 PM
 act_arr_time,1478,01:27 PM,01:11 PM
 act_arr_time,1480,12:21 AM (Estimated),12:02 AM
-act_arr_time,1482,empty,11:30 AM
+act_arr_time,1482,empty,11:58 AM
 act_arr_time,1483,empty,06:43 PM
 act_arr_time,1484,empty,11:44 AM
 act_arr_time,1485,empty,11:12 AM
-act_arr_time,1486,empty,05:22 PM
+act_arr_time,1486,empty,05:42 PM
 act_arr_time,1487,empty,07:17 AM
 act_arr_time,1489,empty,10:29 PM
 act_arr_time,1490,09:14 AM,09:28 AM
+act_arr_time,1491,11:30 AM,11:58 AM
 act_arr_time,1492,09:29 AM,09:43 AM
 act_arr_time,1494,05:14 PM,05:17 PM
 act_arr_time,1495,empty,03:31 PM
 act_arr_time,1496,04:54 PM,04:56 PM
+act_arr_time,1497,11:11 AM,11:21 AM
 act_arr_time,1498,12/2/11 6:35 AM,06:35 AM
 act_arr_time,1499,07:04 AM,07:17 AM
 act_arr_time,1500,empty,05:26 AM
@@ -4206,19 +4146,20 @@ act_arr_time,1510,empty,11:32 AM
 act_arr_time,1511,04:43 PM,04:47 PM
 act_arr_time,1512,04:08 PM,04:09 PM
 act_arr_time,1513,empty,01:14 PM
-act_arr_time,1514,08:50 AM,09:00 AM
+act_arr_time,1514,08:50 AM,09:05 AM
 act_arr_time,1515,05:00 PM,05:05 PM
 act_arr_time,1516,empty,10:27 AM
 act_arr_time,1517,empty,10:56 AM
 act_arr_time,1520,01:23 PM,01:30 PM
 act_arr_time,1521,03:09 PM,03:21 PM
 act_arr_time,1522,01:55 PM,02:10 PM
+act_arr_time,1523,05:22 PM,05:42 PM
 act_arr_time,1524,01:11 PM,01:15 PM
 act_arr_time,1525,empty,08:03 PM
-act_arr_time,1526,empty,08:56 PM
-act_arr_time,1527,02:39 PM,02:36 PM
+act_arr_time,1526,empty,09:38 PM
+act_arr_time,1527,02:39 PM,02:46 PM
 act_arr_time,1528,05:24 PM,05:34 PM
-act_arr_time,1529,empty,03:33 PM
+act_arr_time,1529,empty,03:25 PM
 act_arr_time,1530,10:34 AM,10:36 AM
 act_arr_time,1532,08:38 PM,08:53 PM
 act_arr_time,1533,03:04 PM,03:16 PM
@@ -4230,9 +4171,9 @@ act_arr_time,1539,07:43 PM,07:53 PM
 act_arr_time,1540,10:43 AM,11:06 AM
 act_arr_time,1541,06:28 PM,06:38 PM
 act_arr_time,1542,07:23 PM,07:36 PM
-act_arr_time,1543,09:47 PM,09:53 PM
 act_arr_time,1544,empty,06:34 PM
 act_arr_time,1545,10:43 AM,10:45 AM
+act_arr_time,1546,02:58 PM,03:04 PM
 act_arr_time,1547,04:20 PM,04:23 PM
 act_arr_time,1549,empty,04:17 PM
 act_arr_time,1551,12/2/11 12:01 AM,12:01 AM
@@ -4259,7 +4200,7 @@ act_arr_time,1579,02:21 PM,02:27 PM
 act_arr_time,1580,empty,05:26 PM
 act_arr_time,1581,05:34 PM,05:38 PM
 act_arr_time,1582,12:37 PM,12:50 PM
-act_arr_time,1583,07:37 AM,07:32 AM
+act_arr_time,1583,07:37 AM,07:40 AM
 act_arr_time,1584,empty,06:36 PM
 act_arr_time,1585,06:15 AM,06:19 AM
 act_arr_time,1586,10:52 AM,11:12 AM
@@ -4269,40 +4210,40 @@ act_arr_time,1589,10:02 PM,10:29 PM
 act_arr_time,1590,empty,09:43 AM
 act_arr_time,1591,empty,07:25 PM
 act_arr_time,1592,Contact Airline,05:17 PM
-act_arr_time,1593,empty,11:11 AM
+act_arr_time,1593,empty,11:21 AM
 act_arr_time,1594,empty,06:35 AM
 act_arr_time,1595,5:26aDec 1,05:26 AM
 act_arr_time,1596,06:28 PM,06:25 PM
 act_arr_time,1598,9:45aDec 1,09:45 AM
-act_arr_time,1601,9:05aDec 1,09:00 AM
+act_arr_time,1601,9:05aDec 1,09:05 AM
 act_arr_time,1603,11:56 AM,11:50 AM
 act_arr_time,1604,8:06aDec 1,07:59 AM
 act_arr_time,1605,empty,03:21 PM
 act_arr_time,1606,01:27 PM,01:11 PM
-act_arr_time,1609,empty,08:56 PM
+act_arr_time,1609,empty,09:38 PM
 act_arr_time,1611,7:51aDec 1,07:51 AM
 act_arr_time,1612,9:31aDec 1,09:26 AM
 act_arr_time,1613,07:55 PM,07:53 PM
 act_arr_time,1614,11:06aDec 1,11:06 AM
+act_arr_time,1615,09:53 PM,09:47 PM
 act_arr_time,1616,10:47aDec 1,10:45 AM
 act_arr_time,1618,empty,12:01 AM
 act_arr_time,1619,Dec 02 Not Available,11:49 PM
 act_arr_time,1620,empty,11:35 PM
 act_arr_time,1621,10:04aDec 1,10:04 AM
 act_arr_time,1622,11:44aDec 1,11:44 AM
-act_arr_time,1623,05:42 PM,05:22 PM
 act_arr_time,1624,Not Available,03:29 PM
 act_arr_time,1626,empty,05:21 AM
 act_arr_time,1627,empty,09:11 PM
 act_arr_time,1632,11:12aDec 1,11:12 AM
 act_arr_time,1633,10:16aDec 1,10:16 AM
-act_arr_time,1637,7:40aDec 1,07:32 AM
+act_arr_time,1637,7:40aDec 1,07:40 AM
 act_arr_time,1638,empty,09:22 AM
 act_arr_time,1639,empty,07:51 AM
 act_arr_time,1640,empty,09:26 AM
 act_arr_time,1641,empty,03:36 PM
 act_arr_time,1642,empty,11:04 AM
-act_arr_time,1643,empty,09:53 PM
+act_arr_time,1643,empty,09:47 PM
 act_arr_time,1644,empty,07:36 PM
 act_arr_time,1645,empty,03:13 PM
 act_arr_time,1646,empty,08:53 PM
@@ -4316,10 +4257,10 @@ act_arr_time,1653,empty,02:10 PM
 act_arr_time,1654,empty,10:31 PM
 act_arr_time,1655,empty,12:50 PM
 act_arr_time,1656,empty,05:21 AM
-act_arr_time,1657,empty,02:36 PM
+act_arr_time,1657,empty,02:46 PM
 act_arr_time,1658,empty,05:34 PM
 act_arr_time,1659,empty,10:16 AM
-act_arr_time,1660,empty,03:33 PM
+act_arr_time,1660,empty,03:25 PM
 act_arr_time,1661,empty,07:58 PM
 act_arr_time,1663,09:14 AM,09:28 AM
 act_arr_time,1664,10:24 PM,10:29 PM
@@ -4332,20 +4273,20 @@ act_arr_time,1670,09:29 AM,09:45 AM
 act_arr_time,1671,07:37 PM,07:39 PM
 act_arr_time,1673,03:59 PM,04:09 PM
 act_arr_time,1674,01:07 PM,01:14 PM
-act_arr_time,1675,08:50 AM,09:00 AM
+act_arr_time,1675,08:50 AM,09:05 AM
 act_arr_time,1676,04:57 PM,05:05 PM
 act_arr_time,1677,10:58 AM,11:01 AM
-act_arr_time,1681,07:35 AM,07:32 AM
+act_arr_time,1681,07:35 AM,07:40 AM
 act_arr_time,1682,02:40 PM,02:50 PM
 act_arr_time,1683,03:07 PM,03:21 PM
-act_arr_time,1684,05:27 PM,05:22 PM
+act_arr_time,1684,05:27 PM,05:42 PM
 act_arr_time,1685,01:08 PM,01:15 PM
 act_arr_time,1686,07:43 PM,08:03 PM
 act_arr_time,1687,10:43 AM,11:06 AM
-act_arr_time,1688,08:46 PM,08:56 PM
+act_arr_time,1688,08:46 PM,09:38 PM
 act_arr_time,1689,02:21 PM,02:27 PM
-act_arr_time,1690,02:39 PM,02:36 PM
-act_arr_time,1691,03:26 PM,03:33 PM
+act_arr_time,1690,02:39 PM,02:46 PM
+act_arr_time,1691,03:26 PM,03:25 PM
 act_arr_time,1692,10:29 AM,10:36 AM
 act_arr_time,1694,08:38 PM,08:53 PM
 act_arr_time,1695,03:04 PM,03:16 PM
@@ -4353,7 +4294,7 @@ act_arr_time,1697,12:02 PM,12:09 PM
 act_arr_time,1698,07:49 AM,07:51 AM
 act_arr_time,1700,07:43 PM,07:53 PM
 act_arr_time,1701,06:34 PM,06:38 PM
-act_arr_time,1702,09:47 PM,09:53 PM
+act_arr_time,1703,02:58 PM,03:04 PM
 act_arr_time,1704,04:20 PM,04:23 PM
 act_arr_time,1705,04:06 PM,04:17 PM
 act_arr_time,1706,12:19 AM,12:01 AM
@@ -4373,8 +4314,6 @@ act_arr_time,1724,12:37 PM,12:50 PM
 act_arr_time,1725,06:33 PM,06:36 PM
 act_arr_time,1726,06:09 AM,06:19 AM
 act_arr_time,1727,10:52 AM,11:12 AM
-act_arr_time,1728,11:58 AM,11:30 AM
-act_arr_time,1731,11:21 AM,11:11 AM
 act_arr_time,1732,06:28 PM,06:25 PM
 act_arr_time,1742,10:47 AM,10:45 AM
 act_arr_time,1745,Fri Dec 2 12:29 AM,12:01 AM
@@ -4382,26 +4321,22 @@ act_arr_time,1748,Fri Dec 2 5:11 AM,05:21 AM
 act_arr_time,1750,02:00 PM,02:02 PM
 act_arr_time,1751,04:44 PM,04:24 PM
 act_arr_time,1753,11:56 AM,12:12 PM
-act_arr_time,1758,05:42 PM,05:22 PM
 act_arr_time,1759,09:32 AM,09:22 AM
-act_arr_time,1762,11:58 AM,11:30 AM
 act_arr_time,1764,empty,10:31 PM
-act_arr_time,1768,11:21 AM,11:11 AM
 act_arr_time,1769,empty,06:35 AM
 act_arr_time,1772,06:28 PM,06:25 PM
 act_arr_time,1773,09:14 AM,09:09 AM
 act_arr_time,1775,01:27 PM,01:11 PM
-act_arr_time,1785,09:05 AM,09:00 AM
 act_arr_time,1789,11:56 AM,11:50 AM
 act_arr_time,1790,3:20 PM (Runway),03:13 PM
-act_arr_time,1794,05:42 PM,05:22 PM
-act_arr_time,1798,02:46 PM,02:36 PM
+act_arr_time,1797,08:56 PM,09:38 PM
+act_arr_time,1800,03:33 PM,03:25 PM
 act_arr_time,1802,empty,07:25 PM
 act_arr_time,1804,empty,12:02 AM
 act_arr_time,1808,09:31 AM,09:26 AM
 act_arr_time,1809,07:55 PM,07:53 PM
+act_arr_time,1812,09:53 PM,09:47 PM
 act_arr_time,1814,10:47 AM,10:45 AM
-act_arr_time,1815,03:04 PM,02:58 PM
 act_arr_time,1819,empty,05:52 AM
 act_arr_time,1820,empty,12:01 AM
 act_arr_time,1821,empty,11:49 PM
@@ -4416,32 +4351,27 @@ act_arr_time,1836,11:45 AM,12:12 PM
 act_arr_time,1837,03:43 PM,03:36 PM
 act_arr_time,1839,11:06 AM,11:04 AM
 act_arr_time,1846,08:06 AM,07:59 AM
-act_arr_time,1854,07:40 AM,07:32 AM
 act_arr_time,1859,09:32 AM,09:22 AM
-act_arr_time,1862,11:58 AM,11:30 AM
 act_arr_time,1864,10:30 PM (Estimated),10:31 PM
 act_arr_time,1866,7:25 PM (Estimated runway),07:25 PM
 act_arr_time,1869,6:35 AM (Estimated runway),06:35 AM
 act_arr_time,1872,06:28 PM,06:25 PM
 act_arr_time,1873,09:14 AM,09:09 AM
 act_arr_time,1878,01:27 PM,01:11 PM
-act_arr_time,1883,09:05 AM,09:00 AM
 act_arr_time,1888,11:56 AM,11:50 AM
 act_arr_time,1889,08:06 AM,07:59 AM
 act_arr_time,1890,3:20 PM (runway),03:13 PM
-act_arr_time,1891,07:40 AM,07:32 AM
-act_arr_time,1895,9:52 PM (Estimated),08:56 PM
-act_arr_time,1897,02:46 PM,02:36 PM
+act_arr_time,1895,9:52 PM (Estimated),09:38 PM
+act_arr_time,1899,03:33 PM,03:25 PM
 act_arr_time,1904,12:21 AM (Estimated),12:02 AM
 act_arr_time,1908,09:31 AM,09:26 AM
 act_arr_time,1909,07:55 PM,07:53 PM
+act_arr_time,1913,09:53 PM,09:47 PM
 act_arr_time,1915,10:47 AM,10:45 AM
-act_arr_time,1916,03:04 PM,02:58 PM
 act_arr_time,1919,5:42 AM (Estimated runway),05:52 AM
 act_arr_time,1920,12:01 AM (Estimated runway),12:01 AM
 act_arr_time,1921,11:49 PM (Estimated runway),11:49 PM
 act_arr_time,1922,11:35 PM (Estimated runway),11:35 PM
-act_arr_time,1926,05:42 PM,05:22 PM
 act_arr_time,1929,empty,05:21 AM
 act_arr_time,1930,6:40 PM (Estimated),06:19 PM
 act_arr_time,1931,02:00 PM,02:02 PM
@@ -4449,29 +4379,21 @@ act_arr_time,1932,9:19 PM (Estimated),09:11 PM
 act_arr_time,1933,04:44 PM,04:24 PM
 act_arr_time,1935,03:43 PM,03:36 PM
 act_arr_time,1937,11:06 AM,11:04 AM
-act_arr_time,1954,11:58 AM,11:30 AM
 act_arr_time,1956,empty,10:31 PM
-act_arr_time,1960,11:21 AM,11:11 AM
 act_arr_time,1961,empty,06:35 AM
 act_arr_time,1967,01:18 PM,01:11 PM
 act_arr_time,1974,05:00 PM,04:47 PM
-act_arr_time,1977,09:05 AM,09:00 AM
 act_arr_time,1978,05:03 PM,05:05 PM
 act_arr_time,1982,03:19 PM,03:13 PM
 act_arr_time,1985,02:01 PM,02:10 PM
-act_arr_time,1986,05:42 PM,05:22 PM
 act_arr_time,1987,01:14 PM,01:15 PM
-act_arr_time,1989,09:38 PM,08:56 PM
-act_arr_time,1990,02:46 PM,02:36 PM
-act_arr_time,1992,03:25 PM,03:33 PM
 act_arr_time,1993,10:29 AM,10:36 AM
 act_arr_time,1994,empty,07:25 PM
 act_arr_time,1995,08:43 PM,08:53 PM
 act_arr_time,1996,empty,12:02 AM
 act_arr_time,2000,09:29 AM,09:26 AM
 act_arr_time,2002,06:35 PM,06:38 PM
-act_arr_time,2004,09:49 PM,09:53 PM
-act_arr_time,2007,03:04 PM,02:58 PM
+act_arr_time,2004,09:49 PM,09:47 PM
 act_arr_time,2009,02:52 PM,02:50 PM
 act_arr_time,2011,empty,05:52 AM
 act_arr_time,2012,empty,12:01 AM
@@ -4489,25 +4411,23 @@ act_arr_time,2038,07:57 AM,07:59 AM
 act_arr_time,2040,06:09 PM,06:15 PM
 act_arr_time,2044,06:17 PM,05:38 PM
 act_arr_time,2045,12:48 PM,12:50 PM
+act_arr_time,2046,07:32 AM,07:40 AM
 act_arr_time,2051,09:32 AM,09:22 AM
-act_arr_time,2054,11:58 AM,11:30 AM
 act_arr_time,2056,empty,10:31 PM
-act_arr_time,2060,11:21 AM,11:11 AM
 act_arr_time,2061,empty,06:35 AM
 act_arr_time,2064,06:28 PM,06:25 PM
 act_arr_time,2065,09:14 AM,09:09 AM
 act_arr_time,2067,01:27 PM,01:11 PM
-act_arr_time,2077,09:05 AM,09:00 AM
 act_arr_time,2081,11:56 AM,11:50 AM
 act_arr_time,2082,3:20 PM (Runway),03:13 PM
-act_arr_time,2086,05:42 PM,05:22 PM
-act_arr_time,2090,02:46 PM,02:36 PM
+act_arr_time,2089,08:56 PM,09:38 PM
+act_arr_time,2092,03:33 PM,03:25 PM
 act_arr_time,2094,empty,07:25 PM
 act_arr_time,2096,empty,12:02 AM
 act_arr_time,2100,09:31 AM,09:26 AM
 act_arr_time,2101,07:55 PM,07:53 PM
+act_arr_time,2104,09:53 PM,09:47 PM
 act_arr_time,2106,10:47 AM,10:45 AM
-act_arr_time,2107,03:04 PM,02:58 PM
 act_arr_time,2111,empty,05:52 AM
 act_arr_time,2112,empty,12:01 AM
 act_arr_time,2113,empty,11:49 PM
@@ -4522,35 +4442,26 @@ act_arr_time,2128,11:45 AM,12:12 PM
 act_arr_time,2129,03:43 PM,03:36 PM
 act_arr_time,2131,11:06 AM,11:04 AM
 act_arr_time,2138,08:06 AM,07:59 AM
-act_arr_time,2146,07:40 AM,07:32 AM
 act_arr_time,2151,empty,03:31 PM
 act_arr_time,2152,empty,01:14 PM
 act_arr_time,2153,empty,11:49 PM
 act_arr_time,2154,empty,07:36 PM
 act_arr_time,2155,empty,03:13 PM
-act_arr_time,2159,11:58 AM,11:30 AM
 act_arr_time,2161,empty,10:31 PM
-act_arr_time,2165,11:21 AM,11:11 AM
 act_arr_time,2166,empty,06:35 AM
 act_arr_time,2172,01:18 PM,01:11 PM
 act_arr_time,2179,05:00 PM,04:47 PM
-act_arr_time,2182,09:05 AM,09:00 AM
 act_arr_time,2183,05:03 PM,05:05 PM
 act_arr_time,2187,03:19 PM,03:13 PM
 act_arr_time,2190,02:01 PM,02:10 PM
-act_arr_time,2191,05:42 PM,05:22 PM
 act_arr_time,2192,01:14 PM,01:15 PM
-act_arr_time,2194,09:38 PM,08:56 PM
-act_arr_time,2195,02:46 PM,02:36 PM
-act_arr_time,2197,03:25 PM,03:33 PM
 act_arr_time,2198,10:29 AM,10:36 AM
 act_arr_time,2199,empty,07:25 PM
 act_arr_time,2200,08:43 PM,08:53 PM
 act_arr_time,2201,empty,12:02 AM
 act_arr_time,2205,09:29 AM,09:26 AM
 act_arr_time,2207,06:35 PM,06:38 PM
-act_arr_time,2209,09:49 PM,09:53 PM
-act_arr_time,2212,03:04 PM,02:58 PM
+act_arr_time,2209,09:49 PM,09:47 PM
 act_arr_time,2214,02:52 PM,02:50 PM
 act_arr_time,2216,empty,05:52 AM
 act_arr_time,2217,empty,12:01 AM
@@ -4568,6 +4479,7 @@ act_arr_time,2243,07:57 AM,07:59 AM
 act_arr_time,2245,06:09 PM,06:15 PM
 act_arr_time,2249,06:17 PM,05:38 PM
 act_arr_time,2250,12:48 PM,12:50 PM
+act_arr_time,2251,07:32 AM,07:40 AM
 act_arr_time,2257,09:14 AM,09:28 AM
 act_arr_time,2258,10:24 PM,10:29 PM
 act_arr_time,2259,09:44 AM,09:43 AM
@@ -4579,20 +4491,20 @@ act_arr_time,2264,09:29 AM,09:45 AM
 act_arr_time,2265,07:37 PM,07:39 PM
 act_arr_time,2267,03:59 PM,04:09 PM
 act_arr_time,2268,01:07 PM,01:14 PM
-act_arr_time,2269,08:50 AM,09:00 AM
+act_arr_time,2269,08:50 AM,09:05 AM
 act_arr_time,2270,04:57 PM,05:05 PM
 act_arr_time,2271,10:58 AM,11:01 AM
-act_arr_time,2275,07:35 AM,07:32 AM
+act_arr_time,2275,07:35 AM,07:40 AM
 act_arr_time,2276,02:40 PM,02:50 PM
 act_arr_time,2277,03:07 PM,03:21 PM
-act_arr_time,2278,05:27 PM,05:22 PM
+act_arr_time,2278,05:27 PM,05:42 PM
 act_arr_time,2279,01:08 PM,01:15 PM
 act_arr_time,2280,07:43 PM,08:03 PM
 act_arr_time,2281,10:43 AM,11:06 AM
-act_arr_time,2282,08:46 PM,08:56 PM
+act_arr_time,2282,08:46 PM,09:38 PM
 act_arr_time,2283,02:21 PM,02:27 PM
-act_arr_time,2284,02:39 PM,02:36 PM
-act_arr_time,2285,03:26 PM,03:33 PM
+act_arr_time,2284,02:39 PM,02:46 PM
+act_arr_time,2285,03:26 PM,03:25 PM
 act_arr_time,2286,10:29 AM,10:36 AM
 act_arr_time,2288,08:38 PM,08:53 PM
 act_arr_time,2289,03:04 PM,03:16 PM
@@ -4600,7 +4512,7 @@ act_arr_time,2291,12:02 PM,12:09 PM
 act_arr_time,2292,07:49 AM,07:51 AM
 act_arr_time,2294,07:43 PM,07:53 PM
 act_arr_time,2295,06:34 PM,06:38 PM
-act_arr_time,2296,09:47 PM,09:53 PM
+act_arr_time,2297,02:58 PM,03:04 PM
 act_arr_time,2298,04:20 PM,04:23 PM
 act_arr_time,2299,04:06 PM,04:17 PM
 act_arr_time,2300,12:19 AM,12:01 AM
@@ -4621,25 +4533,21 @@ act_arr_time,2319,06:33 PM,06:36 PM
 act_arr_time,2320,06:09 AM,06:19 AM
 act_arr_time,2321,10:52 AM,11:12 AM
 act_arr_time,2322,09:32 AM,09:22 AM
-act_arr_time,2324,11:58 AM,11:30 AM
 act_arr_time,2325,10:30 PM (Estimated),10:31 PM
 act_arr_time,2326,7:25 PM (Estimated runway),07:25 PM
 act_arr_time,2327,12:21 AM (Estimated),12:02 AM
 act_arr_time,2329,6:35 AM (Estimated runway),06:35 AM
 act_arr_time,2330,06:28 PM,06:25 PM
 act_arr_time,2333,01:27 PM,01:11 PM
-act_arr_time,2335,09:05 AM,09:00 AM
 act_arr_time,2338,11:56 AM,11:50 AM
 act_arr_time,2339,08:06 AM,07:59 AM
 act_arr_time,2340,3:20 PM (runway),03:13 PM
-act_arr_time,2341,07:40 AM,07:32 AM
-act_arr_time,2346,02:46 PM,02:36 PM
 act_arr_time,2352,09:31 AM,09:26 AM
+act_arr_time,2354,09:53 PM,09:47 PM
 act_arr_time,2356,5:42 AM (Estimated runway),05:52 AM
 act_arr_time,2357,12:01 AM (Estimated runway),12:01 AM
 act_arr_time,2358,11:49 PM (Estimated runway),11:49 PM
 act_arr_time,2359,11:35 PM (Estimated runway),11:35 PM
-act_arr_time,2362,05:42 PM,05:22 PM
 act_arr_time,2363,3:29 PM (Estimated runway),03:29 PM
 act_arr_time,2364,03:43 PM,03:36 PM
 act_arr_time,2366,11:06 AM,11:04 AM

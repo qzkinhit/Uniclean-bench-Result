@@ -6,12 +6,12 @@ EDR result saved to: ./Uniclean_results/original_error_results/3_beers/3_beers_e
 Hybrid distance results saved to: ./Uniclean_results/original_error_results/3_beers/3_beers_hybrid_distance_evaluation.txt
 R-EDR result saved to: ./Uniclean_results/original_error_results/3_beers/3_beers_record_based_edr_evaluation.txt
 Results saved to: ./Uniclean_results/original_error_results/3_beers/3_beers_total_evaluation.txt
-accuracy: 0.8393177737881508
-recall: 0.8353186420488385
-f1_score: 0.8373134327858212
-edr: 0.8329362715902323
-hybrid_distance: 0.0306415634108745
-r_edr: 0.7730290456431536
+accuracy: 0.83901855176541
+recall: 0.8350208457415128
+f1_score: 0.8370149253231346
+edr: 0.8323406789755807
+hybrid_distance: 0.03119253066511199
+r_edr: 0.7726141078838175
 Cleaning Speed: 1.2966481967215768 seconds/100 records
 ===============================================================
-evaluation Time: 0.8022031784057617 seconds
+evaluation Time: 0.7661371231079102 seconds

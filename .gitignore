@@ -1,0 +1,26 @@
+# Python runtime
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / IDE noise
+.DS_Store
+.idea/
+.vscode/
+.spec-workflow/
+
+# Spark / Derby runtime artefacts
+derby.log
+*.derby.log
+metastore_db/
+
+# Local backups created during repo maintenance (e.g. pre-overwrite snapshots)
+*.backup_*
+
+# Windows-path debris from cross-machine work (literal "D:\..." filenames living in repo root)
+D:\\*
+
+# Per-run intermediate cleaning outputs (the *_runtime/ dirs created by run_clean.sh)
+Uniclean_cleaned_data/original_error_cleaned_data/*_runtime/
+Uniclean_cleaned_data/artificial_error_cleaned_data/*_runtime/

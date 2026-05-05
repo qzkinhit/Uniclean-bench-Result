@@ -2,7 +2,7 @@ Attribute: index, MSE: nan, Jaccard: 0.0
 Attribute: src, MSE: nan, Jaccard: 0.0
 Attribute: flight, MSE: nan, Jaccard: 0.0
 Attribute: sched_dep_time, MSE: nan, Jaccard: 0.01885817618186514
-Attribute: act_dep_time, MSE: nan, Jaccard: 0.7832734287060332
-Attribute: sched_arr_time, MSE: nan, Jaccard: 0.021052631578947323
-Attribute: act_arr_time, MSE: nan, Jaccard: 0.5114085125054849
-Weighted Hybrid Distance: 0.09532805349802362
+Attribute: act_dep_time, MSE: nan, Jaccard: 0.8208455436091264
+Attribute: sched_arr_time, MSE: nan, Jaccard: 0.0
+Attribute: act_arr_time, MSE: nan, Jaccard: 0.45138466220328666
+Weighted Hybrid Distance: 0.09222059871387701
