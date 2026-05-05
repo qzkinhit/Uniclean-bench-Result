@@ -1,393 +1,393 @@
 Attribute,Index,Dirty Value,Cleaned Value
-brewery_id,2540,62,1
-brewery_id,2539,62,1
-brewery_id,1847,294,386
-brewery_id,2449,95,12
-brewery_id,1408,414,382
-brewery_id,1927,267,67
-brewery_id,2079,226,365
-brewery_id,2011,141,365
-brewery_id,2587,39,68
-brewery_id,1351,423,3
-brewery_id,1834,297,166
-brewery_id,2383,120,365
-brewery_id,1571,377,456
-brewery_id,2069,184,82
-brewery_id,933,166,25
-brewery_id,661,166,25
-brewery_id,805,503,166
-brewery_id,804,503,166
-brewery_id,803,503,166
-brewery_id,787,503,166
-brewery_id,786,503,166
-brewery_id,785,503,166
-brewery_id,745,503,166
-brewery_id,744,503,166
-brewery_id,743,503,166
-brewery_id,742,503,166
-brewery_id,741,503,166
-brewery_id,734,503,166
-brewery_id,733,503,166
-brewery_id,1328,389,166
-brewery_id,1175,389,166
-brewery_id,1166,389,166
-brewery_id,1065,389,166
-brewery_id,1946,261,275
-brewery_id,1861,128,61
-brewery_id,710,386,10
-brewery_id,2580,42,41
-brewery_id,2373,43,365
-brewery_id,1995,30,365
-brewery_id,2305,163,371
-brewery_id,2405,115,60
-brewery_id,2352,138,58
-brewery_id,2421,108,103
-brewery_name,2540,Against The Grain Brewery,Against the Grain Brewery
-brewery_name,2539,Against The Grain Brewery,Against the Grain Brewery
-brewery_name,1847,Black Shirt Brewing Company,Revolution Brewing
-brewery_name,1927,Cape Cod Beer,3 Daughters Brewing
-brewery_name,2079,Chatham Brewing,Great River Brewery
-brewery_name,2011,Cigar City Brewing Company,Great River Brewery
-brewery_name,2587,Gonzo's BiggDogg Brewing,Red Shedman Farm Brewery and Hop...
-brewery_name,1351,Hess Brewing Company,Mike Hess Brewing Company
-brewery_name,1834,Hop Farm Brewing Company,Oskar Blues Brewery
-brewery_name,2383,Horny Goat Brew Pub,Great River Brewery
-brewery_name,2069,Oasis Texas Brewing Company,New Belgium Brewing Company
-brewery_name,933,Oskar Blues Brewery,Sun King Brewing Company
-brewery_name,661,Oskar Blues Brewery,Sun King Brewing Company
-brewery_name,1328,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1175,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1166,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1065,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
-brewery_name,1861,Real Ale Brewing Company,Surly Brewing Company
-brewery_name,710,Revolution Brewing,Brewery Vivant
-brewery_name,2580,Rising Tide Brewing Company,Lost Nation Brewing
-brewery_name,2373,Rivertowne Brewing Company,Great River Brewery
-brewery_name,1995,SanTan Brewing Company,Great River Brewery
-brewery_name,2405,Smartmouth Brewing Company,4 Hands Brewing Company
-brewery_name,2421,Thomas Hooker Brewing Company,Beer Works Brewery
-city,1592,San Francisco CA,San Francisco
-city,2286,Saint Louis MO,Saint Louis
-city,409,Hayward WI,Hayward
-city,1332,Denton,Denton TX
-city,429,Asheville NC,Asheville
-city,527,Detroit MI,Detroit
-city,2105,San Diego CA,San Diego
-city,1261,Duluth MN,Duluth
-city,1847,Denver,Paonia
-city,1547,Afton VA,Afton
-city,1408,Arrington,Afton
-city,798,Eagle CO,Eagle
-city,83,Denver CO,Denver
-city,2241,Grand Rapids MI,Grand Rapids
-city,1095,Tampa Bay FL,Tampa Bay
-city,66,Brooklyn NY,Brooklyn
-city,29,Reno NV,Reno
-city,2125,Houston TX,Houston
-city,2213,Oklahoma City OK,Oklahoma City
-city,794,Ashland OR,Ashland
-city,2256,Cambridge,Cambridge MA
-city,2064,Gloucester MA,Gloucester
-city,1927,Hyannis,St Petersburg
-city,782,Mooresville,Mooresville NC
-city,1940,Atlantic Highlands NJ,Atlantic Highlands
-city,1218,Edwards CO,Edwards
-city,1648,San Luis Obispo CA,San Luis Obispo
-city,1933,Charlottesville VA,Charlottesville
-city,2016,Angola IN,Angola
-city,2079,Chatham,Davenport
-city,567,Seattle,WA
-city,2011,Tampa,Davenport
-city,1138,Tampa FL,Tampa
-city,968,Des Moines IA,Des Moines
-city,1336,Springdale AR,Springdale
-city,2025,Bloomington IL,Bloomington
-city,2021,Bloomington IL,Bloomington
-city,731,Belmont CA,Belmont
-city,673,Seattle,WA
-city,1452,Boulder CO,Boulder
-city,1968,Buellton CA,Buellton
-city,2463,Paso Robles CA,Paso Robles
-city,1872,Dallas TX,Dallas
-city,1556,Frankenmuth MI,Frankenmuth
-city,1174,Seattle,WA
-city,1116,Seattle,WA
-city,994,Seattle,WA
-city,901,Seattle,WA
+brewery_id,68,62,1
+brewery_id,69,62,1
+brewery_id,284,294,386
+brewery_id,287,95,12
+brewery_id,315,414,382
+brewery_id,531,267,67
+brewery_id,591,226,365
+brewery_id,603,141,365
+brewery_id,906,39,68
+brewery_id,1044,423,3
+brewery_id,1059,297,166
+brewery_id,1099,120,365
+brewery_id,1230,377,456
+brewery_id,1517,184,82
+brewery_id,1566,166,25
+brewery_id,1574,166,25
+brewery_id,1585,503,166
+brewery_id,1586,503,166
+brewery_id,1587,503,166
+brewery_id,1588,503,166
+brewery_id,1589,503,166
+brewery_id,1590,503,166
+brewery_id,1591,503,166
+brewery_id,1592,503,166
+brewery_id,1593,503,166
+brewery_id,1594,503,166
+brewery_id,1595,503,166
+brewery_id,1596,503,166
+brewery_id,1597,503,166
+brewery_id,1600,389,166
+brewery_id,1601,389,166
+brewery_id,1602,389,166
+brewery_id,1603,389,166
+brewery_id,1605,261,275
+brewery_id,1685,128,61
+brewery_id,1715,386,10
+brewery_id,1738,42,41
+brewery_id,1745,43,365
+brewery_id,1790,30,365
+brewery_id,1899,163,371
+brewery_id,1914,115,60
+brewery_id,2029,138,58
+brewery_id,2174,108,103
+brewery_name,68,Against The Grain Brewery,Against the Grain Brewery
+brewery_name,69,Against The Grain Brewery,Against the Grain Brewery
+brewery_name,284,Black Shirt Brewing Company,Revolution Brewing
+brewery_name,531,Cape Cod Beer,3 Daughters Brewing
+brewery_name,591,Chatham Brewing,Great River Brewery
+brewery_name,603,Cigar City Brewing Company,Great River Brewery
+brewery_name,906,Gonzo's BiggDogg Brewing,Red Shedman Farm Brewery and Hop...
+brewery_name,1044,Hess Brewing Company,Mike Hess Brewing Company
+brewery_name,1059,Hop Farm Brewing Company,Oskar Blues Brewery
+brewery_name,1099,Horny Goat Brew Pub,Great River Brewery
+brewery_name,1517,Oasis Texas Brewing Company,New Belgium Brewing Company
+brewery_name,1566,Oskar Blues Brewery,Sun King Brewing Company
+brewery_name,1574,Oskar Blues Brewery,Sun King Brewing Company
+brewery_name,1600,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1601,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1602,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1603,Oskar Blues Brewery (North Carol...,Oskar Blues Brewery
+brewery_name,1685,Real Ale Brewing Company,Surly Brewing Company
+brewery_name,1715,Revolution Brewing,Brewery Vivant
+brewery_name,1738,Rising Tide Brewing Company,Lost Nation Brewing
+brewery_name,1745,Rivertowne Brewing Company,Great River Brewery
+brewery_name,1790,SanTan Brewing Company,Great River Brewery
+brewery_name,1914,Smartmouth Brewing Company,4 Hands Brewing Company
+brewery_name,2174,Thomas Hooker Brewing Company,Beer Works Brewery
+city,21,San Francisco CA,San Francisco
+city,48,Saint Louis MO,Saint Louis
+city,122,Hayward WI,Hayward
+city,136,Denton,Denton TX
+city,140,Asheville NC,Asheville
+city,156,Detroit MI,Detroit
+city,184,San Diego CA,San Diego
+city,231,Duluth MN,Duluth
+city,284,Denver,Paonia
+city,311,Afton VA,Afton
+city,315,Arrington,Afton
+city,353,Eagle CO,Eagle
+city,382,Denver CO,Denver
+city,411,Grand Rapids MI,Grand Rapids
+city,452,Tampa Bay FL,Tampa Bay
+city,462,Brooklyn NY,Brooklyn
+city,467,Reno NV,Reno
+city,473,Houston TX,Houston
+city,501,Oklahoma City OK,Oklahoma City
+city,509,Ashland OR,Ashland
+city,520,Cambridge,Cambridge MA
+city,529,Gloucester MA,Gloucester
+city,531,Hyannis,St Petersburg
+city,545,Mooresville,Mooresville NC
+city,551,Atlantic Highlands NJ,Atlantic Highlands
+city,573,Edwards CO,Edwards
+city,579,San Luis Obispo CA,San Luis Obispo
+city,585,Charlottesville VA,Charlottesville
+city,589,Angola IN,Angola
+city,591,Chatham,Davenport
+city,596,Seattle,WA
+city,603,Tampa,Davenport
+city,618,Tampa FL,Tampa
+city,643,Des Moines IA,Des Moines
+city,647,Springdale AR,Springdale
+city,716,Bloomington IL,Bloomington
+city,717,Bloomington IL,Bloomington
+city,724,Belmont CA,Belmont
+city,752,Seattle,WA
+city,780,Boulder CO,Boulder
+city,794,Buellton CA,Buellton
+city,806,Paso Robles CA,Paso Robles
+city,847,Dallas TX,Dallas
+city,865,Frankenmuth MI,Frankenmuth
 city,875,Seattle,WA
-city,858,Seattle,WA
-city,857,Seattle,WA
-city,2077,Lake Geneva WI,Lake Geneva
-city,2045,Los Angeles CA,Los Angeles
-city,1399,Los Angeles CA,Los Angeles
-city,2587,Kalamazoo,Mt. Airy
-city,1829,Chicago IL,Chicago
-city,478,Aurora IN,Aurora
-city,2646,Denver CO,Denver
-city,1857,Seattle,WA
-city,1440,Seattle,WA
-city,192,Boston MA,Boston
-city,1893,Mill Valley CA,Mill Valley
-city,889,Seattle,WA
-city,724,Seattle,WA
-city,497,Seattle,WA
-city,496,Seattle,WA
-city,1834,Pittsburgh,CO
-city,1833,Pittsburgh PA,Pittsburgh
-city,2400,Portland OR,Portland
-city,2398,Portland OR,Portland
-city,2200,Portland OR,Portland
-city,2383,Milwaukee,Davenport
-city,2671,Framingham MA,Framingham
-city,1254,Stevens Point WI,Stevens Point
-city,1235,Houston TX,Houston
-city,1348,Brooklyn NY,Brooklyn
-city,1187,Soldotna AK,Soldotna
-city,664,Albuquerque,Albuquerque NM
-city,473,Helena MT,Helena
-city,1686,York PA,York
-city,1571,Menominee,Menominie
-city,961,Portland,Portland OR
-city,1994,Cincinnati OH,Cincinnati
-city,1234,Fort Worth TX,Fort Worth
-city,1231,Fort Worth TX,Fort Worth
-city,1831,Utica NY,Utica
-city,957,Utica NY,Utica
-city,2534,Chicago IL,Chicago
-city,2279,Monroe WI,Monroe
-city,2441,San Diego,San Diego CA
-city,1459,San Diego,San Diego CA
-city,1537,Portland OR,Portland
-city,165,Myrtle Beach,Myrtle Beach SC
-city,2069,Austin,Fort Collins
-city,2302,Longmont,CO
-city,1883,Longmont,CO
-city,1859,Longmont,CO
-city,1790,Longmont,CO
-city,1752,Longmont,CO
-city,1751,Longmont,CO
-city,1750,Longmont CO,CO
-city,1444,Longmont CO,CO
-city,1252,Longmont,CO
-city,1167,Longmont,CO
-city,993,Longmont,CO
-city,992,Longmont,CO
-city,955,Longmont,CO
-city,933,Longmont,Indianapolis
-city,892,Longmont,CO
-city,828,Longmont,CO
-city,806,Longmont,CO
-city,755,Longmont,CO
-city,754,Longmont,CO
-city,726,Longmont,CO
-city,720,Longmont,CO
-city,661,Longmont,Indianapolis
-city,585,Longmont,CO
-city,565,Longmont,CO
-city,391,Longmont,CO
-city,388,Longmont,CO
-city,8,Longmont,CO
-city,7,Longmont,CO
-city,6,Longmont,CO
-city,5,Longmont,CO
-city,4,Longmont CO,CO
-city,1,Longmont,CO
-city,805,Lyons,CO
-city,804,Lyons,CO
-city,803,Lyons,CO
-city,787,Lyons CO,CO
-city,786,Lyons,CO
-city,785,Lyons,CO
-city,745,Lyons,CO
-city,744,Lyons CO,CO
-city,743,Lyons,CO
-city,742,Lyons,CO
-city,741,Lyons,CO
-city,734,Lyons,CO
-city,733,Lyons,CO
-city,1328,Brevard,CO
-city,1175,Brevard,CO
-city,1166,Brevard,CO
-city,1065,Brevard,CO
-city,1946,Waterbury,Middlebury
-city,1930,Portland ME,Portland
-city,1404,Petoskey MI,Petoskey
-city,1463,Dillon CO,Dillon
-city,399,Seattle,WA
-city,82,Seattle,WA
-city,1861,Blanco,Brooklyn Center
-city,938,Marietta GA,Marietta
-city,1176,Denver CO,Denver
-city,710,Paonia CO,Grand Rapids
-city,1851,Cincinnati OH,Cincinnati
-city,2580,Portland,East Fairfield
-city,1807,Portland ME,Portland
-city,2579,Export PA,Export
-city,2373,Export,Davenport
-city,1880,Export PA,Export
-city,2074,Rochester MI,Rochester
-city,2053,Lansdale PA,Lansdale
-city,1995,Chandler,Davenport
-city,764,Chandler AZ,Chandler
-city,1503,Seattle,WA
-city,1466,Seattle,WA
-city,1245,Seattle,WA
-city,1416,Seattle,WA
-city,1415,Seattle,WA
-city,917,Silverton,Silverton OR
-city,426,Chico CA,Chico
-city,2266,Brooklyn NY,Brooklyn
-city,1591,Brooklyn NY,Brooklyn
-city,1521,Durango CO,Durango
-city,2305,Phoenixville,Pottstown
-city,166,Pottstown PA,Pottstown
-city,2405,Norfolk,Saint Louis
-city,1447,Boise ID,Boise
-city,1152,Boise ID,Boise
-city,2267,Conroe TX,Conroe
-city,1634,Chicago IL,Chicago
-city,1344,Baltimore MD,Baltimore
-city,2352,St Paul,St. Paul
-city,2473,St. Paul MN,St. Paul
-city,2000,Indianapolis IN,Indianapolis
-city,1999,Indianapolis IN,Indianapolis
-city,1948,Indianapolis IN,Indianapolis
-city,698,Indianapolis IN,Indianapolis
-city,2409,Brooklyn Center MN,Brooklyn Center
-city,676,Manhattan KS,Manhattan
-city,2155,Evanston IL,Evanston
-city,1810,Waterbury VT,Waterbury
-city,2421,Bloomfield,Lowell
-city,121,Kearney NE,Kearney
-city,948,Evansville IN,Evansville
-city,736,Idaho Springs CO,Idaho Springs
-city,1509,Hershey PA,Hershey
+city,876,Seattle,WA
+city,877,Seattle,WA
+city,878,Seattle,WA
+city,879,Seattle,WA
+city,880,Seattle,WA
+city,881,Seattle,WA
+city,887,Lake Geneva WI,Lake Geneva
+city,891,Los Angeles CA,Los Angeles
+city,898,Los Angeles CA,Los Angeles
+city,906,Kalamazoo,Mt. Airy
+city,919,Chicago IL,Chicago
+city,941,Aurora IN,Aurora
+city,953,Denver CO,Denver
+city,1002,Seattle,WA
+city,1003,Seattle,WA
+city,1029,Boston MA,Boston
+city,1040,Mill Valley CA,Mill Valley
+city,1053,Seattle,WA
+city,1054,Seattle,WA
+city,1055,Seattle,WA
+city,1056,Seattle,WA
+city,1059,Pittsburgh,CO
+city,1060,Pittsburgh PA,Pittsburgh
+city,1076,Portland OR,Portland
+city,1078,Portland OR,Portland
+city,1089,Portland OR,Portland
+city,1099,Milwaukee,Davenport
+city,1121,Framingham MA,Framingham
+city,1138,Stevens Point WI,Stevens Point
+city,1149,Houston TX,Houston
+city,1157,Brooklyn NY,Brooklyn
+city,1159,Soldotna AK,Soldotna
+city,1189,Albuquerque,Albuquerque NM
+city,1204,Helena MT,Helena
+city,1212,York PA,York
+city,1230,Menominee,Menominie
+city,1241,Portland,Portland OR
+city,1247,Cincinnati OH,Cincinnati
+city,1285,Fort Worth TX,Fort Worth
+city,1288,Fort Worth TX,Fort Worth
+city,1289,Utica NY,Utica
+city,1295,Utica NY,Utica
+city,1343,Chicago IL,Chicago
+city,1368,Monroe WI,Monroe
+city,1376,San Diego,San Diego CA
+city,1378,San Diego,San Diego CA
+city,1431,Portland OR,Portland
+city,1482,Myrtle Beach,Myrtle Beach SC
+city,1517,Austin,Fort Collins
+city,1552,Longmont,CO
+city,1553,Longmont,CO
+city,1554,Longmont,CO
+city,1556,Longmont,CO
+city,1557,Longmont,CO
+city,1558,Longmont,CO
+city,1559,Longmont CO,CO
+city,1560,Longmont CO,CO
+city,1561,Longmont,CO
+city,1562,Longmont,CO
+city,1563,Longmont,CO
+city,1564,Longmont,CO
+city,1565,Longmont,CO
+city,1566,Longmont,Indianapolis
+city,1567,Longmont,CO
+city,1568,Longmont,CO
+city,1569,Longmont,CO
+city,1570,Longmont,CO
+city,1571,Longmont,CO
+city,1572,Longmont,CO
+city,1573,Longmont,CO
+city,1574,Longmont,Indianapolis
+city,1575,Longmont,CO
+city,1576,Longmont,CO
+city,1577,Longmont,CO
+city,1578,Longmont,CO
+city,1579,Longmont,CO
+city,1580,Longmont,CO
+city,1581,Longmont,CO
+city,1582,Longmont,CO
+city,1583,Longmont CO,CO
+city,1584,Longmont,CO
+city,1585,Lyons,CO
+city,1586,Lyons,CO
+city,1587,Lyons,CO
+city,1588,Lyons CO,CO
+city,1589,Lyons,CO
+city,1590,Lyons,CO
+city,1591,Lyons,CO
+city,1592,Lyons CO,CO
+city,1593,Lyons,CO
+city,1594,Lyons,CO
+city,1595,Lyons,CO
+city,1596,Lyons,CO
+city,1597,Lyons,CO
+city,1600,Brevard,CO
+city,1601,Brevard,CO
+city,1602,Brevard,CO
+city,1603,Brevard,CO
+city,1605,Waterbury,Middlebury
+city,1621,Portland ME,Portland
+city,1642,Petoskey MI,Petoskey
+city,1671,Dillon CO,Dillon
+city,1677,Seattle,WA
+city,1678,Seattle,WA
+city,1685,Blanco,Brooklyn Center
+city,1692,Marietta GA,Marietta
+city,1709,Denver CO,Denver
+city,1715,Paonia CO,Grand Rapids
+city,1736,Cincinnati OH,Cincinnati
+city,1738,Portland,East Fairfield
+city,1739,Portland ME,Portland
+city,1744,Export PA,Export
+city,1745,Export,Davenport
+city,1748,Export PA,Export
+city,1760,Rochester MI,Rochester
+city,1773,Lansdale PA,Lansdale
+city,1790,Chandler,Davenport
+city,1801,Chandler AZ,Chandler
+city,1819,Seattle,WA
+city,1820,Seattle,WA
+city,1821,Seattle,WA
+city,1830,Seattle,WA
+city,1831,Seattle,WA
+city,1833,Silverton,Silverton OR
+city,1852,Chico CA,Chico
+city,1861,Brooklyn NY,Brooklyn
+city,1866,Brooklyn NY,Brooklyn
+city,1884,Durango CO,Durango
+city,1899,Phoenixville,Pottstown
+city,1906,Pottstown PA,Pottstown
+city,1914,Norfolk,Saint Louis
+city,1927,Boise ID,Boise
+city,1933,Boise ID,Boise
+city,1956,Conroe TX,Conroe
+city,1980,Chicago IL,Chicago
+city,2020,Baltimore MD,Baltimore
+city,2029,St Paul,St. Paul
+city,2031,St. Paul MN,St. Paul
+city,2042,Indianapolis IN,Indianapolis
+city,2043,Indianapolis IN,Indianapolis
+city,2045,Indianapolis IN,Indianapolis
+city,2061,Indianapolis IN,Indianapolis
+city,2074,Brooklyn Center MN,Brooklyn Center
+city,2113,Manhattan KS,Manhattan
+city,2133,Evanston IL,Evanston
+city,2144,Waterbury VT,Waterbury
+city,2174,Bloomfield,Lowell
+city,2187,Kearney NE,Kearney
+city,2196,Evansville IN,Evansville
+city,2205,Idaho Springs CO,Idaho Springs
+city,2218,Hershey PA,Hershey
+city,2224,Seattle,WA
+city,2225,Seattle,WA
+city,2226,Seattle,WA
+city,2227,Seattle,WA
+city,2228,Seattle,WA
+city,2229,Seattle,WA
+city,2230,Seattle,WA
+city,2231,Seattle,WA
+city,2232,Seattle,WA
+city,2233,Seattle,WA
+city,2234,Seattle,WA
 city,2235,Seattle,WA
-city,1661,Seattle,WA
-city,1660,Seattle,WA
-city,1659,Seattle,WA
-city,1438,Seattle,WA
-city,1173,Seattle,WA
-city,560,Seattle,WA
-city,519,Seattle,WA
-city,518,Seattle,WA
-city,505,Seattle,WA
-city,482,Seattle,WA
-city,451,Seattle,WA
-city,25,Santa Cruz CA,Santa Cruz
-city,1315,Boulder CO,Boulder
-city,345,Boulder CO,Boulder
-city,1730,Meadville PA,Meadville
-city,1845,Westminster MA,Westminster
-city,740,Lake Barrington IL,Lake Barrington
-city,2253,Nellysford VA,Nellysford
-city,813,Stevensville MT,Stevensville
-city,2306,North Woodstock,North Woodstock NH
-state,1592,empty,CA
-state,2286,empty,MO
-state,409,empty,WI
-state,429,empty,NC
-state,527,empty,MI
-state,2105,empty,CA
-state,1261,empty,MN
-state,2449,MA,MI
-state,1547,empty,VA
-state,2241,empty,MI
-state,1095,empty,FL
-state,66,empty,NY
-state,29,empty,NV
-state,2125,empty,TX
-state,2213,empty,OK
-state,794,empty,OR
-state,2064,empty,MA
-state,1927,MA,FL
-state,1940,empty,NJ
-state,1648,empty,CA
-state,1933,empty,VA
-state,2016,empty,IN
-state,2079,NY,IA
-state,2011,FL,IA
-state,1138,empty,FL
-state,968,empty,IA
-state,1336,empty,AR
-state,2025,empty,IL
-state,2021,empty,IL
-state,731,empty,CA
-state,1968,empty,CA
-state,2463,empty,CA
-state,1872,empty,TX
-state,1556,empty,MI
-state,2077,empty,WI
-state,2045,empty,CA
-state,1399,empty,CA
-state,2587,MI,MD
-state,1829,empty,IL
-state,478,empty,IN
-state,192,empty,MA
-state,1893,empty,CA
-state,1833,empty,PA
-state,2400,empty,OR
-state,2398,empty,OR
-state,2200,empty,OR
-state,2383,WI,IA
-state,2671,empty,MA
-state,1254,empty,WI
-state,1235,empty,TX
-state,1348,empty,NY
-state,1187,empty,AK
-state,473,empty,MT
-state,1686,empty,PA
-state,1994,empty,OH
-state,1234,empty,TX
-state,1231,empty,TX
-state,1831,empty,NY
-state,957,empty,NY
-state,2534,empty,IL
-state,2279,empty,WI
-state,1537,empty,OR
-state,933,CO,IN
-state,661,CO,IN
-state,1930,empty,ME
-state,1404,empty,MI
-state,1861,TX,MN
-state,938,empty,GA
-state,710,empty,MI
-state,1851,empty,OH
-state,2580,ME,VT
-state,1807,empty,ME
-state,2579,empty,PA
-state,2373,PA,IA
-state,1880,empty,PA
-state,2074,empty,MI
-state,2053,empty,PA
-state,1995,AZ,IA
-state,764,empty,AZ
-state,426,empty,CA
-state,2266,empty,NY
-state,1591,empty,NY
-state,166,empty,PA
-state,2405,VA,MO
-state,1447,empty,ID
-state,1152,empty,ID
-state,2267,empty,TX
-state,1634,empty,IL
-state,1344,empty,MD
-state,2473,empty,MN
-state,2000,empty,IN
-state,1999,empty,IN
-state,1948,empty,IN
-state,698,empty,IN
-state,2409,empty,MN
-state,676,empty,KS
-state,2155,empty,IL
-state,1810,empty,VT
-state,2421,CT,MA
-state,121,empty,NE
-state,948,empty,IN
-state,1509,empty,PA
-state,25,empty,CA
-state,1730,empty,PA
-state,1845,empty,MA
-state,740,empty,IL
-state,2253,empty,VA
-state,813,empty,MT
+city,2271,Santa Cruz CA,Santa Cruz
+city,2287,Boulder CO,Boulder
+city,2294,Boulder CO,Boulder
+city,2315,Meadville PA,Meadville
+city,2320,Westminster MA,Westminster
+city,2365,Lake Barrington IL,Lake Barrington
+city,2371,Nellysford VA,Nellysford
+city,2377,Stevensville MT,Stevensville
+city,2395,North Woodstock,North Woodstock NH
+state,21,empty,CA
+state,48,empty,MO
+state,122,empty,WI
+state,140,empty,NC
+state,156,empty,MI
+state,184,empty,CA
+state,231,empty,MN
+state,287,MA,MI
+state,311,empty,VA
+state,411,empty,MI
+state,452,empty,FL
+state,462,empty,NY
+state,467,empty,NV
+state,473,empty,TX
+state,501,empty,OK
+state,509,empty,OR
+state,529,empty,MA
+state,531,MA,FL
+state,551,empty,NJ
+state,579,empty,CA
+state,585,empty,VA
+state,589,empty,IN
+state,591,NY,IA
+state,603,FL,IA
+state,618,empty,FL
+state,643,empty,IA
+state,647,empty,AR
+state,716,empty,IL
+state,717,empty,IL
+state,724,empty,CA
+state,794,empty,CA
+state,806,empty,CA
+state,847,empty,TX
+state,865,empty,MI
+state,887,empty,WI
+state,891,empty,CA
+state,898,empty,CA
+state,906,MI,MD
+state,919,empty,IL
+state,941,empty,IN
+state,1029,empty,MA
+state,1040,empty,CA
+state,1060,empty,PA
+state,1076,empty,OR
+state,1078,empty,OR
+state,1089,empty,OR
+state,1099,WI,IA
+state,1121,empty,MA
+state,1138,empty,WI
+state,1149,empty,TX
+state,1157,empty,NY
+state,1159,empty,AK
+state,1204,empty,MT
+state,1212,empty,PA
+state,1247,empty,OH
+state,1285,empty,TX
+state,1288,empty,TX
+state,1289,empty,NY
+state,1295,empty,NY
+state,1343,empty,IL
+state,1368,empty,WI
+state,1431,empty,OR
+state,1566,CO,IN
+state,1574,CO,IN
+state,1621,empty,ME
+state,1642,empty,MI
+state,1685,TX,MN
+state,1692,empty,GA
+state,1715,empty,MI
+state,1736,empty,OH
+state,1738,ME,VT
+state,1739,empty,ME
+state,1744,empty,PA
+state,1745,PA,IA
+state,1748,empty,PA
+state,1760,empty,MI
+state,1773,empty,PA
+state,1790,AZ,IA
+state,1801,empty,AZ
+state,1852,empty,CA
+state,1861,empty,NY
+state,1866,empty,NY
+state,1906,empty,PA
+state,1914,VA,MO
+state,1927,empty,ID
+state,1933,empty,ID
+state,1956,empty,TX
+state,1980,empty,IL
+state,2020,empty,MD
+state,2031,empty,MN
+state,2042,empty,IN
+state,2043,empty,IN
+state,2045,empty,IN
+state,2061,empty,IN
+state,2074,empty,MN
+state,2113,empty,KS
+state,2133,empty,IL
+state,2144,empty,VT
+state,2174,CT,MA
+state,2187,empty,NE
+state,2196,empty,IN
+state,2218,empty,PA
+state,2271,empty,CA
+state,2315,empty,PA
+state,2320,empty,MA
+state,2365,empty,IL
+state,2371,empty,VA
+state,2377,empty,MT

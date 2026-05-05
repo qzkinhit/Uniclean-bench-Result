@@ -1,16 +1,16 @@
-Attribute: index 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: index Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: src 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: src Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: flight 修复正确的数据: 0 修复错误的数据: 1651 应该修复的数据: 0
+Attribute: flight Correctly repaired data: 0 Incorrectly repaired data: 1651 Data that should be repaired: 0
 ========================================
-Attribute: sched_dep_time 修复正确的数据: 426 修复错误的数据: 248 应该修复的数据: 911
+Attribute: sched_dep_time Correctly repaired data: 426 Incorrectly repaired data: 248 Data that should be repaired: 911
 ========================================
-Attribute: act_dep_time 修复正确的数据: 725 修复错误的数据: 500 应该修复的数据: 1558
+Attribute: act_dep_time Correctly repaired data: 725 Incorrectly repaired data: 500 Data that should be repaired: 1558
 ========================================
-Attribute: sched_arr_time 修复正确的数据: 692 修复错误的数据: 807 应该修复的数据: 1100
+Attribute: sched_arr_time Correctly repaired data: 692 Incorrectly repaired data: 807 Data that should be repaired: 1100
 ========================================
-Attribute: act_arr_time 修复正确的数据: 498 修复错误的数据: 955 应该修复的数据: 1351
+Attribute: act_arr_time Correctly repaired data: 498 Incorrectly repaired data: 955 Data that should be repaired: 1351
 ========================================
-修复准确率: 0.3600430636727161
-修复召回率: 0.4758130081300813
+Repair Accuracy: 0.3600430636727161
+Repair Recall: 0.4758130081300813

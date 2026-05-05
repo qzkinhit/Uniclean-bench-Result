@@ -1,0 +1,16 @@
+Difference files saved to:
+baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_clean_vs_dirty.csv
+baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_dirty_vs_cleaned.csv
+baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_clean_vs_cleaned.csv
+EDR result saved to: baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_edr_evaluation.txt
+Hybrid distance results saved to: baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_hybrid_distance_evaluation.txt
+R-EDR result saved to: baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_record_based_edr_evaluation.txt
+Results saved to: baseline_cleaning_systems_results/original_datasets/horizon/2_flights_ori/2_flights_ori_total_evaluation.txt
+accuracy: 0.39146110056926
+recall: 0.4193089430894309
+f1_score: 0.40490677129451436
+edr: 0.11483739837398374
+hybrid_distance: 0.17822218754442495
+r_edr: -0.15336134453781514
+===============================================================
+evaluation Time: 0.628037691116333 seconds

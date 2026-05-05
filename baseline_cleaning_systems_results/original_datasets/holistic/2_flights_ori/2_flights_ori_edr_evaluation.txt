@@ -26,6 +26,6 @@ Attribute: act_arr_time
 Distance (Dirty to Clean): 1351
 Distance (Repaired to Clean): 1194
 ========================================
-总的脏数据到干净数据距离: 4920
-总的修复后数据到干净数据距离: 5471
-错误减少率 (EDR): -0.11199186991869918
+Total Distance (Dirty to Clean): 4920
+Total Distance (Repaired to Clean): 5471
+Error Drop Rate (EDR): -0.11199186991869918

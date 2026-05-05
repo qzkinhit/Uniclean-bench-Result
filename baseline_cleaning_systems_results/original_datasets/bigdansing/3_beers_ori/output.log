@@ -1,0 +1,16 @@
+Difference files saved to:
+baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_clean_vs_dirty.csv
+baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_dirty_vs_cleaned.csv
+baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_clean_vs_cleaned.csv
+EDR result saved to: baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_edr_evaluation.txt
+Hybrid distance results saved to: baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_hybrid_distance_evaluation.txt
+R-EDR result saved to: baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_record_based_edr_evaluation.txt
+Results saved to: baseline_cleaning_systems_results/original_datasets/bigdansing/3_beers_ori/3_beers_ori_total_evaluation.txt
+accuracy: 0.3628865979381443
+recall: 0.052412150089338895
+f1_score: 0.09159510796649538
+edr: -0.03960690887432996
+hybrid_distance: 0.07736740045481046
+r_edr: 0.0
+===============================================================
+evaluation Time: 0.7570021152496338 seconds

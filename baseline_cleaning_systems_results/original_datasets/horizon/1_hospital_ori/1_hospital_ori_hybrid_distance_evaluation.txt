@@ -15,8 +15,8 @@ Attribute: EmergencyService, MSE: nan, Jaccard: 0.0
 Attribute: Condition, MSE: nan, Jaccard: 0.0
 Attribute: MeasureCode, MSE: nan, Jaccard: 0.5006726201366767
 Attribute: MeasureName, MSE: nan, Jaccard: 0.06896551724137934
-�����ָ�������� Score �Ƿ�Ϊ��ֵ�ͣ�
+Check if attribute Score contains numeric data!
 Attribute: Score, MSE: nan, Jaccard: 0.21276480412597165
 Attribute: Sample, MSE: nan, Jaccard: 0.11908780284510911
 Attribute: Stateavg, MSE: nan, Jaccard: 0.43938673823141094
-��Ȩ��Ͼ���: 0.09735308536402491
+Weighted Hybrid Distance: 0.09735308536402491

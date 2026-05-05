@@ -1,26 +1,26 @@
-Attribute: index 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: index Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: id 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: id Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: article_title 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 15
+Attribute: article_title Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 15
 ========================================
-Attribute: article_language 修复正确的数据: 0 修复错误的数据: 460 应该修复的数据: 0
+Attribute: article_language Correctly repaired data: 0 Incorrectly repaired data: 460 Data that should be repaired: 0
 ========================================
-Attribute: journal_title 修复正确的数据: 0 修复错误的数据: 329 应该修复的数据: 11
+Attribute: journal_title Correctly repaired data: 0 Incorrectly repaired data: 329 Data that should be repaired: 11
 ========================================
-Attribute: journal_abbreviation 修复正确的数据: 0 修复错误的数据: 497 应该修复的数据: 0
+Attribute: journal_abbreviation Correctly repaired data: 0 Incorrectly repaired data: 498 Data that should be repaired: 0
 ========================================
-Attribute: journal_issn 修复正确的数据: 1 修复错误的数据: 357 应该修复的数据: 46
+Attribute: journal_issn Correctly repaired data: 1 Incorrectly repaired data: 357 Data that should be repaired: 46
 ========================================
-Attribute: article_jvolumn 修复正确的数据: 0 修复错误的数据: 125 应该修复的数据: 22
+Attribute: article_jvolumn Correctly repaired data: 0 Incorrectly repaired data: 125 Data that should be repaired: 22
 ========================================
-Attribute: article_jissue 修复正确的数据: 0 修复错误的数据: 55 应该修复的数据: 53
+Attribute: article_jissue Correctly repaired data: 0 Incorrectly repaired data: 55 Data that should be repaired: 53
 ========================================
-Attribute: article_jcreated_at 修复正确的数据: 0 修复错误的数据: 223 应该修复的数据: 722
+Attribute: article_jcreated_at Correctly repaired data: 0 Incorrectly repaired data: 223 Data that should be repaired: 722
 ========================================
-Attribute: article_pagination 修复正确的数据: 0 修复错误的数据: 74 应该修复的数据: 33
+Attribute: article_pagination Correctly repaired data: 0 Incorrectly repaired data: 74 Data that should be repaired: 33
 ========================================
-Attribute: author_list 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 91
+Attribute: author_list Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 91
 ========================================
-修复准确率: 0.0004714757190004715
-修复召回率: 0.0010070493454179255
+Repair Accuracy: 0.000471253534401508
+Repair Recall: 0.0010070493454179255

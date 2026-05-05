@@ -1,0 +1,16 @@
+Difference files saved to:
+baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_clean_vs_dirty.csv
+baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_dirty_vs_cleaned.csv
+baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_clean_vs_cleaned.csv
+EDR result saved to: baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_edr_evaluation.txt
+Hybrid distance results saved to: baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_hybrid_distance_evaluation.txt
+R-EDR result saved to: baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_record_based_edr_evaluation.txt
+Results saved to: baseline_cleaning_systems_results/original_datasets/holistic/4_rayyan_ori/4_rayyan_ori_total_evaluation.txt
+accuracy: 0.000471253534401508
+recall: 0.0010070493454179255
+f1_score: 0.000642054531206978
+edr: -1.9103726082578045
+hybrid_distance: 0.07574117383142275
+r_edr: -0.1798469387755102
+===============================================================
+evaluation Time: 0.37360525131225586 seconds

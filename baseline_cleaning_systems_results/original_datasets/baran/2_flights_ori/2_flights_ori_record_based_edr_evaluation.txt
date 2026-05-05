@@ -9502,6 +9502,6 @@ Record 2376
 Distance (Dirty to Clean): 0
 Distance (Repaired to Clean): 1
 ========================================
-总的脏数据到干净数据距离: 1904
-总的修复后数据到干净数据距离: 1842
-基于条目的错误减少率 (R-EDR): 0.032563025210084036
+Total Distance (Dirty to Clean): 1904
+Total Distance (Repaired to Clean): 1842
+Record-based Error Drop Rate (R-EDR): 0.032563025210084036

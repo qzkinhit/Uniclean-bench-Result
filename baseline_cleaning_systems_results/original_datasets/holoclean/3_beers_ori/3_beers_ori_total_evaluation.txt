@@ -1,9 +1,8 @@
-测试结果:
-Accuracy: 0.13988439306358383
-Recall: 0.0330872299699207
-F1 Score: 0.05351614326848578
-EDR: -0.17035821711785618
-Hybrid Distance: 0.09423100251939602
-R-EDR: 0.0
-Time: 232.16488647460938
-Speed: 9.633397779029435 seconds/100 records
+3_beers_ori Evaluation Results:
+accuracy: 0.0
+recall: 0.0
+f1_score: 0.0
+edr: -3.829064919594997
+hybrid_distance: 0.2907010169595868
+r_edr: 0.0
+Total Time: 0.0 seconds

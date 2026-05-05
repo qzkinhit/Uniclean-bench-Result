@@ -1,0 +1,16 @@
+Difference files saved to:
+baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_clean_vs_dirty.csv
+baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_dirty_vs_cleaned.csv
+baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_clean_vs_cleaned.csv
+EDR result saved to: baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_edr_evaluation.txt
+Hybrid distance results saved to: baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_hybrid_distance_evaluation.txt
+R-EDR result saved to: baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_record_based_edr_evaluation.txt
+Results saved to: baseline_cleaning_systems_results/original_datasets/horizon/3_beers_ori/3_beers_ori_total_evaluation.txt
+accuracy: 0.5025510204081632
+recall: 0.05866587254318047
+f1_score: 0.10506666664794544
+edr: 0.0026801667659321023
+hybrid_distance: 0.07219969100545066
+r_edr: 0.0
+===============================================================
+evaluation Time: 0.7318570613861084 seconds

@@ -1,24 +1,24 @@
-Attribute: index 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: index Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: id 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: id Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: beer_name 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: beer_name Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: style 修复正确的数据: 2 修复错误的数据: 0 应该修复的数据: 2
+Attribute: style Correctly repaired data: 2 Incorrectly repaired data: 0 Data that should be repaired: 2
 ========================================
-Attribute: ounces 修复正确的数据: 2366 修复错误的数据: 37 应该修复的数据: 2409
+Attribute: ounces Correctly repaired data: 2366 Incorrectly repaired data: 37 Data that should be repaired: 2409
 ========================================
-Attribute: abv 修复正确的数据: 104 修复错误的数据: 578 应该修复的数据: 692
+Attribute: abv Correctly repaired data: 104 Incorrectly repaired data: 578 Data that should be repaired: 692
 ========================================
-Attribute: ibu 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: ibu Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: brewery_id 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 1
+Attribute: brewery_id Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 1
 ========================================
-Attribute: brewery_name 修复正确的数据: 0 修复错误的数据: 0 应该修复的数据: 0
+Attribute: brewery_name Correctly repaired data: 0 Incorrectly repaired data: 0 Data that should be repaired: 0
 ========================================
-Attribute: city 修复正确的数据: 50 修复错误的数据: 4 应该修复的数据: 127
+Attribute: city Correctly repaired data: 50 Incorrectly repaired data: 4 Data that should be repaired: 127
 ========================================
-Attribute: state 修复正确的数据: 120 修复错误的数据: 6 应该修复的数据: 127
+Attribute: state Correctly repaired data: 120 Incorrectly repaired data: 6 Data that should be repaired: 127
 ========================================
-修复准确率: 0.8086929905111724
-修复召回率: 0.7867778439547349
+Repair Accuracy: 0.8086929905111724
+Repair Recall: 0.7867778439547349

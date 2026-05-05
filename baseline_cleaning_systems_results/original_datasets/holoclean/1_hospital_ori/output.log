@@ -1,0 +1,16 @@
+Difference files saved to:
+baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_clean_vs_dirty.csv
+baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_dirty_vs_cleaned.csv
+baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_clean_vs_cleaned.csv
+EDR result saved to: baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_edr_evaluation.txt
+Hybrid distance results saved to: baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_hybrid_distance_evaluation.txt
+R-EDR result saved to: baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_record_based_edr_evaluation.txt
+Results saved to: baseline_cleaning_systems_results/original_datasets/holoclean/1_hospital_ori/1_hospital_ori_total_evaluation.txt
+accuracy: 0.5054466230936819
+recall: 0.45579567779960706
+f1_score: 0.47933884292534
+edr: 0.009823182711198428
+hybrid_distance: 0.1692970794121269
+r_edr: 0.09336609336609336
+===============================================================
+evaluation Time: 0.41965794563293457 seconds

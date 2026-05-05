@@ -150,6 +150,55 @@ python3 uniclean_cleaners/main_hospitals.py \
     --missing_token ""
 ```
 
+# Comparing with Baseline Cleaning Systems
+
+This repository ships **all five baseline systems' cleaned outputs and evaluation logs in-place**, so you can do head-to-head comparisons without setting up any of them yourself:
+
+```
+baseline_cleaned_data/original_cleaned_data/
+├── baran/         <dataset>_cleaned_by_baran.csv
+├── bigdansing/    <dataset>_cleaned_by_bigdansing.csv
+├── holistic/      <dataset>_cleaned_by_holistic.csv
+├── holoclean/     <dataset>_cleaned_by_holoclean.csv
+└── horizon/       <dataset>_cleaned_by_horizon.csv
+
+baseline_cleaning_systems_logs/original_datasets/    # raw stdout/stderr from each baseline run
+baseline_cleaning_systems_results/original_datasets/<system>/<dataset>_ori/
+                                                     # per-(system, dataset) metrics, diff CSVs, evaluation .txt
+```
+
+## Re-evaluate every baseline on your machine
+
+```bash
+chmod +x run_baseline_eval.sh
+./run_baseline_eval.sh                          # all 5 systems × 4 datasets
+./run_baseline_eval.sh baran holoclean          # subset of systems (positional args)
+DATASETS="1_hospital 4_rayyan" ./run_baseline_eval.sh   # subset of datasets (env var)
+```
+
+The script feeds each baseline's cleaned CSV plus the matching `dirty_index.csv` / `clean_index.csv` into the same `evaluate_result.py` used for Uniclean. Per-(system, dataset) metrics land in `baseline_cleaning_systems_results/original_datasets/<system>/<dataset>_ori/output.log`. Column-name typos and missing `index` columns observed in some baseline outputs are auto-normalized; the original cleaned CSVs on disk are not modified.
+
+`5_tax` / `6_soccer` are skipped by default because each baseline ran on a different subset size (10k / 200k / full) — pass them explicitly via `DATASETS=...` if you have prepared the matching ground-truth subset.
+
+## EDR head-to-head (as shipped)
+
+| Dataset    | baran  | bigdansing | holistic | holoclean | horizon | **Uniclean** |
+|------------|-------:|-----------:|---------:|----------:|--------:|-------------:|
+| 1_hospital | +0.417 | −0.079     | −0.039   | +0.010    | +0.057  | **+0.788**   |
+| 2_flights  | +0.448 | −0.138     | −0.112   | −1.418    | +0.115  | **+0.519**   |
+| 3_beers    | +0.787 | −0.040     | −0.011   | −3.829    | +0.003  | **+0.832**   |
+| 4_rayyan   | −0.682 | −2.205     | −1.910   | −5.444    | −0.520  | **+0.900**   |
+
+(Negative EDR = the baseline introduces more errors than it fixes. Numbers are reproducible with `./run_baseline_eval.sh`.)
+
+## Running the actual baseline cleaning code
+
+If you want to reproduce the cleaned CSVs from scratch — i.e. **run the baseline systems themselves** end-to-end on the dirty data — see the companion repository:
+
+**[qzkinhit/MDCBaseline](https://github.com/qzkinhit/MDCBaseline)** — a unified runner for the five baseline cleaning systems (baran / bigdansing / holistic / holoclean / horizon). All baselines share a single Python environment so you can install once and run all of them; the dirty-data inputs and dataset rules are identical to the ones shipped here.
+
+After you produce a fresh cleaned CSV with MDCBaseline, you can drop it under `baseline_cleaned_data/original_cleaned_data/<system>/` (using the same naming convention) and re-run `./run_baseline_eval.sh` to score it against this benchmark.
+
 # Cleaners  Library Overview
 
 ## uniclean_cleaners/SampleScrubber
